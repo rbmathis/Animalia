@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Anabantiformes.Osphronemidae.Trichopodus;
+
+/// <summary>
+/// Species: Trichopodus trichopterus
+/// NCBI TaxId: 96903
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Trichopodus_trichopterus : Trichopodus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Trichopodus trichopterus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Trichopodus_trichopterus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 96903;
+}

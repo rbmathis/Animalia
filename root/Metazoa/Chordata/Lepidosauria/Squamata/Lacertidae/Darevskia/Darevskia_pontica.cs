@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Lepidosauria.Squamata.Lacertidae.Darevskia;
+
+/// <summary>
+/// Species: Darevskia pontica
+/// NCBI TaxId: 1592832
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Darevskia_pontica : Darevskia
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Darevskia pontica";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Darevskia_pontica";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1592832;
+}

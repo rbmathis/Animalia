@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Mammalia.Rodentia.Heteromyidae.Perognathus;
+
+/// <summary>
+/// Species: Perognathus inornatus
+/// NCBI TaxId: 38409
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Perognathus_inornatus : Perognathus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Perognathus inornatus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Perognathus_inornatus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 38409;
+}

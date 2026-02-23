@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Mammalia.Rodentia.Sciuridae.Tamiops;
+
+/// <summary>
+/// Species: Tamiops swinhoei
+/// NCBI TaxId: 226577
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Tamiops_swinhoei : Tamiops
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Tamiops swinhoei";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Tamiops_swinhoei";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 226577;
+}

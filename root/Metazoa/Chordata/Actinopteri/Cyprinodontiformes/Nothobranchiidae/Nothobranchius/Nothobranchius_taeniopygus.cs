@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cyprinodontiformes.Nothobranchiidae.Nothobranchius;
+
+/// <summary>
+/// Species: Nothobranchius taeniopygus
+/// NCBI TaxId: 1548451
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Nothobranchius_taeniopygus : Nothobranchius
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Nothobranchius taeniopygus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Nothobranchius_taeniopygus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1548451;
+}

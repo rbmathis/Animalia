@@ -1,0 +1,36 @@
+using AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Perciformes.Cryptacanthodidae;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Perciformes.Cryptacanthodidae.Cryptacanthodes;
+
+/// <summary>
+/// Abstract class for Cryptacanthodes (genus).
+/// NCBI TaxId: 433378
+/// </summary>
+public abstract class Cryptacanthodes : Cryptacanthodidae, ICryptacanthodes
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "Cryptacanthodes";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "genus";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 433378;
+
+    /// <inheritdoc />
+    public virtual string GenusName => "Cryptacanthodes";
+
+    /// <inheritdoc />
+    public virtual string[] GenusCharacteristics => new[]
+    {
+        "Large body size",
+        "Social pack structure",
+        "Complex hunting strategies",
+        "Highly developed olfaction",
+        "Territorial behavior"
+    };
+
+    /// <inheritdoc />
+    public virtual bool CanInterbreed => true;
+
+}

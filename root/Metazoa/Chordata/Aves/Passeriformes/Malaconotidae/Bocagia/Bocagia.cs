@@ -1,0 +1,36 @@
+using AnimalKingdom.root.Metazoa.Chordata.Aves.Passeriformes.Malaconotidae;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Aves.Passeriformes.Malaconotidae.Bocagia;
+
+/// <summary>
+/// Abstract class for Bocagia (genus).
+/// NCBI TaxId: 2821130
+/// </summary>
+public abstract class Bocagia : Malaconotidae, IBocagia
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "Bocagia";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "genus";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 2821130;
+
+    /// <inheritdoc />
+    public virtual string GenusName => "Bocagia";
+
+    /// <inheritdoc />
+    public virtual string[] GenusCharacteristics => new[]
+    {
+        "Large body size",
+        "Social pack structure",
+        "Complex hunting strategies",
+        "Highly developed olfaction",
+        "Territorial behavior"
+    };
+
+    /// <inheritdoc />
+    public virtual bool CanInterbreed => true;
+
+}

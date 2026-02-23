@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Lepidosauria.Squamata.Sphaerodactylidae.Pristurus;
+
+/// <summary>
+/// Species: Pristurus flavipunctatus
+/// NCBI TaxId: 706254
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Pristurus_flavipunctatus : Pristurus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Pristurus flavipunctatus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Pristurus_flavipunctatus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 706254;
+}

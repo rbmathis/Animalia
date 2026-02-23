@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Aves.Passeriformes.Passerellidae.Chlorospingus;
+
+/// <summary>
+/// Species: Chlorospingus sp. El Oro
+/// NCBI TaxId: 2856567
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Chlorospingus_sp_El_Oro : Chlorospingus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Chlorospingus sp. El Oro";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Chlorospingus_sp_El_Oro";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2856567;
+}

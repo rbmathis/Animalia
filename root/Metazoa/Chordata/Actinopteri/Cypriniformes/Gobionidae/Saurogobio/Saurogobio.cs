@@ -1,0 +1,36 @@
+using AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Gobionidae;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Gobionidae.Saurogobio;
+
+/// <summary>
+/// Abstract class for Saurogobio (genus).
+/// NCBI TaxId: 172915
+/// </summary>
+public abstract class Saurogobio : Gobionidae, ISaurogobio
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "Saurogobio";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "genus";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 172915;
+
+    /// <inheritdoc />
+    public virtual string GenusName => "Saurogobio";
+
+    /// <inheritdoc />
+    public virtual string[] GenusCharacteristics => new[]
+    {
+        "Large body size",
+        "Social pack structure",
+        "Complex hunting strategies",
+        "Highly developed olfaction",
+        "Territorial behavior"
+    };
+
+    /// <inheritdoc />
+    public virtual bool CanInterbreed => true;
+
+}

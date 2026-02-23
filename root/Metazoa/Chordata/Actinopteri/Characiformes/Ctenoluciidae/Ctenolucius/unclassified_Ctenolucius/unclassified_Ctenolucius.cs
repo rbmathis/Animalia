@@ -1,0 +1,22 @@
+using AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Characiformes.Ctenoluciidae.Ctenolucius;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Characiformes.Ctenoluciidae.Ctenolucius.unclassified_Ctenolucius;
+
+/// <summary>
+/// Abstract class for unclassified Ctenolucius (no rank).
+/// NCBI TaxId: 2631266
+/// </summary>
+public abstract class unclassified_Ctenolucius : Ctenolucius, Iunclassified_Ctenolucius
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "unclassified Ctenolucius";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "no rank";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 2631266;
+
+    /// <inheritdoc />
+    public virtual string Description => "Taxon: unclassified_Ctenolucius";
+}

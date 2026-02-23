@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>AnimalKingdom.Pachypterus</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="**/*/**/*.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bagridae.csproj" />
+  </ItemGroup>
+</Project>

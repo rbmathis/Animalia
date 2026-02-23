@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Nemacheilidae.Nemacheilus;
+
+/// <summary>
+/// Species: Nemacheilus sp. Katingan
+/// NCBI TaxId: 2820315
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Nemacheilus_sp_Katingan : Nemacheilus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Nemacheilus sp. Katingan";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Nemacheilus_sp_Katingan";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2820315;
+}

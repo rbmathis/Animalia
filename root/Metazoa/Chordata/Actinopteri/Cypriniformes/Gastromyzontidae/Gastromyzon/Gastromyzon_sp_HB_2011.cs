@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Gastromyzontidae.Gastromyzon;
+
+/// <summary>
+/// Species: Gastromyzon sp. HB-2011
+/// NCBI TaxId: 1081677
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Gastromyzon_sp_HB_2011 : Gastromyzon
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Gastromyzon sp. HB-2011";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Gastromyzon_sp_HB_2011";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1081677;
+}

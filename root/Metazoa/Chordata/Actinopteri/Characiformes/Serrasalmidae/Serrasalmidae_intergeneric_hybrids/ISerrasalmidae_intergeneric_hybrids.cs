@@ -1,0 +1,10 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Characiformes.Serrasalmidae.Serrasalmidae_intergeneric_hybrids;
+
+/// <summary>
+/// Interface defining characteristics of Serrasalmidae_intergeneric_hybrids (no rank).
+/// </summary>
+public interface ISerrasalmidae_intergeneric_hybrids
+{
+    /// <summary>Gets the description of this taxon.</summary>
+    string Description { get; }
+}

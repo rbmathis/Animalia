@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Danionidae.Amblypharyngodon;
+
+/// <summary>
+/// Species: Amblypharyngodon sp. GDK025-11
+/// NCBI TaxId: 1220005
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Amblypharyngodon_sp_GDK025_11 : Amblypharyngodon
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Amblypharyngodon sp. GDK025-11";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Amblypharyngodon_sp_GDK025_11";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1220005;
+}

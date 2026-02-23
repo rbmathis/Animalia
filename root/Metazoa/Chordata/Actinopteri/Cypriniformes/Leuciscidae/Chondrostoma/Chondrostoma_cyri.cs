@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Leuciscidae.Chondrostoma;
+
+/// <summary>
+/// Species: Chondrostoma cyri
+/// NCBI TaxId: 442640
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Chondrostoma_cyri : Chondrostoma
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Chondrostoma cyri";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Chondrostoma_cyri";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 442640;
+}

@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Siluriformes.Callichthyidae.Hoplisoma;
+
+/// <summary>
+/// Species: Hoplisoma melanistium
+/// NCBI TaxId: 927907
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Hoplisoma_melanistium : Hoplisoma
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Hoplisoma melanistium";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Hoplisoma_melanistium";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 927907;
+}

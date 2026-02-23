@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Characiformes.Characidae.Characidae_incertae_sedis.Schultzites;
+
+/// <summary>
+/// Species: Schultzites sp. LO-2019
+/// NCBI TaxId: 2608224
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Schultzites_sp_LO_2019 : Schultzites
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Schultzites sp. LO-2019";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Schultzites_sp_LO_2019";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2608224;
+}

@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Osmeriformes.Retropinnidae.Retropinna;
+
+/// <summary>
+/// Species: Retropinna semoni
+/// NCBI TaxId: 182228
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Retropinna_semoni : Retropinna
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Retropinna semoni";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Retropinna_semoni";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 182228;
+}

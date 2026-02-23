@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Centrarchiformes.Sinipercidae.Siniperca;
+
+/// <summary>
+/// Species: Siniperca fortis
+/// NCBI TaxId: 358387
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Siniperca_fortis : Siniperca
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Siniperca fortis";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Siniperca_fortis";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 358387;
+}

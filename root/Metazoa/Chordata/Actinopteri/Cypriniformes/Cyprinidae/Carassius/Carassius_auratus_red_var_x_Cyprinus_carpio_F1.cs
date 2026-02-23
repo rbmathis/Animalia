@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Cyprinidae.Carassius;
+
+/// <summary>
+/// Species: Carassius auratus red var. x Cyprinus carpio F1
+/// NCBI TaxId: 2662768
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Carassius_auratus_red_var_x_Cyprinus_carpio_F1 : Carassius
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Carassius auratus red var. x Cyprinus carpio F1";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Carassius_auratus_red_var_x_Cyprinus_carpio_F1";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2662768;
+}

@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Uranoscopiformes.Uranoscopidae.Xenocephalus;
+
+/// <summary>
+/// Species: Xenocephalus cribratus
+/// NCBI TaxId: 2578365
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Xenocephalus_cribratus : Xenocephalus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Xenocephalus cribratus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Xenocephalus_cribratus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2578365;
+}

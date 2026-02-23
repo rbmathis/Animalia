@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Testudines.Testudinidae.Gopherus;
+
+/// <summary>
+/// Species: Gopherus morafkai
+/// NCBI TaxId: 1644094
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Gopherus_morafkai : Gopherus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Gopherus morafkai";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Gopherus_morafkai";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1644094;
+}

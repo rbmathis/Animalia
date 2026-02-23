@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Amphibia.Anura.Centrolenidae.Rulyrana;
+
+/// <summary>
+/// Species: Rulyrana adiazeta
+/// NCBI TaxId: 526137
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Rulyrana_adiazeta : Rulyrana
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Rulyrana adiazeta";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Rulyrana_adiazeta";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 526137;
+}

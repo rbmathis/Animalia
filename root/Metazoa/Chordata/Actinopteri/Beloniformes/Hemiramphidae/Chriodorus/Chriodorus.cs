@@ -1,0 +1,36 @@
+using AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Beloniformes.Hemiramphidae;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Beloniformes.Hemiramphidae.Chriodorus;
+
+/// <summary>
+/// Abstract class for Chriodorus (genus).
+/// NCBI TaxId: 129039
+/// </summary>
+public abstract class Chriodorus : Hemiramphidae, IChriodorus
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "Chriodorus";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "genus";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 129039;
+
+    /// <inheritdoc />
+    public virtual string GenusName => "Chriodorus";
+
+    /// <inheritdoc />
+    public virtual string[] GenusCharacteristics => new[]
+    {
+        "Large body size",
+        "Social pack structure",
+        "Complex hunting strategies",
+        "Highly developed olfaction",
+        "Territorial behavior"
+    };
+
+    /// <inheritdoc />
+    public virtual bool CanInterbreed => true;
+
+}

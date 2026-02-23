@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Cyprinidae.Garra;
+
+/// <summary>
+/// Species: Garra notata
+/// NCBI TaxId: 2686239
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Garra_notata : Garra
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Garra notata";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Garra_notata";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2686239;
+}

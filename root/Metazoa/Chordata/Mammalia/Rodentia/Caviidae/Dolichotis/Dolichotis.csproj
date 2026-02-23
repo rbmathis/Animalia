@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>AnimalKingdom.Dolichotis</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="**/*/**/*.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Caviidae.csproj" />
+  </ItemGroup>
+</Project>

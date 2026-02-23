@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Aves.Passeriformes.Conopophagidae.Conopophaga;
+
+/// <summary>
+/// Species: Conopophaga cearae
+/// NCBI TaxId: 1521546
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Conopophaga_cearae : Conopophaga
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Conopophaga cearae";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Conopophaga_cearae";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1521546;
+}

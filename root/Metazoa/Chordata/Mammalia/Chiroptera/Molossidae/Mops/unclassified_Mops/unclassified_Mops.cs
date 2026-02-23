@@ -1,0 +1,22 @@
+using AnimalKingdom.root.Metazoa.Chordata.Mammalia.Chiroptera.Molossidae.Mops;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Mammalia.Chiroptera.Molossidae.Mops.unclassified_Mops;
+
+/// <summary>
+/// Abstract class for unclassified Mops (no rank).
+/// NCBI TaxId: 2632858
+/// </summary>
+public abstract class unclassified_Mops : Mops, Iunclassified_Mops
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "unclassified Mops";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "no rank";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 2632858;
+
+    /// <inheritdoc />
+    public virtual string Description => "Taxon: unclassified_Mops";
+}

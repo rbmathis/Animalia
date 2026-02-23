@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Osmeriformes.Salangidae.Salanx;
+
+/// <summary>
+/// Species: Salanx chinensis
+/// NCBI TaxId: 350768
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Salanx_chinensis : Salanx
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Salanx chinensis";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Salanx_chinensis";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 350768;
+}

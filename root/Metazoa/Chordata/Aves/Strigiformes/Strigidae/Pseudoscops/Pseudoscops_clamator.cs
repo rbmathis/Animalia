@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Aves.Strigiformes.Strigidae.Pseudoscops;
+
+/// <summary>
+/// Species: Pseudoscops clamator
+/// NCBI TaxId: 555335
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Pseudoscops_clamator : Pseudoscops
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Pseudoscops clamator";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Pseudoscops_clamator";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 555335;
+}

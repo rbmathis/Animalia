@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Kurtiformes.Apogonidae.Cercamia;
+
+/// <summary>
+/// Species: Cercamia eremia
+/// NCBI TaxId: 638234
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Cercamia_eremia : Cercamia
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Cercamia eremia";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Cercamia_eremia";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 638234;
+}

@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Mammalia.Didelphimorphia.Didelphidae.Monodelphis;
+
+/// <summary>
+/// Species: Monodelphis dimidiata
+/// NCBI TaxId: 433365
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Monodelphis_dimidiata : Monodelphis
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Monodelphis dimidiata";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Monodelphis_dimidiata";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 433365;
+}

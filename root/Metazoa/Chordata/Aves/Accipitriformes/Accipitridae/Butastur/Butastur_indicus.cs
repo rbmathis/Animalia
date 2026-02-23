@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Aves.Accipitriformes.Accipitridae.Butastur;
+
+/// <summary>
+/// Species: Butastur indicus
+/// NCBI TaxId: 335207
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Butastur_indicus : Butastur
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Butastur indicus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Butastur_indicus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 335207;
+}

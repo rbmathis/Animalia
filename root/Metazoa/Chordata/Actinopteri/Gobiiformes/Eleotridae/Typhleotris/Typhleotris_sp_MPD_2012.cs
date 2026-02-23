@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Gobiiformes.Eleotridae.Typhleotris;
+
+/// <summary>
+/// Species: Typhleotris sp. MPD-2012
+/// NCBI TaxId: 1230369
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Typhleotris_sp_MPD_2012 : Typhleotris
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Typhleotris sp. MPD-2012";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Typhleotris_sp_MPD_2012";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1230369;
+}

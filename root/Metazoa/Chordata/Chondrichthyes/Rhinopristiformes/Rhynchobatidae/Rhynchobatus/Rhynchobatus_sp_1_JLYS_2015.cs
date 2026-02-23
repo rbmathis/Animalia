@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Chondrichthyes.Rhinopristiformes.Rhynchobatidae.Rhynchobatus;
+
+/// <summary>
+/// Species: Rhynchobatus sp. 1 JLYS-2015
+/// NCBI TaxId: 1597961
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Rhynchobatus_sp_1_JLYS_2015 : Rhynchobatus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Rhynchobatus sp. 1 JLYS-2015";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Rhynchobatus_sp_1_JLYS_2015";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1597961;
+}

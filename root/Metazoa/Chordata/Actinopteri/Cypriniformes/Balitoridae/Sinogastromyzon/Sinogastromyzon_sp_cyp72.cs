@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Balitoridae.Sinogastromyzon;
+
+/// <summary>
+/// Species: Sinogastromyzon sp. cyp72
+/// NCBI TaxId: 1778167
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Sinogastromyzon_sp_cyp72 : Sinogastromyzon
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Sinogastromyzon sp. cyp72";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Sinogastromyzon_sp_cyp72";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1778167;
+}

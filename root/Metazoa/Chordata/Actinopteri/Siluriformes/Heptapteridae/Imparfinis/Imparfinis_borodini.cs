@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Siluriformes.Heptapteridae.Imparfinis;
+
+/// <summary>
+/// Species: Imparfinis borodini
+/// NCBI TaxId: 2517882
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Imparfinis_borodini : Imparfinis
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Imparfinis borodini";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Imparfinis_borodini";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2517882;
+}

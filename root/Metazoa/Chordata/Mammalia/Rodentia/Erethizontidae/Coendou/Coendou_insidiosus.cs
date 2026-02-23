@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Mammalia.Rodentia.Erethizontidae.Coendou;
+
+/// <summary>
+/// Species: Coendou insidiosus
+/// NCBI TaxId: 190504
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Coendou_insidiosus : Coendou
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Coendou insidiosus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Coendou_insidiosus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 190504;
+}

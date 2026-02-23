@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Aves.Pterocliformes.Pteroclidae.Pterocles;
+
+/// <summary>
+/// Species: Pterocles gutturalis
+/// NCBI TaxId: 240206
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Pterocles_gutturalis : Pterocles
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Pterocles gutturalis";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Pterocles_gutturalis";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 240206;
+}

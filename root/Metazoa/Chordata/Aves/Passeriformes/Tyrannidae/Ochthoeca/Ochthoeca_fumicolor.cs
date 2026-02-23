@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Aves.Passeriformes.Tyrannidae.Ochthoeca;
+
+/// <summary>
+/// Species: Ochthoeca fumicolor
+/// NCBI TaxId: 2338516
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Ochthoeca_fumicolor : Ochthoeca
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Ochthoeca fumicolor";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Ochthoeca_fumicolor";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2338516;
+}

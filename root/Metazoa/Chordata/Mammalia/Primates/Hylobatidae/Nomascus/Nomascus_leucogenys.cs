@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Mammalia.Primates.Hylobatidae.Nomascus;
+
+/// <summary>
+/// Species: Nomascus leucogenys
+/// NCBI TaxId: 61853
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Nomascus_leucogenys : Nomascus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Nomascus leucogenys";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Nomascus_leucogenys";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 61853;
+}

@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Lepidosauria.Squamata.Homalopsidae.Enhydris;
+
+/// <summary>
+/// Species: Enhydris longicauda
+/// NCBI TaxId: 445409
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Enhydris_longicauda : Enhydris
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Enhydris longicauda";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Enhydris_longicauda";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 445409;
+}

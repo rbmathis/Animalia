@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Aves.Trogoniformes.Trogonidae.Harpactes;
+
+/// <summary>
+/// Species: Harpactes fasciatus
+/// NCBI TaxId: 932689
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Harpactes_fasciatus : Harpactes
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Harpactes fasciatus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Harpactes_fasciatus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 932689;
+}

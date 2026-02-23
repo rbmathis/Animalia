@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Gadiformes.Macrouridae.Coelorinchus;
+
+/// <summary>
+/// Species: Coelorinchus productus
+/// NCBI TaxId: 658252
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Coelorinchus_productus : Coelorinchus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Coelorinchus productus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Coelorinchus_productus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 658252;
+}

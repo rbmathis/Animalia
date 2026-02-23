@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Mammalia.Primates.Pitheciidae.Plecturocebus;
+
+/// <summary>
+/// Species: Plecturocebus toppini
+/// NCBI TaxId: 3370601
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Plecturocebus_toppini : Plecturocebus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Plecturocebus toppini";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Plecturocebus_toppini";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 3370601;
+}

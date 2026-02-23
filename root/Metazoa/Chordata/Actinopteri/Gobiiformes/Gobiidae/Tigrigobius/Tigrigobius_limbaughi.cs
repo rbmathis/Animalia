@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Gobiiformes.Gobiidae.Tigrigobius;
+
+/// <summary>
+/// Species: Tigrigobius limbaughi
+/// NCBI TaxId: 203334
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Tigrigobius_limbaughi : Tigrigobius
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Tigrigobius limbaughi";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Tigrigobius_limbaughi";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 203334;
+}

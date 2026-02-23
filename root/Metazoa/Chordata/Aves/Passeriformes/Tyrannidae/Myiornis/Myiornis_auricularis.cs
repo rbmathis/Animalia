@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Aves.Passeriformes.Tyrannidae.Myiornis;
+
+/// <summary>
+/// Species: Myiornis auricularis
+/// NCBI TaxId: 478613
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Myiornis_auricularis : Myiornis
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Myiornis auricularis";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Myiornis_auricularis";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 478613;
+}

@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Blenniiformes.Clinidae.Heteroclinus;
+
+/// <summary>
+/// Species: Heteroclinus kuiteri
+/// NCBI TaxId: 1385634
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Heteroclinus_kuiteri : Heteroclinus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Heteroclinus kuiteri";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Heteroclinus_kuiteri";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1385634;
+}

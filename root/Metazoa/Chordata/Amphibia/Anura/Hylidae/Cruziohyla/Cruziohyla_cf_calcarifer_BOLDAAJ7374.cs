@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Amphibia.Anura.Hylidae.Cruziohyla;
+
+/// <summary>
+/// Species: Cruziohyla cf. calcarifer BOLD:AAJ7374
+/// NCBI TaxId: 611316
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Cruziohyla_cf_calcarifer_BOLDAAJ7374 : Cruziohyla
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Cruziohyla cf. calcarifer BOLD:AAJ7374";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Cruziohyla_cf_calcarifer_BOLDAAJ7374";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 611316;
+}

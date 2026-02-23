@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Gobiiformes.Gobiidae.Cryptocentrus;
+
+/// <summary>
+/// Species: Cryptocentrus nigrocellatus
+/// NCBI TaxId: 622405
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Cryptocentrus_nigrocellatus : Cryptocentrus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Cryptocentrus nigrocellatus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Cryptocentrus_nigrocellatus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 622405;
+}

@@ -1,0 +1,22 @@
+using AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Beryciformes.Melamphaidae.Scopeloberyx;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Beryciformes.Melamphaidae.Scopeloberyx.unclassified_Scopeloberyx;
+
+/// <summary>
+/// Abstract class for unclassified Scopeloberyx (no rank).
+/// NCBI TaxId: 2639018
+/// </summary>
+public abstract class unclassified_Scopeloberyx : Scopeloberyx, Iunclassified_Scopeloberyx
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "unclassified Scopeloberyx";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "no rank";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 2639018;
+
+    /// <inheritdoc />
+    public virtual string Description => "Taxon: unclassified_Scopeloberyx";
+}

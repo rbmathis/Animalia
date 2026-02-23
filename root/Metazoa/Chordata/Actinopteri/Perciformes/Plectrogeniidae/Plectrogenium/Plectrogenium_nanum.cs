@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Perciformes.Plectrogeniidae.Plectrogenium;
+
+/// <summary>
+/// Species: Plectrogenium nanum
+/// NCBI TaxId: 274734
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Plectrogenium_nanum : Plectrogenium
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Plectrogenium nanum";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Plectrogenium_nanum";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 274734;
+}

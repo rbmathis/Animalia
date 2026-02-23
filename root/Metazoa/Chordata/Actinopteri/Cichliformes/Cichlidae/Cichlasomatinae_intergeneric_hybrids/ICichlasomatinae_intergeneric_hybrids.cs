@@ -1,0 +1,10 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cichliformes.Cichlidae.Cichlasomatinae_intergeneric_hybrids;
+
+/// <summary>
+/// Interface defining characteristics of Cichlasomatinae_intergeneric_hybrids (no rank).
+/// </summary>
+public interface ICichlasomatinae_intergeneric_hybrids
+{
+    /// <summary>Gets the description of this taxon.</summary>
+    string Description { get; }
+}

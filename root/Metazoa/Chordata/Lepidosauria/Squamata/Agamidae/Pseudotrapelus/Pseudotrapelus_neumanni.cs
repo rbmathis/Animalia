@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Lepidosauria.Squamata.Agamidae.Pseudotrapelus;
+
+/// <summary>
+/// Species: Pseudotrapelus neumanni
+/// NCBI TaxId: 1778574
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Pseudotrapelus_neumanni : Pseudotrapelus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Pseudotrapelus neumanni";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Pseudotrapelus_neumanni";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1778574;
+}

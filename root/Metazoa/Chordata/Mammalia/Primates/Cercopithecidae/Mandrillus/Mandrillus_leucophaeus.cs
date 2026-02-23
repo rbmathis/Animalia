@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Mammalia.Primates.Cercopithecidae.Mandrillus;
+
+/// <summary>
+/// Species: Mandrillus leucophaeus
+/// NCBI TaxId: 9568
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Mandrillus_leucophaeus : Mandrillus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Mandrillus leucophaeus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Mandrillus_leucophaeus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 9568;
+}

@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Amphibia.Anura.Bufonidae.Rhinella;
+
+/// <summary>
+/// Species: Rhinella bernardoi
+/// NCBI TaxId: 1646513
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Rhinella_bernardoi : Rhinella
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Rhinella bernardoi";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Rhinella_bernardoi";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1646513;
+}

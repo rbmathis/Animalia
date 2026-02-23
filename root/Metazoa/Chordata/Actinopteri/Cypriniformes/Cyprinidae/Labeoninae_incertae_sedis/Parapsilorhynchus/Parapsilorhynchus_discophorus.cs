@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Cyprinidae.Labeoninae_incertae_sedis.Parapsilorhynchus;
+
+/// <summary>
+/// Species: Parapsilorhynchus discophorus
+/// NCBI TaxId: 1982130
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Parapsilorhynchus_discophorus : Parapsilorhynchus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Parapsilorhynchus discophorus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Parapsilorhynchus_discophorus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1982130;
+}

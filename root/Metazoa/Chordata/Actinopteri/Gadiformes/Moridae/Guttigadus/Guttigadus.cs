@@ -1,0 +1,36 @@
+using AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Gadiformes.Moridae;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Gadiformes.Moridae.Guttigadus;
+
+/// <summary>
+/// Abstract class for Guttigadus (genus).
+/// NCBI TaxId: 473340
+/// </summary>
+public abstract class Guttigadus : Moridae, IGuttigadus
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "Guttigadus";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "genus";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 473340;
+
+    /// <inheritdoc />
+    public virtual string GenusName => "Guttigadus";
+
+    /// <inheritdoc />
+    public virtual string[] GenusCharacteristics => new[]
+    {
+        "Large body size",
+        "Social pack structure",
+        "Complex hunting strategies",
+        "Highly developed olfaction",
+        "Territorial behavior"
+    };
+
+    /// <inheritdoc />
+    public virtual bool CanInterbreed => true;
+
+}

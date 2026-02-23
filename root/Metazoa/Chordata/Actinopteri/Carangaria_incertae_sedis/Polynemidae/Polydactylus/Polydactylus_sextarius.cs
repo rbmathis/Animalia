@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Carangaria_incertae_sedis.Polynemidae.Polydactylus;
+
+/// <summary>
+/// Species: Polydactylus sextarius
+/// NCBI TaxId: 435218
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Polydactylus_sextarius : Polydactylus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Polydactylus sextarius";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Polydactylus_sextarius";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 435218;
+}

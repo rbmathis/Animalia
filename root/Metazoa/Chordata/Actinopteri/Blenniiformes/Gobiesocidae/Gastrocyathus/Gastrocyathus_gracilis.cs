@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Blenniiformes.Gobiesocidae.Gastrocyathus;
+
+/// <summary>
+/// Species: Gastrocyathus gracilis
+/// NCBI TaxId: 2740780
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Gastrocyathus_gracilis : Gastrocyathus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Gastrocyathus gracilis";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Gastrocyathus_gracilis";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2740780;
+}

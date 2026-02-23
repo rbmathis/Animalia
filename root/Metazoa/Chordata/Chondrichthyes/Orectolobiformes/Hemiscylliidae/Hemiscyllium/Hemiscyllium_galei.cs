@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Chondrichthyes.Orectolobiformes.Hemiscylliidae.Hemiscyllium;
+
+/// <summary>
+/// Species: Hemiscyllium galei
+/// NCBI TaxId: 2492913
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Hemiscyllium_galei : Hemiscyllium
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Hemiscyllium galei";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Hemiscyllium_galei";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2492913;
+}

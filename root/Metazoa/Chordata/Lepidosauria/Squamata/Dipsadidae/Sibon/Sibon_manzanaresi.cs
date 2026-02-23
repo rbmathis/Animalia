@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Lepidosauria.Squamata.Dipsadidae.Sibon;
+
+/// <summary>
+/// Species: Sibon manzanaresi
+/// NCBI TaxId: 1212726
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Sibon_manzanaresi : Sibon
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Sibon manzanaresi";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Sibon_manzanaresi";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1212726;
+}

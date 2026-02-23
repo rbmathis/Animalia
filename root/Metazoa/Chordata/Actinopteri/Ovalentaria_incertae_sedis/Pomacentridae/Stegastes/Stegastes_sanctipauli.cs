@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Ovalentaria_incertae_sedis.Pomacentridae.Stegastes;
+
+/// <summary>
+/// Species: Stegastes sanctipauli
+/// NCBI TaxId: 1569789
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Stegastes_sanctipauli : Stegastes
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Stegastes sanctipauli";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Stegastes_sanctipauli";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1569789;
+}

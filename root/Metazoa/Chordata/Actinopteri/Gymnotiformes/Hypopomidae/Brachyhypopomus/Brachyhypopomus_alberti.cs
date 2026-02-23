@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Gymnotiformes.Hypopomidae.Brachyhypopomus;
+
+/// <summary>
+/// Species: Brachyhypopomus alberti
+/// NCBI TaxId: 1909755
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Brachyhypopomus_alberti : Brachyhypopomus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Brachyhypopomus alberti";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Brachyhypopomus_alberti";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1909755;
+}

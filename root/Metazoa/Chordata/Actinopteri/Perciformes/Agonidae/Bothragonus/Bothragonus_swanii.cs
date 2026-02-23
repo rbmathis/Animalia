@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Perciformes.Agonidae.Bothragonus;
+
+/// <summary>
+/// Species: Bothragonus swanii
+/// NCBI TaxId: 1154617
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Bothragonus_swanii : Bothragonus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Bothragonus swanii";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Bothragonus_swanii";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1154617;
+}

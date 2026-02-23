@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Lepidosauria.Squamata.Elapidae.Micrurus;
+
+/// <summary>
+/// Species: Micrurus tschudii
+/// NCBI TaxId: 2527855
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Micrurus_tschudii : Micrurus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Micrurus tschudii";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Micrurus_tschudii";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2527855;
+}

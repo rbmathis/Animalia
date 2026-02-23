@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Tetraodontiformes.Ostraciidae.Lactoria;
+
+/// <summary>
+/// Species: Lactoria diaphana
+/// NCBI TaxId: 319757
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Lactoria_diaphana : Lactoria
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Lactoria diaphana";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Lactoria_diaphana";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 319757;
+}

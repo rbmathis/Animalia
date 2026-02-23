@@ -1,0 +1,36 @@
+using AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Scombriformes.Trichiuridae;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Scombriformes.Trichiuridae.Eupleurogrammus;
+
+/// <summary>
+/// Abstract class for Eupleurogrammus (genus).
+/// NCBI TaxId: 223646
+/// </summary>
+public abstract class Eupleurogrammus : Trichiuridae, IEupleurogrammus
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "Eupleurogrammus";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "genus";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 223646;
+
+    /// <inheritdoc />
+    public virtual string GenusName => "Eupleurogrammus";
+
+    /// <inheritdoc />
+    public virtual string[] GenusCharacteristics => new[]
+    {
+        "Large body size",
+        "Social pack structure",
+        "Complex hunting strategies",
+        "Highly developed olfaction",
+        "Territorial behavior"
+    };
+
+    /// <inheritdoc />
+    public virtual bool CanInterbreed => true;
+
+}

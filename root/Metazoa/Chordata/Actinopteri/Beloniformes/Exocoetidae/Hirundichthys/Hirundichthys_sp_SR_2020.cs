@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Beloniformes.Exocoetidae.Hirundichthys;
+
+/// <summary>
+/// Species: Hirundichthys sp. SR-2020
+/// NCBI TaxId: 2725573
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Hirundichthys_sp_SR_2020 : Hirundichthys
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Hirundichthys sp. SR-2020";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Hirundichthys_sp_SR_2020";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2725573;
+}

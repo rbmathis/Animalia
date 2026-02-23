@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Mammalia.Artiodactyla.Bovidae.Capra;
+
+/// <summary>
+/// Species: Capra ibex
+/// NCBI TaxId: 72542
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Capra_ibex : Capra
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Capra ibex";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Capra_ibex";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 72542;
+}

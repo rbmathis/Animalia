@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Siluriformes.Pimelodidae.Pseudoplatystoma;
+
+/// <summary>
+/// Species: Pseudoplatystoma punctifer
+/// NCBI TaxId: 645124
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Pseudoplatystoma_punctifer : Pseudoplatystoma
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Pseudoplatystoma punctifer";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Pseudoplatystoma_punctifer";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 645124;
+}

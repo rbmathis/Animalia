@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Mammalia.Didelphimorphia.Didelphidae.Marmosops;
+
+/// <summary>
+/// Species: Marmosops invictus
+/// NCBI TaxId: 461409
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Marmosops_invictus : Marmosops
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Marmosops invictus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Marmosops_invictus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 461409;
+}

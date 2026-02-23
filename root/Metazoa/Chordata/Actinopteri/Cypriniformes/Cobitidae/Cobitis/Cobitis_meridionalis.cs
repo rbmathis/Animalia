@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Cobitidae.Cobitis;
+
+/// <summary>
+/// Species: Cobitis meridionalis
+/// NCBI TaxId: 134595
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Cobitis_meridionalis : Cobitis
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Cobitis meridionalis";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Cobitis_meridionalis";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 134595;
+}

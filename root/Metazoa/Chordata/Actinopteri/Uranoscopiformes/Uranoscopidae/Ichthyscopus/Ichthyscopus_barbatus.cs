@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Uranoscopiformes.Uranoscopidae.Ichthyscopus;
+
+/// <summary>
+/// Species: Ichthyscopus barbatus
+/// NCBI TaxId: 2578292
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Ichthyscopus_barbatus : Ichthyscopus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Ichthyscopus barbatus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Ichthyscopus_barbatus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2578292;
+}

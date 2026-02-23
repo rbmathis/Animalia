@@ -1,0 +1,36 @@
+using AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Characiformes.Hepsetidae;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Characiformes.Hepsetidae.Hepsetus;
+
+/// <summary>
+/// Abstract class for Hepsetus (genus).
+/// NCBI TaxId: 42562
+/// </summary>
+public abstract class Hepsetus : Hepsetidae, IHepsetus
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "Hepsetus";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "genus";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 42562;
+
+    /// <inheritdoc />
+    public virtual string GenusName => "Hepsetus";
+
+    /// <inheritdoc />
+    public virtual string[] GenusCharacteristics => new[]
+    {
+        "Large body size",
+        "Social pack structure",
+        "Complex hunting strategies",
+        "Highly developed olfaction",
+        "Territorial behavior"
+    };
+
+    /// <inheritdoc />
+    public virtual bool CanInterbreed => true;
+
+}

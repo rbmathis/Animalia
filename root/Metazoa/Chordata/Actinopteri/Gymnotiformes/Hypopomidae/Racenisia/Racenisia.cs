@@ -1,0 +1,36 @@
+using AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Gymnotiformes.Hypopomidae;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Gymnotiformes.Hypopomidae.Racenisia;
+
+/// <summary>
+/// Abstract class for Racenisia (genus).
+/// NCBI TaxId: 1425323
+/// </summary>
+public abstract class Racenisia : Hypopomidae, IRacenisia
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "Racenisia";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "genus";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 1425323;
+
+    /// <inheritdoc />
+    public virtual string GenusName => "Racenisia";
+
+    /// <inheritdoc />
+    public virtual string[] GenusCharacteristics => new[]
+    {
+        "Large body size",
+        "Social pack structure",
+        "Complex hunting strategies",
+        "Highly developed olfaction",
+        "Territorial behavior"
+    };
+
+    /// <inheritdoc />
+    public virtual bool CanInterbreed => true;
+
+}

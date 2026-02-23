@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Characiformes.Characidae.Phenacogaster;
+
+/// <summary>
+/// Species: Phenacogaster aff. wayana
+/// NCBI TaxId: 3465332
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Phenacogaster_aff_wayana : Phenacogaster
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Phenacogaster aff. wayana";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Phenacogaster_aff_wayana";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 3465332;
+}

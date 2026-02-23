@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Amphibia.Anura.Strabomantidae.Oreobates;
+
+/// <summary>
+/// Species: Oreobates chiquitanus
+/// NCBI TaxId: 2774135
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Oreobates_chiquitanus : Oreobates
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Oreobates chiquitanus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Oreobates_chiquitanus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2774135;
+}

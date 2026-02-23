@@ -1,0 +1,36 @@
+using AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Characiformes.Serrasalmidae;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Characiformes.Serrasalmidae.Mylesinus;
+
+/// <summary>
+/// Abstract class for Mylesinus (genus).
+/// NCBI TaxId: 42543
+/// </summary>
+public abstract class Mylesinus : Serrasalmidae, IMylesinus
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "Mylesinus";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "genus";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 42543;
+
+    /// <inheritdoc />
+    public virtual string GenusName => "Mylesinus";
+
+    /// <inheritdoc />
+    public virtual string[] GenusCharacteristics => new[]
+    {
+        "Large body size",
+        "Social pack structure",
+        "Complex hunting strategies",
+        "Highly developed olfaction",
+        "Territorial behavior"
+    };
+
+    /// <inheritdoc />
+    public virtual bool CanInterbreed => true;
+
+}

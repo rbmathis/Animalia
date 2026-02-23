@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Lepidosauria.Squamata.Gekkonidae.Tenuidactylus;
+
+/// <summary>
+/// Species: Tenuidactylus elongatus
+/// NCBI TaxId: 542783
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Tenuidactylus_elongatus : Tenuidactylus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Tenuidactylus elongatus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Tenuidactylus_elongatus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 542783;
+}

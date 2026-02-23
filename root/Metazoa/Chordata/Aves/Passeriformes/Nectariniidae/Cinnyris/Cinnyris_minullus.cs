@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Aves.Passeriformes.Nectariniidae.Cinnyris;
+
+/// <summary>
+/// Species: Cinnyris minullus
+/// NCBI TaxId: 1208738
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Cinnyris_minullus : Cinnyris
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Cinnyris minullus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Cinnyris_minullus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1208738;
+}

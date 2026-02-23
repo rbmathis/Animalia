@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Tetraodontiformes.Monacanthidae.unclassified_Monacanthidae;
+
+/// <summary>
+/// Species: Monacanthidae sp. BOLD:AAB5714
+/// NCBI TaxId: 1182090
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Monacanthidae_sp_BOLDAAB5714 : unclassified_Monacanthidae
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Monacanthidae sp. BOLD:AAB5714";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Monacanthidae_sp_BOLDAAB5714";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1182090;
+}

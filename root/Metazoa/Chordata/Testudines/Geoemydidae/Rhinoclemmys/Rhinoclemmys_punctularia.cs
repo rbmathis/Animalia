@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Testudines.Geoemydidae.Rhinoclemmys;
+
+/// <summary>
+/// Species: Rhinoclemmys punctularia
+/// NCBI TaxId: 260647
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Rhinoclemmys_punctularia : Rhinoclemmys
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Rhinoclemmys punctularia";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Rhinoclemmys_punctularia";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 260647;
+}

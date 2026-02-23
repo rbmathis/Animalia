@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Aves.Passeriformes.Thraupidae.Saltator;
+
+/// <summary>
+/// Species: Saltator striatipectus
+/// NCBI TaxId: 129787
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Saltator_striatipectus : Saltator
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Saltator striatipectus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Saltator_striatipectus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 129787;
+}

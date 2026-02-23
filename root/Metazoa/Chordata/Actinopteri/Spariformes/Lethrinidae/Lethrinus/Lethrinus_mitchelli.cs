@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Spariformes.Lethrinidae.Lethrinus;
+
+/// <summary>
+/// Species: Lethrinus mitchelli
+/// NCBI TaxId: 2872332
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Lethrinus_mitchelli : Lethrinus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Lethrinus mitchelli";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Lethrinus_mitchelli";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2872332;
+}

@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Syngnathiformes.Callionymidae.Neosynchiropus;
+
+/// <summary>
+/// Species: Neosynchiropus sp. OCF-P2900
+/// NCBI TaxId: 1828448
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Neosynchiropus_sp_OCF_P2900 : Neosynchiropus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Neosynchiropus sp. OCF-P2900";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Neosynchiropus_sp_OCF_P2900";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1828448;
+}

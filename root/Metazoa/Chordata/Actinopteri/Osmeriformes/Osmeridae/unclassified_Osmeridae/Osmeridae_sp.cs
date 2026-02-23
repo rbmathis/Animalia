@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Osmeriformes.Osmeridae.unclassified_Osmeridae;
+
+/// <summary>
+/// Species: Osmeridae sp.
+/// NCBI TaxId: 3570396
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Osmeridae_sp : unclassified_Osmeridae
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Osmeridae sp.";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Osmeridae_sp";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 3570396;
+}

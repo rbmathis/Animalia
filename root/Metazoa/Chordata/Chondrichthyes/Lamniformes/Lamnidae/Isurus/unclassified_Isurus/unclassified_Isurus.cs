@@ -1,0 +1,22 @@
+using AnimalKingdom.root.Metazoa.Chordata.Chondrichthyes.Lamniformes.Lamnidae.Isurus;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Chondrichthyes.Lamniformes.Lamnidae.Isurus.unclassified_Isurus;
+
+/// <summary>
+/// Abstract class for unclassified Isurus (no rank).
+/// NCBI TaxId: 2630564
+/// </summary>
+public abstract class unclassified_Isurus : Isurus, Iunclassified_Isurus
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "unclassified Isurus";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "no rank";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 2630564;
+
+    /// <inheritdoc />
+    public virtual string Description => "Taxon: unclassified_Isurus";
+}

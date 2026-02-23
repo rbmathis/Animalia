@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Amphibia.Anura.Rhacophoridae.Feihyla;
+
+/// <summary>
+/// Species: Feihyla wuguanfui
+/// NCBI TaxId: 3073075
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Feihyla_wuguanfui : Feihyla
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Feihyla wuguanfui";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Feihyla_wuguanfui";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 3073075;
+}

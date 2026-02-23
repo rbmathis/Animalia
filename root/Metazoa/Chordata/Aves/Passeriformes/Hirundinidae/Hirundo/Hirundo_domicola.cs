@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Aves.Passeriformes.Hirundinidae.Hirundo;
+
+/// <summary>
+/// Species: Hirundo domicola
+/// NCBI TaxId: 2892565
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Hirundo_domicola : Hirundo
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Hirundo domicola";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Hirundo_domicola";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2892565;
+}

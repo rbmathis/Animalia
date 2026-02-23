@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Centrarchiformes.Centrarchidae.Micropterus;
+
+/// <summary>
+/// Species: Micropterus cf. punctulatus BLB-2015
+/// NCBI TaxId: 1623177
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Micropterus_cf_punctulatus_BLB_2015 : Micropterus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Micropterus cf. punctulatus BLB-2015";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Micropterus_cf_punctulatus_BLB_2015";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1623177;
+}

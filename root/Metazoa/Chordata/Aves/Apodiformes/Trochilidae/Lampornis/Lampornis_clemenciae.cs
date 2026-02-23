@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Aves.Apodiformes.Trochilidae.Lampornis;
+
+/// <summary>
+/// Species: Lampornis clemenciae
+/// NCBI TaxId: 347501
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Lampornis_clemenciae : Lampornis
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Lampornis clemenciae";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Lampornis_clemenciae";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 347501;
+}

@@ -1,0 +1,36 @@
+using AnimalKingdom.root.Metazoa.Chordata.Mammalia.Primates.Cercopithecidae;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Mammalia.Primates.Cercopithecidae.Allenopithecus;
+
+/// <summary>
+/// Abstract class for Allenopithecus (genus).
+/// NCBI TaxId: 54134
+/// </summary>
+public abstract class Allenopithecus : Cercopithecidae, IAllenopithecus
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "Allenopithecus";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "genus";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 54134;
+
+    /// <inheritdoc />
+    public virtual string GenusName => "Allenopithecus";
+
+    /// <inheritdoc />
+    public virtual string[] GenusCharacteristics => new[]
+    {
+        "Large body size",
+        "Social pack structure",
+        "Complex hunting strategies",
+        "Highly developed olfaction",
+        "Territorial behavior"
+    };
+
+    /// <inheritdoc />
+    public virtual bool CanInterbreed => true;
+
+}

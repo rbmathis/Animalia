@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Lepidosauria.Squamata.Scincidae.Chioninia;
+
+/// <summary>
+/// Species: Chioninia fogoensis
+/// NCBI TaxId: 155208
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Chioninia_fogoensis : Chioninia
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Chioninia fogoensis";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Chioninia_fogoensis";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 155208;
+}

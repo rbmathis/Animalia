@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Xenocyprididae.Paralaubuca;
+
+/// <summary>
+/// Species: Paralaubuca harmandi
+/// NCBI TaxId: 3358878
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Paralaubuca_harmandi : Paralaubuca
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Paralaubuca harmandi";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Paralaubuca_harmandi";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 3358878;
+}

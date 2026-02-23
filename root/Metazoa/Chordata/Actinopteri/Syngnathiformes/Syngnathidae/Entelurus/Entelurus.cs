@@ -1,0 +1,36 @@
+using AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Syngnathiformes.Syngnathidae;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Syngnathiformes.Syngnathidae.Entelurus;
+
+/// <summary>
+/// Abstract class for Entelurus (genus).
+/// NCBI TaxId: 161454
+/// </summary>
+public abstract class Entelurus : Syngnathidae, IEntelurus
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "Entelurus";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "genus";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 161454;
+
+    /// <inheritdoc />
+    public virtual string GenusName => "Entelurus";
+
+    /// <inheritdoc />
+    public virtual string[] GenusCharacteristics => new[]
+    {
+        "Large body size",
+        "Social pack structure",
+        "Complex hunting strategies",
+        "Highly developed olfaction",
+        "Territorial behavior"
+    };
+
+    /// <inheritdoc />
+    public virtual bool CanInterbreed => true;
+
+}

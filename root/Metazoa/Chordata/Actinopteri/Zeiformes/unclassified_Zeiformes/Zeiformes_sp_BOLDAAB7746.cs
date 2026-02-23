@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Zeiformes.unclassified_Zeiformes;
+
+/// <summary>
+/// Species: Zeiformes sp. BOLD:AAB7746
+/// NCBI TaxId: 856242
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Zeiformes_sp_BOLDAAB7746 : unclassified_Zeiformes
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Zeiformes sp. BOLD:AAB7746";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Zeiformes_sp_BOLDAAB7746";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 856242;
+}

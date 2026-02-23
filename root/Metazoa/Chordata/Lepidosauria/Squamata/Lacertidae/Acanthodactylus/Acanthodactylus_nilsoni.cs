@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Lepidosauria.Squamata.Lacertidae.Acanthodactylus;
+
+/// <summary>
+/// Species: Acanthodactylus nilsoni
+/// NCBI TaxId: 1543448
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Acanthodactylus_nilsoni : Acanthodactylus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Acanthodactylus nilsoni";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Acanthodactylus_nilsoni";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1543448;
+}

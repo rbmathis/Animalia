@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Osteoglossiformes.Mormyridae.Pollimyrus;
+
+/// <summary>
+/// Species: Pollimyrus petherici
+/// NCBI TaxId: 1881458
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Pollimyrus_petherici : Pollimyrus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Pollimyrus petherici";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Pollimyrus_petherici";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1881458;
+}

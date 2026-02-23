@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Nemacheilidae.Schistura;
+
+/// <summary>
+/// Species: Schistura kloetzliae
+/// NCBI TaxId: 341109
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Schistura_kloetzliae : Schistura
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Schistura kloetzliae";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Schistura_kloetzliae";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 341109;
+}

@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Lutjaniformes.Haemulidae.Haemulon;
+
+/// <summary>
+/// Species: Haemulon aff. aurolineatum HA2_2
+/// NCBI TaxId: 2686889
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Haemulon_aff_aurolineatum_HA2_2 : Haemulon
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Haemulon aff. aurolineatum HA2_2";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Haemulon_aff_aurolineatum_HA2_2";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2686889;
+}

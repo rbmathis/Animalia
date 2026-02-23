@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Blenniiformes.Blenniidae.Chasmodes;
+
+/// <summary>
+/// Species: Chasmodes longimaxilla
+/// NCBI TaxId: 1405638
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Chasmodes_longimaxilla : Chasmodes
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Chasmodes longimaxilla";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Chasmodes_longimaxilla";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1405638;
+}

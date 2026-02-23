@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Lepidosauria.Squamata.Chamaeleonidae.Kinyongia;
+
+/// <summary>
+/// Species: Kinyongia cf. adolfifriderici
+/// NCBI TaxId: 1215297
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Kinyongia_cf_adolfifriderici : Kinyongia
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Kinyongia cf. adolfifriderici";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Kinyongia_cf_adolfifriderici";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 1215297;
+}

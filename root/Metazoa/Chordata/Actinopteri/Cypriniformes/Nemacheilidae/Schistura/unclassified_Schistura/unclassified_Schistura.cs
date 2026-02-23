@@ -1,0 +1,22 @@
+using AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Nemacheilidae.Schistura;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Nemacheilidae.Schistura.unclassified_Schistura;
+
+/// <summary>
+/// Abstract class for unclassified Schistura (no rank).
+/// NCBI TaxId: 2627263
+/// </summary>
+public abstract class unclassified_Schistura : Schistura, Iunclassified_Schistura
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "unclassified Schistura";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "no rank";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 2627263;
+
+    /// <inheritdoc />
+    public virtual string Description => "Taxon: unclassified_Schistura";
+}

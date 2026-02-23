@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Danionidae.Raiamas;
+
+/// <summary>
+/// Species: Raiamas guttatus
+/// NCBI TaxId: 75360
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Raiamas_guttatus : Raiamas
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Raiamas guttatus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Raiamas_guttatus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 75360;
+}

@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Aves.Passeriformes.Dicruridae.Dicrurus;
+
+/// <summary>
+/// Species: Dicrurus modestus
+/// NCBI TaxId: 450165
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Dicrurus_modestus : Dicrurus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Dicrurus modestus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Dicrurus_modestus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 450165;
+}

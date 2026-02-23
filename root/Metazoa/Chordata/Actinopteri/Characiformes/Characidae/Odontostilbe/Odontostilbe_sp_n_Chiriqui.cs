@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Characiformes.Characidae.Odontostilbe;
+
+/// <summary>
+/// Species: Odontostilbe sp. n. Chiriqui
+/// NCBI TaxId: 2489296
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Odontostilbe_sp_n_Chiriqui : Odontostilbe
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Odontostilbe sp. n. Chiriqui";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Odontostilbe_sp_n_Chiriqui";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2489296;
+}

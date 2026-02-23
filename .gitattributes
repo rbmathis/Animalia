@@ -1,0 +1,5 @@
+# Treat generated C# as text
+*.cs text diff=csharp
+
+# Don't show diffs for bulk generated files (too noisy)
+**/Canis_sp*.cs -diff

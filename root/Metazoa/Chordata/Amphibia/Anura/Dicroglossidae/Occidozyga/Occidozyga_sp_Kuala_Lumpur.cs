@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Amphibia.Anura.Dicroglossidae.Occidozyga;
+
+/// <summary>
+/// Species: Occidozyga sp. Kuala Lumpur
+/// NCBI TaxId: 622604
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Occidozyga_sp_Kuala_Lumpur : Occidozyga
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Occidozyga sp. Kuala Lumpur";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Occidozyga_sp_Kuala_Lumpur";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 622604;
+}

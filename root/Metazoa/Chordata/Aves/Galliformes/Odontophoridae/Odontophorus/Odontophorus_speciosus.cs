@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Aves.Galliformes.Odontophoridae.Odontophorus;
+
+/// <summary>
+/// Species: Odontophorus speciosus
+/// NCBI TaxId: 886795
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Odontophorus_speciosus : Odontophorus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Odontophorus speciosus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Odontophorus_speciosus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 886795;
+}

@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Perciformes.Cottidae.Hemilepidotus;
+
+/// <summary>
+/// Species: Hemilepidotus hemilepidotus
+/// NCBI TaxId: 433390
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Hemilepidotus_hemilepidotus : Hemilepidotus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Hemilepidotus hemilepidotus";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Hemilepidotus_hemilepidotus";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 433390;
+}

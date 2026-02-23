@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Siluriformes.Pseudopimelodidae.Pseudopimelodus;
+
+/// <summary>
+/// Species: Pseudopimelodus acanthochiroides
+/// NCBI TaxId: 3000486
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Pseudopimelodus_acanthochiroides : Pseudopimelodus
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Pseudopimelodus acanthochiroides";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Pseudopimelodus_acanthochiroides";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 3000486;
+}

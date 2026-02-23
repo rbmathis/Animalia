@@ -1,0 +1,24 @@
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Characiformes.Iguanodectidae.Bryconops;
+
+/// <summary>
+/// Species: Bryconops aff. melanurus GFSU14-348
+/// NCBI TaxId: 2835344
+/// Enrichment Status: Stub (pending enrichment)
+/// </summary>
+public class Bryconops_aff_melanurus_GFSU14_348 : Bryconops
+{
+    /// <summary>Indicates whether this species has been enriched with full data.</summary>
+    public const bool IsEnriched = false;
+
+    /// <summary>Gets the species name.</summary>
+    public string SpeciesName => "Bryconops aff. melanurus GFSU14-348";
+
+    /// <summary>Gets the common name. TODO: Enrich</summary>
+    public string CommonName => "Bryconops_aff_melanurus_GFSU14_348";
+
+    /// <inheritdoc />
+    public override string TaxonomicRank => "species";
+
+    /// <inheritdoc />
+    public override int TaxId => 2835344;
+}

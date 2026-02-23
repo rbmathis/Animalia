@@ -1,0 +1,22 @@
+using AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Gobionidae;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Actinopteri.Cypriniformes.Gobionidae.Sarcocheilichthyinae_intergeneric_hybrids;
+
+/// <summary>
+/// Abstract class for Sarcocheilichthyinae intergeneric hybrids (no rank).
+/// NCBI TaxId: 2790340
+/// </summary>
+public abstract class Sarcocheilichthyinae_intergeneric_hybrids : Gobionidae, ISarcocheilichthyinae_intergeneric_hybrids
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "Sarcocheilichthyinae intergeneric hybrids";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "no rank";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 2790340;
+
+    /// <inheritdoc />
+    public virtual string Description => "Taxon: Sarcocheilichthyinae_intergeneric_hybrids";
+}

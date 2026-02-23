@@ -1,0 +1,22 @@
+using AnimalKingdom.root.Metazoa.Chordata.Amphibia.Anura.Eleutherodactylidae.Diasporus;
+
+namespace AnimalKingdom.root.Metazoa.Chordata.Amphibia.Anura.Eleutherodactylidae.Diasporus.unclassified_Diasporus;
+
+/// <summary>
+/// Abstract class for unclassified Diasporus (no rank).
+/// NCBI TaxId: 2621739
+/// </summary>
+public abstract class unclassified_Diasporus : Diasporus, Iunclassified_Diasporus
+{
+    /// <summary>Gets the scientific name.</summary>
+    public override string ScientificName => "unclassified Diasporus";
+
+    /// <summary>Gets the taxonomic rank.</summary>
+    public override string TaxonomicRank => "no rank";
+
+    /// <summary>Gets the NCBI Taxonomy ID.</summary>
+    public override int TaxId => 2621739;
+
+    /// <inheritdoc />
+    public virtual string Description => "Taxon: unclassified_Diasporus";
+}
