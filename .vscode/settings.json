@@ -1,0 +1,50 @@
+{
+    // ========================================
+    // CRITICAL: Disable C# project discovery
+    // This repo has 15,000+ .csproj files that will overwhelm the C# extension
+    // ========================================
+
+    // Disable OmniSharp (legacy C# extension)
+    "omnisharp.autoStart": false,
+    "omnisharp.enableRoslynAnalyzers": false,
+    "omnisharp.enableEditorConfigSupport": false,
+    "omnisharp.enableAsyncCompletion": false,
+    "omnisharp.enableMsBuildLoadProjectsOnDemand": true,
+    "omnisharp.projectLoadTimeout": 1,
+
+    // Disable C# Dev Kit / modern C# extension
+    "dotnet.server.useOmnisharp": false,
+    "dotnet.defaultSolution": "disable",
+    "dotnet.automaticallyCreateSolutionInWorkspace": false,
+
+    // Disable C# IntelliSense features that trigger project loading
+    "csharp.referencesCodeLens.enabled": false,
+    "csharp.implementationsCodeLens.enabled": false,
+    "csharp.semanticHighlighting.enabled": false,
+
+    // Suppress notifications
+    "csharp.suppressDotnetInstallWarning": true,
+    "csharp.suppressProjectJsonWarning": true,
+    "csharp.suppressBuildAssetsNotification": true,
+
+    // Disable .NET telemetry
+    "dotnet.enableTelemetry": false,
+
+    // ========================================
+    // File watcher optimization
+    // ========================================
+    "files.watcherExclude": {
+        "**/root/**": true
+    },
+    "files.maxMemoryForLargeFilesMB": 256,
+
+    // ========================================
+    // Search configuration
+    // ========================================
+    "search.exclude": {
+        "**/root/**": false
+    },
+    "chat.tools.terminal.autoApprove": {
+        ".\\copilot-harness.ps1": true
+    }
+}

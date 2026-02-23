@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Fix Incorrect Conservation Status",
+    "category": "Bug Fixes",
+    "prompt": "Find Canis_simensis and fix its ConservationStatus - it should follow IUCN format (just \"Endangered\", not \"Endangered status\")"
+  },
+  {
+    "id": 2,
+    "name": "Fix Missing Common Name",
+    "category": "Bug Fixes",
+    "prompt": "Find a species with an empty CommonName and fill it in with the correct common name"
+  },
+  {
+    "id": 3,
+    "name": "Incorrect Taxonomy Placement",
+    "category": "Bug Fixes",
+    "prompt": "Check if Vulpes_vulpes is in the correct genus folder based on its class inheritance"
+  },
+  {
+    "id": 4,
+    "name": "Fix Namespace Mismatch",
+    "category": "Bug Fixes",
+    "prompt": "Find any species files where the namespace doesn't match the folder path and fix them"
+  },
+  {
+    "id": 5,
+    "name": "Add a New Property to All Species",
+    "category": "Features",
+    "prompt": "Add a WikipediaUrl property to Canis_lupus that generates a Wikipedia link from the SpeciesName. Show me the pattern so I can apply it to other species."
+  },
+  {
+    "id": 6,
+    "name": "Add Interface for Endangered Species",
+    "category": "Features",
+    "prompt": "Create an IEndangered interface and show me how to implement it on Canis_simensis (Ethiopian Wolf) since it's endangered"
+  },
+  {
+    "id": 7,
+    "name": "Add Diet Classification",
+    "category": "Features",
+    "prompt": "Create a DietType enum and add a Diet property to species. Use Canis_lupus as an example - what diet type should a wolf have?"
+  },
+  {
+    "id": 8,
+    "name": "Create Summary Statistics Class",
+    "category": "Features",
+    "prompt": "Create a TaxonomyStatistics class that can count species by conservation status. What properties would it need based on our species data model?"
+  },
+  {
+    "id": 9,
+    "name": "Emergency Remove PII from Comments",
+    "category": "Hotfixes",
+    "prompt": "Search for any email addresses in XML doc comments across the codebase and remove them"
+  },
+  {
+    "id": 10,
+    "name": "Hotfix Compilation Error in New Species",
+    "category": "Hotfixes",
+    "prompt": "There's a syntax error somewhere in the codebase. Find the file with the compilation error and fix it."
+  },
+  {
+    "id": 11,
+    "name": "Find All Pack Animals",
+    "category": "Code Discovery",
+    "prompt": "Find species in this repo that are known to live in packs or have social hunting behavior"
+  },
+  {
+    "id": 12,
+    "name": "Find Species by Habitat",
+    "category": "Code Discovery",
+    "prompt": "Find all species that live in Arctic or Polar habitats"
+  },
+  {
+    "id": 13,
+    "name": "Compare Two Related Species",
+    "category": "Code Discovery",
+    "prompt": "Compare the Grey Wolf (Canis_lupus) and Coyote (Canis_latrans) - what are the key differences in their properties?"
+  },
+  {
+    "id": 14,
+    "name": "Trace Inheritance Chain",
+    "category": "Code Discovery",
+    "prompt": "Show me the complete inheritance hierarchy for Canis_lupus from species up to phylum"
+  },
+  {
+    "id": 15,
+    "name": "Generate README for a Genus",
+    "category": "Documentation",
+    "prompt": "Create a README.md for the Canis genus folder that lists all wolf species and their conservation statuses"
+  },
+  {
+    "id": 16,
+    "name": "Document the Taxonomy Pattern",
+    "category": "Documentation",
+    "prompt": "Explain how this repository's folder structure maps to biological taxonomy. What pattern does it follow?"
+  },
+  {
+    "id": 17,
+    "name": "Extract Common Base Properties",
+    "category": "Refactoring",
+    "prompt": "What properties are repeated across all species files? Should we extract them to a common base class?"
+  },
+  {
+    "id": 18,
+    "name": "Rename Property Across Codebase",
+    "category": "Refactoring",
+    "prompt": "I want to rename SpeciesCharacteristics to DistinguishingFeatures across all species files. What's the safest way to do this?"
+  },
+  {
+    "id": 19,
+    "name": "Convert String Properties to Enums",
+    "category": "Refactoring",
+    "prompt": "ConservationStatus is currently a string. Create a ConservationStatus enum based on IUCN categories and show me how to update a species to use it."
+  },
+  {
+    "id": 20,
+    "name": "Find Species Needing Enrichment",
+    "category": "Cross-Cutting Queries",
+    "prompt": "Find species files that are stubs (IsEnriched = false) and need enrichment. Show me a few examples from different families."
+  },
+  {
+    "id": 21,
+    "name": "Identify Missing Interfaces",
+    "category": "Cross-Cutting Queries",
+    "prompt": "Check if the Canis genus class properly implements ICanis. Are there any missing interface implementations?"
+  }
+]
