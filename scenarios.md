@@ -85,6 +85,31 @@ This document contains scenarios designed to test and demonstrate GitHub Copilot
 
 ---
 
+## 🧭 Breadcrumb Navigation Tests
+
+These scenarios verify that breadcrumb.md files are being used for efficient navigation.
+
+| # | Scenario | Query | Expected Behavior | Anti-pattern |
+|---|----------|-------|-------------------|--------------|
+| 22 | Species Lookup (Depth 0) | "What is the conservation status of Canis lupus?" | Read `Canis/breadcrumb.md` → find in species array | Opening `Canis_lupus.cs` or grepping |
+| 23 | Genus Listing (Depth 0) | "List all bear genera" | Read `Ursidae/breadcrumb.md` → return genera array | `Get-ChildItem -Directory` |
+| 24 | Endangered in Family (Depth 1) | "Which Canidae are endangered?" | Read `Canidae/breadcrumb.md` → check `endangered_species` | Grep "Endangered" in all .cs files |
+| 25 | Tag-Based Discovery (Depth 1-2) | "Find pack-hunting mammals" | Search breadcrumbs for `tags: ["pack-hunter"]` | Grep characteristics in .cs files |
+| 26 | Cross-Family Compare (Depth 2) | "Compare Canidae vs Felidae species counts" | Read both family breadcrumbs | Count files in directories |
+| 27 | Lateral Navigation | "What families are related to Canidae?" | Read `Canidae/breadcrumb.md` → check `related` array | Guess or list sibling folders |
+| 28 | Backlink Traversal | "What links to the Canis breadcrumb?" | Check `links_from` in `Canis/breadcrumb.md` | Manual folder traversal |
+
+### Validation Checklist
+
+When Copilot answers taxonomy questions, verify:
+- [ ] Reads `breadcrumb.md` files first (not .cs files)
+- [ ] Uses species array from genus breadcrumb (not individual files)
+- [ ] Tag searches target breadcrumbs (not source code)
+- [ ] Uses `related`/`links_from` for navigation
+- [ ] Respects traversal depth (doesn't over-expand context)
+
+---
+
 ## How to Use These Scenarios
 
 1. **Baseline test**: Try each scenario WITHOUT `copilot-instructions.md`

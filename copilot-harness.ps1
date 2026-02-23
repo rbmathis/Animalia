@@ -522,6 +522,8 @@ Write-Host ""
 
 # Run scenarios
 $allResults = @()
+$allOutputs = @()
+$runTimestamp = Get-Timestamp
 
 if ($Prompt) {
     # Single prompt mode
@@ -532,9 +534,30 @@ if ($Prompt) {
     }
     else {
         $result = Run-CopilotPrompt -PromptText $Prompt -Timeout $TimeoutSeconds
-        $exported = Export-Result -Result $result -OutputDir $outputPath -ScenarioName "adhoc"
-        Show-Summary $exported.Metrics
-        $allResults += $exported.Metrics
+        $usedBreadcrumbs = ($result.FilesAccessed | Where-Object { $_ -match 'breadcrumb\.md' }).Count -gt 0
+        $metrics = @{
+            scenario              = "adhoc"
+            timestamp             = $runTimestamp
+            prompt                = $result.Prompt
+            durationMs            = $result.DurationMs
+            durationSec           = [math]::Round($result.DurationMs / 1000, 2)
+            exitCode              = $result.ExitCode
+            success               = $result.Success
+            toolCalls             = $result.ToolCalls
+            totalToolCalls        = ($result.ToolCalls.Values | Measure-Object -Sum).Sum
+            filesAccessed         = $result.FilesAccessed
+            fileCount             = $result.FilesAccessed.Count
+            usedBreadcrumbs       = $usedBreadcrumbs
+            estimatedInputTokens  = $result.EstimatedInputTokens
+            estimatedOutputTokens = $result.EstimatedOutputTokens
+            estimatedTotalTokens  = $result.EstimatedInputTokens + $result.EstimatedOutputTokens
+            resources             = $result.Resources
+            error                 = $result.Error
+        }
+        Show-Summary $metrics
+        $allResults += $metrics
+        $allOutputs += "=== SCENARIO: adhoc ==="
+        $allOutputs += $result.Output
     }
 
 }
@@ -561,9 +584,33 @@ elseif ($ScenarioFile) {
         }
         else {
             $result = Run-CopilotPrompt -PromptText $scenario.prompt -Timeout $TimeoutSeconds
-            $exported = Export-Result -Result $result -OutputDir $outputPath -ScenarioName "scenario_$($scenario.id)_$($scenario.name)"
-            Show-Summary $exported.Metrics
-            $allResults += $exported.Metrics
+            $scenarioName = "scenario_$($scenario.id)_$($scenario.name)"
+            $usedBreadcrumbs = ($result.FilesAccessed | Where-Object { $_ -match 'breadcrumb\.md' }).Count -gt 0
+            $metrics = @{
+                scenario              = $scenarioName
+                timestamp             = $runTimestamp
+                prompt                = $result.Prompt
+                durationMs            = $result.DurationMs
+                durationSec           = [math]::Round($result.DurationMs / 1000, 2)
+                exitCode              = $result.ExitCode
+                success               = $result.Success
+                toolCalls             = $result.ToolCalls
+                totalToolCalls        = ($result.ToolCalls.Values | Measure-Object -Sum).Sum
+                filesAccessed         = $result.FilesAccessed
+                fileCount             = $result.FilesAccessed.Count
+                usedBreadcrumbs       = $usedBreadcrumbs
+                estimatedInputTokens  = $result.EstimatedInputTokens
+                estimatedOutputTokens = $result.EstimatedOutputTokens
+                estimatedTotalTokens  = $result.EstimatedInputTokens + $result.EstimatedOutputTokens
+                resources             = $result.Resources
+                error                 = $result.Error
+            }
+            Show-Summary $metrics
+            $allResults += $metrics
+            $allOutputs += "`n`n==============================================================================="
+            $allOutputs += "=== SCENARIO $($scenario.id): $($scenario.name)"
+            $allOutputs += "===============================================================================`n"
+            $allOutputs += $result.Output
         }
     }
 
@@ -577,18 +624,30 @@ else {
     exit 0
 }
 
-# Export aggregate results
+# Export consolidated results (single file per run)
 if ($allResults.Count -gt 0) {
-    $summaryFile = Join-Path $outputPath "summary_$(Get-Timestamp).json"
-    $allResults | ConvertTo-Json -Depth 5 | Out-File -FilePath $summaryFile -Encoding UTF8
+    # Single output file with all scenario outputs
+    $outputFile = Join-Path $outputPath "run_${runTimestamp}_output.txt"
+    $allOutputs -join "`n" | Out-File -FilePath $outputFile -Encoding UTF8
+
+    # Single metrics file with all scenario metrics
+    $metricsFile = Join-Path $outputPath "run_${runTimestamp}_metrics.json"
+    @{
+        runTimestamp     = $runTimestamp
+        scenarioCount    = $allResults.Count
+        totalDurationSec = [math]::Round(($allResults | ForEach-Object { $_.durationSec } | Measure-Object -Sum).Sum, 2)
+        successCount     = ($allResults | Where-Object { $_.success } | Measure-Object).Count
+        scenarios        = $allResults
+    } | ConvertTo-Json -Depth 5 | Out-File -FilePath $metricsFile -Encoding UTF8
 
     # Also export as CSV for easy analysis
-    $csvFile = Join-Path $outputPath "summary_$(Get-Timestamp).csv"
+    $csvFile = Join-Path $outputPath "run_${runTimestamp}_metrics.csv"
     $allResults | ForEach-Object {
         [PSCustomObject]@{
             Scenario        = $_.scenario
             DurationSec     = $_.durationSec
             Success         = $_.success
+            UsedBreadcrumbs = $_.usedBreadcrumbs
             TotalToolCalls  = $_.totalToolCalls
             ReadFileCalls   = $_.toolCalls.read_file
             GrepSearchCalls = $_.toolCalls.grep_search
@@ -608,7 +667,8 @@ if ($allResults.Count -gt 0) {
     Write-Host ""
     Write-Host "═══════════════════════════════════════════════════════════════" -ForegroundColor Green
     Write-Host " COMPLETE: $($allResults.Count) scenario(s) executed" -ForegroundColor Green
-    Write-Host " Summary:  $summaryFile" -ForegroundColor Gray
+    Write-Host " Output:   $outputFile" -ForegroundColor Gray
+    Write-Host " Metrics:  $metricsFile" -ForegroundColor Gray
     Write-Host " CSV:      $csvFile" -ForegroundColor Gray
     Write-Host "═══════════════════════════════════════════════════════════════" -ForegroundColor Green
 }

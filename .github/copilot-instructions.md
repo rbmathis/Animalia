@@ -132,7 +132,44 @@ public abstract class Canis : Canidae, ICanis
 
 ## 💡 Copilot Tips for This Repo
 
+### 🧭 Breadcrumb Navigation (Recommended)
+
+The repository uses **breadcrumb.md** files at key taxonomic levels for efficient navigation:
+
+```
+root/breadcrumb.md                          # Kingdom entry point
+root/Metazoa/Chordata/Mammalia/breadcrumb.md   # All mammal orders
+root/.../Carnivora/Canidae/breadcrumb.md    # Dog family genera & species
+root/.../Canidae/Canis/breadcrumb.md        # Wolf genus with species list
+```
+
+**Each breadcrumb contains YAML frontmatter with:**
+- `tags`: Flat array of searchable keywords (taxon name, rank, behaviors, conservation status)
+- `related`: Paths to sibling/peer breadcrumbs for lateral navigation
+- `links_from`: Backlinks showing which breadcrumbs reference this one
+- `children`/`genera`: Sub-taxa with paths to their breadcrumbs
+- `species`: Species list with conservation status, enrichment flag (genus level)
+
+**Traversal depth guidance:**
+| Depth | Use Case | Example |
+|-------|----------|---------|
+| 0 | Single lookup | "What is Canis lupus conservation status?" |
+| 1 | Standard query (default) | "List all endangered Canidae" |
+| 2 | Cross-cutting concern | "Compare pack behavior across Carnivora families" |
+
+**Use breadcrumbs for:**
+- Finding species: Read genus breadcrumb → find species in list → open file
+- Conservation queries: Check `tags` for conservation keywords or `endangered_species`
+- Behavior/habitat queries: Check `tags` for behavior/habitat keywords
+- Tag-based discovery: Search breadcrumbs by tag intersection for multi-concept queries
+
+**Skills:** 
+- `.github/skills/breadcrumb-traversal/` — Traversal depth and tag-based discovery
+- `.github/skills/breadcrumb-creation/` — Creating and maintaining breadcrumbs
+- `.github/skills/species-lookup/` — Finding specific species
+
 ### Finding Species
+- **Breadcrumb method**: Read genus breadcrumb.md → find species in `species` array
 - Use file patterns: `**/Canidae/**/*.cs` or `**/*_lupus.cs`
 - Grep for `TaxId: {id}` for exact species lookup
 - **Glob patterns beat semantic search** for this structured codebase
@@ -141,6 +178,8 @@ public abstract class Canis : Canidae, ICanis
 - Each folder is a taxonomic rank
 - Parent class is always in the parent folder
 - Interfaces (I*.cs) define behaviors at each level
+- **Breadcrumb parent links**: Each breadcrumb has `parent: "../breadcrumb.md"`
+- **Backlinks**: Each breadcrumb has `links_from` showing what references it
 
 ### Working with Species Data
 - Check `IsEnriched` to know if data is real or placeholder
@@ -155,10 +194,29 @@ Best practices for navigating 161K files:
 
 | Task | Efficient Approach | Avoid |
 |------|-------------------|-------|
-| Find specific species | Grep `TaxId: {id}` or glob `**/*_{species}.cs` | Semantic search |
+| Find specific species | Read genus `breadcrumb.md` → species list | Scanning folder |
+| List species in genus | Read `breadcrumb.md` → `species` array | `ls *.cs` on folder |
+| Find endangered species | Check family breadcrumb `endangered_species` | Grep across files |
+| Find by habitat/behavior | Check breadcrumb `tags.habitat` or `tags.behavior` | Reading each file |
 | Understand inheritance | Read genus file only (parent is documented) | Walking up folder tree |
-| Check conservation status | Read single species file | Listing all species |
-| Find endangered in family | `grep -r "Endangered" **/FamilyName/**` | Reading each file |
+| Check conservation status | Read breadcrumb species list OR single file | Listing all species |
+
+### Tag-Based Discovery via Breadcrumbs
+
+Breadcrumb files aggregate tags across their subtaxa:
+
+```yaml
+tags:
+  conservation: ["endangered", "least-concern", "vulnerable"]
+  behavior: ["pack-hunter", "social", "territorial"]
+  habitat: ["arctic", "temperate", "forest"]
+  diet: ["carnivore", "omnivore"]
+```
+
+**Query examples:**
+- "Find pack animals" → Search breadcrumbs for `behavior: ["pack-hunter"]`
+- "Find arctic species" → Search breadcrumbs for `habitat: ["arctic"]`
+- "Find endangered canids" → Read `Canidae/breadcrumb.md` → `endangered_species` list
 
 ---
 

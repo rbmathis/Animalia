@@ -124,5 +124,47 @@
     "name": "Identify Missing Interfaces",
     "category": "Cross-Cutting Queries",
     "prompt": "Check if the Canis genus class properly implements ICanis. Are there any missing interface implementations?"
+  },
+  {
+    "id": 22,
+    "name": "Species Lookup (Depth 0)",
+    "category": "Breadcrumb Navigation",
+    "prompt": "What is the conservation status of Canis lupus?"
+  },
+  {
+    "id": 23,
+    "name": "Genus Listing (Depth 0)",
+    "category": "Breadcrumb Navigation",
+    "prompt": "List all bear genera"
+  },
+  {
+    "id": 24,
+    "name": "Endangered in Family (Depth 1)",
+    "category": "Breadcrumb Navigation",
+    "prompt": "Which Canidae are endangered?"
+  },
+  {
+    "id": 25,
+    "name": "Tag-Based Discovery (Depth 1-2)",
+    "category": "Breadcrumb Navigation",
+    "prompt": "Find pack-hunting mammals"
+  },
+  {
+    "id": 26,
+    "name": "Cross-Family Compare (Depth 2)",
+    "category": "Breadcrumb Navigation",
+    "prompt": "Compare Canidae vs Felidae species counts"
+  },
+  {
+    "id": 27,
+    "name": "Lateral Navigation",
+    "category": "Breadcrumb Navigation",
+    "prompt": "What families are related to Canidae?"
+  },
+  {
+    "id": 28,
+    "name": "Backlink Traversal",
+    "category": "Breadcrumb Navigation",
+    "prompt": "What links to the Canis breadcrumb?"
   }
 ]
