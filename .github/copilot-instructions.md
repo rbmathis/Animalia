@@ -97,7 +97,69 @@ Core principles:
 
 ---
 
-## 📚 Reference Data
+## �️ Path Formulas (Construct, Don't Search)
+
+Paths are deterministic—**construct them directly** instead of searching.
+
+### Build Paths from Species Name
+
+Given a species like `Canis_lupus` in family `Canidae`:
+
+| Target | Path Pattern |
+|--------|--------------|
+| Species file | `root/**/Canidae/Canis/Canis_lupus.cs` |
+| Genus class | `root/**/Canidae/Canis/Canis.cs` |
+| Genus interface | `root/**/Canidae/Canis/ICanis.cs` |
+| Genus breadcrumb | `root/**/Canidae/Canis/breadcrumb.md` |
+| Family breadcrumb | `root/**/Canidae/breadcrumb.md` |
+
+### Derive from Any File Path
+
+From path `root/Metazoa/Chordata/Mammalia/Carnivora/Canidae/Canis/Canis_lupus.cs`:
+
+| Derivation | Result |
+|------------|--------|
+| **Parent class** | Folder name one level up → `Canis` (in `../Canis.cs`) |
+| **Grandparent** | Two levels up → `Canidae` (in `../../Canidae.cs`) |
+| **Namespace** | Replace `/` with `.` → `AnimalKingdom.root.Metazoa.Chordata.Mammalia.Carnivora.Canidae.Canis` |
+| **Interface** | Same folder, prepend `I` → `ICanis.cs` |
+| **Siblings** | Other `Canis_*.cs` files in same folder |
+| **Cousins** | Other genus folders in `../` (e.g., `Vulpes/`, `Lycaon/`) |
+
+### Glob Pattern Templates
+
+| Task | Glob Pattern |
+|------|--------------|
+| All species in a genus | `**/Canis/Canis_*.cs` |
+| All genera in a family | `**/Canidae/*/` (directories) |
+| All interfaces in a family | `**/Canidae/**/I*.cs` |
+| All breadcrumbs in an order | `**/Carnivora/**/breadcrumb.md` |
+| All species in a family | `**/Canidae/**/*_*.cs` |
+
+### Scoped Grep Examples
+
+Narrow grep searches using path prefixes:
+
+```bash
+# Only Canidae family
+grep "ConservationStatus" root/Metazoa/Chordata/Mammalia/Carnivora/Canidae/**/*.cs
+
+# Only one genus
+grep "IsEnriched" root/**/Canis/*.cs
+
+# All breadcrumbs in Carnivora
+grep "endangered" root/**/Carnivora/**/breadcrumb.md
+```
+
+### Sibling Navigation
+
+- **Related families**: Same parent folder (e.g., `Canidae/` and `Felidae/` are siblings under `Carnivora/`)
+- **Related genera**: Same family folder (e.g., `Canis/` and `Vulpes/` under `Canidae/`)
+- **Related species**: Same genus folder
+
+---
+
+## �📚 Reference Data
 
 **See [`architecture.md`](../../architecture.md) for complete reference section.**
 
