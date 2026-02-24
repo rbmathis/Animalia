@@ -2,7 +2,7 @@
 title: "Canis"
 description: "Genus containing 28 species."
 category: "taxonomy/genus"
-tags: ["canis", "genus", "critically-endangered", "endangered", "least-concern"]
+tags: ["canis", "genus", "critically-endangered", "endangered", "least-concern", "has-pets"]
 status: "Living"
 updated: "2026-02-23"
 related: ["../Aenocyon/breadcrumb.md", "../Atelocynus/breadcrumb.md", "../Canidae_intergeneric_hybrids/breadcrumb.md"]
@@ -64,6 +64,7 @@ species:
     common_name: "timber wolf"
     conservation: "Least Concern"
     enriched: true
+    pet: true
   - file: "Canis_mesomelas.cs"
     name: "Canis mesomelas"
     common_name: "Silver-backed Jackal"

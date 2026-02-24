@@ -123,7 +123,7 @@
     "id": 21,
     "name": "Validate Interface Contracts",
     "category": "Cross-Cutting Queries",
-    "prompt": "Verify that each species class implements all properties required by its genus interface (e.g., all Canis species should have properties defined in ICanis). Find any violations."
+    "prompt": "Verify that all species classes implement the required properties from their genus interfaces (e.g., ICanis, IVulpes, IUrsus). Find any violations across the Canidae family."
   },
   {
     "id": 22,

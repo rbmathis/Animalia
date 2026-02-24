@@ -2,7 +2,7 @@
 title: "Leporidae"
 description: "Family containing 13 genera."
 category: "taxonomy/family"
-tags: ["leporidae", "family"]
+tags: ["leporidae", "family", "has-pets"]
 status: "Living"
 updated: "2026-02-23"
 related: ["../Ochotonidae/breadcrumb.md"]
@@ -38,7 +38,10 @@ genera:
   - path: "Poelagus/breadcrumb.md"
     name: "Poelagus"
   - path: "Pronolagus/breadcrumb.md"
-    name: "Pronolagus"
+    name: "Pronolagus"pet_genera:
+  - name: "Oryctolagus"
+    path: "Oryctolagus/breadcrumb.md"
+
 ---
 
 # Leporidae

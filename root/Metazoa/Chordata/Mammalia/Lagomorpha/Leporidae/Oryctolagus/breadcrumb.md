@@ -2,7 +2,7 @@
 title: "Oryctolagus"
 description: "Genus containing 3 species."
 category: "taxonomy/genus"
-tags: ["oryctolagus", "genus"]
+tags: ["oryctolagus", "genus", "has-pets"]
 status: "Living"
 updated: "2026-02-23"
 related: ["../Brachylagus/breadcrumb.md", "../Bunolagus/breadcrumb.md", "../Caprolagus/breadcrumb.md"]
@@ -24,6 +24,7 @@ species:
     common_name: "Oryctolagus_cuniculus"
     conservation: "Unknown"
     enriched: false
+    pet: true
   - file: "Oryctolagus_sp.cs"
     name: "Oryctolagus sp."
     common_name: "Oryctolagus_sp"

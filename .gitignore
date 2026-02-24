@@ -1,2 +1,11 @@
 results/*
 node_modules/*
+
+# .NET build output
+**/bin/
+**/obj/
+*.dll
+*.pdb
+
+# Build results
+build-results-*.json

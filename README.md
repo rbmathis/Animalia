@@ -48,6 +48,32 @@ root/Metazoa/Chordata/Mammalia/Carnivora/Canidae/Canis/
 | XML doc comments          | Rich context for Copilot to reference         |
 | `IsEnriched` field        | Distinguishes stubs from real data            |
 
+---
+
+## 🐾 Demo: Pet Species Lookup
+
+**See Copilot navigate 160K files in seconds!**
+
+This repo includes a [pet lookup feature](pets.md) that demonstrates breadcrumb-based navigation. Instead of scanning thousands of files, Copilot uses metadata tags to instantly find pet species:
+
+```bash
+# Find all pet-containing taxa in one command
+grep "has-pets" root/**/breadcrumb.md
+```
+
+**Result**: 14 breadcrumbs tagged, covering dogs, cats, hamsters, rabbits, guinea pigs, chinchillas, ferrets, goldfish, and budgerigars.
+
+| Query | Method | Time |
+|-------|--------|------|
+| "Find pet mammals" | `grep "has-pets"` | <1s |
+| "Is Felis catus a pet?" | Read genus breadcrumb | <1s |
+
+**Try it**: Ask Copilot *"Can you recommend a pet for my kid that lives in an apartment?"*
+
+📄 **[Read the full pets.md writeup →](pets.md)**
+
+---
+
 ## VS Code Setup
 
 ⚠️ **Important**: This repo has **15,579 `.csproj` files**. Extensions will try to scan them all, causing VS Code to hang.

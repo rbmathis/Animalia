@@ -2,7 +2,7 @@
 title: "Cavia"
 description: "Genus containing 8 species."
 category: "taxonomy/genus"
-tags: ["cavia", "genus"]
+tags: ["cavia", "genus", "has-pets"]
 status: "Living"
 updated: "2026-02-23"
 related: ["../Dolichotis/breadcrumb.md", "../Galea/breadcrumb.md", "../Kerodon/breadcrumb.md"]
@@ -49,6 +49,7 @@ species:
     common_name: "Cavia_porcellus"
     conservation: "Unknown"
     enriched: false
+    pet: true
   - file: "Cavia_sp.cs"
     name: "Cavia sp."
     common_name: "Cavia_sp"

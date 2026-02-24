@@ -2,7 +2,7 @@
 title: "Felidae (Cat Family)"
 description: "Family containing 17 genera."
 category: "taxonomy/family"
-tags: ["felidae", "family"]
+tags: ["felidae", "family", "has-pets"]
 status: "Living"
 updated: "2026-02-23"
 related: ["../Ailuridae/breadcrumb.md", "../Canidae/breadcrumb.md", "../Eupleridae/breadcrumb.md"]
@@ -38,7 +38,10 @@ genera:
   - path: "Leptailurus/breadcrumb.md"
     name: "Leptailurus"
   - path: "Lynx/breadcrumb.md"
-    name: "Lynx"
+    name: "Lynx"pet_genera:
+  - name: "Felis"
+    path: "Felis/breadcrumb.md"
+
 ---
 
 # Felidae (Cat Family)

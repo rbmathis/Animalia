@@ -2,7 +2,7 @@
 title: "Chinchilla"
 description: "Genus containing 3 species."
 category: "taxonomy/genus"
-tags: ["chinchilla", "genus"]
+tags: ["chinchilla", "genus", "has-pets"]
 status: "Living"
 updated: "2026-02-23"
 related: ["../Lagidium/breadcrumb.md", "../Lagostomus/breadcrumb.md"]
@@ -29,6 +29,7 @@ species:
     common_name: "Chinchilla_lanigera"
     conservation: "Unknown"
     enriched: false
+    pet: true
   - file: "Chinchilla_sp.cs"
     name: "Chinchilla sp."
     common_name: "Chinchilla_sp"

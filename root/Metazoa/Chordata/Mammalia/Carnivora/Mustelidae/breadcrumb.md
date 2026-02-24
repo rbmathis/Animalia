@@ -2,7 +2,7 @@
 title: "Mustelidae"
 description: "Family containing 25 genera."
 category: "taxonomy/family"
-tags: ["mustelidae", "family"]
+tags: ["mustelidae", "family", "has-pets"]
 status: "Living"
 updated: "2026-02-23"
 related: ["../Ailuridae/breadcrumb.md", "../Canidae/breadcrumb.md", "../Eupleridae/breadcrumb.md"]
@@ -38,7 +38,10 @@ genera:
   - path: "Lontra/breadcrumb.md"
     name: "Lontra"
   - path: "Lutra/breadcrumb.md"
-    name: "Lutra"
+    name: "Lutra"pet_genera:
+  - name: "Mustela"
+    path: "Mustela/breadcrumb.md"
+
 ---
 
 # Mustelidae

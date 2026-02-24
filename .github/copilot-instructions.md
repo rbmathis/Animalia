@@ -174,7 +174,109 @@ Kingdom → Phylum → Class → Order → Family → Genus → Species
 
 ---
 
-## 🚫 What's NOT in This Repo
+## � Efficiency Strategies (Use the Right Tool)
+
+For large-scale queries, **use compiled artifacts and CLI tools** instead of reading source files:
+
+### Validate Interface Contracts (Scenario 21)
+
+**Don't**: Read 146K species files to check interface compliance.
+
+**Do**: Build the project and use reflection:
+
+```powershell
+# Build the genus project
+dotnet build root/**/Canis/Canis.csproj
+
+# Use PowerShell reflection to check types
+$dll = Get-ChildItem -Recurse -Filter "Canis.dll" | Select-Object -First 1
+$asm = [System.Reflection.Assembly]::LoadFrom($dll.FullName)
+$speciesTypes = $asm.GetTypes() | Where-Object { $_.Name -match "_" }
+$speciesTypes | ForEach-Object {
+    [PSCustomObject]@{
+        Type = $_.Name
+        Interfaces = ($_.GetInterfaces() | Select-Object -ExpandProperty Name) -join ", "
+    }
+}
+```
+
+### Find Compilation Errors (Scenario 10)
+
+**Don't**: Grep for syntax errors or read files looking for problems.
+
+**Do**: Let the compiler find it:
+
+```powershell
+# Build and capture errors
+dotnet build root/root.csproj 2>&1 | Select-String "error CS"
+```
+
+### Find Property/Interface Usages (Scenarios 2, 9, 11, 20)
+
+**Don't**: Read files individually to find usages.
+
+**Do**: Use scoped grep:
+
+```powershell
+# Find IPackAnimal implementations
+grep -r ": IPackAnimal" root/**/*.cs
+
+# Find CommonName usages in one family
+grep -r "CommonName" root/**/Canidae/**/*.cs
+
+# Find IsEnriched references
+grep -r "IsEnriched" root/**/*.cs | head -20
+```
+
+### Validate Data Consistency (Scenario 4)
+
+**Don't**: Read all species files to check ConservationStatus values.
+
+**Do**: Use breadcrumb species arrays or grep:
+
+```powershell
+# Check via breadcrumb (already aggregated)
+Get-Content root/**/Canidae/**/breadcrumb.md | Select-String "conservation:"
+
+# Or grep for invalid values
+grep -r "ConservationStatus" root/**/Canidae/**/*.cs | grep -v "LC\|NT\|VU\|EN\|CR\|EW\|EX"
+```
+
+### Sample, Don't Enumerate (Scenario 17)
+
+**Don't**: Read all 146K species files to find common properties.
+
+**Do**: Sample 3-5 representative species:
+
+```powershell
+# Sample one species per family
+Get-ChildItem -Recurse -Filter "*_*.cs" |
+    Group-Object { Split-Path (Split-Path $_.DirectoryName) -Leaf } |
+    ForEach-Object { $_.Group | Select-Object -First 1 }
+```
+
+### Rename Property Across Codebase (Scenario 18)
+
+**Don't**: Edit files one by one.
+
+**Do**: Use PowerShell or sed for bulk replacement:
+
+```powershell
+# Preview changes
+Get-ChildItem -Recurse -Filter "*.cs" |
+    Select-String "SpeciesCharacteristics" |
+    Select-Object -First 10
+
+# Bulk replace (after preview)
+Get-ChildItem -Recurse -Filter "*.cs" | ForEach-Object {
+    (Get-Content $_.FullName) -replace "SpeciesCharacteristics", "DistinguishingFeatures" |
+    Set-Content $_.FullName
+}
+```
+
+---
+
+## �🚫 What's NOT in This Repo
 
 - ❌ No unit tests
 - ❌ No solution file (`.sln`)

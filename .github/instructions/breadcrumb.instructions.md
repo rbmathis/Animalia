@@ -33,10 +33,14 @@ species:                                 # Species array (genus level only)
     common_name: "timber wolf"
     conservation: "Least Concern"
     enriched: true
+    pet: true                            # Is commonly kept as pet
 endangered_species: [...]                # Quick lookup of threatened species
+pet_species: [...]                       # Quick lookup of pet species (genus level)
 genera:                                  # Genera array (family level)
   - name: "Canis"
     path: "Canis/breadcrumb.md"
+pet_genera: [...]                        # Genera containing pets (family level)
+pet_families: [...]                      # Families containing pets (order+ level)
 ---
 ```
 
@@ -49,8 +53,11 @@ genera:                                  # Genera array (family level)
 | `parent` | Navigate up one rank |
 | `related` | Find sibling families/genera |
 | `links_from` | See what references this breadcrumb |
-| `tags` | Search by behavior, habitat, conservation status |
+| `tags` | Search by behavior, habitat, conservation status, `has-pets` |
 | `endangered_species` | Quick lookup of threatened species |
+| `pet_species` | Quick lookup of pet species in genus |
+| `pet_genera` | Genera containing pet species (family level) |
+| `pet_families` | Families containing pet species (order+ level) |
 
 ## Traversal Depth
 
@@ -71,6 +78,12 @@ grep "pack-hunter" root/**/breadcrumb.md
 
 # Find all genus breadcrumbs in an order
 ls root/**/Carnivora/*/*/breadcrumb.md
+
+# Find pet species
+grep "has-pets" root/**/breadcrumb.md
+
+# Find pet mammals
+grep "has-pets" root/**/Mammalia/**/breadcrumb.md
 ```
 
 ## Anti-Patterns

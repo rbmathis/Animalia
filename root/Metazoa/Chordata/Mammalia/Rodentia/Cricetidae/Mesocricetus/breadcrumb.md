@@ -2,7 +2,7 @@
 title: "Mesocricetus"
 description: "Genus containing 5 species."
 category: "taxonomy/genus"
-tags: ["mesocricetus", "genus"]
+tags: ["mesocricetus", "genus", "has-pets"]
 status: "Living"
 updated: "2026-02-23"
 related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
@@ -24,6 +24,7 @@ species:
     common_name: "Mesocricetus_auratus"
     conservation: "Unknown"
     enriched: false
+    pet: true
   - file: "Mesocricetus_brandti.cs"
     name: "Mesocricetus brandti"
     common_name: "Mesocricetus_brandti"

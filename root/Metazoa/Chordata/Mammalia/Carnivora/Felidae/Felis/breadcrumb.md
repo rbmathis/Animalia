@@ -2,7 +2,7 @@
 title: "Felis"
 description: "Genus containing 9 species."
 category: "taxonomy/genus"
-tags: ["felis", "genus"]
+tags: ["felis", "genus", "has-pets"]
 status: "Living"
 updated: "2026-02-23"
 related: ["../Acinonyx/breadcrumb.md", "../Caracal/breadcrumb.md", "../Catopuma/breadcrumb.md"]
@@ -24,6 +24,7 @@ species:
     common_name: "Felis_catus"
     conservation: "Unknown"
     enriched: false
+    pet: true
   - file: "Felis_chaus.cs"
     name: "Felis chaus"
     common_name: "Felis_chaus"

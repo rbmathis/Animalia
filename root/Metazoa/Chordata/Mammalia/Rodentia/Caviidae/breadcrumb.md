@@ -2,7 +2,7 @@
 title: "Caviidae"
 description: "Family containing 5 genera."
 category: "taxonomy/family"
-tags: ["caviidae", "family"]
+tags: ["caviidae", "family", "has-pets"]
 status: "Living"
 updated: "2026-02-23"
 related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
@@ -28,7 +28,10 @@ genera:
   - path: "Kerodon/breadcrumb.md"
     name: "Kerodon"
   - path: "Microcavia/breadcrumb.md"
-    name: "Microcavia"
+    name: "Microcavia"pet_genera:
+  - name: "Cavia"
+    path: "Cavia/breadcrumb.md"
+
 ---
 
 # Caviidae

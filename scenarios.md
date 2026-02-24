@@ -83,7 +83,7 @@ This document contains scenarios designed to test and demonstrate GitHub Copilot
 | # | Scenario | Task | Prompt | Tests |
 |---|----------|------|--------|-------|
 | 20 | Find Where IsEnriched = false is Referenced | Identify all places where `IsEnriched` property is checked or used. | `Where in the codebase is the IsEnriched property referenced or used? Show me all usages.` | Can Copilot find all property usages across many files? |
-| 21 | Validate Interface Contracts | Check that all species classes properly implement required properties from their genus interface. | `Verify that each species class implements all properties required by its genus interface (e.g., all Canis species should have properties defined in ICanis). Find any violations.` | Can Copilot validate contract compliance across inheritance hierarchies? |
+| 21 | Validate Interface Contracts | Verify species classes implement genus interface properties across a family. | `Verify that all species classes implement the required properties from their genus interfaces (e.g., ICanis, IVulpes, IUrsus). Find any violations across the Canidae family.` | Can Copilot use the interface-validation skill (build + reflection) instead of reading source files? |
 
 ---
 

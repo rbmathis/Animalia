@@ -2,7 +2,7 @@
 title: "Mustela"
 description: "Genus containing 18 species."
 category: "taxonomy/genus"
-tags: ["mustela", "genus"]
+tags: ["mustela", "genus", "has-pets"]
 status: "Living"
 updated: "2026-02-23"
 related: ["../Aonyx/breadcrumb.md", "../Arctonyx/breadcrumb.md", "../Eira/breadcrumb.md"]
@@ -79,6 +79,7 @@ species:
     common_name: "Mustela_putorius"
     conservation: "Unknown"
     enriched: false
+    pet: true
   - file: "Mustela_putorius_x_Mustela_putorius_furo.cs"
     name: "Mustela putorius x Mustela putorius furo"
     common_name: "Mustela_putorius_x_Mustela_putorius_furo"

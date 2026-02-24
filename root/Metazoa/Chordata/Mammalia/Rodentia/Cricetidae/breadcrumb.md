@@ -2,7 +2,7 @@
 title: "Cricetidae"
 description: "Family containing 156 genera."
 category: "taxonomy/family"
-tags: ["cricetidae", "family"]
+tags: ["cricetidae", "family", "has-pets"]
 status: "Living"
 updated: "2026-02-23"
 related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
@@ -38,7 +38,10 @@ genera:
   - path: "Amphinectomys/breadcrumb.md"
     name: "Amphinectomys"
   - path: "Andalgalomys/breadcrumb.md"
-    name: "Andalgalomys"
+    name: "Andalgalomys"pet_genera:
+  - name: "Mesocricetus"
+    path: "Mesocricetus/breadcrumb.md"
+
 ---
 
 # Cricetidae

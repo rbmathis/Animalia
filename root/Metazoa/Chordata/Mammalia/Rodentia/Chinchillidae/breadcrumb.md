@@ -2,7 +2,7 @@
 title: "Chinchillidae"
 description: "Family containing 3 genera."
 category: "taxonomy/family"
-tags: ["chinchillidae", "family"]
+tags: ["chinchillidae", "family", "has-pets"]
 status: "Living"
 updated: "2026-02-23"
 related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
@@ -24,7 +24,10 @@ genera:
   - path: "Lagidium/breadcrumb.md"
     name: "Lagidium"
   - path: "Lagostomus/breadcrumb.md"
-    name: "Lagostomus"
+    name: "Lagostomus"pet_genera:
+  - name: "Chinchilla"
+    path: "Chinchilla/breadcrumb.md"
+
 ---
 
 # Chinchillidae
