@@ -1,0 +1,61 @@
+---
+title: "Sciurotamias"
+description: "Genus containing 2 species."
+category: "taxonomy/genus"
+tags: ["sciurotamias", "genus"]
+status: "Living"
+updated: "2026-02-23"
+related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
+links_from: ["../breadcrumb.md"]
+rank: "genus"
+taxId: 226848
+parent: "../breadcrumb.md"
+species_count: 2
+characteristics:
+  - "Large body size"
+  - "Social pack structure"
+  - "Complex hunting strategies"
+  - "Highly developed olfaction"
+  - "Territorial behavior"
+species:
+  - file: "Sciurotamias_davidianus.cs"
+    name: "Sciurotamias davidianus"
+    common_name: "Sciurotamias_davidianus"
+    conservation: "Unknown"
+    enriched: false
+  - file: "Sciurotamias_forresti.cs"
+    name: "Sciurotamias forresti"
+    common_name: "Sciurotamias_forresti"
+    conservation: "Unknown"
+    enriched: false
+---
+
+# Sciurotamias
+
+Genus containing 2 species.
+
+## Overview
+
+- **Rank**: genus
+- **NCBI TaxId**: 226848
+- **Direct Children**: 0
+- **Species in folder**: 2
+
+## Characteristics
+
+- Large body size
+- Social pack structure
+- Complex hunting strategies
+- Highly developed olfaction
+- Territorial behavior
+
+## Species
+
+| Species | Common Name | Conservation |
+|---------|-------------|--------------|
+| Sciurotamias davidianus | Sciurotamias_davidianus | Unknown |
+| Sciurotamias forresti | Sciurotamias_forresti | Unknown |
+
+## Navigation
+
+- [↑ Parent](../breadcrumb.md)

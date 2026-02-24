@@ -1,0 +1,35 @@
+{
+  "name": "copilot-sdk-harness",
+  "version": "1.0.0",
+  "description": "Copilot SDK Performance Harness - Compare SDK vs CLI implementations",
+  "main": "copilot-harness-sdk.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node --loader ts-node/esm copilot-harness-sdk.ts",
+    "prompt": "node --loader ts-node/esm copilot-harness-sdk.ts --prompt",
+    "scenarios": "node --loader ts-node/esm copilot-harness-sdk.ts --scenario-file scenarios.json",
+    "scenario": "node --loader ts-node/esm copilot-harness-sdk.ts --scenario-file scenarios.json --scenario-id",
+    "dev": "ts-node --esm copilot-harness-sdk.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@github/copilot-sdk": "^0.1.26"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.33",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "copilot",
+    "sdk",
+    "performance",
+    "telemetry",
+    "benchmark"
+  ],
+  "author": "GitHub Copilot",
+  "license": "MIT"
+}

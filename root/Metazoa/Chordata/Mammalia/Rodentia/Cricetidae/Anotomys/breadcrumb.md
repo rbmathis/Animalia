@@ -1,0 +1,55 @@
+---
+title: "Anotomys"
+description: "Genus containing 1 species."
+category: "taxonomy/genus"
+tags: ["anotomys", "genus"]
+status: "Living"
+updated: "2026-02-23"
+related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
+links_from: ["../breadcrumb.md"]
+rank: "genus"
+taxId: 2928175
+parent: "../breadcrumb.md"
+species_count: 1
+characteristics:
+  - "Large body size"
+  - "Social pack structure"
+  - "Complex hunting strategies"
+  - "Highly developed olfaction"
+  - "Territorial behavior"
+species:
+  - file: "Anotomys_leander.cs"
+    name: "Anotomys leander"
+    common_name: "Anotomys_leander"
+    conservation: "Unknown"
+    enriched: false
+---
+
+# Anotomys
+
+Genus containing 1 species.
+
+## Overview
+
+- **Rank**: genus
+- **NCBI TaxId**: 2928175
+- **Direct Children**: 0
+- **Species in folder**: 1
+
+## Characteristics
+
+- Large body size
+- Social pack structure
+- Complex hunting strategies
+- Highly developed olfaction
+- Territorial behavior
+
+## Species
+
+| Species | Common Name | Conservation |
+|---------|-------------|--------------|
+| Anotomys leander | Anotomys_leander | Unknown |
+
+## Navigation
+
+- [↑ Parent](../breadcrumb.md)

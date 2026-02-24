@@ -1,0 +1,55 @@
+---
+title: "Lionycteris"
+description: "Genus containing 1 species."
+category: "taxonomy/genus"
+tags: ["lionycteris", "genus"]
+status: "Living"
+updated: "2026-02-23"
+related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
+links_from: ["../breadcrumb.md"]
+rank: "genus"
+taxId: 148084
+parent: "../breadcrumb.md"
+species_count: 1
+characteristics:
+  - "Large body size"
+  - "Social pack structure"
+  - "Complex hunting strategies"
+  - "Highly developed olfaction"
+  - "Territorial behavior"
+species:
+  - file: "Lionycteris_spurrelli.cs"
+    name: "Lionycteris spurrelli"
+    common_name: "Lionycteris_spurrelli"
+    conservation: "Unknown"
+    enriched: false
+---
+
+# Lionycteris
+
+Genus containing 1 species.
+
+## Overview
+
+- **Rank**: genus
+- **NCBI TaxId**: 148084
+- **Direct Children**: 0
+- **Species in folder**: 1
+
+## Characteristics
+
+- Large body size
+- Social pack structure
+- Complex hunting strategies
+- Highly developed olfaction
+- Territorial behavior
+
+## Species
+
+| Species | Common Name | Conservation |
+|---------|-------------|--------------|
+| Lionycteris spurrelli | Lionycteris_spurrelli | Unknown |
+
+## Navigation
+
+- [↑ Parent](../breadcrumb.md)

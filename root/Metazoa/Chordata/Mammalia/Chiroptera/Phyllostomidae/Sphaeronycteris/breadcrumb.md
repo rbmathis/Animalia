@@ -1,0 +1,55 @@
+---
+title: "Sphaeronycteris"
+description: "Genus containing 1 species."
+category: "taxonomy/genus"
+tags: ["sphaeronycteris", "genus"]
+status: "Living"
+updated: "2026-02-23"
+related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
+links_from: ["../breadcrumb.md"]
+rank: "genus"
+taxId: 148029
+parent: "../breadcrumb.md"
+species_count: 1
+characteristics:
+  - "Large body size"
+  - "Social pack structure"
+  - "Complex hunting strategies"
+  - "Highly developed olfaction"
+  - "Territorial behavior"
+species:
+  - file: "Sphaeronycteris_toxophyllum.cs"
+    name: "Sphaeronycteris toxophyllum"
+    common_name: "Sphaeronycteris_toxophyllum"
+    conservation: "Unknown"
+    enriched: false
+---
+
+# Sphaeronycteris
+
+Genus containing 1 species.
+
+## Overview
+
+- **Rank**: genus
+- **NCBI TaxId**: 148029
+- **Direct Children**: 0
+- **Species in folder**: 1
+
+## Characteristics
+
+- Large body size
+- Social pack structure
+- Complex hunting strategies
+- Highly developed olfaction
+- Territorial behavior
+
+## Species
+
+| Species | Common Name | Conservation |
+|---------|-------------|--------------|
+| Sphaeronycteris toxophyllum | Sphaeronycteris_toxophyllum | Unknown |
+
+## Navigation
+
+- [↑ Parent](../breadcrumb.md)

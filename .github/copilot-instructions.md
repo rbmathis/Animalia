@@ -26,107 +26,34 @@ This is a **large-scale C# taxonomy codebase** representing the biological class
 
 ## 📁 Repository Structure
 
+**See [`architecture.md`](../../architecture.md) for complete structure, file patterns, and namespace conventions.**
+
+Quick overview:
 ```
 Animalia/
 └── root/
     └── Metazoa/
-        └── Chordata/           # Phylum
-            └── Mammalia/       # Class
-                └── Carnivora/  # Order
-                    └── Canidae/    # Family
-                        └── Canis/  # Genus
-                            ├── Canis.cs           # Abstract genus class
-                            ├── ICanis.cs          # Genus interface
-                            ├── Canis_lupus.cs     # Species (Grey Wolf)
-                            └── Canis_latrans.cs   # Species (Coyote)
-```
-
-Each taxonomic level contains:
-- **Base class** extending parent rank
-- **Interface** defining behaviors for that rank
-- **Species files** with enriched biological data
-
-### Interface Dual-Pattern
-
-Each rank has **two interface types**:
-
-| Type | Example | Purpose |
-|------|---------|--------|
-| **Ranking interface** | `ICarnivora` | All properties for that taxonomic level |
-| **Trait interfaces** | `ICarnivore`, `IPredator` | Focused biological/behavioral contracts |
-
-### Namespace Convention
-
-```
-AnimalKingdom.root.Metazoa.Chordata.{Class}.{Order}.{Family}.{Genus}
-```
-
-Namespaces **mirror folder paths exactly** — derive from path, don't look up.
-
----
-
-## 🧬 File Patterns
-
-### Species File Types
-
-| Type | Pattern | Example |
-|------|---------|--------|
-| Regular | `Genus_species.cs` | `Canis_lupus.cs` |
-| Hybrid | `Genus_species_x_Genus_species.cs` | `Equus_caballus_x_Equus_asinus.cs` |
-| Environmental | `*_environmental_sample.cs` | DNA-only specimens |
-| Unclassified | `unclassified_*/` folders | Taxonomically uncertain |
-
-### Species Files (e.g., `Canis_lupus.cs`)
-
-```csharp
-/// <summary>
-/// Species: Canis lupus
-/// NCBI TaxId: 9612
-/// </summary>
-public class Canis_lupus : Canis
-{
-    public const bool IsEnriched = true;  // false = stub, true = has real data
-
-    public string SpeciesName => "Canis lupus";
-    public string CommonName => "Grey Wolf";
-    public string ConservationStatus => "Least Concern";
-    // ... more properties
-}
-```
-
-### Genus Classes (e.g., `Canis.cs`)
-
-```csharp
-public abstract class Canis : Canidae, ICanis
-{
-    public override string TaxonomicRank => "genus";
-    public virtual string GenusName => "Canis";
-}
+        └── Chordata/
+            └── Mammalia/
+                └── Carnivora/
+                    └── Canidae/
+                        └── Canis/
+                            ├── Canis.cs (Genus class)
+                            ├── Canis_lupus.cs (Species)
+                            └── breadcrumb.md
 ```
 
 ---
 
-## 🔍 Key Fields in Species Files
+## 🧬 File Patterns & Species Data
 
-**Stub species** (`IsEnriched = false`):
+**See [`architecture.md`](../../architecture.md) for detailed file patterns, enrichment reference, and data structure.**
 
-| Field | Description |
-|-------|-------------|
-| `IsEnriched` | `false` — placeholder data only |
-| `SpeciesName` | Scientific binomial name |
-| `CommonName` | English common name (may be `TODO: Enrich`) |
-| `TaxonomicRank` | Always `"species"` |
-| `TaxId` | NCBI Taxonomy ID |
-
-**Enriched species** (`IsEnriched = true`) add:
-
-| Field | Description |
-|-------|-------------|
-| `SpeciesCharacteristics` | `string[]` of distinctive features |
-| `ConservationStatus` | IUCN Red List status |
-| `AverageLifespanYears` | `double` |
-| `ReproductionMethod` | e.g., "Viviparous" |
-| `AdultLengthCm` | `(double Min, double Max)` tuple |
+Quick reference:
+- **Species file naming**: `Genus_species.cs` (e.g., `Canis_lupus.cs`)
+- **Hybrids**: `Genus_species_x_Genus_species.cs`
+- **Enrichment flag**: `IsEnriched` (true = full data, false = stub)
+- **Primary key**: `TaxId` (NCBI Taxonomy ID)
 
 ---
 
@@ -134,183 +61,54 @@ public abstract class Canis : Canidae, ICanis
 
 ### 🧭 Breadcrumb Navigation (Recommended)
 
-The repository uses **breadcrumb.md** files at key taxonomic levels for efficient navigation:
+**See [`architecture.md`](../../architecture.md) for comprehensive navigation strategies.**
 
-```
-root/breadcrumb.md                          # Kingdom entry point
-root/Metazoa/Chordata/Mammalia/breadcrumb.md   # All mammal orders
-root/.../Carnivora/Canidae/breadcrumb.md    # Dog family genera & species
-root/.../Canidae/Canis/breadcrumb.md        # Wolf genus with species list
-```
-
-**Each breadcrumb contains YAML frontmatter with:**
-- `tags`: Flat array of searchable keywords (taxon name, rank, behaviors, conservation status)
-- `related`: Paths to sibling/peer breadcrumbs for lateral navigation
-- `links_from`: Backlinks showing which breadcrumbs reference this one
-- `children`/`genera`: Sub-taxa with paths to their breadcrumbs
-- `species`: Species list with conservation status, enrichment flag (genus level)
-
-**Traversal depth guidance:**
-| Depth | Use Case | Example |
-|-------|----------|---------|
-| 0 | Single lookup | "What is Canis lupus conservation status?" |
-| 1 | Standard query (default) | "List all endangered Canidae" |
-| 2 | Cross-cutting concern | "Compare pack behavior across Carnivora families" |
-
-**Use breadcrumbs for:**
-- Finding species: Read genus breadcrumb → find species in list → open file
-- Conservation queries: Check `tags` for conservation keywords or `endangered_species`
-- Behavior/habitat queries: Check `tags` for behavior/habitat keywords
-- Tag-based discovery: Search breadcrumbs by tag intersection for multi-concept queries
-
-**Skills:** 
-- `.github/skills/breadcrumb-traversal/` — Traversal depth and tag-based discovery
-- `.github/skills/breadcrumb-creation/` — Creating and maintaining breadcrumbs
-- `.github/skills/species-lookup/` — Finding specific species
-
-### Finding Species
-- **Breadcrumb method**: Read genus breadcrumb.md → find species in `species` array
-- Use file patterns: `**/Canidae/**/*.cs` or `**/*_lupus.cs`
-- Grep for `TaxId: {id}` for exact species lookup
-- **Glob patterns beat semantic search** for this structured codebase
-
-### Understanding Hierarchy
-- Each folder is a taxonomic rank
-- Parent class is always in the parent folder
-- Interfaces (I*.cs) define behaviors at each level
-- **Breadcrumb parent links**: Each breadcrumb has `parent: "../breadcrumb.md"`
-- **Backlinks**: Each breadcrumb has `links_from` showing what references it
-
-### Working with Species Data
-- Check `IsEnriched` to know if data is real or placeholder
-- `TaxId` links to NCBI taxonomy database
-- Conservation status follows IUCN categories (see reference below)
+Quick summary:
+- Read breadcrumb.md files at taxonomy levels for efficient navigation
+- Use breadcrumb `tags` for searching by behavior, habitat, conservation status
+- Use `related` field to find sibling families
+- Use `species` array in genus breadcrumbs to list species
+- Traversal depth: 0 (single lookup) → 1 (standard) → 2 (cross-cutting)
 
 ---
 
 ## 🔍 Search Strategies
 
-Best practices for navigating 161K files:
+**See [`architecture.md`](../../architecture.md) for complete search strategies and quick reference queries.**
 
-| Task | Efficient Approach | Avoid |
-|------|-------------------|-------|
-| Find specific species | Read genus `breadcrumb.md` → species list | Scanning folder |
-| List species in genus | Read `breadcrumb.md` → `species` array | `ls *.cs` on folder |
-| Find endangered species | Check family breadcrumb `endangered_species` | Grep across files |
-| Find by habitat/behavior | Check breadcrumb `tags.habitat` or `tags.behavior` | Reading each file |
-| Understand inheritance | Read genus file only (parent is documented) | Walking up folder tree |
-| Check conservation status | Read breadcrumb species list OR single file | Listing all species |
-
-### Tag-Based Discovery via Breadcrumbs
-
-Breadcrumb files aggregate tags across their subtaxa:
-
-```yaml
-tags:
-  conservation: ["endangered", "least-concern", "vulnerable"]
-  behavior: ["pack-hunter", "social", "territorial"]
-  habitat: ["arctic", "temperate", "forest"]
-  diet: ["carnivore", "omnivore"]
-```
-
-**Query examples:**
-- "Find pack animals" → Search breadcrumbs for `behavior: ["pack-hunter"]`
-- "Find arctic species" → Search breadcrumbs for `habitat: ["arctic"]`
-- "Find endangered canids" → Read `Canidae/breadcrumb.md` → `endangered_species` list
+Key approaches:
+- **Breadcrumb tags**: Search breadcrumbs for conservation status, behavior, habitat
+- **Glob patterns**: `**/Canidae/**/*.cs` to narrow file scope
+- **Grep by TaxId**: `grep -r "TaxId = 9612" root/`
+- **Avoid**: Listing 500+ species files, semantic search without constraints
 
 ---
 
 ## ⚡ Context Efficiency
 
-### Principles
+**See [`architecture.md`](../../architecture.md) for context budgeting, anti-patterns, and efficiency principles.**
 
-1. **TaxId is your primary key** — unique, searchable, links to NCBI
-2. **Patterns are deterministic** — namespace/class/parent derivable from path
-3. **Species are self-contained** — no sibling dependencies
-4. **~150 lines for full context** — species + genus + interface
-5. **Glob > semantic search** — faster, more precise for this structure
-6. **Sample, don't enumerate** — one species per family for patterns
-
-### Context Budgeting
-
-| File Type | Approx. Lines | When to Read |
-|-----------|---------------|--------------|
-| Species (stub) | 30–40 | Basic info |
-| Species (enriched) | 60–100 | Full details |
-| Genus class | 30–50 | Inheritance context |
-| Interface | 20–40 | Contract reference |
-| **Full context** | ~150 max | species + genus + interface |
-
-### Predictable Patterns (avoid lookups)
-
-These are **deterministic** — derive from path, don't read files:
-
-| Pattern | Rule |
-|---------|------|
-| Namespace | `AnimalKingdom.` + folder path (dots for slashes) |
-| Class name | Same as filename minus `.cs` |
-| Parent class | Folder name one level up |
-| Interface name | `I` + class name |
-
-### Self-Contained Files
-
-Species files have **no cross-species dependencies**:
-- Species only inherits from genus (one file)
-- No imports from sibling species
-- No shared utilities to track down
-- **Safe to read in isolation**
+Core principles:
+- **TaxId** is the primary key (unique, links to NCBI)
+- **~150 lines** for full context (species + genus + interface)
+- **Glob > semantic search** for this structured codebase
+- **Sample, don't enumerate** (one species per family for patterns)
+- **Patterns are deterministic** — derive namespace/class/parent from path
 
 ---
 
-## 🚫 Anti-Patterns
+## 📚 Reference Data
 
-Critical for context preservation:
+**See [`architecture.md`](../../architecture.md) for complete reference section.**
 
-- ❌ **Never list entire genus folders** — some have 500+ species files
-- ❌ **Never semantic search without constraints** — 161K files will overwhelm
-- ❌ **Never build inheritance tree dynamically** — it's static and documented
-- ❌ **Never read sibling species** unless explicitly comparing them
+Quick lookup:
 
----
+**IUCN Conservation Status:**
+- EX = Extinct | EW = Extinct in Wild | CR = Critically Endangered | EN = Endangered
+- VU = Vulnerable | NT = Near Threatened | LC = Least Concern
 
-## 📊 Sampling Strategy
-
-When analyzing patterns across many files:
-1. Pick **one representative per family** (not all species)
-2. Use enriched species over stubs for richer data
-3. Target major families as canonical examples: `Canidae`, `Felidae`, `Ursidae`
-
----
-
-## 📚 Static Reference Data
-
-### IUCN Conservation Status Codes
-
-| Code | Status |
-|------|--------|
-| LC | Least Concern |
-| NT | Near Threatened |
-| VU | Vulnerable |
-| EN | Endangered |
-| CR | Critically Endangered |
-| EW | Extinct in Wild |
-| EX | Extinct |
-
-### Taxonomic Rank Hierarchy
-
-```
+**Taxonomic Hierarchy:**
 Kingdom → Phylum → Class → Order → Family → Genus → Species
-```
-
----
-
-## ⚠️ Known Data Quirks
-
-| Quirk | Details |
-|-------|---------|
-| Templated data | Some family names say "Canidae" generically |
-| Environmental samples | Lack most biological properties |
-| AI-generated | Enrichment data should be verified externally |
 
 ---
 

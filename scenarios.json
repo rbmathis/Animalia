@@ -7,21 +7,21 @@
   },
   {
     "id": 2,
-    "name": "Fix Missing Common Name",
+    "name": "Find Where CommonName is Referenced",
     "category": "Bug Fixes",
-    "prompt": "Find a species with an empty CommonName and fill it in with the correct common name"
+    "prompt": "Where is the CommonName property used across the codebase? Show me all the files that reference it."
   },
   {
     "id": 3,
-    "name": "Incorrect Taxonomy Placement",
+    "name": "Show Inheritance Pattern",
     "category": "Bug Fixes",
-    "prompt": "Check if Vulpes_vulpes is in the correct genus folder based on its class inheritance"
+    "prompt": "Show me all species classes that directly inherit from the Canis genus class. What's the inheritance pattern?"
   },
   {
     "id": 4,
-    "name": "Fix Namespace Mismatch",
+    "name": "Validate Consistency in Family",
     "category": "Bug Fixes",
-    "prompt": "Find any species files where the namespace doesn't match the folder path and fix them"
+    "prompt": "Check all species in the Canidae family - do they all have valid ConservationStatus values following IUCN format (EX, EW, CR, EN, VU, NT, LC)? Show me any that don't match the pattern."
   },
   {
     "id": 5,
@@ -31,15 +31,15 @@
   },
   {
     "id": 6,
-    "name": "Add Interface for Endangered Species",
+    "name": "Add Validation Layer",
     "category": "Features",
-    "prompt": "Create an IEndangered interface and show me how to implement it on Canis_simensis (Ethiopian Wolf) since it's endangered"
+    "prompt": "Add validation to the ConservationStatus property to ensure only valid IUCN values are accepted (EX, EW, CR, EN, VU, NT, LC). Show me where this needs to be added."
   },
   {
     "id": 7,
-    "name": "Add Diet Classification",
+    "name": "Add Debug Logging",
     "category": "Features",
-    "prompt": "Create a DietType enum and add a Diet property to species. Use Canis_lupus as an example - what diet type should a wolf have?"
+    "prompt": "Add debug logging to property getters in species files to trace data access. Show me the pattern so I can apply it consistently across all species."
   },
   {
     "id": 8,
@@ -49,9 +49,9 @@
   },
   {
     "id": 9,
-    "name": "Emergency Remove PII from Comments",
+    "name": "Impact Analysis: Renaming IPackAnimal",
     "category": "Hotfixes",
-    "prompt": "Search for any email addresses in XML doc comments across the codebase and remove them"
+    "prompt": "If we rename IPackAnimal to ISocialHunter, what files would need to change? Show me the impact."
   },
   {
     "id": 10,
@@ -61,15 +61,15 @@
   },
   {
     "id": 11,
-    "name": "Find All Pack Animals",
+    "name": "Find Implementations of IPackAnimal",
     "category": "Code Discovery",
-    "prompt": "Find species in this repo that are known to live in packs or have social hunting behavior"
+    "prompt": "Which species classes implement the IPackAnimal interface? Show me where it's used."
   },
   {
     "id": 12,
-    "name": "Find Species by Habitat",
+    "name": "Trace Habitat Usage in Logic",
     "category": "Code Discovery",
-    "prompt": "Find all species that live in Arctic or Polar habitats"
+    "prompt": "Where is the Habitat property used in conditional logic or decision-making code? Show me all places that depend on it."
   },
   {
     "id": 13,
@@ -115,54 +115,66 @@
   },
   {
     "id": 20,
-    "name": "Find Species Needing Enrichment",
+    "name": "Find Where IsEnriched = false is Referenced",
     "category": "Cross-Cutting Queries",
-    "prompt": "Find species files that are stubs (IsEnriched = false) and need enrichment. Show me a few examples from different families."
+    "prompt": "Where in the codebase is the IsEnriched property referenced or used? Show me all usages."
   },
   {
     "id": 21,
-    "name": "Identify Missing Interfaces",
+    "name": "Validate Interface Contracts",
     "category": "Cross-Cutting Queries",
-    "prompt": "Check if the Canis genus class properly implements ICanis. Are there any missing interface implementations?"
+    "prompt": "Verify that each species class implements all properties required by its genus interface (e.g., all Canis species should have properties defined in ICanis). Find any violations."
   },
   {
     "id": 22,
+    "name": "Analyze Property Distribution Pattern",
+    "category": "Code Discovery",
+    "prompt": "Analyze the Canidae family implementation - which properties are defined at the Canidae family level, at each genus level (Canis, Vulpes, Lycaon, etc.), and at the species level? Is the pattern consistent across all genera? What inconsistencies or violations of the pattern exist?"
+  },
+  {
+    "id": 23,
+    "name": "Extend High-Level Interface",
+    "category": "Refactoring",
+    "prompt": "Add a GetExtinctionRiskLevel() method to the base Animal interface (at the root level) that calculates extinction risk. All species, genera, and families must implement this. Show me the method signature and implementation strategy."
+  },
+  {
+    "id": 24,
     "name": "Species Lookup (Depth 0)",
     "category": "Breadcrumb Navigation",
     "prompt": "What is the conservation status of Canis lupus?"
   },
   {
-    "id": 23,
+    "id": 25,
     "name": "Genus Listing (Depth 0)",
     "category": "Breadcrumb Navigation",
     "prompt": "List all bear genera"
   },
   {
-    "id": 24,
+    "id": 26,
     "name": "Endangered in Family (Depth 1)",
     "category": "Breadcrumb Navigation",
     "prompt": "Which Canidae are endangered?"
   },
   {
-    "id": 25,
+    "id": 27,
     "name": "Tag-Based Discovery (Depth 1-2)",
     "category": "Breadcrumb Navigation",
     "prompt": "Find pack-hunting mammals"
   },
   {
-    "id": 26,
+    "id": 28,
     "name": "Cross-Family Compare (Depth 2)",
     "category": "Breadcrumb Navigation",
     "prompt": "Compare Canidae vs Felidae species counts"
   },
   {
-    "id": 27,
+    "id": 29,
     "name": "Lateral Navigation",
     "category": "Breadcrumb Navigation",
     "prompt": "What families are related to Canidae?"
   },
   {
-    "id": 28,
+    "id": 30,
     "name": "Backlink Traversal",
     "category": "Breadcrumb Navigation",
     "prompt": "What links to the Canis breadcrumb?"

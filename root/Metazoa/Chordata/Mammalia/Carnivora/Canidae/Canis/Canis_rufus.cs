@@ -15,7 +15,7 @@ public class Canis_rufus : Canis
     public string SpeciesName => "Canis rufus";
 
     /// <summary>Gets the common name.</summary>
-    public string CommonName => "Canis rufus";
+    public string CommonName => "Red Wolf";
 
     /// <inheritdoc />
     public override string TaxonomicRank => "species";

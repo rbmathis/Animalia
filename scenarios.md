@@ -2,6 +2,8 @@
 
 This document contains scenarios designed to test and demonstrate GitHub Copilot's effectiveness on large codebases. Each scenario simulates a real developer task applied to the Animal Kingdom repository.
 
+> ⚠️ **IMPORTANT**: When updating scenario descriptions or prompts in this file, also update the corresponding entries in `scenarios.json` to keep them in sync. The harness uses the JSON file for execution.
+
 ---
 
 ## 🎯 What We're Proving
@@ -20,9 +22,9 @@ This document contains scenarios designed to test and demonstrate GitHub Copilot
 | # | Scenario | Task | Prompt | Tests |
 |---|----------|------|--------|-------|
 | 1 | Fix Incorrect Conservation Status | The Ethiopian Wolf (`Canis_simensis.cs`) has `ConservationStatus => "Endangered status"` but should be `"Endangered"` (following IUCN format). | `Find Canis_simensis and fix its ConservationStatus - it should follow IUCN format (just "Endangered", not "Endangered status")` | Can Copilot find the file, understand the pattern, and suggest the correct fix? |
-| 2 | Fix Missing Common Name | Several species have `CommonName => ""` (empty string). Find one and populate it with accurate data. | `Find a species with an empty CommonName and fill it in with the correct common name` | Can Copilot locate stubs (`IsEnriched = false`) and enrich them correctly? |
-| 3 | Incorrect Taxonomy Placement | A species file is in the wrong genus folder. Identify the issue and move it. | `Check if Vulpes_vulpes is in the correct genus folder based on its class inheritance` | Can Copilot understand the hierarchical structure and validate placements? |
-| 4 | Fix Namespace Mismatch | A species file's namespace doesn't match its folder path (e.g., file is in `Canidae/Vulpes/` but namespace says `Canidae.Canis`). | `Find any species files where the namespace doesn't match the folder path and fix them` | Can Copilot detect and fix namespace/path inconsistencies? |
+| 2 | Find Where CommonName is Referenced | CommonName property is used across the codebase. Identify all usages and understand the pattern. | `Where is the CommonName property used across the codebase? Show me all the files that reference it.` | Can Copilot find all property usages efficiently? |
+| 3 | Show Inheritance Pattern | Understand how species inherit from genus classes. Show all direct subclasses. | `Show me all species classes that directly inherit from the Canis genus class. What's the inheritance pattern?` | Can Copilot navigate class hierarchies and identify all implementations? |
+| 4 | Validate Consistency in Family | Verify all species in a family follow consistent data patterns. Check Canidae species for complete/valid properties. | `Check all species in the Canidae family - do they all have valid ConservationStatus values following IUCN format (EX, EW, CR, EN, VU, NT, LC)? Show me any that don't match the pattern.` | Can Copilot validate consistency across a specific family without broad scanning? |
 
 ---
 
@@ -31,8 +33,8 @@ This document contains scenarios designed to test and demonstrate GitHub Copilot
 | # | Scenario | Task | Prompt | Tests |
 |---|----------|------|--------|-------|
 | 5 | Add a New Property to All Species | Add `WikipediaUrl` property to all species files. | `Add a WikipediaUrl property to Canis_lupus that generates a Wikipedia link from the SpeciesName. Show me the pattern so I can apply it to other species.` | Can Copilot generate a consistent pattern across 112K species files? |
-| 6 | Add Interface for Endangered Species | Create `IEndangered` interface with `string ConservationPlan { get; }` and implement it on all endangered species. | `Create an IEndangered interface and show me how to implement it on Canis_simensis (Ethiopian Wolf) since it's endangered` | Can Copilot identify which species are endangered and add the interface? |
-| 7 | Add Diet Classification | Add a `DietType` enum (`Carnivore`, `Herbivore`, `Omnivore`, `Insectivore`) and property. | `Create a DietType enum and add a Diet property to species. Use Canis_lupus as an example - what diet type should a wolf have?` | Can Copilot infer diet type from existing species data? |
+| 6 | Add Validation Layer | Add validation to ConservationStatus property to ensure it matches IUCN standards. | `Add validation to the ConservationStatus property to ensure only valid IUCN values are accepted (EX, EW, CR, EN, VU, NT, LC). Show me where this needs to be added.` | Can Copilot identify all property setters and add consistent validation? |
+| 7 | Add Debug Logging | Add debug logging to property getters across species files for troubleshooting. | `Add debug logging to property getters in species files to trace data access. Show me the pattern so I can apply it consistently across all species.` | Can Copilot suggest a DRY logging pattern for instrumentation? |
 | 8 | Create Summary Statistics Class | Create a class that aggregates statistics: total species count, count by conservation status, count by taxonomic rank. | `Create a TaxonomyStatistics class that can count species by conservation status. What properties would it need based on our species data model?` | Can Copilot understand the data model well enough to query it? |
 
 ---
@@ -41,7 +43,7 @@ This document contains scenarios designed to test and demonstrate GitHub Copilot
 
 | # | Scenario | Task | Prompt | Tests |
 |---|----------|------|--------|-------|
-| 9 | Emergency: Remove PII from Comments | A researcher's email accidentally ended up in XML doc comments. Find and remove all instances. | `Search for any email addresses in XML doc comments across the codebase and remove them` | Can Copilot perform a targeted search-and-replace across 160K files? |
+| 9 | Impact Analysis: Renaming IPackAnimal | If we rename the `IPackAnimal` interface to `ISocialHunter`, what needs to be updated? | `If we rename IPackAnimal to ISocialHunter, what files would need to change? Show me the impact.` | Can Copilot identify all implementation points and dependents? |
 | 10 | Hotfix: Compilation Error in New Species | A recently added species file has a syntax error preventing build. Find and fix it. | `There's a syntax error somewhere in the codebase. Find the file with the compilation error and fix it.` | Can Copilot locate compilation errors without IDE support (C# extension disabled)? |
 
 ---
@@ -50,8 +52,8 @@ This document contains scenarios designed to test and demonstrate GitHub Copilot
 
 | # | Scenario | Task | Prompt | Tests |
 |---|----------|------|--------|-------|
-| 11 | Find All Pack Animals | Identify all species that have pack/social behavior (wolves, lions, etc.). | `Find species in this repo that are known to live in packs or have social hunting behavior` | Can Copilot search semantically, not just by keyword? |
-| 12 | Find Species by Habitat | List all species with `Habitat` containing "Arctic" or "Polar". | `Find all species that live in Arctic or Polar habitats` | Can Copilot efficiently query across 112K species files? |
+| 11 | Find Implementations of IPackAnimal | Identify all species that implement the `IPackAnimal` interface. | `Which species classes implement the IPackAnimal interface? Show me where it's used.` | Can Copilot find all interface implementations? |
+| 12 | Trace Habitat Usage in Logic | Find all conditional logic that uses the Habitat property. What decisions depend on it? | `Where is the Habitat property used in conditional logic or decision-making code? Show me all places that depend on it.` | Can Copilot trace property usage through branching logic and find dependencies? |
 | 13 | Compare Two Related Species | Compare `Canis_lupus` (wolf) and `Canis_latrans` (coyote) — what properties differ? | `Compare the Grey Wolf (Canis_lupus) and Coyote (Canis_latrans) - what are the key differences in their properties?` | Can Copilot load two files and produce a meaningful diff? |
 | 14 | Trace Inheritance Chain | For `Canis_lupus`, show the full inheritance: Species → Genus → Family → Order → Class → Phylum. | `Show me the complete inheritance hierarchy for Canis_lupus from species up to phylum` | Can Copilot navigate the folder hierarchy to find parent classes? |
 
@@ -80,8 +82,8 @@ This document contains scenarios designed to test and demonstrate GitHub Copilot
 
 | # | Scenario | Task | Prompt | Tests |
 |---|----------|------|--------|-------|
-| 20 | Find Species Needing Enrichment | List all species where `IsEnriched = false` — these are stubs needing data. | `Find species files that are stubs (IsEnriched = false) and need enrichment. Show me a few examples from different families.` | Can Copilot efficiently filter by a boolean property? |
-| 21 | Identify Missing Interfaces | Find genera that don't implement their expected interface (e.g., `Canis` should implement `ICanis`). | `Check if the Canis genus class properly implements ICanis. Are there any missing interface implementations?` | Can Copilot validate structural patterns across the codebase? |
+| 20 | Find Where IsEnriched = false is Referenced | Identify all places where `IsEnriched` property is checked or used. | `Where in the codebase is the IsEnriched property referenced or used? Show me all usages.` | Can Copilot find all property usages across many files? |
+| 21 | Validate Interface Contracts | Check that all species classes properly implement required properties from their genus interface. | `Verify that each species class implements all properties required by its genus interface (e.g., all Canis species should have properties defined in ICanis). Find any violations.` | Can Copilot validate contract compliance across inheritance hierarchies? |
 
 ---
 
@@ -91,15 +93,17 @@ These scenarios verify that breadcrumb.md files are being used for efficient nav
 
 | # | Scenario | Query | Expected Behavior | Anti-pattern |
 |---|----------|-------|-------------------|--------------|
-| 22 | Species Lookup (Depth 0) | "What is the conservation status of Canis lupus?" | Read `Canis/breadcrumb.md` → find in species array | Opening `Canis_lupus.cs` or grepping |
-| 23 | Genus Listing (Depth 0) | "List all bear genera" | Read `Ursidae/breadcrumb.md` → return genera array | `Get-ChildItem -Directory` |
-| 24 | Endangered in Family (Depth 1) | "Which Canidae are endangered?" | Read `Canidae/breadcrumb.md` → check `endangered_species` | Grep "Endangered" in all .cs files |
-| 25 | Tag-Based Discovery (Depth 1-2) | "Find pack-hunting mammals" | Search breadcrumbs for `tags: ["pack-hunter"]` | Grep characteristics in .cs files |
-| 26 | Cross-Family Compare (Depth 2) | "Compare Canidae vs Felidae species counts" | Read both family breadcrumbs | Count files in directories |
-| 27 | Lateral Navigation | "What families are related to Canidae?" | Read `Canidae/breadcrumb.md` → check `related` array | Guess or list sibling folders |
-| 28 | Backlink Traversal | "What links to the Canis breadcrumb?" | Check `links_from` in `Canis/breadcrumb.md` | Manual folder traversal |
+| 22 | Analyze Property Distribution Pattern | Understand how properties are distributed across the hierarchy in a family. | `Analyze the Canidae family implementation - which properties are defined at the Canidae family level, at each genus level (Canis, Vulpes, Lycaon, etc.), and at the species level? Is the pattern consistent across all genera? What inconsistencies or violations of the pattern exist?` | Can Copilot navigate a family's hierarchy and identify design patterns and inconsistencies? |
+| 23 | Extend High-Level Interface | Add a new capability to a base interface that all derived species must implement. | `Add a GetExtinctionRiskLevel() method to the base Animal interface (at the root level) that calculates extinction risk. All species, genera, and families must implement this. Show me the method signature and implementation strategy.` | Can Copilot understand the impact of interface changes rippling through the hierarchy? |
+| 24 | Species Lookup (Depth 0) | "What is the conservation status of Canis lupus?" | Read `Canis/breadcrumb.md` → find in species array | Opening `Canis_lupus.cs` or grepping |
+| 25 | Genus Listing (Depth 0) | "List all bear genera" | Read `Ursidae/breadcrumb.md` → return genera array | `Get-ChildItem -Directory` |
+| 26 | Endangered in Family (Depth 1) | "Which Canidae are endangered?" | Read `Canidae/breadcrumb.md` → check `endangered_species` | Grep "Endangered" in all .cs files |
+| 27 | Tag-Based Discovery (Depth 1-2) | "Find pack-hunting mammals" | Search breadcrumbs for `tags: ["pack-hunter"]` | Grep characteristics in .cs files |
+| 28 | Cross-Family Compare (Depth 2) | "Compare Canidae vs Felidae species counts" | Read both family breadcrumbs | Count files in directories |
 
-### Validation Checklist
+| 30 | Backlink Traversal | "What links to the Canis breadcrumb?" | Check `links_from` in `Canis/breadcrumb.md` | Manual folder traversal |
+
+| 29 | Lateral Navigation | "What families are related to Canidae?" | Read `Canidae/breadcrumb.md` → check `related` array | Guess or list sibling folders |
 
 When Copilot answers taxonomy questions, verify:
 - [ ] Reads `breadcrumb.md` files first (not .cs files)

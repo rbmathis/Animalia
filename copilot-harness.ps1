@@ -21,6 +21,9 @@
 .PARAMETER ScenarioId
     Run only a specific scenario by ID (1-21)
 
+.PARAMETER Model
+    AI model to use (e.g., 'claude-opus-4.5', 'claude-haiku-4.5')
+
 .PARAMETER DryRun
     Show what would run without executing
 
@@ -31,6 +34,9 @@
     .\copilot-harness.ps1 -ScenarioFile scenarios.json -ScenarioId 1
 
 .EXAMPLE
+    .\copilot-harness.ps1 -ScenarioFile scenarios.json -Model 'claude-opus-4.5'
+
+.EXAMPLE
     .\copilot-harness.ps1 -ScenarioFile scenarios.json -OutputDir ./results/run1
 #>
 
@@ -39,7 +45,9 @@ param(
     [string]$ScenarioFile,
     [string]$OutputDir = "./results",
     [int]$ScenarioId,
+    [string]$Model,
     [switch]$DryRun,
+    [switch]$NoTelemetry,
     [int]$TimeoutSeconds = 300
 )
 
@@ -337,10 +345,12 @@ function Run-CopilotPrompt {
         # Run copilot with prompt using pwsh since copilot is a PS1 script
         # -p flag for non-interactive prompt mode
         # -s flag can be added for silent output (response only)
+        # --model flag to specify AI model
         # See: https://docs.github.com/en/copilot/how-tos/copilot-cli/cli-getting-started#using-github-copilot-cli-non-interactively
         $escapedPrompt = $PromptText -replace '"', '\"' -replace "'", "''"
+        $modelFlag = if ($Model) { "--model $Model" } else { "" }
         $process = Start-Process -FilePath "pwsh" `
-            -ArgumentList "-NoProfile", "-Command", "& copilot -p '$escapedPrompt'" `
+            -ArgumentList "-NoProfile", "-Command", "& copilot -p '$escapedPrompt' $modelFlag" `
             -RedirectStandardOutput $tempOut `
             -RedirectStandardError $tempErr `
             -NoNewWindow `
@@ -373,10 +383,14 @@ function Run-CopilotPrompt {
         $result.Output = Get-Content $tempOut -Raw -ErrorAction SilentlyContinue
         $result.Error += Get-Content $tempErr -Raw -ErrorAction SilentlyContinue
 
-        # Parse telemetry
-        if ($result.Output) {
+        # Parse telemetry (skip if -NoTelemetry)
+        if ($result.Output -and -not $NoTelemetry) {
             $result.ToolCalls = Parse-ToolCalls $result.Output
             $result.FilesAccessed = Parse-FilesAccessed $result.Output
+            $result.EstimatedOutputTokens = Estimate-Tokens $result.Output
+        }
+        elseif ($result.Output -and $NoTelemetry) {
+            # Just estimate tokens, skip tool/file parsing
             $result.EstimatedOutputTokens = Estimate-Tokens $result.Output
         }
 
@@ -518,6 +532,10 @@ catch {
 # Create output directory
 $outputPath = New-ResultsDir $OutputDir
 Write-Host "✓ Results directory: $outputPath" -ForegroundColor Green
+
+if ($NoTelemetry) {
+    Write-Host "⚡ Tool/file telemetry DISABLED (-NoTelemetry)" -ForegroundColor Yellow
+}
 Write-Host ""
 
 # Run scenarios
@@ -538,6 +556,7 @@ if ($Prompt) {
         $metrics = @{
             scenario              = "adhoc"
             timestamp             = $runTimestamp
+            model                 = $Model
             prompt                = $result.Prompt
             durationMs            = $result.DurationMs
             durationSec           = [math]::Round($result.DurationMs / 1000, 2)
@@ -589,6 +608,7 @@ elseif ($ScenarioFile) {
             $metrics = @{
                 scenario              = $scenarioName
                 timestamp             = $runTimestamp
+                model                 = $Model
                 prompt                = $result.Prompt
                 durationMs            = $result.DurationMs
                 durationSec           = [math]::Round($result.DurationMs / 1000, 2)
@@ -620,18 +640,19 @@ else {
     Write-Host "  .\copilot-harness.ps1 -Prompt 'Your prompt here'" -ForegroundColor Gray
     Write-Host "  .\copilot-harness.ps1 -ScenarioFile scenarios.json" -ForegroundColor Gray
     Write-Host "  .\copilot-harness.ps1 -ScenarioFile scenarios.json -ScenarioId 1" -ForegroundColor Gray
+    Write-Host "  .\copilot-harness.ps1 -ScenarioFile scenarios.json -Model 'claude-opus-4.5'" -ForegroundColor Gray
     Write-Host ""
     exit 0
 }
 
-# Export consolidated results (single file per run)
+# Export consolidated results (single file per run, prefix with 'cli_' to distinguish from SDK harness)
 if ($allResults.Count -gt 0) {
     # Single output file with all scenario outputs
-    $outputFile = Join-Path $outputPath "run_${runTimestamp}_output.txt"
+    $outputFile = Join-Path $outputPath "cli_run_${runTimestamp}_output.txt"
     $allOutputs -join "`n" | Out-File -FilePath $outputFile -Encoding UTF8
 
     # Single metrics file with all scenario metrics
-    $metricsFile = Join-Path $outputPath "run_${runTimestamp}_metrics.json"
+    $metricsFile = Join-Path $outputPath "cli_run_${runTimestamp}_metrics.json"
     @{
         runTimestamp     = $runTimestamp
         scenarioCount    = $allResults.Count
@@ -641,10 +662,11 @@ if ($allResults.Count -gt 0) {
     } | ConvertTo-Json -Depth 5 | Out-File -FilePath $metricsFile -Encoding UTF8
 
     # Also export as CSV for easy analysis
-    $csvFile = Join-Path $outputPath "run_${runTimestamp}_metrics.csv"
+    $csvFile = Join-Path $outputPath "cli_run_${runTimestamp}_metrics.csv"
     $allResults | ForEach-Object {
         [PSCustomObject]@{
             Scenario        = $_.scenario
+            Model           = $_.model
             DurationSec     = $_.durationSec
             Success         = $_.success
             UsedBreadcrumbs = $_.usedBreadcrumbs
