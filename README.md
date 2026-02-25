@@ -1,3 +1,11 @@
+⚠️ **CRITICAL: Disable C# Extensions in VSCode**
+
+Before opening this repository, **disable all C# extensions** (C# Dev Kit, Omnisharp, etc.). With 161K files and 3.8M lines of code, active C# extensions will attempt to load the entire symbol tree and language analysis, which will make your machine very unhappy.
+
+To disable: Extensions → Search "C#" → Click ⚙️ → Disable
+
+---
+
 # 🦁 Animal Kingdom
 
 A C# taxonomy codebase with **160,000+ species files** — built to demonstrate GitHub Copilot on large repositories.
