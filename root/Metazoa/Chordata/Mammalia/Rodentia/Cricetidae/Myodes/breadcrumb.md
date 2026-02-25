@@ -1,61 +1,40 @@
 ---
-title: "Myodes"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["myodes", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 447134
-parent: "../breadcrumb.md"
+title: Myodes
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [myodes, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Myodes_californicus.cs"
-    name: "Myodes californicus"
-    common_name: "Myodes_californicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myodes_glareolus.cs"
-    name: "Myodes glareolus"
-    common_name: "Myodes_glareolus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myodes_glareolus_x_rutilus.cs"
-    name: "Myodes glareolus x rutilus"
-    common_name: "Myodes_glareolus_x_rutilus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myodes_regulus.cs"
-    name: "Myodes regulus"
-    common_name: "Myodes_regulus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myodes_rufocanus.cs"
-    name: "Myodes rufocanus"
-    common_name: "Myodes_rufocanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myodes_shanseius.cs"
-    name: "Myodes shanseius"
-    common_name: "Myodes_shanseius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myodes_sp_YY_2015.cs"
-    name: "Myodes sp. YY-2015"
-    common_name: "Myodes_sp_YY_2015"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Myodes_californicus:
+    common_name: Myodes_californicus
+    conservation: UK
+  Myodes_glareolus:
+    common_name: Myodes_glareolus
+    conservation: UK
+  Myodes_glareolus_x_rutilus:
+    common_name: Myodes_glareolus_x_rutilus
+    conservation: UK
+  Myodes_regulus:
+    common_name: Myodes_regulus
+    conservation: UK
+  Myodes_rufocanus:
+    common_name: Myodes_rufocanus
+    conservation: UK
+  Myodes_shanseius:
+    common_name: Myodes_shanseius
+    conservation: UK
+  Myodes_sp_YY_2015:
+    common_name: Myodes_sp_YY_2015
+    conservation: UK
 ---
-
 # Myodes
 
 Genus containing 7 species.

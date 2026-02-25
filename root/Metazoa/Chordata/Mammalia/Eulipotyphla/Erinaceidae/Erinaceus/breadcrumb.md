@@ -1,61 +1,40 @@
 ---
-title: "Erinaceus"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["erinaceus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atelerix/breadcrumb.md", "../Echinosorex/breadcrumb.md", "../Hemiechinus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9364
-parent: "../breadcrumb.md"
+title: Erinaceus
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [erinaceus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atelerix/breadcrumb.md, ../Echinosorex/breadcrumb.md, ../Hemiechinus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Erinaceus_amurensis.cs"
-    name: "Erinaceus amurensis"
-    common_name: "Erinaceus_amurensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Erinaceus_concolor.cs"
-    name: "Erinaceus concolor"
-    common_name: "Erinaceus_concolor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Erinaceus_europaeus.cs"
-    name: "Erinaceus europaeus"
-    common_name: "Erinaceus_europaeus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Erinaceus_roumanicus.cs"
-    name: "Erinaceus roumanicus"
-    common_name: "Erinaceus_roumanicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Erinaceus_sp.cs"
-    name: "Erinaceus sp."
-    common_name: "Erinaceus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Erinaceus_sp_Ito_Shizuoka.cs"
-    name: "Erinaceus sp. 'Ito, Shizuoka'"
-    common_name: "Erinaceus_sp_Ito_Shizuoka"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Erinaceus_sp_Odawara_Kanagawa.cs"
-    name: "Erinaceus sp. 'Odawara, Kanagawa'"
-    common_name: "Erinaceus_sp_Odawara_Kanagawa"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Erinaceus_amurensis:
+    common_name: Erinaceus_amurensis
+    conservation: UK
+  Erinaceus_concolor:
+    common_name: Erinaceus_concolor
+    conservation: UK
+  Erinaceus_europaeus:
+    common_name: Erinaceus_europaeus
+    conservation: UK
+  Erinaceus_roumanicus:
+    common_name: Erinaceus_roumanicus
+    conservation: UK
+  Erinaceus_sp:
+    common_name: Erinaceus_sp
+    conservation: UK
+  Erinaceus_sp_Ito_Shizuoka:
+    common_name: Erinaceus_sp_Ito_Shizuoka
+    conservation: UK
+  Erinaceus_sp_Odawara_Kanagawa:
+    common_name: Erinaceus_sp_Odawara_Kanagawa
+    conservation: UK
 ---
-
 # Erinaceus
 
 Genus containing 7 species.

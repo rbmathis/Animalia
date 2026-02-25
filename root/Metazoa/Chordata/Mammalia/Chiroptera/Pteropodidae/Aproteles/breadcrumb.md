@@ -1,30 +1,21 @@
 ---
-title: "Aproteles"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["aproteles", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 58058
-parent: "../breadcrumb.md"
+title: Aproteles
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [aproteles, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Aproteles_bulmerae.cs"
-    name: "Aproteles bulmerae"
-    common_name: "Aproteles_bulmerae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Aproteles_bulmerae:
+    common_name: Aproteles_bulmerae
+    conservation: UK
 ---
-
 # Aproteles
 
 Genus containing 1 species.

@@ -1,45 +1,30 @@
 ---
-title: "Lontra"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["lontra", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aonyx/breadcrumb.md", "../Arctonyx/breadcrumb.md", "../Eira/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 71112
-parent: "../breadcrumb.md"
+title: Lontra
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [lontra, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aonyx/breadcrumb.md, ../Arctonyx/breadcrumb.md, ../Eira/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lontra_canadensis.cs"
-    name: "Lontra canadensis"
-    common_name: "Lontra_canadensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lontra_felina.cs"
-    name: "Lontra felina"
-    common_name: "Lontra_felina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lontra_longicaudis.cs"
-    name: "Lontra longicaudis"
-    common_name: "Lontra_longicaudis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lontra_provocax.cs"
-    name: "Lontra provocax"
-    common_name: "Lontra_provocax"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lontra_canadensis:
+    common_name: Lontra_canadensis
+    conservation: UK
+  Lontra_felina:
+    common_name: Lontra_felina
+    conservation: UK
+  Lontra_longicaudis:
+    common_name: Lontra_longicaudis
+    conservation: UK
+  Lontra_provocax:
+    common_name: Lontra_provocax
+    conservation: UK
 ---
-
 # Lontra
 
 Genus containing 4 species.

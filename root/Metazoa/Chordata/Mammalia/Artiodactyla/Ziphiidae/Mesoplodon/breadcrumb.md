@@ -1,111 +1,70 @@
 ---
-title: "Mesoplodon"
-description: "Genus containing 17 species."
-category: "taxonomy/genus"
-tags: ["mesoplodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Berardius/breadcrumb.md", "../Hyperoodon/breadcrumb.md", "../Indopacetus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9757
-parent: "../breadcrumb.md"
+title: Mesoplodon
+description: Genus containing 17 species.
+category: taxonomy/genus
+tags: [mesoplodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Berardius/breadcrumb.md, ../Hyperoodon/breadcrumb.md, ../Indopacetus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 17
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mesoplodon_bidens.cs"
-    name: "Mesoplodon bidens"
-    common_name: "Mesoplodon_bidens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_bowdoini.cs"
-    name: "Mesoplodon bowdoini"
-    common_name: "Mesoplodon_bowdoini"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_carlhubbsi.cs"
-    name: "Mesoplodon carlhubbsi"
-    common_name: "Mesoplodon_carlhubbsi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_densirostris.cs"
-    name: "Mesoplodon densirostris"
-    common_name: "Mesoplodon_densirostris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_eueu.cs"
-    name: "Mesoplodon eueu"
-    common_name: "Mesoplodon_eueu"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_europaeus.cs"
-    name: "Mesoplodon europaeus"
-    common_name: "Mesoplodon_europaeus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_ginkgodens.cs"
-    name: "Mesoplodon ginkgodens"
-    common_name: "Mesoplodon_ginkgodens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_grayi.cs"
-    name: "Mesoplodon grayi"
-    common_name: "Mesoplodon_grayi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_hectori.cs"
-    name: "Mesoplodon hectori"
-    common_name: "Mesoplodon_hectori"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_hotaula.cs"
-    name: "Mesoplodon hotaula"
-    common_name: "Mesoplodon_hotaula"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_layardii.cs"
-    name: "Mesoplodon layardii"
-    common_name: "Mesoplodon_layardii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_mirus.cs"
-    name: "Mesoplodon mirus"
-    common_name: "Mesoplodon_mirus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_perrini.cs"
-    name: "Mesoplodon perrini"
-    common_name: "Mesoplodon_perrini"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_peruvianus.cs"
-    name: "Mesoplodon peruvianus"
-    common_name: "Mesoplodon_peruvianus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_sp_1_CSB_2013.cs"
-    name: "Mesoplodon sp. 1 CSB-2013"
-    common_name: "Mesoplodon_sp_1_CSB_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_stejnegeri.cs"
-    name: "Mesoplodon stejnegeri"
-    common_name: "Mesoplodon_stejnegeri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesoplodon_traversii.cs"
-    name: "Mesoplodon traversii"
-    common_name: "Mesoplodon_traversii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mesoplodon_bidens:
+    common_name: Mesoplodon_bidens
+    conservation: UK
+  Mesoplodon_bowdoini:
+    common_name: Mesoplodon_bowdoini
+    conservation: UK
+  Mesoplodon_carlhubbsi:
+    common_name: Mesoplodon_carlhubbsi
+    conservation: UK
+  Mesoplodon_densirostris:
+    common_name: Mesoplodon_densirostris
+    conservation: UK
+  Mesoplodon_eueu:
+    common_name: Mesoplodon_eueu
+    conservation: UK
+  Mesoplodon_europaeus:
+    common_name: Mesoplodon_europaeus
+    conservation: UK
+  Mesoplodon_ginkgodens:
+    common_name: Mesoplodon_ginkgodens
+    conservation: UK
+  Mesoplodon_grayi:
+    common_name: Mesoplodon_grayi
+    conservation: UK
+  Mesoplodon_hectori:
+    common_name: Mesoplodon_hectori
+    conservation: UK
+  Mesoplodon_hotaula:
+    common_name: Mesoplodon_hotaula
+    conservation: UK
+  Mesoplodon_layardii:
+    common_name: Mesoplodon_layardii
+    conservation: UK
+  Mesoplodon_mirus:
+    common_name: Mesoplodon_mirus
+    conservation: UK
+  Mesoplodon_perrini:
+    common_name: Mesoplodon_perrini
+    conservation: UK
+  Mesoplodon_peruvianus:
+    common_name: Mesoplodon_peruvianus
+    conservation: UK
+  Mesoplodon_sp_1_CSB_2013:
+    common_name: Mesoplodon_sp_1_CSB_2013
+    conservation: UK
+  Mesoplodon_stejnegeri:
+    common_name: Mesoplodon_stejnegeri
+    conservation: UK
+  Mesoplodon_traversii:
+    common_name: Mesoplodon_traversii
+    conservation: UK
 ---
-
 # Mesoplodon
 
 Genus containing 17 species.

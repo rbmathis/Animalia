@@ -1,40 +1,27 @@
 ---
-title: "Leptonycteris"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["leptonycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 55053
-parent: "../breadcrumb.md"
+title: Leptonycteris
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [leptonycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Leptonycteris_curasoae.cs"
-    name: "Leptonycteris curasoae"
-    common_name: "Leptonycteris_curasoae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Leptonycteris_nivalis.cs"
-    name: "Leptonycteris nivalis"
-    common_name: "Leptonycteris_nivalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Leptonycteris_yerbabuenae.cs"
-    name: "Leptonycteris yerbabuenae"
-    common_name: "Leptonycteris_yerbabuenae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Leptonycteris_curasoae:
+    common_name: Leptonycteris_curasoae
+    conservation: UK
+  Leptonycteris_nivalis:
+    common_name: Leptonycteris_nivalis
+    conservation: UK
+  Leptonycteris_yerbabuenae:
+    common_name: Leptonycteris_yerbabuenae
+    conservation: UK
 ---
-
 # Leptonycteris
 
 Genus containing 3 species.

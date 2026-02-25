@@ -1,46 +1,31 @@
 ---
-title: "Notiosorex"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["notiosorex", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 234933
-parent: "../breadcrumb.md"
+title: Notiosorex
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [notiosorex, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Notiosorex_cockrumi.cs"
-    name: "Notiosorex cockrumi"
-    common_name: "Notiosorex_cockrumi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Notiosorex_crawfordi.cs"
-    name: "Notiosorex crawfordi"
-    common_name: "Notiosorex_crawfordi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Notiosorex_evotis.cs"
-    name: "Notiosorex evotis"
-    common_name: "Notiosorex_evotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Notiosorex_sp_n_IC_2020.cs"
-    name: "Notiosorex sp. n. IC-2020"
-    common_name: "Notiosorex_sp_n_IC_2020"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Notiosorex_cockrumi:
+    common_name: Notiosorex_cockrumi
+    conservation: UK
+  Notiosorex_crawfordi:
+    common_name: Notiosorex_crawfordi
+    conservation: UK
+  Notiosorex_evotis:
+    common_name: Notiosorex_evotis
+    conservation: UK
+  Notiosorex_sp_n_IC_2020:
+    common_name: Notiosorex_sp_n_IC_2020
+    conservation: UK
 ---
-
 # Notiosorex
 
 Genus containing 4 species.

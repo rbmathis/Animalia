@@ -1,30 +1,21 @@
 ---
-title: "Epixerus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["epixerus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226682
-parent: "../breadcrumb.md"
+title: Epixerus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [epixerus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Epixerus_wilsoni.cs"
-    name: "Epixerus wilsoni"
-    common_name: "Epixerus_wilsoni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Epixerus_wilsoni:
+    common_name: Epixerus_wilsoni
+    conservation: UK
 ---
-
 # Epixerus
 
 Genus containing 1 species.

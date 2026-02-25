@@ -1,83 +1,56 @@
 ---
-title: "unclassified_Lagomorpha"
-description: "Genus containing 13 species."
-category: "taxonomy/genus"
-tags: ["unclassified_lagomorpha", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Leporidae/breadcrumb.md", "../Ochotonidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-parent: "../breadcrumb.md"
+title: unclassified_Lagomorpha
+description: Genus containing 13 species.
+category: taxonomy/genus
+tags: [unclassified_lagomorpha, genus]
+status: Living
+updated: 2026-02-23
+related: [../Leporidae/breadcrumb.md, ../Ochotonidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 13
-species:
-  - file: "Lagomorpha_sp_BOLDAAA4521.cs"
-    name: "Lagomorpha sp. BOLD:AAA4521"
-    common_name: "Lagomorpha_sp_BOLDAAA4521"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagomorpha_sp_BOLDAAB1294.cs"
-    name: "Lagomorpha sp. BOLD:AAB1294"
-    common_name: "Lagomorpha_sp_BOLDAAB1294"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagomorpha_sp_BOLDAAB8771.cs"
-    name: "Lagomorpha sp. BOLD:AAB8771"
-    common_name: "Lagomorpha_sp_BOLDAAB8771"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagomorpha_sp_BOLDAAC0555.cs"
-    name: "Lagomorpha sp. BOLD:AAC0555"
-    common_name: "Lagomorpha_sp_BOLDAAC0555"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagomorpha_sp_BOLDAAC0557.cs"
-    name: "Lagomorpha sp. BOLD:AAC0557"
-    common_name: "Lagomorpha_sp_BOLDAAC0557"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagomorpha_sp_BOLDAAC0558.cs"
-    name: "Lagomorpha sp. BOLD:AAC0558"
-    common_name: "Lagomorpha_sp_BOLDAAC0558"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagomorpha_sp_BOLDAAC0559.cs"
-    name: "Lagomorpha sp. BOLD:AAC0559"
-    common_name: "Lagomorpha_sp_BOLDAAC0559"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagomorpha_sp_BOLDAAD2034.cs"
-    name: "Lagomorpha sp. BOLD:AAD2034"
-    common_name: "Lagomorpha_sp_BOLDAAD2034"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagomorpha_sp_BOLDAAD2035.cs"
-    name: "Lagomorpha sp. BOLD:AAD2035"
-    common_name: "Lagomorpha_sp_BOLDAAD2035"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagomorpha_sp_BOLDAAI0224.cs"
-    name: "Lagomorpha sp. BOLD:AAI0224"
-    common_name: "Lagomorpha_sp_BOLDAAI0224"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagomorpha_sp_BOLDAAI0878.cs"
-    name: "Lagomorpha sp. BOLD:AAI0878"
-    common_name: "Lagomorpha_sp_BOLDAAI0878"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagomorpha_sp_BOLDAAN2686.cs"
-    name: "Lagomorpha sp. BOLD:AAN2686"
-    common_name: "Lagomorpha_sp_BOLDAAN2686"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagomorpha_sp_BOLDAAV6889.cs"
-    name: "Lagomorpha sp. BOLD:AAV6889"
-    common_name: "Lagomorpha_sp_BOLDAAV6889"
-    conservation: "Unknown"
-    enriched: false
+species_data:
+  Lagomorpha_sp_BOLDAAA4521:
+    common_name: Lagomorpha_sp_BOLDAAA4521
+    conservation: UK
+  Lagomorpha_sp_BOLDAAB1294:
+    common_name: Lagomorpha_sp_BOLDAAB1294
+    conservation: UK
+  Lagomorpha_sp_BOLDAAB8771:
+    common_name: Lagomorpha_sp_BOLDAAB8771
+    conservation: UK
+  Lagomorpha_sp_BOLDAAC0555:
+    common_name: Lagomorpha_sp_BOLDAAC0555
+    conservation: UK
+  Lagomorpha_sp_BOLDAAC0557:
+    common_name: Lagomorpha_sp_BOLDAAC0557
+    conservation: UK
+  Lagomorpha_sp_BOLDAAC0558:
+    common_name: Lagomorpha_sp_BOLDAAC0558
+    conservation: UK
+  Lagomorpha_sp_BOLDAAC0559:
+    common_name: Lagomorpha_sp_BOLDAAC0559
+    conservation: UK
+  Lagomorpha_sp_BOLDAAD2034:
+    common_name: Lagomorpha_sp_BOLDAAD2034
+    conservation: UK
+  Lagomorpha_sp_BOLDAAD2035:
+    common_name: Lagomorpha_sp_BOLDAAD2035
+    conservation: UK
+  Lagomorpha_sp_BOLDAAI0224:
+    common_name: Lagomorpha_sp_BOLDAAI0224
+    conservation: UK
+  Lagomorpha_sp_BOLDAAI0878:
+    common_name: Lagomorpha_sp_BOLDAAI0878
+    conservation: UK
+  Lagomorpha_sp_BOLDAAN2686:
+    common_name: Lagomorpha_sp_BOLDAAN2686
+    conservation: UK
+  Lagomorpha_sp_BOLDAAV6889:
+    common_name: Lagomorpha_sp_BOLDAAV6889
+    conservation: UK
 ---
-
 # unclassified_Lagomorpha
 
 Genus containing 13 species.

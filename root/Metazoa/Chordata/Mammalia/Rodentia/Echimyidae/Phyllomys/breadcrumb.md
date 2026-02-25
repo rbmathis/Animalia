@@ -1,116 +1,73 @@
 ---
-title: "Phyllomys"
-description: "Genus containing 18 species."
-category: "taxonomy/genus"
-tags: ["phyllomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Boromys/breadcrumb.md", "../Brotomys/breadcrumb.md", "../Callistomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 466156
-parent: "../breadcrumb.md"
+title: Phyllomys
+description: Genus containing 18 species.
+category: taxonomy/genus
+tags: [phyllomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Boromys/breadcrumb.md, ../Brotomys/breadcrumb.md, ../Callistomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 18
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Phyllomys_aff_dasythrix.cs"
-    name: "Phyllomys aff. dasythrix"
-    common_name: "Phyllomys_aff_dasythrix"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_blainvillii.cs"
-    name: "Phyllomys blainvillii"
-    common_name: "Phyllomys_blainvillii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_brasiliensis.cs"
-    name: "Phyllomys brasiliensis"
-    common_name: "Phyllomys_brasiliensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_centralis.cs"
-    name: "Phyllomys centralis"
-    common_name: "Phyllomys_centralis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_dasythrix.cs"
-    name: "Phyllomys dasythrix"
-    common_name: "Phyllomys_dasythrix"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_kerri.cs"
-    name: "Phyllomys kerri"
-    common_name: "Phyllomys_kerri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_lamarum.cs"
-    name: "Phyllomys lamarum"
-    common_name: "Phyllomys_lamarum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_lundi.cs"
-    name: "Phyllomys lundi"
-    common_name: "Phyllomys_lundi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_mantiqueirensis.cs"
-    name: "Phyllomys mantiqueirensis"
-    common_name: "Phyllomys_mantiqueirensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_nigrispinus.cs"
-    name: "Phyllomys nigrispinus"
-    common_name: "Phyllomys_nigrispinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_pattoni.cs"
-    name: "Phyllomys pattoni"
-    common_name: "Phyllomys_pattoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_sp_1_ACL_2016.cs"
-    name: "Phyllomys sp. 1 ACL-2016"
-    common_name: "Phyllomys_sp_1_ACL_2016"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_sp_2_ACL_2016.cs"
-    name: "Phyllomys sp. 2 ACL-2016"
-    common_name: "Phyllomys_sp_2_ACL_2016"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_sp_3_ACL_2016.cs"
-    name: "Phyllomys sp. 3 ACL-2016"
-    common_name: "Phyllomys_sp_3_ACL_2016"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_sp_4_ACL_2013.cs"
-    name: "Phyllomys sp. 4 ACL-2013"
-    common_name: "Phyllomys_sp_4_ACL_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_sp_ACL_2011.cs"
-    name: "Phyllomys sp. ACL-2011"
-    common_name: "Phyllomys_sp_ACL_2011"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_sulinus.cs"
-    name: "Phyllomys sulinus"
-    common_name: "Phyllomys_sulinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllomys_unicolor.cs"
-    name: "Phyllomys unicolor"
-    common_name: "Phyllomys_unicolor"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Phyllomys_aff_dasythrix:
+    common_name: Phyllomys_aff_dasythrix
+    conservation: UK
+  Phyllomys_blainvillii:
+    common_name: Phyllomys_blainvillii
+    conservation: UK
+  Phyllomys_brasiliensis:
+    common_name: Phyllomys_brasiliensis
+    conservation: UK
+  Phyllomys_centralis:
+    common_name: Phyllomys_centralis
+    conservation: UK
+  Phyllomys_dasythrix:
+    common_name: Phyllomys_dasythrix
+    conservation: UK
+  Phyllomys_kerri:
+    common_name: Phyllomys_kerri
+    conservation: UK
+  Phyllomys_lamarum:
+    common_name: Phyllomys_lamarum
+    conservation: UK
+  Phyllomys_lundi:
+    common_name: Phyllomys_lundi
+    conservation: UK
+  Phyllomys_mantiqueirensis:
+    common_name: Phyllomys_mantiqueirensis
+    conservation: UK
+  Phyllomys_nigrispinus:
+    common_name: Phyllomys_nigrispinus
+    conservation: UK
+  Phyllomys_pattoni:
+    common_name: Phyllomys_pattoni
+    conservation: UK
+  Phyllomys_sp_1_ACL_2016:
+    common_name: Phyllomys_sp_1_ACL_2016
+    conservation: UK
+  Phyllomys_sp_2_ACL_2016:
+    common_name: Phyllomys_sp_2_ACL_2016
+    conservation: UK
+  Phyllomys_sp_3_ACL_2016:
+    common_name: Phyllomys_sp_3_ACL_2016
+    conservation: UK
+  Phyllomys_sp_4_ACL_2013:
+    common_name: Phyllomys_sp_4_ACL_2013
+    conservation: UK
+  Phyllomys_sp_ACL_2011:
+    common_name: Phyllomys_sp_ACL_2011
+    conservation: UK
+  Phyllomys_sulinus:
+    common_name: Phyllomys_sulinus
+    conservation: UK
+  Phyllomys_unicolor:
+    common_name: Phyllomys_unicolor
+    conservation: UK
 ---
-
 # Phyllomys
 
 Genus containing 18 species.

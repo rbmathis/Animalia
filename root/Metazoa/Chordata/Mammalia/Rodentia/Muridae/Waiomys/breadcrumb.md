@@ -1,30 +1,21 @@
 ---
-title: "Waiomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["waiomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1978185
-parent: "../breadcrumb.md"
+title: Waiomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [waiomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Waiomys_mamasae.cs"
-    name: "Waiomys mamasae"
-    common_name: "Waiomys_mamasae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Waiomys_mamasae:
+    common_name: Waiomys_mamasae
+    conservation: UK
 ---
-
 # Waiomys
 
 Genus containing 1 species.

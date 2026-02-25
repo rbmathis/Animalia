@@ -1,35 +1,24 @@
 ---
-title: "Stenocranius"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["stenocranius", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3371040
-parent: "../breadcrumb.md"
+title: Stenocranius
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [stenocranius, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Stenocranius_gregalis.cs"
-    name: "Stenocranius gregalis"
-    common_name: "Stenocranius_gregalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Stenocranius_raddei.cs"
-    name: "Stenocranius raddei"
-    common_name: "Stenocranius_raddei"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Stenocranius_gregalis:
+    common_name: Stenocranius_gregalis
+    conservation: UK
+  Stenocranius_raddei:
+    common_name: Stenocranius_raddei
+    conservation: UK
 ---
-
 # Stenocranius
 
 Genus containing 2 species.

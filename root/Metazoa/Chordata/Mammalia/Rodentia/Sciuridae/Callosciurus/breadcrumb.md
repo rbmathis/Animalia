@@ -1,126 +1,79 @@
 ---
-title: "Callosciurus"
-description: "Genus containing 20 species."
-category: "taxonomy/genus"
-tags: ["callosciurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 64663
-parent: "../breadcrumb.md"
+title: Callosciurus
+description: Genus containing 20 species.
+category: taxonomy/genus
+tags: [callosciurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 20
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Callosciurus_adamsi.cs"
-    name: "Callosciurus adamsi"
-    common_name: "Callosciurus_adamsi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_albescens.cs"
-    name: "Callosciurus albescens"
-    common_name: "Callosciurus_albescens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_baluensis.cs"
-    name: "Callosciurus baluensis"
-    common_name: "Callosciurus_baluensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_caniceps.cs"
-    name: "Callosciurus caniceps"
-    common_name: "Callosciurus_caniceps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_erythraeus.cs"
-    name: "Callosciurus erythraeus"
-    common_name: "Callosciurus_erythraeus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_finlaysonii.cs"
-    name: "Callosciurus finlaysonii"
-    common_name: "Callosciurus_finlaysonii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_honkhoaiensis.cs"
-    name: "Callosciurus honkhoaiensis"
-    common_name: "Callosciurus_honkhoaiensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_inornatus.cs"
-    name: "Callosciurus inornatus"
-    common_name: "Callosciurus_inornatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_melanogaster.cs"
-    name: "Callosciurus melanogaster"
-    common_name: "Callosciurus_melanogaster"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_nigrovittatus.cs"
-    name: "Callosciurus nigrovittatus"
-    common_name: "Callosciurus_nigrovittatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_notatus.cs"
-    name: "Callosciurus notatus"
-    common_name: "Callosciurus_notatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_orestes.cs"
-    name: "Callosciurus orestes"
-    common_name: "Callosciurus_orestes"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_phayrei.cs"
-    name: "Callosciurus phayrei"
-    common_name: "Callosciurus_phayrei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_prevostii.cs"
-    name: "Callosciurus prevostii"
-    common_name: "Callosciurus_prevostii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_pygerythrus.cs"
-    name: "Callosciurus pygerythrus"
-    common_name: "Callosciurus_pygerythrus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_quinquestriatus.cs"
-    name: "Callosciurus quinquestriatus"
-    common_name: "Callosciurus_quinquestriatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_sp_1_AG_2015.cs"
-    name: "Callosciurus sp. 1 AG-2015"
-    common_name: "Callosciurus_sp_1_AG_2015"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_sp_1_MG_2013.cs"
-    name: "Callosciurus sp. 1 MG-2013"
-    common_name: "Callosciurus_sp_1_MG_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_sp_2_AG_2015.cs"
-    name: "Callosciurus sp. 2 AG-2015"
-    common_name: "Callosciurus_sp_2_AG_2015"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callosciurus_sp_2_MG_2013.cs"
-    name: "Callosciurus sp. 2 MG-2013"
-    common_name: "Callosciurus_sp_2_MG_2013"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Callosciurus_adamsi:
+    common_name: Callosciurus_adamsi
+    conservation: UK
+  Callosciurus_albescens:
+    common_name: Callosciurus_albescens
+    conservation: UK
+  Callosciurus_baluensis:
+    common_name: Callosciurus_baluensis
+    conservation: UK
+  Callosciurus_caniceps:
+    common_name: Callosciurus_caniceps
+    conservation: UK
+  Callosciurus_erythraeus:
+    common_name: Callosciurus_erythraeus
+    conservation: UK
+  Callosciurus_finlaysonii:
+    common_name: Callosciurus_finlaysonii
+    conservation: UK
+  Callosciurus_honkhoaiensis:
+    common_name: Callosciurus_honkhoaiensis
+    conservation: UK
+  Callosciurus_inornatus:
+    common_name: Callosciurus_inornatus
+    conservation: UK
+  Callosciurus_melanogaster:
+    common_name: Callosciurus_melanogaster
+    conservation: UK
+  Callosciurus_nigrovittatus:
+    common_name: Callosciurus_nigrovittatus
+    conservation: UK
+  Callosciurus_notatus:
+    common_name: Callosciurus_notatus
+    conservation: UK
+  Callosciurus_orestes:
+    common_name: Callosciurus_orestes
+    conservation: UK
+  Callosciurus_phayrei:
+    common_name: Callosciurus_phayrei
+    conservation: UK
+  Callosciurus_prevostii:
+    common_name: Callosciurus_prevostii
+    conservation: UK
+  Callosciurus_pygerythrus:
+    common_name: Callosciurus_pygerythrus
+    conservation: UK
+  Callosciurus_quinquestriatus:
+    common_name: Callosciurus_quinquestriatus
+    conservation: UK
+  Callosciurus_sp_1_AG_2015:
+    common_name: Callosciurus_sp_1_AG_2015
+    conservation: UK
+  Callosciurus_sp_1_MG_2013:
+    common_name: Callosciurus_sp_1_MG_2013
+    conservation: UK
+  Callosciurus_sp_2_AG_2015:
+    common_name: Callosciurus_sp_2_AG_2015
+    conservation: UK
+  Callosciurus_sp_2_MG_2013:
+    common_name: Callosciurus_sp_2_MG_2013
+    conservation: UK
 ---
-
 # Callosciurus
 
 Genus containing 20 species.

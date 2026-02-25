@@ -1,71 +1,46 @@
 ---
-title: "Histiotus"
-description: "Genus containing 9 species."
-category: "taxonomy/genus"
-tags: ["histiotus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 258918
-parent: "../breadcrumb.md"
+title: Histiotus
+description: Genus containing 9 species.
+category: taxonomy/genus
+tags: [histiotus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 9
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Histiotus_diaphanopterus.cs"
-    name: "Histiotus diaphanopterus"
-    common_name: "Histiotus_diaphanopterus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Histiotus_humboldti.cs"
-    name: "Histiotus humboldti"
-    common_name: "Histiotus_humboldti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Histiotus_laephotis.cs"
-    name: "Histiotus laephotis"
-    common_name: "Histiotus_laephotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Histiotus_macrotus.cs"
-    name: "Histiotus macrotus"
-    common_name: "Histiotus_macrotus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Histiotus_magellanicus.cs"
-    name: "Histiotus magellanicus"
-    common_name: "Histiotus_magellanicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Histiotus_mochica.cs"
-    name: "Histiotus mochica"
-    common_name: "Histiotus_mochica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Histiotus_montanus.cs"
-    name: "Histiotus montanus"
-    common_name: "Histiotus_montanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Histiotus_sp.cs"
-    name: "Histiotus sp."
-    common_name: "Histiotus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Histiotus_velatus.cs"
-    name: "Histiotus velatus"
-    common_name: "Histiotus_velatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Histiotus_diaphanopterus:
+    common_name: Histiotus_diaphanopterus
+    conservation: UK
+  Histiotus_humboldti:
+    common_name: Histiotus_humboldti
+    conservation: UK
+  Histiotus_laephotis:
+    common_name: Histiotus_laephotis
+    conservation: UK
+  Histiotus_macrotus:
+    common_name: Histiotus_macrotus
+    conservation: UK
+  Histiotus_magellanicus:
+    common_name: Histiotus_magellanicus
+    conservation: UK
+  Histiotus_mochica:
+    common_name: Histiotus_mochica
+    conservation: UK
+  Histiotus_montanus:
+    common_name: Histiotus_montanus
+    conservation: UK
+  Histiotus_sp:
+    common_name: Histiotus_sp
+    conservation: UK
+  Histiotus_velatus:
+    common_name: Histiotus_velatus
+    conservation: UK
 ---
-
 # Histiotus
 
 Genus containing 9 species.

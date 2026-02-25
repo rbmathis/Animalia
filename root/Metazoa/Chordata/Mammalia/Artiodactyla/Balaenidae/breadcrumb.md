@@ -1,30 +1,19 @@
 ---
-title: "Balaenidae"
-description: "Family containing 2 genera."
-category: "taxonomy/family"
-tags: ["balaenidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antilocapridae/breadcrumb.md", "../Balaenopteridae/breadcrumb.md", "../Bovidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 30558
-parent: "../breadcrumb.md"
+title: Balaenidae
+description: Family containing 2 genera.
+category: taxonomy/family
+tags: [balaenidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Antilocapridae/breadcrumb.md, ../Balaenopteridae/breadcrumb.md, ../Bovidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Balaena/breadcrumb.md"
-    name: "Balaena"
-  - path: "Eubalaena/breadcrumb.md"
-    name: "Eubalaena"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Balaena, Eubalaena]
 ---
-
 # Balaenidae
 
 Family containing 2 genera.

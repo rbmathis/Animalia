@@ -1,30 +1,21 @@
 ---
-title: "Octodontomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["octodontomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ctenomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 170739
-parent: "../breadcrumb.md"
+title: Octodontomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [octodontomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ctenomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Octodontomys_gliroides.cs"
-    name: "Octodontomys gliroides"
-    common_name: "Octodontomys_gliroides"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Octodontomys_gliroides:
+    common_name: Octodontomys_gliroides
+    conservation: UK
 ---
-
 # Octodontomys
 
 Genus containing 1 species.

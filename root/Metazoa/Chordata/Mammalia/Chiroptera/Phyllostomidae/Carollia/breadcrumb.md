@@ -1,81 +1,52 @@
 ---
-title: "Carollia"
-description: "Genus containing 11 species."
-category: "taxonomy/genus"
-tags: ["carollia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 40232
-parent: "../breadcrumb.md"
+title: Carollia
+description: Genus containing 11 species.
+category: taxonomy/genus
+tags: [carollia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 11
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Carollia_benkeithi.cs"
-    name: "Carollia benkeithi"
-    common_name: "Carollia_benkeithi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Carollia_brevicauda.cs"
-    name: "Carollia brevicauda"
-    common_name: "Carollia_brevicauda"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Carollia_brevicauda_PS1.cs"
-    name: "Carollia brevicauda PS1"
-    common_name: "Carollia_brevicauda_PS1"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Carollia_brevicauda_PS2.cs"
-    name: "Carollia brevicauda PS2"
-    common_name: "Carollia_brevicauda_PS2"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Carollia_castanea.cs"
-    name: "Carollia castanea"
-    common_name: "Carollia_castanea"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Carollia_manu.cs"
-    name: "Carollia manu"
-    common_name: "Carollia_manu"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Carollia_perspicillata.cs"
-    name: "Carollia perspicillata"
-    common_name: "Carollia_perspicillata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Carollia_sowelli.cs"
-    name: "Carollia sowelli"
-    common_name: "Carollia_sowelli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Carollia_sp.cs"
-    name: "Carollia sp."
-    common_name: "Carollia_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Carollia_sp_1_PMV_2013.cs"
-    name: "Carollia sp. 1 PMV-2013"
-    common_name: "Carollia_sp_1_PMV_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Carollia_subrufa.cs"
-    name: "Carollia subrufa"
-    common_name: "Carollia_subrufa"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Carollia_benkeithi:
+    common_name: Carollia_benkeithi
+    conservation: UK
+  Carollia_brevicauda:
+    common_name: Carollia_brevicauda
+    conservation: UK
+  Carollia_brevicauda_PS1:
+    common_name: Carollia_brevicauda_PS1
+    conservation: UK
+  Carollia_brevicauda_PS2:
+    common_name: Carollia_brevicauda_PS2
+    conservation: UK
+  Carollia_castanea:
+    common_name: Carollia_castanea
+    conservation: UK
+  Carollia_manu:
+    common_name: Carollia_manu
+    conservation: UK
+  Carollia_perspicillata:
+    common_name: Carollia_perspicillata
+    conservation: UK
+  Carollia_sowelli:
+    common_name: Carollia_sowelli
+    conservation: UK
+  Carollia_sp:
+    common_name: Carollia_sp
+    conservation: UK
+  Carollia_sp_1_PMV_2013:
+    common_name: Carollia_sp_1_PMV_2013
+    conservation: UK
+  Carollia_subrufa:
+    common_name: Carollia_subrufa
+    conservation: UK
 ---
-
 # Carollia
 
 Genus containing 11 species.

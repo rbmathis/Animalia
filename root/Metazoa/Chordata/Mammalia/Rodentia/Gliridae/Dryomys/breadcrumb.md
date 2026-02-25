@@ -1,41 +1,28 @@
 ---
-title: "Dryomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["dryomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Eliomys/breadcrumb.md", "../Glirulus/breadcrumb.md", "../Glis/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 55144
-parent: "../breadcrumb.md"
+title: Dryomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [dryomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Eliomys/breadcrumb.md, ../Glirulus/breadcrumb.md, ../Glis/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dryomys_laniger.cs"
-    name: "Dryomys laniger"
-    common_name: "Dryomys_laniger"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dryomys_nitedula.cs"
-    name: "Dryomys nitedula"
-    common_name: "Dryomys_nitedula"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dryomys_sp_SJS_2003.cs"
-    name: "Dryomys sp. SJS-2003"
-    common_name: "Dryomys_sp_SJS_2003"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dryomys_laniger:
+    common_name: Dryomys_laniger
+    conservation: UK
+  Dryomys_nitedula:
+    common_name: Dryomys_nitedula
+    conservation: UK
+  Dryomys_sp_SJS_2003:
+    common_name: Dryomys_sp_SJS_2003
+    conservation: UK
 ---
-
 # Dryomys
 
 Genus containing 3 species.

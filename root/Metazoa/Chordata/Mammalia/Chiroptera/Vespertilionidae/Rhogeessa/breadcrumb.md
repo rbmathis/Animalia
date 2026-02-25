@@ -1,81 +1,52 @@
 ---
-title: "Rhogeessa"
-description: "Genus containing 11 species."
-category: "taxonomy/genus"
-tags: ["rhogeessa", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 153294
-parent: "../breadcrumb.md"
+title: Rhogeessa
+description: Genus containing 11 species.
+category: taxonomy/genus
+tags: [rhogeessa, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 11
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rhogeessa_aenea.cs"
-    name: "Rhogeessa aenea"
-    common_name: "Rhogeessa_aenea"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhogeessa_bickhami.cs"
-    name: "Rhogeessa bickhami"
-    common_name: "Rhogeessa_bickhami"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhogeessa_genowaysi.cs"
-    name: "Rhogeessa genowaysi"
-    common_name: "Rhogeessa_genowaysi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhogeessa_io.cs"
-    name: "Rhogeessa io"
-    common_name: "Rhogeessa_io"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhogeessa_menchuae.cs"
-    name: "Rhogeessa menchuae"
-    common_name: "Rhogeessa_menchuae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhogeessa_mira.cs"
-    name: "Rhogeessa mira"
-    common_name: "Rhogeessa_mira"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhogeessa_parvula.cs"
-    name: "Rhogeessa parvula"
-    common_name: "Rhogeessa_parvula"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhogeessa_permutandis.cs"
-    name: "Rhogeessa permutandis"
-    common_name: "Rhogeessa_permutandis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhogeessa_sp_20130222_359.cs"
-    name: "Rhogeessa sp. 20130222_359"
-    common_name: "Rhogeessa_sp_20130222_359"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhogeessa_tumida.cs"
-    name: "Rhogeessa tumida"
-    common_name: "Rhogeessa_tumida"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhogeessa_velilla.cs"
-    name: "Rhogeessa velilla"
-    common_name: "Rhogeessa_velilla"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rhogeessa_aenea:
+    common_name: Rhogeessa_aenea
+    conservation: UK
+  Rhogeessa_bickhami:
+    common_name: Rhogeessa_bickhami
+    conservation: UK
+  Rhogeessa_genowaysi:
+    common_name: Rhogeessa_genowaysi
+    conservation: UK
+  Rhogeessa_io:
+    common_name: Rhogeessa_io
+    conservation: UK
+  Rhogeessa_menchuae:
+    common_name: Rhogeessa_menchuae
+    conservation: UK
+  Rhogeessa_mira:
+    common_name: Rhogeessa_mira
+    conservation: UK
+  Rhogeessa_parvula:
+    common_name: Rhogeessa_parvula
+    conservation: UK
+  Rhogeessa_permutandis:
+    common_name: Rhogeessa_permutandis
+    conservation: UK
+  Rhogeessa_sp_20130222_359:
+    common_name: Rhogeessa_sp_20130222_359
+    conservation: UK
+  Rhogeessa_tumida:
+    common_name: Rhogeessa_tumida
+    conservation: UK
+  Rhogeessa_velilla:
+    common_name: Rhogeessa_velilla
+    conservation: UK
 ---
-
 # Rhogeessa
 
 Genus containing 11 species.

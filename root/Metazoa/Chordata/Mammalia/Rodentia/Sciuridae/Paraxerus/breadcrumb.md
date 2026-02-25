@@ -1,51 +1,34 @@
 ---
-title: "Paraxerus"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["paraxerus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 47972
-parent: "../breadcrumb.md"
+title: Paraxerus
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [paraxerus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Paraxerus_alexandri.cs"
-    name: "Paraxerus alexandri"
-    common_name: "Paraxerus_alexandri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Paraxerus_cepapi.cs"
-    name: "Paraxerus cepapi"
-    common_name: "Paraxerus_cepapi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Paraxerus_ochraceus.cs"
-    name: "Paraxerus ochraceus"
-    common_name: "Paraxerus_ochraceus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Paraxerus_sp.cs"
-    name: "Paraxerus sp."
-    common_name: "Paraxerus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Paraxerus_vexillarius.cs"
-    name: "Paraxerus vexillarius"
-    common_name: "Paraxerus_vexillarius"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Paraxerus_alexandri:
+    common_name: Paraxerus_alexandri
+    conservation: UK
+  Paraxerus_cepapi:
+    common_name: Paraxerus_cepapi
+    conservation: UK
+  Paraxerus_ochraceus:
+    common_name: Paraxerus_ochraceus
+    conservation: UK
+  Paraxerus_sp:
+    common_name: Paraxerus_sp
+    conservation: UK
+  Paraxerus_vexillarius:
+    common_name: Paraxerus_vexillarius
+    conservation: UK
 ---
-
 # Paraxerus
 
 Genus containing 5 species.

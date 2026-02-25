@@ -1,30 +1,21 @@
 ---
-title: "Ectophylla"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["ectophylla", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 148025
-parent: "../breadcrumb.md"
+title: Ectophylla
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [ectophylla, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ectophylla_alba.cs"
-    name: "Ectophylla alba"
-    common_name: "Ectophylla_alba"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ectophylla_alba:
+    common_name: Ectophylla_alba
+    conservation: UK
 ---
-
 # Ectophylla
 
 Genus containing 1 species.

@@ -1,60 +1,39 @@
 ---
-title: "Habromys"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["habromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 56318
-parent: "../breadcrumb.md"
+title: Habromys
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [habromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Habromys_chinanteco.cs"
-    name: "Habromys chinanteco"
-    common_name: "Habromys_chinanteco"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Habromys_delicatulus.cs"
-    name: "Habromys delicatulus"
-    common_name: "Habromys_delicatulus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Habromys_ixtlani.cs"
-    name: "Habromys ixtlani"
-    common_name: "Habromys_ixtlani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Habromys_lepturus.cs"
-    name: "Habromys lepturus"
-    common_name: "Habromys_lepturus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Habromys_lophurus.cs"
-    name: "Habromys lophurus"
-    common_name: "Habromys_lophurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Habromys_schmidlyi.cs"
-    name: "Habromys schmidlyi"
-    common_name: "Habromys_schmidlyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Habromys_simulatus.cs"
-    name: "Habromys simulatus"
-    common_name: "Habromys_simulatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Habromys_chinanteco:
+    common_name: Habromys_chinanteco
+    conservation: UK
+  Habromys_delicatulus:
+    common_name: Habromys_delicatulus
+    conservation: UK
+  Habromys_ixtlani:
+    common_name: Habromys_ixtlani
+    conservation: UK
+  Habromys_lepturus:
+    common_name: Habromys_lepturus
+    conservation: UK
+  Habromys_lophurus:
+    common_name: Habromys_lophurus
+    conservation: UK
+  Habromys_schmidlyi:
+    common_name: Habromys_schmidlyi
+    conservation: UK
+  Habromys_simulatus:
+    common_name: Habromys_simulatus
+    conservation: UK
 ---
-
 # Habromys
 
 Genus containing 7 species.

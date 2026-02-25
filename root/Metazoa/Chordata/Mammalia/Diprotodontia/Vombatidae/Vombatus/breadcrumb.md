@@ -1,30 +1,21 @@
 ---
-title: "Vombatus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["vombatus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Lasiorhinus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 29138
-parent: "../breadcrumb.md"
+title: Vombatus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [vombatus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Lasiorhinus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Vombatus_ursinus.cs"
-    name: "Vombatus ursinus"
-    common_name: "Vombatus_ursinus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Vombatus_ursinus:
+    common_name: Vombatus_ursinus
+    conservation: UK
 ---
-
 # Vombatus
 
 Genus containing 1 species.

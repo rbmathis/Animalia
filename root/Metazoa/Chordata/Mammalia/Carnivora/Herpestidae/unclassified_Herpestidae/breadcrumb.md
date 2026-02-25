@@ -1,23 +1,20 @@
 ---
-title: "unclassified_Herpestidae"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["unclassified_herpestidae", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atilax/breadcrumb.md", "../Bdeogale/breadcrumb.md", "../Crossarchus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-parent: "../breadcrumb.md"
+title: unclassified_Herpestidae
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [unclassified_herpestidae, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atilax/breadcrumb.md, ../Bdeogale/breadcrumb.md, ../Crossarchus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-species:
-  - file: "Herpestinae_sp_PAML_2006.cs"
-    name: "Herpestinae sp. PAML-2006"
-    common_name: "Herpestinae_sp_PAML_2006"
-    conservation: "Unknown"
-    enriched: false
+species_data:
+  Herpestinae_sp_PAML_2006:
+    common_name: Herpestinae_sp_PAML_2006
+    conservation: UK
 ---
-
 # unclassified_Herpestidae
 
 Genus containing 1 species.

@@ -1,100 +1,63 @@
 ---
-title: "Plecturocebus"
-description: "Genus containing 15 species."
-category: "taxonomy/genus"
-tags: ["plecturocebus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cacajao/breadcrumb.md", "../Callicebus/breadcrumb.md", "../Cheracebus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1812035
-parent: "../breadcrumb.md"
+title: Plecturocebus
+description: Genus containing 15 species.
+category: taxonomy/genus
+tags: [plecturocebus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cacajao/breadcrumb.md, ../Callicebus/breadcrumb.md, ../Cheracebus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 15
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Plecturocebus_bernhardi.cs"
-    name: "Plecturocebus bernhardi"
-    common_name: "Plecturocebus_bernhardi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecturocebus_brunneus.cs"
-    name: "Plecturocebus brunneus"
-    common_name: "Plecturocebus_brunneus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecturocebus_caligatus.cs"
-    name: "Plecturocebus caligatus"
-    common_name: "Plecturocebus_caligatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecturocebus_cinerascens.cs"
-    name: "Plecturocebus cinerascens"
-    common_name: "Plecturocebus_cinerascens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecturocebus_cupreus.cs"
-    name: "Plecturocebus cupreus"
-    common_name: "Plecturocebus_cupreus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecturocebus_discolor.cs"
-    name: "Plecturocebus discolor"
-    common_name: "Plecturocebus_discolor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecturocebus_donacophilus.cs"
-    name: "Plecturocebus donacophilus"
-    common_name: "Plecturocebus_donacophilus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecturocebus_dubius.cs"
-    name: "Plecturocebus dubius"
-    common_name: "Plecturocebus_dubius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecturocebus_grovesi.cs"
-    name: "Plecturocebus grovesi"
-    common_name: "Plecturocebus_grovesi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecturocebus_hoffmannsi.cs"
-    name: "Plecturocebus hoffmannsi"
-    common_name: "Plecturocebus_hoffmannsi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecturocebus_miltoni.cs"
-    name: "Plecturocebus miltoni"
-    common_name: "Plecturocebus_miltoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecturocebus_moloch.cs"
-    name: "Plecturocebus moloch"
-    common_name: "Plecturocebus_moloch"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecturocebus_oenanthe.cs"
-    name: "Plecturocebus oenanthe"
-    common_name: "Plecturocebus_oenanthe"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecturocebus_toppini.cs"
-    name: "Plecturocebus toppini"
-    common_name: "Plecturocebus_toppini"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecturocebus_vieirai.cs"
-    name: "Plecturocebus vieirai"
-    common_name: "Plecturocebus_vieirai"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Plecturocebus_bernhardi:
+    common_name: Plecturocebus_bernhardi
+    conservation: UK
+  Plecturocebus_brunneus:
+    common_name: Plecturocebus_brunneus
+    conservation: UK
+  Plecturocebus_caligatus:
+    common_name: Plecturocebus_caligatus
+    conservation: UK
+  Plecturocebus_cinerascens:
+    common_name: Plecturocebus_cinerascens
+    conservation: UK
+  Plecturocebus_cupreus:
+    common_name: Plecturocebus_cupreus
+    conservation: UK
+  Plecturocebus_discolor:
+    common_name: Plecturocebus_discolor
+    conservation: UK
+  Plecturocebus_donacophilus:
+    common_name: Plecturocebus_donacophilus
+    conservation: UK
+  Plecturocebus_dubius:
+    common_name: Plecturocebus_dubius
+    conservation: UK
+  Plecturocebus_grovesi:
+    common_name: Plecturocebus_grovesi
+    conservation: UK
+  Plecturocebus_hoffmannsi:
+    common_name: Plecturocebus_hoffmannsi
+    conservation: UK
+  Plecturocebus_miltoni:
+    common_name: Plecturocebus_miltoni
+    conservation: UK
+  Plecturocebus_moloch:
+    common_name: Plecturocebus_moloch
+    conservation: UK
+  Plecturocebus_oenanthe:
+    common_name: Plecturocebus_oenanthe
+    conservation: UK
+  Plecturocebus_toppini:
+    common_name: Plecturocebus_toppini
+    conservation: UK
+  Plecturocebus_vieirai:
+    common_name: Plecturocebus_vieirai
+    conservation: UK
 ---
-
 # Plecturocebus
 
 Genus containing 15 species.

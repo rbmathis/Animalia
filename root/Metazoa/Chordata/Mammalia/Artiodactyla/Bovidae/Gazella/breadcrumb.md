@@ -1,91 +1,58 @@
 ---
-title: "Gazella"
-description: "Genus containing 13 species."
-category: "taxonomy/genus"
-tags: ["gazella", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9933
-parent: "../breadcrumb.md"
+title: Gazella
+description: Genus containing 13 species.
+category: taxonomy/genus
+tags: [gazella, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 13
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Gazella_arabica.cs"
-    name: "Gazella arabica"
-    common_name: "Gazella_arabica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gazella_bennettii.cs"
-    name: "Gazella bennettii"
-    common_name: "Gazella_bennettii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gazella_cuvieri.cs"
-    name: "Gazella cuvieri"
-    common_name: "Gazella_cuvieri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gazella_dorcas.cs"
-    name: "Gazella dorcas"
-    common_name: "Gazella_dorcas"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gazella_dorcas_x_leptoceros.cs"
-    name: "Gazella dorcas x leptoceros"
-    common_name: "Gazella_dorcas_x_leptoceros"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gazella_erlangeri.cs"
-    name: "Gazella erlangeri"
-    common_name: "Gazella_erlangeri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gazella_fuscifrons.cs"
-    name: "Gazella fuscifrons"
-    common_name: "Gazella_fuscifrons"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gazella_gazella.cs"
-    name: "Gazella gazella"
-    common_name: "Gazella_gazella"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gazella_leptoceros.cs"
-    name: "Gazella leptoceros"
-    common_name: "Gazella_leptoceros"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gazella_saudiya.cs"
-    name: "Gazella saudiya"
-    common_name: "Gazella_saudiya"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gazella_sp.cs"
-    name: "Gazella sp."
-    common_name: "Gazella_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gazella_spekei.cs"
-    name: "Gazella spekei"
-    common_name: "Gazella_spekei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gazella_subgutturosa.cs"
-    name: "Gazella subgutturosa"
-    common_name: "Gazella_subgutturosa"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Gazella_arabica:
+    common_name: Gazella_arabica
+    conservation: UK
+  Gazella_bennettii:
+    common_name: Gazella_bennettii
+    conservation: UK
+  Gazella_cuvieri:
+    common_name: Gazella_cuvieri
+    conservation: UK
+  Gazella_dorcas:
+    common_name: Gazella_dorcas
+    conservation: UK
+  Gazella_dorcas_x_leptoceros:
+    common_name: Gazella_dorcas_x_leptoceros
+    conservation: UK
+  Gazella_erlangeri:
+    common_name: Gazella_erlangeri
+    conservation: UK
+  Gazella_fuscifrons:
+    common_name: Gazella_fuscifrons
+    conservation: UK
+  Gazella_gazella:
+    common_name: Gazella_gazella
+    conservation: UK
+  Gazella_leptoceros:
+    common_name: Gazella_leptoceros
+    conservation: UK
+  Gazella_saudiya:
+    common_name: Gazella_saudiya
+    conservation: UK
+  Gazella_sp:
+    common_name: Gazella_sp
+    conservation: UK
+  Gazella_spekei:
+    common_name: Gazella_spekei
+    conservation: UK
+  Gazella_subgutturosa:
+    common_name: Gazella_subgutturosa
+    conservation: UK
 ---
-
 # Gazella
 
 Genus containing 13 species.

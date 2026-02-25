@@ -1,35 +1,24 @@
 ---
-title: "Chaetophractus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["chaetophractus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cabassous/breadcrumb.md", "../Calyptophractus/breadcrumb.md", "../Chlamyphorus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 29079
-parent: "../breadcrumb.md"
+title: Chaetophractus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [chaetophractus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cabassous/breadcrumb.md, ../Calyptophractus/breadcrumb.md, ../Chlamyphorus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chaetophractus_vellerosus.cs"
-    name: "Chaetophractus vellerosus"
-    common_name: "Chaetophractus_vellerosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetophractus_villosus.cs"
-    name: "Chaetophractus villosus"
-    common_name: "Chaetophractus_villosus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chaetophractus_vellerosus:
+    common_name: Chaetophractus_vellerosus
+    conservation: UK
+  Chaetophractus_villosus:
+    common_name: Chaetophractus_villosus
+    conservation: UK
 ---
-
 # Chaetophractus
 
 Genus containing 2 species.

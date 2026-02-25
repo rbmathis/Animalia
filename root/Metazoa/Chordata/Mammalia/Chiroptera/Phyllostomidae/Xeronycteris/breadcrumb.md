@@ -1,30 +1,21 @@
 ---
-title: "Xeronycteris"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["xeronycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1470992
-parent: "../breadcrumb.md"
+title: Xeronycteris
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [xeronycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Xeronycteris_vieirai.cs"
-    name: "Xeronycteris vieirai"
-    common_name: "Xeronycteris_vieirai"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Xeronycteris_vieirai:
+    common_name: Xeronycteris_vieirai
+    conservation: UK
 ---
-
 # Xeronycteris
 
 Genus containing 1 species.

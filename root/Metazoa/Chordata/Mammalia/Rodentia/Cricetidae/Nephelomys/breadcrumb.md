@@ -1,81 +1,52 @@
 ---
-title: "Nephelomys"
-description: "Genus containing 11 species."
-category: "taxonomy/genus"
-tags: ["nephelomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 530177
-parent: "../breadcrumb.md"
+title: Nephelomys
+description: Genus containing 11 species.
+category: taxonomy/genus
+tags: [nephelomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 11
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Nephelomys_albigularis.cs"
-    name: "Nephelomys albigularis"
-    common_name: "Nephelomys_albigularis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nephelomys_childi.cs"
-    name: "Nephelomys childi"
-    common_name: "Nephelomys_childi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nephelomys_devius.cs"
-    name: "Nephelomys devius"
-    common_name: "Nephelomys_devius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nephelomys_keaysi.cs"
-    name: "Nephelomys keaysi"
-    common_name: "Nephelomys_keaysi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nephelomys_levipes.cs"
-    name: "Nephelomys levipes"
-    common_name: "Nephelomys_levipes"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nephelomys_meridensis.cs"
-    name: "Nephelomys meridensis"
-    common_name: "Nephelomys_meridensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nephelomys_moerex.cs"
-    name: "Nephelomys moerex"
-    common_name: "Nephelomys_moerex"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nephelomys_pectoralis.cs"
-    name: "Nephelomys pectoralis"
-    common_name: "Nephelomys_pectoralis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nephelomys_ricardopalmai.cs"
-    name: "Nephelomys ricardopalmai"
-    common_name: "Nephelomys_ricardopalmai"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nephelomys_sp_FMNH_219795.cs"
-    name: "Nephelomys sp. FMNH 219795"
-    common_name: "Nephelomys_sp_FMNH_219795"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nephelomys_sp_MEPN_12133.cs"
-    name: "Nephelomys sp. MEPN 12133"
-    common_name: "Nephelomys_sp_MEPN_12133"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Nephelomys_albigularis:
+    common_name: Nephelomys_albigularis
+    conservation: UK
+  Nephelomys_childi:
+    common_name: Nephelomys_childi
+    conservation: UK
+  Nephelomys_devius:
+    common_name: Nephelomys_devius
+    conservation: UK
+  Nephelomys_keaysi:
+    common_name: Nephelomys_keaysi
+    conservation: UK
+  Nephelomys_levipes:
+    common_name: Nephelomys_levipes
+    conservation: UK
+  Nephelomys_meridensis:
+    common_name: Nephelomys_meridensis
+    conservation: UK
+  Nephelomys_moerex:
+    common_name: Nephelomys_moerex
+    conservation: UK
+  Nephelomys_pectoralis:
+    common_name: Nephelomys_pectoralis
+    conservation: UK
+  Nephelomys_ricardopalmai:
+    common_name: Nephelomys_ricardopalmai
+    conservation: UK
+  Nephelomys_sp_FMNH_219795:
+    common_name: Nephelomys_sp_FMNH_219795
+    conservation: UK
+  Nephelomys_sp_MEPN_12133:
+    common_name: Nephelomys_sp_MEPN_12133
+    conservation: UK
 ---
-
 # Nephelomys
 
 Genus containing 11 species.

@@ -1,35 +1,24 @@
 ---
-title: "Cryptochloris"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["cryptochloris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Amblysomus/breadcrumb.md", "../Calcochloris/breadcrumb.md", "../Carpitalpa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 745251
-parent: "../breadcrumb.md"
+title: Cryptochloris
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [cryptochloris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Amblysomus/breadcrumb.md, ../Calcochloris/breadcrumb.md, ../Carpitalpa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cryptochloris_wintoni.cs"
-    name: "Cryptochloris wintoni"
-    common_name: "Cryptochloris_wintoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cryptochloris_zyli.cs"
-    name: "Cryptochloris zyli"
-    common_name: "Cryptochloris_zyli"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cryptochloris_wintoni:
+    common_name: Cryptochloris_wintoni
+    conservation: UK
+  Cryptochloris_zyli:
+    common_name: Cryptochloris_zyli
+    conservation: UK
 ---
-
 # Cryptochloris
 
 Genus containing 2 species.

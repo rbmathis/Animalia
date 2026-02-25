@@ -1,28 +1,23 @@
 ---
-title: "unclassified_Leporidae"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["unclassified_leporidae", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Brachylagus/breadcrumb.md", "../Bunolagus/breadcrumb.md", "../Caprolagus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-parent: "../breadcrumb.md"
+title: unclassified_Leporidae
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [unclassified_leporidae, genus]
+status: Living
+updated: 2026-02-23
+related: [../Brachylagus/breadcrumb.md, ../Bunolagus/breadcrumb.md, ../Caprolagus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-species:
-  - file: "Leporidae_sp.cs"
-    name: "Leporidae sp."
-    common_name: "Leporidae_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Leporidae_sp_JRA_2010.cs"
-    name: "Leporidae sp. JRA-2010"
-    common_name: "Leporidae_sp_JRA_2010"
-    conservation: "Unknown"
-    enriched: false
+species_data:
+  Leporidae_sp:
+    common_name: Leporidae_sp
+    conservation: UK
+  Leporidae_sp_JRA_2010:
+    common_name: Leporidae_sp_JRA_2010
+    conservation: UK
 ---
-
 # unclassified_Leporidae
 
 Genus containing 2 species.

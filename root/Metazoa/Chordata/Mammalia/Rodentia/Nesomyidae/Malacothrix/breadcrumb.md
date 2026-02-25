@@ -1,30 +1,21 @@
 ---
-title: "Malacothrix"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["malacothrix", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Beamys/breadcrumb.md", "../Brachytarsomys/breadcrumb.md", "../Brachyuromys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 37437
-parent: "../breadcrumb.md"
+title: Malacothrix
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [malacothrix, genus]
+status: Living
+updated: 2026-02-23
+related: [../Beamys/breadcrumb.md, ../Brachytarsomys/breadcrumb.md, ../Brachyuromys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Malacothrix_typica.cs"
-    name: "Malacothrix typica"
-    common_name: "Malacothrix_typica"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Malacothrix_typica:
+    common_name: Malacothrix_typica
+    conservation: UK
 ---
-
 # Malacothrix
 
 Genus containing 1 species.

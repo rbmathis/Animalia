@@ -1,35 +1,24 @@
 ---
-title: "Lyroderma"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["lyroderma", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cardioderma/breadcrumb.md", "../Lavia/breadcrumb.md", "../Macroderma/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3371052
-parent: "../breadcrumb.md"
+title: Lyroderma
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [lyroderma, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cardioderma/breadcrumb.md, ../Lavia/breadcrumb.md, ../Macroderma/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lyroderma_lyra.cs"
-    name: "Lyroderma lyra"
-    common_name: "Lyroderma_lyra"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lyroderma_sinense.cs"
-    name: "Lyroderma sinense"
-    common_name: "Lyroderma_sinense"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lyroderma_lyra:
+    common_name: Lyroderma_lyra
+    conservation: UK
+  Lyroderma_sinense:
+    common_name: Lyroderma_sinense
+    conservation: UK
 ---
-
 # Lyroderma
 
 Genus containing 2 species.

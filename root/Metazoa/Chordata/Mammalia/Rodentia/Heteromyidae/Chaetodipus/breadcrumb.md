@@ -1,120 +1,75 @@
 ---
-title: "Chaetodipus"
-description: "Genus containing 19 species."
-category: "taxonomy/genus"
-tags: ["chaetodipus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dipodomys/breadcrumb.md", "../Heteromys/breadcrumb.md", "../Microdipodops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 38664
-parent: "../breadcrumb.md"
+title: Chaetodipus
+description: Genus containing 19 species.
+category: taxonomy/genus
+tags: [chaetodipus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dipodomys/breadcrumb.md, ../Heteromys/breadcrumb.md, ../Microdipodops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 19
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chaetodipus_ammophilus.cs"
-    name: "Chaetodipus ammophilus"
-    common_name: "Chaetodipus_ammophilus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_arenarius.cs"
-    name: "Chaetodipus arenarius"
-    common_name: "Chaetodipus_arenarius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_artus.cs"
-    name: "Chaetodipus artus"
-    common_name: "Chaetodipus_artus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_baileyi.cs"
-    name: "Chaetodipus baileyi"
-    common_name: "Chaetodipus_baileyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_californicus.cs"
-    name: "Chaetodipus californicus"
-    common_name: "Chaetodipus_californicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_collis.cs"
-    name: "Chaetodipus collis"
-    common_name: "Chaetodipus_collis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_dalquesti.cs"
-    name: "Chaetodipus dalquesti"
-    common_name: "Chaetodipus_dalquesti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_durangae.cs"
-    name: "Chaetodipus durangae"
-    common_name: "Chaetodipus_durangae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_eremicus.cs"
-    name: "Chaetodipus eremicus"
-    common_name: "Chaetodipus_eremicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_fallax.cs"
-    name: "Chaetodipus fallax"
-    common_name: "Chaetodipus_fallax"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_formosus.cs"
-    name: "Chaetodipus formosus"
-    common_name: "Chaetodipus_formosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_goldmani.cs"
-    name: "Chaetodipus goldmani"
-    common_name: "Chaetodipus_goldmani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_hispidus.cs"
-    name: "Chaetodipus hispidus"
-    common_name: "Chaetodipus_hispidus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_intermedius.cs"
-    name: "Chaetodipus intermedius"
-    common_name: "Chaetodipus_intermedius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_nelsoni.cs"
-    name: "Chaetodipus nelsoni"
-    common_name: "Chaetodipus_nelsoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_penicillatus.cs"
-    name: "Chaetodipus penicillatus"
-    common_name: "Chaetodipus_penicillatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_pernix.cs"
-    name: "Chaetodipus pernix"
-    common_name: "Chaetodipus_pernix"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_rudinoris.cs"
-    name: "Chaetodipus rudinoris"
-    common_name: "Chaetodipus_rudinoris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chaetodipus_spinatus.cs"
-    name: "Chaetodipus spinatus"
-    common_name: "Chaetodipus_spinatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chaetodipus_ammophilus:
+    common_name: Chaetodipus_ammophilus
+    conservation: UK
+  Chaetodipus_arenarius:
+    common_name: Chaetodipus_arenarius
+    conservation: UK
+  Chaetodipus_artus:
+    common_name: Chaetodipus_artus
+    conservation: UK
+  Chaetodipus_baileyi:
+    common_name: Chaetodipus_baileyi
+    conservation: UK
+  Chaetodipus_californicus:
+    common_name: Chaetodipus_californicus
+    conservation: UK
+  Chaetodipus_collis:
+    common_name: Chaetodipus_collis
+    conservation: UK
+  Chaetodipus_dalquesti:
+    common_name: Chaetodipus_dalquesti
+    conservation: UK
+  Chaetodipus_durangae:
+    common_name: Chaetodipus_durangae
+    conservation: UK
+  Chaetodipus_eremicus:
+    common_name: Chaetodipus_eremicus
+    conservation: UK
+  Chaetodipus_fallax:
+    common_name: Chaetodipus_fallax
+    conservation: UK
+  Chaetodipus_formosus:
+    common_name: Chaetodipus_formosus
+    conservation: UK
+  Chaetodipus_goldmani:
+    common_name: Chaetodipus_goldmani
+    conservation: UK
+  Chaetodipus_hispidus:
+    common_name: Chaetodipus_hispidus
+    conservation: UK
+  Chaetodipus_intermedius:
+    common_name: Chaetodipus_intermedius
+    conservation: UK
+  Chaetodipus_nelsoni:
+    common_name: Chaetodipus_nelsoni
+    conservation: UK
+  Chaetodipus_penicillatus:
+    common_name: Chaetodipus_penicillatus
+    conservation: UK
+  Chaetodipus_pernix:
+    common_name: Chaetodipus_pernix
+    conservation: UK
+  Chaetodipus_rudinoris:
+    common_name: Chaetodipus_rudinoris
+    conservation: UK
+  Chaetodipus_spinatus:
+    common_name: Chaetodipus_spinatus
+    conservation: UK
 ---
-
 # Chaetodipus
 
 Genus containing 19 species.

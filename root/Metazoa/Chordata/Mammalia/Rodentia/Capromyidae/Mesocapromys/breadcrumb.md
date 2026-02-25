@@ -1,45 +1,30 @@
 ---
-title: "Mesocapromys"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["mesocapromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Capromys/breadcrumb.md", "../Geocapromys/breadcrumb.md", "../Mysateles/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1567508
-parent: "../breadcrumb.md"
+title: Mesocapromys
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [mesocapromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Capromys/breadcrumb.md, ../Geocapromys/breadcrumb.md, ../Mysateles/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mesocapromys_angelcabrerai.cs"
-    name: "Mesocapromys angelcabrerai"
-    common_name: "Mesocapromys_angelcabrerai"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesocapromys_auritus.cs"
-    name: "Mesocapromys auritus"
-    common_name: "Mesocapromys_auritus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesocapromys_melanurus.cs"
-    name: "Mesocapromys melanurus"
-    common_name: "Mesocapromys_melanurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesocapromys_nana.cs"
-    name: "Mesocapromys nana"
-    common_name: "Mesocapromys_nana"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mesocapromys_angelcabrerai:
+    common_name: Mesocapromys_angelcabrerai
+    conservation: UK
+  Mesocapromys_auritus:
+    common_name: Mesocapromys_auritus
+    conservation: UK
+  Mesocapromys_melanurus:
+    common_name: Mesocapromys_melanurus
+    conservation: UK
+  Mesocapromys_nana:
+    common_name: Mesocapromys_nana
+    conservation: UK
 ---
-
 # Mesocapromys
 
 Genus containing 4 species.

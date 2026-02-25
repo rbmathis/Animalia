@@ -1,30 +1,21 @@
 ---
-title: "Eumetopias"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["eumetopias", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Arctocephalus/breadcrumb.md", "../Callorhinus/breadcrumb.md", "../Neophoca/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 34885
-parent: "../breadcrumb.md"
+title: Eumetopias
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [eumetopias, genus]
+status: Living
+updated: 2026-02-23
+related: [../Arctocephalus/breadcrumb.md, ../Callorhinus/breadcrumb.md, ../Neophoca/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Eumetopias_jubatus.cs"
-    name: "Eumetopias jubatus"
-    common_name: "Eumetopias_jubatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Eumetopias_jubatus:
+    common_name: Eumetopias_jubatus
+    conservation: UK
 ---
-
 # Eumetopias
 
 Genus containing 1 species.

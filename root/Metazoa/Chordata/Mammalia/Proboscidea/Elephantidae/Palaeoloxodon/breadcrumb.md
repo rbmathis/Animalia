@@ -1,36 +1,25 @@
 ---
-title: "Palaeoloxodon"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["palaeoloxodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Elephas/breadcrumb.md", "../Loxodonta/breadcrumb.md", "../Mammuthus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3064004
-parent: "../breadcrumb.md"
+title: Palaeoloxodon
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [palaeoloxodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Elephas/breadcrumb.md, ../Loxodonta/breadcrumb.md, ../Mammuthus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Palaeoloxodon_naumanni.cs"
-    name: "Palaeoloxodon naumanni"
-    common_name: "Palaeoloxodon_naumanni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Palaeoloxodon_sp.cs"
-    name: "Palaeoloxodon sp."
-    common_name: "Palaeoloxodon_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Palaeoloxodon_naumanni:
+    common_name: Palaeoloxodon_naumanni
+    conservation: UK
+  Palaeoloxodon_sp:
+    common_name: Palaeoloxodon_sp
+    conservation: UK
 ---
-
 # Palaeoloxodon
 
 Genus containing 2 species.

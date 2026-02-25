@@ -1,126 +1,79 @@
 ---
-title: "Hipposideros"
-description: "Genus containing 126 species."
-category: "taxonomy/genus"
-tags: ["hipposideros", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anthops/breadcrumb.md", "../Asellia/breadcrumb.md", "../Aselliscus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 58068
-parent: "../breadcrumb.md"
+title: Hipposideros
+description: Genus containing 126 species.
+category: taxonomy/genus
+tags: [hipposideros, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anthops/breadcrumb.md, ../Asellia/breadcrumb.md, ../Aselliscus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 126
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hipposideros_abae.cs"
-    name: "Hipposideros abae"
-    common_name: "Hipposideros_abae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_aff_ruber.cs"
-    name: "Hipposideros aff. ruber"
-    common_name: "Hipposideros_aff_ruber"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_alongensis.cs"
-    name: "Hipposideros alongensis"
-    common_name: "Hipposideros_alongensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_armiger.cs"
-    name: "Hipposideros armiger"
-    common_name: "Hipposideros_armiger"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_ater.cs"
-    name: "Hipposideros ater"
-    common_name: "Hipposideros_ater"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_beatus.cs"
-    name: "Hipposideros beatus"
-    common_name: "Hipposideros_beatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_beatus_complex_sp_lineage_2.cs"
-    name: "Hipposideros beatus complex sp. lineage 2"
-    common_name: "Hipposideros_beatus_complex_sp_lineage_2"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_bicolor.cs"
-    name: "Hipposideros bicolor"
-    common_name: "Hipposideros_bicolor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_bicolor_131_KHz.cs"
-    name: "Hipposideros bicolor '131 KHz'"
-    common_name: "Hipposideros_bicolor_131_KHz"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_bicolor_142_KHz.cs"
-    name: "Hipposideros bicolor '142 KHz'"
-    common_name: "Hipposideros_bicolor_142_KHz"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_boeadii.cs"
-    name: "Hipposideros boeadii"
-    common_name: "Hipposideros_boeadii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_caffer.cs"
-    name: "Hipposideros caffer"
-    common_name: "Hipposideros_caffer"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_caffer_complex_sp_lineage_1.cs"
-    name: "Hipposideros caffer complex sp. lineage 1"
-    common_name: "Hipposideros_caffer_complex_sp_lineage_1"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_caffer_complex_sp_lineage_2.cs"
-    name: "Hipposideros caffer complex sp. lineage 2"
-    common_name: "Hipposideros_caffer_complex_sp_lineage_2"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_caffer_complex_sp_lineage_3.cs"
-    name: "Hipposideros caffer complex sp. lineage 3"
-    common_name: "Hipposideros_caffer_complex_sp_lineage_3"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_caffer_complex_sp_lineage_5.cs"
-    name: "Hipposideros caffer complex sp. lineage 5"
-    common_name: "Hipposideros_caffer_complex_sp_lineage_5"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_caffer_complex_sp_lineage_6.cs"
-    name: "Hipposideros caffer complex sp. lineage 6"
-    common_name: "Hipposideros_caffer_complex_sp_lineage_6"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_caffer_complex_sp_lineage_7.cs"
-    name: "Hipposideros caffer complex sp. lineage 7"
-    common_name: "Hipposideros_caffer_complex_sp_lineage_7"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_caffer_complex_sp_lineage_8.cs"
-    name: "Hipposideros caffer complex sp. lineage 8"
-    common_name: "Hipposideros_caffer_complex_sp_lineage_8"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hipposideros_calcaratus.cs"
-    name: "Hipposideros calcaratus"
-    common_name: "Hipposideros_calcaratus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hipposideros_abae:
+    common_name: Hipposideros_abae
+    conservation: UK
+  Hipposideros_aff_ruber:
+    common_name: Hipposideros_aff_ruber
+    conservation: UK
+  Hipposideros_alongensis:
+    common_name: Hipposideros_alongensis
+    conservation: UK
+  Hipposideros_armiger:
+    common_name: Hipposideros_armiger
+    conservation: UK
+  Hipposideros_ater:
+    common_name: Hipposideros_ater
+    conservation: UK
+  Hipposideros_beatus:
+    common_name: Hipposideros_beatus
+    conservation: UK
+  Hipposideros_beatus_complex_sp_lineage_2:
+    common_name: Hipposideros_beatus_complex_sp_lineage_2
+    conservation: UK
+  Hipposideros_bicolor:
+    common_name: Hipposideros_bicolor
+    conservation: UK
+  Hipposideros_bicolor_131_KHz:
+    common_name: Hipposideros_bicolor_131_KHz
+    conservation: UK
+  Hipposideros_bicolor_142_KHz:
+    common_name: Hipposideros_bicolor_142_KHz
+    conservation: UK
+  Hipposideros_boeadii:
+    common_name: Hipposideros_boeadii
+    conservation: UK
+  Hipposideros_caffer:
+    common_name: Hipposideros_caffer
+    conservation: UK
+  Hipposideros_caffer_complex_sp_lineage_1:
+    common_name: Hipposideros_caffer_complex_sp_lineage_1
+    conservation: UK
+  Hipposideros_caffer_complex_sp_lineage_2:
+    common_name: Hipposideros_caffer_complex_sp_lineage_2
+    conservation: UK
+  Hipposideros_caffer_complex_sp_lineage_3:
+    common_name: Hipposideros_caffer_complex_sp_lineage_3
+    conservation: UK
+  Hipposideros_caffer_complex_sp_lineage_5:
+    common_name: Hipposideros_caffer_complex_sp_lineage_5
+    conservation: UK
+  Hipposideros_caffer_complex_sp_lineage_6:
+    common_name: Hipposideros_caffer_complex_sp_lineage_6
+    conservation: UK
+  Hipposideros_caffer_complex_sp_lineage_7:
+    common_name: Hipposideros_caffer_complex_sp_lineage_7
+    conservation: UK
+  Hipposideros_caffer_complex_sp_lineage_8:
+    common_name: Hipposideros_caffer_complex_sp_lineage_8
+    conservation: UK
+  Hipposideros_calcaratus:
+    common_name: Hipposideros_calcaratus
+    conservation: UK
 ---
-
 # Hipposideros
 
 Genus containing 126 species.

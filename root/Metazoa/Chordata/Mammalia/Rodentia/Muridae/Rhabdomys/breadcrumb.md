@@ -1,71 +1,46 @@
 ---
-title: "Rhabdomys"
-description: "Genus containing 9 species."
-category: "taxonomy/genus"
-tags: ["rhabdomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 121572
-parent: "../breadcrumb.md"
+title: Rhabdomys
+description: Genus containing 9 species.
+category: taxonomy/genus
+tags: [rhabdomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 9
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rhabdomys_bechuanae.cs"
-    name: "Rhabdomys bechuanae"
-    common_name: "Rhabdomys_bechuanae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhabdomys_chakae.cs"
-    name: "Rhabdomys chakae"
-    common_name: "Rhabdomys_chakae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhabdomys_dilectus.cs"
-    name: "Rhabdomys dilectus"
-    common_name: "Rhabdomys_dilectus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhabdomys_intermedius.cs"
-    name: "Rhabdomys intermedius"
-    common_name: "Rhabdomys_intermedius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhabdomys_pumilio.cs"
-    name: "Rhabdomys pumilio"
-    common_name: "Rhabdomys_pumilio"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhabdomys_sp_MK15.cs"
-    name: "Rhabdomys sp. MK15"
-    common_name: "Rhabdomys_sp_MK15"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhabdomys_sp_MK30.cs"
-    name: "Rhabdomys sp. MK30"
-    common_name: "Rhabdomys_sp_MK30"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhabdomys_sp_MK33.cs"
-    name: "Rhabdomys sp. MK33"
-    common_name: "Rhabdomys_sp_MK33"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhabdomys_sp_PT2016x3.cs"
-    name: "Rhabdomys sp. PT2016x3"
-    common_name: "Rhabdomys_sp_PT2016x3"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rhabdomys_bechuanae:
+    common_name: Rhabdomys_bechuanae
+    conservation: UK
+  Rhabdomys_chakae:
+    common_name: Rhabdomys_chakae
+    conservation: UK
+  Rhabdomys_dilectus:
+    common_name: Rhabdomys_dilectus
+    conservation: UK
+  Rhabdomys_intermedius:
+    common_name: Rhabdomys_intermedius
+    conservation: UK
+  Rhabdomys_pumilio:
+    common_name: Rhabdomys_pumilio
+    conservation: UK
+  Rhabdomys_sp_MK15:
+    common_name: Rhabdomys_sp_MK15
+    conservation: UK
+  Rhabdomys_sp_MK30:
+    common_name: Rhabdomys_sp_MK30
+    conservation: UK
+  Rhabdomys_sp_MK33:
+    common_name: Rhabdomys_sp_MK33
+    conservation: UK
+  Rhabdomys_sp_PT2016x3:
+    common_name: Rhabdomys_sp_PT2016x3
+    conservation: UK
 ---
-
 # Rhabdomys
 
 Genus containing 9 species.

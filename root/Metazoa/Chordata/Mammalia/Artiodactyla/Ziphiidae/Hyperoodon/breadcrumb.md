@@ -1,35 +1,24 @@
 ---
-title: "Hyperoodon"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["hyperoodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Berardius/breadcrumb.md", "../Indopacetus/breadcrumb.md", "../Mesoplodon/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 48743
-parent: "../breadcrumb.md"
+title: Hyperoodon
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [hyperoodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Berardius/breadcrumb.md, ../Indopacetus/breadcrumb.md, ../Mesoplodon/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hyperoodon_ampullatus.cs"
-    name: "Hyperoodon ampullatus"
-    common_name: "Hyperoodon_ampullatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hyperoodon_planifrons.cs"
-    name: "Hyperoodon planifrons"
-    common_name: "Hyperoodon_planifrons"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hyperoodon_ampullatus:
+    common_name: Hyperoodon_ampullatus
+    conservation: UK
+  Hyperoodon_planifrons:
+    common_name: Hyperoodon_planifrons
+    conservation: UK
 ---
-
 # Hyperoodon
 
 Genus containing 2 species.

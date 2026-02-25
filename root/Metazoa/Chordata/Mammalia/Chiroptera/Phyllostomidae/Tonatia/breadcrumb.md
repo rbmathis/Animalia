@@ -1,51 +1,34 @@
 ---
-title: "Tonatia"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["tonatia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9425
-parent: "../breadcrumb.md"
+title: Tonatia
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [tonatia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tonatia_bakeri.cs"
-    name: "Tonatia bakeri"
-    common_name: "Tonatia_bakeri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tonatia_bidens.cs"
-    name: "Tonatia bidens"
-    common_name: "Tonatia_bidens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tonatia_maresi.cs"
-    name: "Tonatia maresi"
-    common_name: "Tonatia_maresi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tonatia_saurophila.cs"
-    name: "Tonatia saurophila"
-    common_name: "Tonatia_saurophila"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tonatia_sp_ECT_2005.cs"
-    name: "Tonatia sp. ECT-2005"
-    common_name: "Tonatia_sp_ECT_2005"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tonatia_bakeri:
+    common_name: Tonatia_bakeri
+    conservation: UK
+  Tonatia_bidens:
+    common_name: Tonatia_bidens
+    conservation: UK
+  Tonatia_maresi:
+    common_name: Tonatia_maresi
+    conservation: UK
+  Tonatia_saurophila:
+    common_name: Tonatia_saurophila
+    conservation: UK
+  Tonatia_sp_ECT_2005:
+    common_name: Tonatia_sp_ECT_2005
+    conservation: UK
 ---
-
 # Tonatia
 
 Genus containing 5 species.

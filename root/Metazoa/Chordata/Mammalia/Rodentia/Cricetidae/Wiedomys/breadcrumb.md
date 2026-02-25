@@ -1,41 +1,28 @@
 ---
-title: "Wiedomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["wiedomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 89129
-parent: "../breadcrumb.md"
+title: Wiedomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [wiedomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Wiedomys_cerradensis.cs"
-    name: "Wiedomys cerradensis"
-    common_name: "Wiedomys_cerradensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Wiedomys_pyrrhorinos.cs"
-    name: "Wiedomys pyrrhorinos"
-    common_name: "Wiedomys_pyrrhorinos"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Wiedomys_sp_CRB_1878.cs"
-    name: "Wiedomys sp. CRB 1878"
-    common_name: "Wiedomys_sp_CRB_1878"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Wiedomys_cerradensis:
+    common_name: Wiedomys_cerradensis
+    conservation: UK
+  Wiedomys_pyrrhorinos:
+    common_name: Wiedomys_pyrrhorinos
+    conservation: UK
+  Wiedomys_sp_CRB_1878:
+    common_name: Wiedomys_sp_CRB_1878
+    conservation: UK
 ---
-
 # Wiedomys
 
 Genus containing 3 species.

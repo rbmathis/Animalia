@@ -1,45 +1,30 @@
 ---
-title: "Leptosciurus"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["leptosciurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2895728
-parent: "../breadcrumb.md"
+title: Leptosciurus
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [leptosciurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Leptosciurus_mimulus.cs"
-    name: "Leptosciurus mimulus"
-    common_name: "Leptosciurus_mimulus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Leptosciurus_otinus.cs"
-    name: "Leptosciurus otinus"
-    common_name: "Leptosciurus_otinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Leptosciurus_pucheranii.cs"
-    name: "Leptosciurus pucheranii"
-    common_name: "Leptosciurus_pucheranii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Leptosciurus_similis.cs"
-    name: "Leptosciurus similis"
-    common_name: "Leptosciurus_similis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Leptosciurus_mimulus:
+    common_name: Leptosciurus_mimulus
+    conservation: UK
+  Leptosciurus_otinus:
+    common_name: Leptosciurus_otinus
+    conservation: UK
+  Leptosciurus_pucheranii:
+    common_name: Leptosciurus_pucheranii
+    conservation: UK
+  Leptosciurus_similis:
+    common_name: Leptosciurus_similis
+    conservation: UK
 ---
-
 # Leptosciurus
 
 Genus containing 4 species.

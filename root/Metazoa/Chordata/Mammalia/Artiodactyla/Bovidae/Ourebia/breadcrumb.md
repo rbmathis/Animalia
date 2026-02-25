@@ -1,30 +1,21 @@
 ---
-title: "Ourebia"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["ourebia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 59535
-parent: "../breadcrumb.md"
+title: Ourebia
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [ourebia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ourebia_ourebi.cs"
-    name: "Ourebia ourebi"
-    common_name: "Ourebia_ourebi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ourebia_ourebi:
+    common_name: Ourebia_ourebi
+    conservation: UK
 ---
-
 # Ourebia
 
 Genus containing 1 species.

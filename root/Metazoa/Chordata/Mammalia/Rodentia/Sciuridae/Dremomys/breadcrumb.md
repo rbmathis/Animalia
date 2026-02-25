@@ -1,55 +1,36 @@
 ---
-title: "Dremomys"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["dremomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226545
-parent: "../breadcrumb.md"
+title: Dremomys
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [dremomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dremomys_everetti.cs"
-    name: "Dremomys everetti"
-    common_name: "Dremomys_everetti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dremomys_gularis.cs"
-    name: "Dremomys gularis"
-    common_name: "Dremomys_gularis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dremomys_lokriah.cs"
-    name: "Dremomys lokriah"
-    common_name: "Dremomys_lokriah"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dremomys_pernyi.cs"
-    name: "Dremomys pernyi"
-    common_name: "Dremomys_pernyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dremomys_pyrrhomerus.cs"
-    name: "Dremomys pyrrhomerus"
-    common_name: "Dremomys_pyrrhomerus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dremomys_rufigenis.cs"
-    name: "Dremomys rufigenis"
-    common_name: "Dremomys_rufigenis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dremomys_everetti:
+    common_name: Dremomys_everetti
+    conservation: UK
+  Dremomys_gularis:
+    common_name: Dremomys_gularis
+    conservation: UK
+  Dremomys_lokriah:
+    common_name: Dremomys_lokriah
+    conservation: UK
+  Dremomys_pernyi:
+    common_name: Dremomys_pernyi
+    conservation: UK
+  Dremomys_pyrrhomerus:
+    common_name: Dremomys_pyrrhomerus
+    conservation: UK
+  Dremomys_rufigenis:
+    common_name: Dremomys_rufigenis
+    conservation: UK
 ---
-
 # Dremomys
 
 Genus containing 6 species.

@@ -1,46 +1,31 @@
 ---
-title: "Ningaui"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["ningaui", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antechinomys/breadcrumb.md", "../Antechinus/breadcrumb.md", "../Dasycercus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 32552
-parent: "../breadcrumb.md"
+title: Ningaui
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [ningaui, genus]
+status: Living
+updated: 2026-02-23
+related: [../Antechinomys/breadcrumb.md, ../Antechinus/breadcrumb.md, ../Dasycercus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ningaui_ridei.cs"
-    name: "Ningaui ridei"
-    common_name: "Ningaui_ridei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ningaui_sp_PLANIMW851.cs"
-    name: "Ningaui sp. PLANIMW851"
-    common_name: "Ningaui_sp_PLANIMW851"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ningaui_timealeyi.cs"
-    name: "Ningaui timealeyi"
-    common_name: "Ningaui_timealeyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ningaui_yvonnae.cs"
-    name: "Ningaui yvonnae"
-    common_name: "Ningaui_yvonnae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ningaui_ridei:
+    common_name: Ningaui_ridei
+    conservation: UK
+  Ningaui_sp_PLANIMW851:
+    common_name: Ningaui_sp_PLANIMW851
+    conservation: UK
+  Ningaui_timealeyi:
+    common_name: Ningaui_timealeyi
+    conservation: UK
+  Ningaui_yvonnae:
+    common_name: Ningaui_yvonnae
+    conservation: UK
 ---
-
 # Ningaui
 
 Genus containing 4 species.

@@ -1,46 +1,19 @@
 ---
-title: "Macropodidae"
-description: "Family containing 15 genera."
-category: "taxonomy/family"
-tags: ["macropodidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acrobatidae/breadcrumb.md", "../Burramyidae/breadcrumb.md", "../Petauridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9307
-parent: "../breadcrumb.md"
+title: Macropodidae
+description: Family containing 15 genera.
+category: taxonomy/family
+tags: [macropodidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Acrobatidae/breadcrumb.md, ../Burramyidae/breadcrumb.md, ../Petauridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 15
 species_count: 1
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Dendrolagus/breadcrumb.md"
-    name: "Dendrolagus"
-  - path: "Dorcopsis/breadcrumb.md"
-    name: "Dorcopsis"
-  - path: "Dorcopsulus/breadcrumb.md"
-    name: "Dorcopsulus"
-  - path: "Lagorchestes/breadcrumb.md"
-    name: "Lagorchestes"
-  - path: "Lagostrophus/breadcrumb.md"
-    name: "Lagostrophus"
-  - path: "Macropus/breadcrumb.md"
-    name: "Macropus"
-  - path: "Notamacropus/breadcrumb.md"
-    name: "Notamacropus"
-  - path: "Onychogalea/breadcrumb.md"
-    name: "Onychogalea"
-  - path: "Osphranter/breadcrumb.md"
-    name: "Osphranter"
-  - path: "Petrogale/breadcrumb.md"
-    name: "Petrogale"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Dendrolagus, Dorcopsis, Dorcopsulus, Lagorchestes, Lagostrophus, Macropus, Notamacropus, Onychogalea, Osphranter, Petrogale]
 ---
-
 # Macropodidae
 
 Family containing 15 genera.

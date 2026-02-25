@@ -1,126 +1,79 @@
 ---
-title: "Suncus"
-description: "Genus containing 21 species."
-category: "taxonomy/genus"
-tags: ["suncus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9377
-parent: "../breadcrumb.md"
+title: Suncus
+description: Genus containing 21 species.
+category: taxonomy/genus
+tags: [suncus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 21
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Suncus_ater.cs"
-    name: "Suncus ater"
-    common_name: "Suncus_ater"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_cf_remyi_YL_2021.cs"
-    name: "Suncus cf. remyi YL-2021"
-    common_name: "Suncus_cf_remyi_YL_2021"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_dayi.cs"
-    name: "Suncus dayi"
-    common_name: "Suncus_dayi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_etruscus.cs"
-    name: "Suncus etruscus"
-    common_name: "Suncus_etruscus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_fellowesgordoni.cs"
-    name: "Suncus fellowesgordoni"
-    common_name: "Suncus_fellowesgordoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_hututsi.cs"
-    name: "Suncus hututsi"
-    common_name: "Suncus_hututsi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_infinitesimus.cs"
-    name: "Suncus infinitesimus"
-    common_name: "Suncus_infinitesimus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_lixus.cs"
-    name: "Suncus lixus"
-    common_name: "Suncus_lixus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_madagascariensis.cs"
-    name: "Suncus madagascariensis"
-    common_name: "Suncus_madagascariensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_malayanus.cs"
-    name: "Suncus malayanus"
-    common_name: "Suncus_malayanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_megalura.cs"
-    name: "Suncus megalura"
-    common_name: "Suncus_megalura"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_montanus.cs"
-    name: "Suncus montanus"
-    common_name: "Suncus_montanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_murinus.cs"
-    name: "Suncus murinus"
-    common_name: "Suncus_murinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_niger.cs"
-    name: "Suncus niger"
-    common_name: "Suncus_niger"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_remyi.cs"
-    name: "Suncus remyi"
-    common_name: "Suncus_remyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_sorella.cs"
-    name: "Suncus sorella"
-    common_name: "Suncus_sorella"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_sp_FMNH_155483.cs"
-    name: "Suncus sp. FMNH 155483"
-    common_name: "Suncus_sp_FMNH_155483"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_sp_FMNH_160183.cs"
-    name: "Suncus sp. FMNH 160183"
-    common_name: "Suncus_sp_FMNH_160183"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_sp_FMNH_160184.cs"
-    name: "Suncus sp. FMNH 160184"
-    common_name: "Suncus_sp_FMNH_160184"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Suncus_stoliczkanus.cs"
-    name: "Suncus stoliczkanus"
-    common_name: "Suncus_stoliczkanus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Suncus_ater:
+    common_name: Suncus_ater
+    conservation: UK
+  Suncus_cf_remyi_YL_2021:
+    common_name: Suncus_cf_remyi_YL_2021
+    conservation: UK
+  Suncus_dayi:
+    common_name: Suncus_dayi
+    conservation: UK
+  Suncus_etruscus:
+    common_name: Suncus_etruscus
+    conservation: UK
+  Suncus_fellowesgordoni:
+    common_name: Suncus_fellowesgordoni
+    conservation: UK
+  Suncus_hututsi:
+    common_name: Suncus_hututsi
+    conservation: UK
+  Suncus_infinitesimus:
+    common_name: Suncus_infinitesimus
+    conservation: UK
+  Suncus_lixus:
+    common_name: Suncus_lixus
+    conservation: UK
+  Suncus_madagascariensis:
+    common_name: Suncus_madagascariensis
+    conservation: UK
+  Suncus_malayanus:
+    common_name: Suncus_malayanus
+    conservation: UK
+  Suncus_megalura:
+    common_name: Suncus_megalura
+    conservation: UK
+  Suncus_montanus:
+    common_name: Suncus_montanus
+    conservation: UK
+  Suncus_murinus:
+    common_name: Suncus_murinus
+    conservation: UK
+  Suncus_niger:
+    common_name: Suncus_niger
+    conservation: UK
+  Suncus_remyi:
+    common_name: Suncus_remyi
+    conservation: UK
+  Suncus_sorella:
+    common_name: Suncus_sorella
+    conservation: UK
+  Suncus_sp_FMNH_155483:
+    common_name: Suncus_sp_FMNH_155483
+    conservation: UK
+  Suncus_sp_FMNH_160183:
+    common_name: Suncus_sp_FMNH_160183
+    conservation: UK
+  Suncus_sp_FMNH_160184:
+    common_name: Suncus_sp_FMNH_160184
+    conservation: UK
+  Suncus_stoliczkanus:
+    common_name: Suncus_stoliczkanus
+    conservation: UK
 ---
-
 # Suncus
 
 Genus containing 21 species.

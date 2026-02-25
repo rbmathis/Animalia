@@ -1,30 +1,21 @@
 ---
-title: "Lemmiscus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["lemmiscus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 663698
-parent: "../breadcrumb.md"
+title: Lemmiscus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [lemmiscus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lemmiscus_curtatus.cs"
-    name: "Lemmiscus curtatus"
-    common_name: "Lemmiscus_curtatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lemmiscus_curtatus:
+    common_name: Lemmiscus_curtatus
+    conservation: UK
 ---
-
 # Lemmiscus
 
 Genus containing 1 species.

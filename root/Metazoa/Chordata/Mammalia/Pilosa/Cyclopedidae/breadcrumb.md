@@ -1,28 +1,19 @@
 ---
-title: "Cyclopedidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["cyclopedidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Bradypodidae/breadcrumb.md", "../Megalonychidae/breadcrumb.md", "../Megatheriidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 948954
-parent: "../breadcrumb.md"
+title: Cyclopedidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [cyclopedidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Bradypodidae/breadcrumb.md, ../Megalonychidae/breadcrumb.md, ../Megatheriidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Cyclopes/breadcrumb.md"
-    name: "Cyclopes"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Cyclopes]
 ---
-
 # Cyclopedidae
 
 Family containing 1 genera.

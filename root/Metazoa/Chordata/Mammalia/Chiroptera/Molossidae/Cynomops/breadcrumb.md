@@ -1,106 +1,67 @@
 ---
-title: "Cynomops"
-description: "Genus containing 16 species."
-category: "taxonomy/genus"
-tags: ["cynomops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cheiromeles/breadcrumb.md", "../Eumops/breadcrumb.md", "../Micronomus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 303306
-parent: "../breadcrumb.md"
+title: Cynomops
+description: Genus containing 16 species.
+category: taxonomy/genus
+tags: [cynomops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cheiromeles/breadcrumb.md, ../Eumops/breadcrumb.md, ../Micronomus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 16
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cynomops_abrasus.cs"
-    name: "Cynomops abrasus"
-    common_name: "Cynomops_abrasus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomops_greenhalli.cs"
-    name: "Cynomops greenhalli"
-    common_name: "Cynomops_greenhalli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomops_kuizha.cs"
-    name: "Cynomops kuizha"
-    common_name: "Cynomops_kuizha"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomops_mexicanus.cs"
-    name: "Cynomops mexicanus"
-    common_name: "Cynomops_mexicanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomops_paranus.cs"
-    name: "Cynomops paranus"
-    common_name: "Cynomops_paranus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomops_planirostris.cs"
-    name: "Cynomops planirostris"
-    common_name: "Cynomops_planirostris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomops_sp_PN181.cs"
-    name: "Cynomops sp. PN181"
-    common_name: "Cynomops_sp_PN181"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomops_sp_PN293.cs"
-    name: "Cynomops sp. PN293"
-    common_name: "Cynomops_sp_PN293"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomops_sp_PN299.cs"
-    name: "Cynomops sp. PN299"
-    common_name: "Cynomops_sp_PN299"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomops_sp_PN305.cs"
-    name: "Cynomops sp. PN305"
-    common_name: "Cynomops_sp_PN305"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomops_sp_PN310.cs"
-    name: "Cynomops sp. PN310"
-    common_name: "Cynomops_sp_PN310"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomops_sp_PN316.cs"
-    name: "Cynomops sp. PN316"
-    common_name: "Cynomops_sp_PN316"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomops_sp_PN73.cs"
-    name: "Cynomops sp. PN73"
-    common_name: "Cynomops_sp_PN73"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomops_sp_PN73B.cs"
-    name: "Cynomops sp. PN73B"
-    common_name: "Cynomops_sp_PN73B"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomops_sp_PN88.cs"
-    name: "Cynomops sp. PN88"
-    common_name: "Cynomops_sp_PN88"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomops_sp_USNM_319084.cs"
-    name: "Cynomops sp. USNM 319084"
-    common_name: "Cynomops_sp_USNM_319084"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cynomops_abrasus:
+    common_name: Cynomops_abrasus
+    conservation: UK
+  Cynomops_greenhalli:
+    common_name: Cynomops_greenhalli
+    conservation: UK
+  Cynomops_kuizha:
+    common_name: Cynomops_kuizha
+    conservation: UK
+  Cynomops_mexicanus:
+    common_name: Cynomops_mexicanus
+    conservation: UK
+  Cynomops_paranus:
+    common_name: Cynomops_paranus
+    conservation: UK
+  Cynomops_planirostris:
+    common_name: Cynomops_planirostris
+    conservation: UK
+  Cynomops_sp_PN181:
+    common_name: Cynomops_sp_PN181
+    conservation: UK
+  Cynomops_sp_PN293:
+    common_name: Cynomops_sp_PN293
+    conservation: UK
+  Cynomops_sp_PN299:
+    common_name: Cynomops_sp_PN299
+    conservation: UK
+  Cynomops_sp_PN305:
+    common_name: Cynomops_sp_PN305
+    conservation: UK
+  Cynomops_sp_PN310:
+    common_name: Cynomops_sp_PN310
+    conservation: UK
+  Cynomops_sp_PN316:
+    common_name: Cynomops_sp_PN316
+    conservation: UK
+  Cynomops_sp_PN73:
+    common_name: Cynomops_sp_PN73
+    conservation: UK
+  Cynomops_sp_PN73B:
+    common_name: Cynomops_sp_PN73B
+    conservation: UK
+  Cynomops_sp_PN88:
+    common_name: Cynomops_sp_PN88
+    conservation: UK
+  Cynomops_sp_USNM_319084:
+    common_name: Cynomops_sp_USNM_319084
+    conservation: UK
 ---
-
 # Cynomops
 
 Genus containing 16 species.

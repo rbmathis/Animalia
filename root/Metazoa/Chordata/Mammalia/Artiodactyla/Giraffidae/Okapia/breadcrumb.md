@@ -1,30 +1,21 @@
 ---
-title: "Okapia"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["okapia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Giraffa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 86972
-parent: "../breadcrumb.md"
+title: Okapia
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [okapia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Giraffa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Okapia_johnstoni.cs"
-    name: "Okapia johnstoni"
-    common_name: "Okapia_johnstoni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Okapia_johnstoni:
+    common_name: Okapia_johnstoni
+    conservation: UK
 ---
-
 # Okapia
 
 Genus containing 1 species.

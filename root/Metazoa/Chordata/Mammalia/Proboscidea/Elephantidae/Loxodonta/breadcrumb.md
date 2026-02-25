@@ -1,126 +1,79 @@
 ---
-title: "Loxodonta"
-description: "Genus containing 23 species."
-category: "taxonomy/genus"
-tags: ["loxodonta", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Elephas/breadcrumb.md", "../Mammuthus/breadcrumb.md", "../Palaeoloxodon/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9784
-parent: "../breadcrumb.md"
+title: Loxodonta
+description: Genus containing 23 species.
+category: taxonomy/genus
+tags: [loxodonta, genus]
+status: Living
+updated: 2026-02-23
+related: [../Elephas/breadcrumb.md, ../Mammuthus/breadcrumb.md, ../Palaeoloxodon/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 23
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Loxodonta_africana.cs"
-    name: "Loxodonta africana"
-    common_name: "Loxodonta_africana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_cyclotis.cs"
-    name: "Loxodonta cyclotis"
-    common_name: "Loxodonta_cyclotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_cyclotis_x_africana.cs"
-    name: "Loxodonta cyclotis x africana"
-    common_name: "Loxodonta_cyclotis_x_africana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_environmental_sample.cs"
-    name: "Loxodonta environmental sample"
-    common_name: "Loxodonta_environmental_sample"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp.cs"
-    name: "Loxodonta sp."
-    common_name: "Loxodonta_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp_GS_2022.cs"
-    name: "Loxodonta sp. GS-2022"
-    common_name: "Loxodonta_sp_GS_2022"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp_KC_2021.cs"
-    name: "Loxodonta sp. KC-2021"
-    common_name: "Loxodonta_sp_KC_2021"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp_UCT16396.cs"
-    name: "Loxodonta sp. UCT16396"
-    common_name: "Loxodonta_sp_UCT16396"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp_UCT16399.cs"
-    name: "Loxodonta sp. UCT16399"
-    common_name: "Loxodonta_sp_UCT16399"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp_UCT16400.cs"
-    name: "Loxodonta sp. UCT16400"
-    common_name: "Loxodonta_sp_UCT16400"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp_UCT16401.cs"
-    name: "Loxodonta sp. UCT16401"
-    common_name: "Loxodonta_sp_UCT16401"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp_UCT16402.cs"
-    name: "Loxodonta sp. UCT16402"
-    common_name: "Loxodonta_sp_UCT16402"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp_UCT16403.cs"
-    name: "Loxodonta sp. UCT16403"
-    common_name: "Loxodonta_sp_UCT16403"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp_UCT16411.cs"
-    name: "Loxodonta sp. UCT16411"
-    common_name: "Loxodonta_sp_UCT16411"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp_UCT16416.cs"
-    name: "Loxodonta sp. UCT16416"
-    common_name: "Loxodonta_sp_UCT16416"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp_UCT16417.cs"
-    name: "Loxodonta sp. UCT16417"
-    common_name: "Loxodonta_sp_UCT16417"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp_UCT16419.cs"
-    name: "Loxodonta sp. UCT16419"
-    common_name: "Loxodonta_sp_UCT16419"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp_UCT16421.cs"
-    name: "Loxodonta sp. UCT16421"
-    common_name: "Loxodonta_sp_UCT16421"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp_UCT16422.cs"
-    name: "Loxodonta sp. UCT16422"
-    common_name: "Loxodonta_sp_UCT16422"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Loxodonta_sp_UCT16425.cs"
-    name: "Loxodonta sp. UCT16425"
-    common_name: "Loxodonta_sp_UCT16425"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Loxodonta_africana:
+    common_name: Loxodonta_africana
+    conservation: UK
+  Loxodonta_cyclotis:
+    common_name: Loxodonta_cyclotis
+    conservation: UK
+  Loxodonta_cyclotis_x_africana:
+    common_name: Loxodonta_cyclotis_x_africana
+    conservation: UK
+  Loxodonta_environmental_sample:
+    common_name: Loxodonta_environmental_sample
+    conservation: UK
+  Loxodonta_sp:
+    common_name: Loxodonta_sp
+    conservation: UK
+  Loxodonta_sp_GS_2022:
+    common_name: Loxodonta_sp_GS_2022
+    conservation: UK
+  Loxodonta_sp_KC_2021:
+    common_name: Loxodonta_sp_KC_2021
+    conservation: UK
+  Loxodonta_sp_UCT16396:
+    common_name: Loxodonta_sp_UCT16396
+    conservation: UK
+  Loxodonta_sp_UCT16399:
+    common_name: Loxodonta_sp_UCT16399
+    conservation: UK
+  Loxodonta_sp_UCT16400:
+    common_name: Loxodonta_sp_UCT16400
+    conservation: UK
+  Loxodonta_sp_UCT16401:
+    common_name: Loxodonta_sp_UCT16401
+    conservation: UK
+  Loxodonta_sp_UCT16402:
+    common_name: Loxodonta_sp_UCT16402
+    conservation: UK
+  Loxodonta_sp_UCT16403:
+    common_name: Loxodonta_sp_UCT16403
+    conservation: UK
+  Loxodonta_sp_UCT16411:
+    common_name: Loxodonta_sp_UCT16411
+    conservation: UK
+  Loxodonta_sp_UCT16416:
+    common_name: Loxodonta_sp_UCT16416
+    conservation: UK
+  Loxodonta_sp_UCT16417:
+    common_name: Loxodonta_sp_UCT16417
+    conservation: UK
+  Loxodonta_sp_UCT16419:
+    common_name: Loxodonta_sp_UCT16419
+    conservation: UK
+  Loxodonta_sp_UCT16421:
+    common_name: Loxodonta_sp_UCT16421
+    conservation: UK
+  Loxodonta_sp_UCT16422:
+    common_name: Loxodonta_sp_UCT16422
+    conservation: UK
+  Loxodonta_sp_UCT16425:
+    common_name: Loxodonta_sp_UCT16425
+    conservation: UK
 ---
-
 # Loxodonta
 
 Genus containing 23 species.

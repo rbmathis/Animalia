@@ -1,30 +1,21 @@
 ---
-title: "Coccymys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["coccymys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 442567
-parent: "../breadcrumb.md"
+title: Coccymys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [coccymys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Coccymys_ruemmleri.cs"
-    name: "Coccymys ruemmleri"
-    common_name: "Coccymys_ruemmleri"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Coccymys_ruemmleri:
+    common_name: Coccymys_ruemmleri
+    conservation: UK
 ---
-
 # Coccymys
 
 Genus containing 1 species.

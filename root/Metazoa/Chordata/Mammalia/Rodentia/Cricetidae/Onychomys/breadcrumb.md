@@ -1,40 +1,27 @@
 ---
-title: "Onychomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["onychomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 38667
-parent: "../breadcrumb.md"
+title: Onychomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [onychomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Onychomys_arenicola.cs"
-    name: "Onychomys arenicola"
-    common_name: "Onychomys_arenicola"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Onychomys_leucogaster.cs"
-    name: "Onychomys leucogaster"
-    common_name: "Onychomys_leucogaster"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Onychomys_torridus.cs"
-    name: "Onychomys torridus"
-    common_name: "Onychomys_torridus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Onychomys_arenicola:
+    common_name: Onychomys_arenicola
+    conservation: UK
+  Onychomys_leucogaster:
+    common_name: Onychomys_leucogaster
+    conservation: UK
+  Onychomys_torridus:
+    common_name: Onychomys_torridus
+    conservation: UK
 ---
-
 # Onychomys
 
 Genus containing 3 species.

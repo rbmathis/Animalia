@@ -1,30 +1,21 @@
 ---
-title: "Ommatophoca"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["ommatophoca", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cystophora/breadcrumb.md", "../Erignathus/breadcrumb.md", "../Halichoerus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 207341
-parent: "../breadcrumb.md"
+title: Ommatophoca
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [ommatophoca, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cystophora/breadcrumb.md, ../Erignathus/breadcrumb.md, ../Halichoerus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ommatophoca_rossii.cs"
-    name: "Ommatophoca rossii"
-    common_name: "Ommatophoca_rossii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ommatophoca_rossii:
+    common_name: Ommatophoca_rossii
+    conservation: UK
 ---
-
 # Ommatophoca
 
 Genus containing 1 species.

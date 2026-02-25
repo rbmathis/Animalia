@@ -1,30 +1,21 @@
 ---
-title: "Centurio"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["centurio", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 27643
-parent: "../breadcrumb.md"
+title: Centurio
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [centurio, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Centurio_senex.cs"
-    name: "Centurio senex"
-    common_name: "Centurio_senex"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Centurio_senex:
+    common_name: Centurio_senex
+    conservation: UK
 ---
-
 # Centurio
 
 Genus containing 1 species.

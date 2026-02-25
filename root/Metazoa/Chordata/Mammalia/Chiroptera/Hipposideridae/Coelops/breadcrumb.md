@@ -1,35 +1,24 @@
 ---
-title: "Coelops"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["coelops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anthops/breadcrumb.md", "../Asellia/breadcrumb.md", "../Aselliscus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 187001
-parent: "../breadcrumb.md"
+title: Coelops
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [coelops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anthops/breadcrumb.md, ../Asellia/breadcrumb.md, ../Aselliscus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Coelops_frithii.cs"
-    name: "Coelops frithii"
-    common_name: "Coelops_frithii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Coelops_robinsoni.cs"
-    name: "Coelops robinsoni"
-    common_name: "Coelops_robinsoni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Coelops_frithii:
+    common_name: Coelops_frithii
+    conservation: UK
+  Coelops_robinsoni:
+    common_name: Coelops_robinsoni
+    conservation: UK
 ---
-
 # Coelops
 
 Genus containing 2 species.

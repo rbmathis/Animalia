@@ -1,40 +1,27 @@
 ---
-title: "Zapus"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["zapus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allactaga/breadcrumb.md", "../Allactodipus/breadcrumb.md", "../Cardiocranius/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 98660
-parent: "../breadcrumb.md"
+title: Zapus
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [zapus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allactaga/breadcrumb.md, ../Allactodipus/breadcrumb.md, ../Cardiocranius/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Zapus_hudsonius.cs"
-    name: "Zapus hudsonius"
-    common_name: "Zapus_hudsonius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Zapus_princeps.cs"
-    name: "Zapus princeps"
-    common_name: "Zapus_princeps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Zapus_trinotatus.cs"
-    name: "Zapus trinotatus"
-    common_name: "Zapus_trinotatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Zapus_hudsonius:
+    common_name: Zapus_hudsonius
+    conservation: UK
+  Zapus_princeps:
+    common_name: Zapus_princeps
+    conservation: UK
+  Zapus_trinotatus:
+    common_name: Zapus_trinotatus
+    conservation: UK
 ---
-
 # Zapus
 
 Genus containing 3 species.

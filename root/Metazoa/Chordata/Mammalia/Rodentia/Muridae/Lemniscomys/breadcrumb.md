@@ -1,81 +1,52 @@
 ---
-title: "Lemniscomys"
-description: "Genus containing 11 species."
-category: "taxonomy/genus"
-tags: ["lemniscomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 54110
-parent: "../breadcrumb.md"
+title: Lemniscomys
+description: Genus containing 11 species.
+category: taxonomy/genus
+tags: [lemniscomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 11
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lemniscomys_barbarus.cs"
-    name: "Lemniscomys barbarus"
-    common_name: "Lemniscomys_barbarus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lemniscomys_bellieri.cs"
-    name: "Lemniscomys bellieri"
-    common_name: "Lemniscomys_bellieri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lemniscomys_cf_roseveari_AH_2020.cs"
-    name: "Lemniscomys cf. roseveari AH-2020"
-    common_name: "Lemniscomys_cf_roseveari_AH_2020"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lemniscomys_griselda.cs"
-    name: "Lemniscomys griselda"
-    common_name: "Lemniscomys_griselda"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lemniscomys_linulus.cs"
-    name: "Lemniscomys linulus"
-    common_name: "Lemniscomys_linulus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lemniscomys_macculus.cs"
-    name: "Lemniscomys macculus"
-    common_name: "Lemniscomys_macculus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lemniscomys_mittendorfi.cs"
-    name: "Lemniscomys mittendorfi"
-    common_name: "Lemniscomys_mittendorfi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lemniscomys_rosalia.cs"
-    name: "Lemniscomys rosalia"
-    common_name: "Lemniscomys_rosalia"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lemniscomys_sp_IN_2012.cs"
-    name: "Lemniscomys sp. IN-2012"
-    common_name: "Lemniscomys_sp_IN_2012"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lemniscomys_striatus.cs"
-    name: "Lemniscomys striatus"
-    common_name: "Lemniscomys_striatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lemniscomys_zebra.cs"
-    name: "Lemniscomys zebra"
-    common_name: "Lemniscomys_zebra"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lemniscomys_barbarus:
+    common_name: Lemniscomys_barbarus
+    conservation: UK
+  Lemniscomys_bellieri:
+    common_name: Lemniscomys_bellieri
+    conservation: UK
+  Lemniscomys_cf_roseveari_AH_2020:
+    common_name: Lemniscomys_cf_roseveari_AH_2020
+    conservation: UK
+  Lemniscomys_griselda:
+    common_name: Lemniscomys_griselda
+    conservation: UK
+  Lemniscomys_linulus:
+    common_name: Lemniscomys_linulus
+    conservation: UK
+  Lemniscomys_macculus:
+    common_name: Lemniscomys_macculus
+    conservation: UK
+  Lemniscomys_mittendorfi:
+    common_name: Lemniscomys_mittendorfi
+    conservation: UK
+  Lemniscomys_rosalia:
+    common_name: Lemniscomys_rosalia
+    conservation: UK
+  Lemniscomys_sp_IN_2012:
+    common_name: Lemniscomys_sp_IN_2012
+    conservation: UK
+  Lemniscomys_striatus:
+    common_name: Lemniscomys_striatus
+    conservation: UK
+  Lemniscomys_zebra:
+    common_name: Lemniscomys_zebra
+    conservation: UK
 ---
-
 # Lemniscomys
 
 Genus containing 11 species.

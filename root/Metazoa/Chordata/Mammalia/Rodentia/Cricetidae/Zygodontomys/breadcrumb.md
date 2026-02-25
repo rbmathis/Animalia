@@ -1,66 +1,43 @@
 ---
-title: "Zygodontomys"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["zygodontomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 157540
-parent: "../breadcrumb.md"
+title: Zygodontomys
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [zygodontomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Zygodontomys_brevicauda.cs"
-    name: "Zygodontomys brevicauda"
-    common_name: "Zygodontomys_brevicauda"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Zygodontomys_cherriei.cs"
-    name: "Zygodontomys cherriei"
-    common_name: "Zygodontomys_cherriei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Zygodontomys_microtinus.cs"
-    name: "Zygodontomys microtinus"
-    common_name: "Zygodontomys_microtinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Zygodontomys_sp_1_PGG_2008a.cs"
-    name: "Zygodontomys sp. 1 PGG-2008a"
-    common_name: "Zygodontomys_sp_1_PGG_2008a"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Zygodontomys_sp_2_PGG_2008a.cs"
-    name: "Zygodontomys sp. 2 PGG-2008a"
-    common_name: "Zygodontomys_sp_2_PGG_2008a"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Zygodontomys_sp_CRB2035.cs"
-    name: "Zygodontomys sp. CRB2035"
-    common_name: "Zygodontomys_sp_CRB2035"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Zygodontomys_sp_CRB2036.cs"
-    name: "Zygodontomys sp. CRB2036"
-    common_name: "Zygodontomys_sp_CRB2036"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Zygodontomys_sp_Isla_Coiba.cs"
-    name: "Zygodontomys sp. Isla Coiba"
-    common_name: "Zygodontomys_sp_Isla_Coiba"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Zygodontomys_brevicauda:
+    common_name: Zygodontomys_brevicauda
+    conservation: UK
+  Zygodontomys_cherriei:
+    common_name: Zygodontomys_cherriei
+    conservation: UK
+  Zygodontomys_microtinus:
+    common_name: Zygodontomys_microtinus
+    conservation: UK
+  Zygodontomys_sp_1_PGG_2008a:
+    common_name: Zygodontomys_sp_1_PGG_2008a
+    conservation: UK
+  Zygodontomys_sp_2_PGG_2008a:
+    common_name: Zygodontomys_sp_2_PGG_2008a
+    conservation: UK
+  Zygodontomys_sp_CRB2035:
+    common_name: Zygodontomys_sp_CRB2035
+    conservation: UK
+  Zygodontomys_sp_CRB2036:
+    common_name: Zygodontomys_sp_CRB2036
+    conservation: UK
+  Zygodontomys_sp_Isla_Coiba:
+    common_name: Zygodontomys_sp_Isla_Coiba
+    conservation: UK
 ---
-
 # Zygodontomys
 
 Genus containing 8 species.

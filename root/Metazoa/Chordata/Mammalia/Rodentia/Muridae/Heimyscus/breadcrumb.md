@@ -1,30 +1,21 @@
 ---
-title: "Heimyscus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["heimyscus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 209870
-parent: "../breadcrumb.md"
+title: Heimyscus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [heimyscus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Heimyscus_fumosus.cs"
-    name: "Heimyscus fumosus"
-    common_name: "Heimyscus_fumosus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Heimyscus_fumosus:
+    common_name: Heimyscus_fumosus
+    conservation: UK
 ---
-
 # Heimyscus
 
 Genus containing 1 species.

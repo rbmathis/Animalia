@@ -1,30 +1,21 @@
 ---
-title: "Lycaon"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["lycaon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aenocyon/breadcrumb.md", "../Atelocynus/breadcrumb.md", "../Canidae_intergeneric_hybrids/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9621
-parent: "../breadcrumb.md"
+title: Lycaon
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [lycaon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aenocyon/breadcrumb.md, ../Atelocynus/breadcrumb.md, ../Canidae_intergeneric_hybrids/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lycaon_pictus.cs"
-    name: "Lycaon pictus"
-    common_name: "Lycaon_pictus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lycaon_pictus:
+    common_name: Lycaon_pictus
+    conservation: UK
 ---
-
 # Lycaon
 
 Genus containing 1 species.

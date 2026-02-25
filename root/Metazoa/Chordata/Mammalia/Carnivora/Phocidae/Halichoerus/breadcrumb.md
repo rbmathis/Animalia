@@ -1,30 +1,21 @@
 ---
-title: "Halichoerus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["halichoerus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cystophora/breadcrumb.md", "../Erignathus/breadcrumb.md", "../Hydrurga/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9710
-parent: "../breadcrumb.md"
+title: Halichoerus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [halichoerus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cystophora/breadcrumb.md, ../Erignathus/breadcrumb.md, ../Hydrurga/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Halichoerus_grypus.cs"
-    name: "Halichoerus grypus"
-    common_name: "Halichoerus_grypus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Halichoerus_grypus:
+    common_name: Halichoerus_grypus
+    conservation: UK
 ---
-
 # Halichoerus
 
 Genus containing 1 species.

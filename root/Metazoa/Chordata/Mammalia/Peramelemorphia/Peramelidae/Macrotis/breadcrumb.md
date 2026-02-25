@@ -1,35 +1,24 @@
 ---
-title: "Macrotis"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["macrotis", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Chaeropus/breadcrumb.md", "../Isoodon/breadcrumb.md", "../Perameles/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 92650
-parent: "../breadcrumb.md"
+title: Macrotis
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [macrotis, genus]
+status: Living
+updated: 2026-02-23
+related: [../Chaeropus/breadcrumb.md, ../Isoodon/breadcrumb.md, ../Perameles/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Macrotis_lagotis.cs"
-    name: "Macrotis lagotis"
-    common_name: "Macrotis_lagotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macrotis_leucura.cs"
-    name: "Macrotis leucura"
-    common_name: "Macrotis_leucura"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Macrotis_lagotis:
+    common_name: Macrotis_lagotis
+    conservation: UK
+  Macrotis_leucura:
+    common_name: Macrotis_leucura
+    conservation: UK
 ---
-
 # Macrotis
 
 Genus containing 2 species.

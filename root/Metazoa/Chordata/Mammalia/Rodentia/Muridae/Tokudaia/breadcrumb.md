@@ -1,40 +1,27 @@
 ---
-title: "Tokudaia"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["tokudaia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 73108
-parent: "../breadcrumb.md"
+title: Tokudaia
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [tokudaia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tokudaia_muenninki.cs"
-    name: "Tokudaia muenninki"
-    common_name: "Tokudaia_muenninki"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tokudaia_osimensis.cs"
-    name: "Tokudaia osimensis"
-    common_name: "Tokudaia_osimensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tokudaia_tokunoshimensis.cs"
-    name: "Tokudaia tokunoshimensis"
-    common_name: "Tokudaia_tokunoshimensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tokudaia_muenninki:
+    common_name: Tokudaia_muenninki
+    conservation: UK
+  Tokudaia_osimensis:
+    common_name: Tokudaia_osimensis
+    conservation: UK
+  Tokudaia_tokunoshimensis:
+    common_name: Tokudaia_tokunoshimensis
+    conservation: UK
 ---
-
 # Tokudaia
 
 Genus containing 3 species.

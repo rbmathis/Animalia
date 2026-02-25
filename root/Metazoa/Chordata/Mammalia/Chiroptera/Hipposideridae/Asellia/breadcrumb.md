@@ -1,40 +1,27 @@
 ---
-title: "Asellia"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["asellia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anthops/breadcrumb.md", "../Aselliscus/breadcrumb.md", "../Coelops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 578339
-parent: "../breadcrumb.md"
+title: Asellia
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [asellia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anthops/breadcrumb.md, ../Aselliscus/breadcrumb.md, ../Coelops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Asellia_arabica.cs"
-    name: "Asellia arabica"
-    common_name: "Asellia_arabica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Asellia_italosomalica.cs"
-    name: "Asellia italosomalica"
-    common_name: "Asellia_italosomalica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Asellia_tridens.cs"
-    name: "Asellia tridens"
-    common_name: "Asellia_tridens"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Asellia_arabica:
+    common_name: Asellia_arabica
+    conservation: UK
+  Asellia_italosomalica:
+    common_name: Asellia_italosomalica
+    conservation: UK
+  Asellia_tridens:
+    common_name: Asellia_tridens
+    conservation: UK
 ---
-
 # Asellia
 
 Genus containing 3 species.

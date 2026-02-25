@@ -1,30 +1,21 @@
 ---
-title: "Orcinus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["orcinus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cephalorhynchus/breadcrumb.md", "../Delphinus/breadcrumb.md", "../Feresa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9732
-parent: "../breadcrumb.md"
+title: Orcinus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [orcinus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cephalorhynchus/breadcrumb.md, ../Delphinus/breadcrumb.md, ../Feresa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Orcinus_orca.cs"
-    name: "Orcinus orca"
-    common_name: "Orcinus_orca"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Orcinus_orca:
+    common_name: Orcinus_orca
+    conservation: UK
 ---
-
 # Orcinus
 
 Genus containing 1 species.

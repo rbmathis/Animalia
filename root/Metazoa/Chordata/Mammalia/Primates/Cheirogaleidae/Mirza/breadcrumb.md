@@ -1,41 +1,28 @@
 ---
-title: "Mirza"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["mirza", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allocebus/breadcrumb.md", "../Cheirogaleus/breadcrumb.md", "../Microcebus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 83691
-parent: "../breadcrumb.md"
+title: Mirza
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [mirza, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allocebus/breadcrumb.md, ../Cheirogaleus/breadcrumb.md, ../Microcebus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mirza_coquereli.cs"
-    name: "Mirza coquereli"
-    common_name: "Mirza_coquereli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mirza_sp_001y03.cs"
-    name: "Mirza sp. 001y03"
-    common_name: "Mirza_sp_001y03"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mirza_zaza.cs"
-    name: "Mirza zaza"
-    common_name: "Mirza_zaza"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mirza_coquereli:
+    common_name: Mirza_coquereli
+    conservation: UK
+  Mirza_sp_001y03:
+    common_name: Mirza_sp_001y03
+    conservation: UK
+  Mirza_zaza:
+    common_name: Mirza_zaza
+    conservation: UK
 ---
-
 # Mirza
 
 Genus containing 3 species.

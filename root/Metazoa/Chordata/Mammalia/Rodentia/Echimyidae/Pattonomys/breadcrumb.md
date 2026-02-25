@@ -1,35 +1,24 @@
 ---
-title: "Pattonomys"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["pattonomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Boromys/breadcrumb.md", "../Brotomys/breadcrumb.md", "../Callistomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1567523
-parent: "../breadcrumb.md"
+title: Pattonomys
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [pattonomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Boromys/breadcrumb.md, ../Brotomys/breadcrumb.md, ../Callistomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pattonomys_punctatus.cs"
-    name: "Pattonomys punctatus"
-    common_name: "Pattonomys_punctatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pattonomys_semivillosus.cs"
-    name: "Pattonomys semivillosus"
-    common_name: "Pattonomys_semivillosus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pattonomys_punctatus:
+    common_name: Pattonomys_punctatus
+    conservation: UK
+  Pattonomys_semivillosus:
+    common_name: Pattonomys_semivillosus
+    conservation: UK
 ---
-
 # Pattonomys
 
 Genus containing 2 species.

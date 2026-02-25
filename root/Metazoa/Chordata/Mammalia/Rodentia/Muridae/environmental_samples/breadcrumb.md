@@ -1,23 +1,20 @@
 ---
-title: "environmental_samples"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["environmental_samples", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-parent: "../breadcrumb.md"
+title: environmental_samples
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [environmental_samples, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-species:
-  - file: "Muridae_environmental_sample.cs"
-    name: "Muridae environmental sample"
-    common_name: "Muridae_environmental_sample"
-    conservation: "Unknown"
-    enriched: false
+species_data:
+  Muridae_environmental_sample:
+    common_name: Muridae_environmental_sample
+    conservation: UK
 ---
-
 # environmental_samples
 
 Genus containing 1 species.

@@ -1,30 +1,21 @@
 ---
-title: "Pantholops"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["pantholops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 59537
-parent: "../breadcrumb.md"
+title: Pantholops
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [pantholops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pantholops_hodgsonii.cs"
-    name: "Pantholops hodgsonii"
-    common_name: "Pantholops_hodgsonii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pantholops_hodgsonii:
+    common_name: Pantholops_hodgsonii
+    conservation: UK
 ---
-
 # Pantholops
 
 Genus containing 1 species.

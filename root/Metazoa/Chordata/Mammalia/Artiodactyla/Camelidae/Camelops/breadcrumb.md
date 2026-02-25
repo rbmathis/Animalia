@@ -1,41 +1,28 @@
 ---
-title: "Camelops"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["camelops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Camelus/breadcrumb.md", "../Lama/breadcrumb.md", "../Vicugna/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 647690
-parent: "../breadcrumb.md"
+title: Camelops
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [camelops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Camelus/breadcrumb.md, ../Lama/breadcrumb.md, ../Vicugna/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Camelops_cf_hesternus_PDH_2015.cs"
-    name: "Camelops cf. hesternus PDH-2015"
-    common_name: "Camelops_cf_hesternus_PDH_2015"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Camelops_hesternus.cs"
-    name: "Camelops hesternus"
-    common_name: "Camelops_hesternus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Camelops_sp_IMNH_202714846.cs"
-    name: "Camelops sp. IMNH 2027/14846"
-    common_name: "Camelops_sp_IMNH_202714846"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Camelops_cf_hesternus_PDH_2015:
+    common_name: Camelops_cf_hesternus_PDH_2015
+    conservation: UK
+  Camelops_hesternus:
+    common_name: Camelops_hesternus
+    conservation: UK
+  Camelops_sp_IMNH_202714846:
+    common_name: Camelops_sp_IMNH_202714846
+    conservation: UK
 ---
-
 # Camelops
 
 Genus containing 3 species.

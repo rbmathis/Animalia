@@ -1,30 +1,21 @@
 ---
-title: "Chironax"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["chironax", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 170235
-parent: "../breadcrumb.md"
+title: Chironax
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [chironax, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chironax_melanocephalus.cs"
-    name: "Chironax melanocephalus"
-    common_name: "Chironax_melanocephalus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chironax_melanocephalus:
+    common_name: Chironax_melanocephalus
+    conservation: UK
 ---
-
 # Chironax
 
 Genus containing 1 species.

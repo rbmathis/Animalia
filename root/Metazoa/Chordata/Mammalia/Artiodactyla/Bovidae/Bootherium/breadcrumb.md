@@ -1,30 +1,21 @@
 ---
-title: "Bootherium"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["bootherium", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1922214
-parent: "../breadcrumb.md"
+title: Bootherium
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [bootherium, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Bootherium_bombifrons.cs"
-    name: "Bootherium bombifrons"
-    common_name: "Bootherium_bombifrons"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Bootherium_bombifrons:
+    common_name: Bootherium_bombifrons
+    conservation: UK
 ---
-
 # Bootherium
 
 Genus containing 1 species.

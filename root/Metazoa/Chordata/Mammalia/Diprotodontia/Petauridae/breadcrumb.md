@@ -1,32 +1,19 @@
 ---
-title: "Petauridae"
-description: "Family containing 3 genera."
-category: "taxonomy/family"
-tags: ["petauridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acrobatidae/breadcrumb.md", "../Burramyidae/breadcrumb.md", "../Macropodidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9331
-parent: "../breadcrumb.md"
+title: Petauridae
+description: Family containing 3 genera.
+category: taxonomy/family
+tags: [petauridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Acrobatidae/breadcrumb.md, ../Burramyidae/breadcrumb.md, ../Macropodidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 3
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Dactylopsila/breadcrumb.md"
-    name: "Dactylopsila"
-  - path: "Gymnobelideus/breadcrumb.md"
-    name: "Gymnobelideus"
-  - path: "Petaurus/breadcrumb.md"
-    name: "Petaurus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Dactylopsila, Gymnobelideus, Petaurus]
 ---
-
 # Petauridae
 
 Family containing 3 genera.

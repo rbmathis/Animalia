@@ -1,60 +1,39 @@
 ---
-title: "Dasyurus"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["dasyurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antechinomys/breadcrumb.md", "../Antechinus/breadcrumb.md", "../Dasycercus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9278
-parent: "../breadcrumb.md"
+title: Dasyurus
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [dasyurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Antechinomys/breadcrumb.md, ../Antechinus/breadcrumb.md, ../Dasycercus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dasyurus_albopunctatus.cs"
-    name: "Dasyurus albopunctatus"
-    common_name: "Dasyurus_albopunctatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasyurus_geoffroii.cs"
-    name: "Dasyurus geoffroii"
-    common_name: "Dasyurus_geoffroii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasyurus_hallucatus.cs"
-    name: "Dasyurus hallucatus"
-    common_name: "Dasyurus_hallucatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasyurus_maculatus.cs"
-    name: "Dasyurus maculatus"
-    common_name: "Dasyurus_maculatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasyurus_spartacus.cs"
-    name: "Dasyurus spartacus"
-    common_name: "Dasyurus_spartacus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasyurus_viverrinus.cs"
-    name: "Dasyurus viverrinus"
-    common_name: "Dasyurus_viverrinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasyurus_viverrinusmaculatus_mixed_DNA_library.cs"
-    name: "Dasyurus viverrinus/maculatus mixed DNA library"
-    common_name: "Dasyurus_viverrinusmaculatus_mixed_DNA_library"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dasyurus_albopunctatus:
+    common_name: Dasyurus_albopunctatus
+    conservation: UK
+  Dasyurus_geoffroii:
+    common_name: Dasyurus_geoffroii
+    conservation: UK
+  Dasyurus_hallucatus:
+    common_name: Dasyurus_hallucatus
+    conservation: UK
+  Dasyurus_maculatus:
+    common_name: Dasyurus_maculatus
+    conservation: UK
+  Dasyurus_spartacus:
+    common_name: Dasyurus_spartacus
+    conservation: UK
+  Dasyurus_viverrinus:
+    common_name: Dasyurus_viverrinus
+    conservation: UK
+  Dasyurus_viverrinusmaculatus_mixed_DNA_library:
+    common_name: Dasyurus_viverrinusmaculatus_mixed_DNA_library
+    conservation: UK
 ---
-
 # Dasyurus
 
 Genus containing 7 species.

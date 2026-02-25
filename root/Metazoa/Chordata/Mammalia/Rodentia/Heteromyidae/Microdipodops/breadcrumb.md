@@ -1,56 +1,37 @@
 ---
-title: "Microdipodops"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["microdipodops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Chaetodipus/breadcrumb.md", "../Dipodomys/breadcrumb.md", "../Heteromys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 108148
-parent: "../breadcrumb.md"
+title: Microdipodops
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [microdipodops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Chaetodipus/breadcrumb.md, ../Dipodomys/breadcrumb.md, ../Heteromys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Microdipodops_megacephalus.cs"
-    name: "Microdipodops megacephalus"
-    common_name: "Microdipodops_megacephalus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Microdipodops_pallidus.cs"
-    name: "Microdipodops pallidus"
-    common_name: "Microdipodops_pallidus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Microdipodops_sp_a_JL_2024.cs"
-    name: "Microdipodops sp. a JL-2024"
-    common_name: "Microdipodops_sp_a_JL_2024"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Microdipodops_sp_o_JL_2024.cs"
-    name: "Microdipodops sp. o JL-2024"
-    common_name: "Microdipodops_sp_o_JL_2024"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Microdipodops_sp_p_JL_2024.cs"
-    name: "Microdipodops sp. p JL-2024"
-    common_name: "Microdipodops_sp_p_JL_2024"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Microdipodops_sp_r_JL_2024.cs"
-    name: "Microdipodops sp. r JL-2024"
-    common_name: "Microdipodops_sp_r_JL_2024"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Microdipodops_megacephalus:
+    common_name: Microdipodops_megacephalus
+    conservation: UK
+  Microdipodops_pallidus:
+    common_name: Microdipodops_pallidus
+    conservation: UK
+  Microdipodops_sp_a_JL_2024:
+    common_name: Microdipodops_sp_a_JL_2024
+    conservation: UK
+  Microdipodops_sp_o_JL_2024:
+    common_name: Microdipodops_sp_o_JL_2024
+    conservation: UK
+  Microdipodops_sp_p_JL_2024:
+    common_name: Microdipodops_sp_p_JL_2024
+    conservation: UK
+  Microdipodops_sp_r_JL_2024:
+    common_name: Microdipodops_sp_r_JL_2024
+    conservation: UK
 ---
-
 # Microdipodops
 
 Genus containing 6 species.

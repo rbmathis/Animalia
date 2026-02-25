@@ -1,46 +1,31 @@
 ---
-title: "Bandicota"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["bandicota", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 69078
-parent: "../breadcrumb.md"
+title: Bandicota
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [bandicota, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Bandicota_bengalensis.cs"
-    name: "Bandicota bengalensis"
-    common_name: "Bandicota_bengalensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bandicota_indica.cs"
-    name: "Bandicota indica"
-    common_name: "Bandicota_indica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bandicota_savilei.cs"
-    name: "Bandicota savilei"
-    common_name: "Bandicota_savilei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bandicota_sp.cs"
-    name: "Bandicota sp."
-    common_name: "Bandicota_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Bandicota_bengalensis:
+    common_name: Bandicota_bengalensis
+    conservation: UK
+  Bandicota_indica:
+    common_name: Bandicota_indica
+    conservation: UK
+  Bandicota_savilei:
+    common_name: Bandicota_savilei
+    conservation: UK
+  Bandicota_sp:
+    common_name: Bandicota_sp
+    conservation: UK
 ---
-
 # Bandicota
 
 Genus containing 4 species.

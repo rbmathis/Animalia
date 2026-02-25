@@ -1,55 +1,36 @@
 ---
-title: "Hapalemur"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["hapalemur", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Eulemur/breadcrumb.md", "../Lemur/breadcrumb.md", "../Pachylemur/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 13556
-parent: "../breadcrumb.md"
+title: Hapalemur
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [hapalemur, genus]
+status: Living
+updated: 2026-02-23
+related: [../Eulemur/breadcrumb.md, ../Lemur/breadcrumb.md, ../Pachylemur/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hapalemur_alaotrensis.cs"
-    name: "Hapalemur alaotrensis"
-    common_name: "Hapalemur_alaotrensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hapalemur_aureus.cs"
-    name: "Hapalemur aureus"
-    common_name: "Hapalemur_aureus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hapalemur_gilberti.cs"
-    name: "Hapalemur gilberti"
-    common_name: "Hapalemur_gilberti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hapalemur_griseus.cs"
-    name: "Hapalemur griseus"
-    common_name: "Hapalemur_griseus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hapalemur_meridionalis.cs"
-    name: "Hapalemur meridionalis"
-    common_name: "Hapalemur_meridionalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hapalemur_occidentalis.cs"
-    name: "Hapalemur occidentalis"
-    common_name: "Hapalemur_occidentalis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hapalemur_alaotrensis:
+    common_name: Hapalemur_alaotrensis
+    conservation: UK
+  Hapalemur_aureus:
+    common_name: Hapalemur_aureus
+    conservation: UK
+  Hapalemur_gilberti:
+    common_name: Hapalemur_gilberti
+    conservation: UK
+  Hapalemur_griseus:
+    common_name: Hapalemur_griseus
+    conservation: UK
+  Hapalemur_meridionalis:
+    common_name: Hapalemur_meridionalis
+    conservation: UK
+  Hapalemur_occidentalis:
+    common_name: Hapalemur_occidentalis
+    conservation: UK
 ---
-
 # Hapalemur
 
 Genus containing 6 species.

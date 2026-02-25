@@ -1,30 +1,21 @@
 ---
-title: "Desmana"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["desmana", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alpiscaptulus/breadcrumb.md", "../Condylura/breadcrumb.md", "../Dymecodon/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 182681
-parent: "../breadcrumb.md"
+title: Desmana
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [desmana, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alpiscaptulus/breadcrumb.md, ../Condylura/breadcrumb.md, ../Dymecodon/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Desmana_moschata.cs"
-    name: "Desmana moschata"
-    common_name: "Desmana_moschata"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Desmana_moschata:
+    common_name: Desmana_moschata
+    conservation: UK
 ---
-
 # Desmana
 
 Genus containing 1 species.

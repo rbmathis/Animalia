@@ -1,56 +1,37 @@
 ---
-title: "Nectomys"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["nectomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 29116
-parent: "../breadcrumb.md"
+title: Nectomys
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [nectomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Nectomys_apicalis.cs"
-    name: "Nectomys apicalis"
-    common_name: "Nectomys_apicalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nectomys_rattus.cs"
-    name: "Nectomys rattus"
-    common_name: "Nectomys_rattus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nectomys_sp_AVB_2011.cs"
-    name: "Nectomys sp. AVB-2011"
-    common_name: "Nectomys_sp_AVB_2011"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nectomys_sp_BOLDAAC2628.cs"
-    name: "Nectomys sp. BOLD:AAC2628"
-    common_name: "Nectomys_sp_BOLDAAC2628"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nectomys_sp_BOLDAAM5477.cs"
-    name: "Nectomys sp. BOLD:AAM5477"
-    common_name: "Nectomys_sp_BOLDAAM5477"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nectomys_squamipes.cs"
-    name: "Nectomys squamipes"
-    common_name: "Nectomys_squamipes"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Nectomys_apicalis:
+    common_name: Nectomys_apicalis
+    conservation: UK
+  Nectomys_rattus:
+    common_name: Nectomys_rattus
+    conservation: UK
+  Nectomys_sp_AVB_2011:
+    common_name: Nectomys_sp_AVB_2011
+    conservation: UK
+  Nectomys_sp_BOLDAAC2628:
+    common_name: Nectomys_sp_BOLDAAC2628
+    conservation: UK
+  Nectomys_sp_BOLDAAM5477:
+    common_name: Nectomys_sp_BOLDAAM5477
+    conservation: UK
+  Nectomys_squamipes:
+    common_name: Nectomys_squamipes
+    conservation: UK
 ---
-
 # Nectomys
 
 Genus containing 6 species.

@@ -1,40 +1,27 @@
 ---
-title: "Acerodon"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["acerodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md", "../Aproteles/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 58056
-parent: "../breadcrumb.md"
+title: Acerodon
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [acerodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md, ../Aproteles/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Acerodon_celebensis.cs"
-    name: "Acerodon celebensis"
-    common_name: "Acerodon_celebensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Acerodon_jubatus.cs"
-    name: "Acerodon jubatus"
-    common_name: "Acerodon_jubatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Acerodon_macklotii.cs"
-    name: "Acerodon macklotii"
-    common_name: "Acerodon_macklotii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Acerodon_celebensis:
+    common_name: Acerodon_celebensis
+    conservation: UK
+  Acerodon_jubatus:
+    common_name: Acerodon_jubatus
+    conservation: UK
+  Acerodon_macklotii:
+    common_name: Acerodon_macklotii
+    conservation: UK
 ---
-
 # Acerodon
 
 Genus containing 3 species.

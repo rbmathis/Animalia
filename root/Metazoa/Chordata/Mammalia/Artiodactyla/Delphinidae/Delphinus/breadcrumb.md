@@ -1,56 +1,37 @@
 ---
-title: "Delphinus"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["delphinus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cephalorhynchus/breadcrumb.md", "../Feresa/breadcrumb.md", "../Globicephala/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9727
-parent: "../breadcrumb.md"
+title: Delphinus
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [delphinus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cephalorhynchus/breadcrumb.md, ../Feresa/breadcrumb.md, ../Globicephala/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Delphinus_bairdii.cs"
-    name: "Delphinus bairdii"
-    common_name: "Delphinus_bairdii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Delphinus_capensis.cs"
-    name: "Delphinus capensis"
-    common_name: "Delphinus_capensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Delphinus_delphis.cs"
-    name: "Delphinus delphis"
-    common_name: "Delphinus_delphis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Delphinus_sp_1_AN_2013.cs"
-    name: "Delphinus sp. 1 AN-2013"
-    common_name: "Delphinus_sp_1_AN_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Delphinus_sp_YORK_14186.cs"
-    name: "Delphinus sp. YORK 14186"
-    common_name: "Delphinus_sp_YORK_14186"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Delphinus_tropicalis.cs"
-    name: "Delphinus tropicalis"
-    common_name: "Delphinus_tropicalis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Delphinus_bairdii:
+    common_name: Delphinus_bairdii
+    conservation: UK
+  Delphinus_capensis:
+    common_name: Delphinus_capensis
+    conservation: UK
+  Delphinus_delphis:
+    common_name: Delphinus_delphis
+    conservation: UK
+  Delphinus_sp_1_AN_2013:
+    common_name: Delphinus_sp_1_AN_2013
+    conservation: UK
+  Delphinus_sp_YORK_14186:
+    common_name: Delphinus_sp_YORK_14186
+    conservation: UK
+  Delphinus_tropicalis:
+    common_name: Delphinus_tropicalis
+    conservation: UK
 ---
-
 # Delphinus
 
 Genus containing 6 species.

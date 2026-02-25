@@ -1,30 +1,21 @@
 ---
-title: "Hyaena"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["hyaena", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Crocuta/breadcrumb.md", "../Parahyaena/breadcrumb.md", "../Proteles/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 95911
-parent: "../breadcrumb.md"
+title: Hyaena
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [hyaena, genus]
+status: Living
+updated: 2026-02-23
+related: [../Crocuta/breadcrumb.md, ../Parahyaena/breadcrumb.md, ../Proteles/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hyaena_hyaena.cs"
-    name: "Hyaena hyaena"
-    common_name: "Hyaena_hyaena"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hyaena_hyaena:
+    common_name: Hyaena_hyaena
+    conservation: UK
 ---
-
 # Hyaena
 
 Genus containing 1 species.

@@ -1,30 +1,21 @@
 ---
-title: "Pedetes"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["pedetes", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Pedetes
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [pedetes, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10022
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pedetes_capensis.cs"
-    name: "Pedetes capensis"
-    common_name: "Pedetes_capensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pedetes_capensis:
+    common_name: Pedetes_capensis
+    conservation: UK
 ---
-
 # Pedetes
 
 Genus containing 1 species.

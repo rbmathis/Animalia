@@ -1,30 +1,21 @@
 ---
-title: "Parocnus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["parocnus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acratocnus/breadcrumb.md", "../Choloepus/breadcrumb.md", "../Megalonyx/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2546649
-parent: "../breadcrumb.md"
+title: Parocnus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [parocnus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acratocnus/breadcrumb.md, ../Choloepus/breadcrumb.md, ../Megalonyx/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Parocnus_serus.cs"
-    name: "Parocnus serus"
-    common_name: "Parocnus_serus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Parocnus_serus:
+    common_name: Parocnus_serus
+    conservation: UK
 ---
-
 # Parocnus
 
 Genus containing 1 species.

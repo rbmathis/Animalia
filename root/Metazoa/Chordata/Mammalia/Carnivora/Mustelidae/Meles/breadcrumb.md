@@ -1,51 +1,34 @@
 ---
-title: "Meles"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["meles", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aonyx/breadcrumb.md", "../Arctonyx/breadcrumb.md", "../Eira/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9661
-parent: "../breadcrumb.md"
+title: Meles
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [meles, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aonyx/breadcrumb.md, ../Arctonyx/breadcrumb.md, ../Eira/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Meles_anakuma.cs"
-    name: "Meles anakuma"
-    common_name: "Meles_anakuma"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meles_canescens.cs"
-    name: "Meles canescens"
-    common_name: "Meles_canescens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meles_leucurus.cs"
-    name: "Meles leucurus"
-    common_name: "Meles_leucurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meles_meles.cs"
-    name: "Meles meles"
-    common_name: "Meles_meles"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meles_sp.cs"
-    name: "Meles sp."
-    common_name: "Meles_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Meles_anakuma:
+    common_name: Meles_anakuma
+    conservation: UK
+  Meles_canescens:
+    common_name: Meles_canescens
+    conservation: UK
+  Meles_leucurus:
+    common_name: Meles_leucurus
+    conservation: UK
+  Meles_meles:
+    common_name: Meles_meles
+    conservation: UK
+  Meles_sp:
+    common_name: Meles_sp
+    conservation: UK
 ---
-
 # Meles
 
 Genus containing 5 species.

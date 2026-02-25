@@ -1,116 +1,73 @@
 ---
-title: "Meriones"
-description: "Genus containing 18 species."
-category: "taxonomy/genus"
-tags: ["meriones", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10046
-parent: "../breadcrumb.md"
+title: Meriones
+description: Genus containing 18 species.
+category: taxonomy/genus
+tags: [meriones, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 18
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Meriones_chengi.cs"
-    name: "Meriones chengi"
-    common_name: "Meriones_chengi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_crassus.cs"
-    name: "Meriones crassus"
-    common_name: "Meriones_crassus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_dahli.cs"
-    name: "Meriones dahli"
-    common_name: "Meriones_dahli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_grandis.cs"
-    name: "Meriones grandis"
-    common_name: "Meriones_grandis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_libycus.cs"
-    name: "Meriones libycus"
-    common_name: "Meriones_libycus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_meridianus.cs"
-    name: "Meriones meridianus"
-    common_name: "Meriones_meridianus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_penicilliger.cs"
-    name: "Meriones penicilliger"
-    common_name: "Meriones_penicilliger"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_persicus.cs"
-    name: "Meriones persicus"
-    common_name: "Meriones_persicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_psammophilus.cs"
-    name: "Meriones psammophilus"
-    common_name: "Meriones_psammophilus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_rex.cs"
-    name: "Meriones rex"
-    common_name: "Meriones_rex"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_shawi.cs"
-    name: "Meriones shawi"
-    common_name: "Meriones_shawi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_sp_Garat_An_Njila.cs"
-    name: "Meriones sp. Garat An Njila"
-    common_name: "Meriones_sp_Garat_An_Njila"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_sp_HK_2016.cs"
-    name: "Meriones sp. HK-2016"
-    common_name: "Meriones_sp_HK_2016"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_sp_n_MAO_2018.cs"
-    name: "Meriones sp. n. MAO-2018"
-    common_name: "Meriones_sp_n_MAO_2018"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_tamariscinus.cs"
-    name: "Meriones tamariscinus"
-    common_name: "Meriones_tamariscinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_tristrami.cs"
-    name: "Meriones tristrami"
-    common_name: "Meriones_tristrami"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_unguiculatus.cs"
-    name: "Meriones unguiculatus"
-    common_name: "Meriones_unguiculatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Meriones_vinogradovi.cs"
-    name: "Meriones vinogradovi"
-    common_name: "Meriones_vinogradovi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Meriones_chengi:
+    common_name: Meriones_chengi
+    conservation: UK
+  Meriones_crassus:
+    common_name: Meriones_crassus
+    conservation: UK
+  Meriones_dahli:
+    common_name: Meriones_dahli
+    conservation: UK
+  Meriones_grandis:
+    common_name: Meriones_grandis
+    conservation: UK
+  Meriones_libycus:
+    common_name: Meriones_libycus
+    conservation: UK
+  Meriones_meridianus:
+    common_name: Meriones_meridianus
+    conservation: UK
+  Meriones_penicilliger:
+    common_name: Meriones_penicilliger
+    conservation: UK
+  Meriones_persicus:
+    common_name: Meriones_persicus
+    conservation: UK
+  Meriones_psammophilus:
+    common_name: Meriones_psammophilus
+    conservation: UK
+  Meriones_rex:
+    common_name: Meriones_rex
+    conservation: UK
+  Meriones_shawi:
+    common_name: Meriones_shawi
+    conservation: UK
+  Meriones_sp_Garat_An_Njila:
+    common_name: Meriones_sp_Garat_An_Njila
+    conservation: UK
+  Meriones_sp_HK_2016:
+    common_name: Meriones_sp_HK_2016
+    conservation: UK
+  Meriones_sp_n_MAO_2018:
+    common_name: Meriones_sp_n_MAO_2018
+    conservation: UK
+  Meriones_tamariscinus:
+    common_name: Meriones_tamariscinus
+    conservation: UK
+  Meriones_tristrami:
+    common_name: Meriones_tristrami
+    conservation: UK
+  Meriones_unguiculatus:
+    common_name: Meriones_unguiculatus
+    conservation: UK
+  Meriones_vinogradovi:
+    common_name: Meriones_vinogradovi
+    conservation: UK
 ---
-
 # Meriones
 
 Genus containing 18 species.

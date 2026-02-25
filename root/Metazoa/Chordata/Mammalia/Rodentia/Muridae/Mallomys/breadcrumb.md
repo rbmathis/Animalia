@@ -1,46 +1,31 @@
 ---
-title: "Mallomys"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["mallomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 442579
-parent: "../breadcrumb.md"
+title: Mallomys
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [mallomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mallomys_aroaensis.cs"
-    name: "Mallomys aroaensis"
-    common_name: "Mallomys_aroaensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mallomys_istapantap.cs"
-    name: "Mallomys istapantap"
-    common_name: "Mallomys_istapantap"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mallomys_rothschildi.cs"
-    name: "Mallomys rothschildi"
-    common_name: "Mallomys_rothschildi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mallomys_sp.cs"
-    name: "Mallomys sp."
-    common_name: "Mallomys_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mallomys_aroaensis:
+    common_name: Mallomys_aroaensis
+    conservation: UK
+  Mallomys_istapantap:
+    common_name: Mallomys_istapantap
+    conservation: UK
+  Mallomys_rothschildi:
+    common_name: Mallomys_rothschildi
+    conservation: UK
+  Mallomys_sp:
+    common_name: Mallomys_sp
+    conservation: UK
 ---
-
 # Mallomys
 
 Genus containing 4 species.

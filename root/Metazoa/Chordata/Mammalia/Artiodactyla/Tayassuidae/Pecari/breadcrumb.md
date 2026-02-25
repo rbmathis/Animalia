@@ -1,31 +1,22 @@
 ---
-title: "Pecari"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["pecari", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Catagonus/breadcrumb.md", "../Dicotyles/breadcrumb.md", "../Platygonus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 35609
-parent: "../breadcrumb.md"
+title: Pecari
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [pecari, genus]
+status: Living
+updated: 2026-02-23
+related: [../Catagonus/breadcrumb.md, ../Dicotyles/breadcrumb.md, ../Platygonus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pecari_sp_maximus.cs"
-    name: "Pecari sp. maximus"
-    common_name: "Pecari_sp_maximus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pecari_sp_maximus:
+    common_name: Pecari_sp_maximus
+    conservation: UK
 ---
-
 # Pecari
 
 Genus containing 1 species.

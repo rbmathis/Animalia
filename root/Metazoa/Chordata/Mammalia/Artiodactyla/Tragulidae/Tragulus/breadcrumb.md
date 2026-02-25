@@ -1,50 +1,33 @@
 ---
-title: "Tragulus"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["tragulus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Hyemoschus/breadcrumb.md", "../Moschiola/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9847
-parent: "../breadcrumb.md"
+title: Tragulus
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [tragulus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Hyemoschus/breadcrumb.md, ../Moschiola/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tragulus_javanicus.cs"
-    name: "Tragulus javanicus"
-    common_name: "Tragulus_javanicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tragulus_kanchil.cs"
-    name: "Tragulus kanchil"
-    common_name: "Tragulus_kanchil"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tragulus_napu.cs"
-    name: "Tragulus napu"
-    common_name: "Tragulus_napu"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tragulus_versicolor.cs"
-    name: "Tragulus versicolor"
-    common_name: "Tragulus_versicolor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tragulus_williamsoni.cs"
-    name: "Tragulus williamsoni"
-    common_name: "Tragulus_williamsoni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tragulus_javanicus:
+    common_name: Tragulus_javanicus
+    conservation: UK
+  Tragulus_kanchil:
+    common_name: Tragulus_kanchil
+    conservation: UK
+  Tragulus_napu:
+    common_name: Tragulus_napu
+    conservation: UK
+  Tragulus_versicolor:
+    common_name: Tragulus_versicolor
+    conservation: UK
+  Tragulus_williamsoni:
+    common_name: Tragulus_williamsoni
+    conservation: UK
 ---
-
 # Tragulus
 
 Genus containing 5 species.

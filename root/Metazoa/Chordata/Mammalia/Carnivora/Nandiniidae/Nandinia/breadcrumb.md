@@ -1,30 +1,21 @@
 ---
-title: "Nandinia"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["nandinia", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Nandinia
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [nandinia, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 71114
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Nandinia_binotata.cs"
-    name: "Nandinia binotata"
-    common_name: "Nandinia_binotata"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Nandinia_binotata:
+    common_name: Nandinia_binotata
+    conservation: UK
 ---
-
 # Nandinia
 
 Genus containing 1 species.

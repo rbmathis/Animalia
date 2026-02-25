@@ -1,28 +1,19 @@
 ---
-title: "Dasypodidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["dasypodidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Chlamyphoridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9359
-parent: "../breadcrumb.md"
+title: Dasypodidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [dasypodidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Chlamyphoridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Dasypus/breadcrumb.md"
-    name: "Dasypus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Dasypus]
 ---
-
 # Dasypodidae
 
 Family containing 1 genera.

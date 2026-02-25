@@ -1,30 +1,21 @@
 ---
-title: "Atilax"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["atilax", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Bdeogale/breadcrumb.md", "../Crossarchus/breadcrumb.md", "../Cynictis/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 210641
-parent: "../breadcrumb.md"
+title: Atilax
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [atilax, genus]
+status: Living
+updated: 2026-02-23
+related: [../Bdeogale/breadcrumb.md, ../Crossarchus/breadcrumb.md, ../Cynictis/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Atilax_paludinosus.cs"
-    name: "Atilax paludinosus"
-    common_name: "Atilax_paludinosus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Atilax_paludinosus:
+    common_name: Atilax_paludinosus
+    conservation: UK
 ---
-
 # Atilax
 
 Genus containing 1 species.

@@ -1,126 +1,79 @@
 ---
-title: "Neodon"
-description: "Genus containing 27 species."
-category: "taxonomy/genus"
-tags: ["neodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 465452
-parent: "../breadcrumb.md"
+title: Neodon
+description: Genus containing 27 species.
+category: taxonomy/genus
+tags: [neodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 27
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Neodon_bershulaensis.cs"
-    name: "Neodon bershulaensis"
-    common_name: "Neodon_bershulaensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_bomiensis.cs"
-    name: "Neodon bomiensis"
-    common_name: "Neodon_bomiensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_chayuensis.cs"
-    name: "Neodon chayuensis"
-    common_name: "Neodon_chayuensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_clarkei.cs"
-    name: "Neodon clarkei"
-    common_name: "Neodon_clarkei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_forresti.cs"
-    name: "Neodon forresti"
-    common_name: "Neodon_forresti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_fuscus.cs"
-    name: "Neodon fuscus"
-    common_name: "Neodon_fuscus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_irene.cs"
-    name: "Neodon irene"
-    common_name: "Neodon_irene"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_leucurus.cs"
-    name: "Neodon leucurus"
-    common_name: "Neodon_leucurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_lhozhagensis.cs"
-    name: "Neodon lhozhagensis"
-    common_name: "Neodon_lhozhagensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_liaoruii.cs"
-    name: "Neodon liaoruii"
-    common_name: "Neodon_liaoruii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_linzhiensis.cs"
-    name: "Neodon linzhiensis"
-    common_name: "Neodon_linzhiensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_medogensis.cs"
-    name: "Neodon medogensis"
-    common_name: "Neodon_medogensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_namchabarwaensis.cs"
-    name: "Neodon namchabarwaensis"
-    common_name: "Neodon_namchabarwaensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_nyalamensis.cs"
-    name: "Neodon nyalamensis"
-    common_name: "Neodon_nyalamensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_shergylaensis.cs"
-    name: "Neodon shergylaensis"
-    common_name: "Neodon_shergylaensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_sikimensis.cs"
-    name: "Neodon sikimensis"
-    common_name: "Neodon_sikimensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_sp_1_WJ_2014.cs"
-    name: "Neodon sp. 1 WJ-2014"
-    common_name: "Neodon_sp_1_WJ_2014"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_sp_2_WJ_2014.cs"
-    name: "Neodon sp. 2 WJ-2014"
-    common_name: "Neodon_sp_2_WJ_2014"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_sp_KIZ_DD180008.cs"
-    name: "Neodon sp. KIZ DD180008"
-    common_name: "Neodon_sp_KIZ_DD180008"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neodon_sp_KIZ_DD180012.cs"
-    name: "Neodon sp. KIZ DD180012"
-    common_name: "Neodon_sp_KIZ_DD180012"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Neodon_bershulaensis:
+    common_name: Neodon_bershulaensis
+    conservation: UK
+  Neodon_bomiensis:
+    common_name: Neodon_bomiensis
+    conservation: UK
+  Neodon_chayuensis:
+    common_name: Neodon_chayuensis
+    conservation: UK
+  Neodon_clarkei:
+    common_name: Neodon_clarkei
+    conservation: UK
+  Neodon_forresti:
+    common_name: Neodon_forresti
+    conservation: UK
+  Neodon_fuscus:
+    common_name: Neodon_fuscus
+    conservation: UK
+  Neodon_irene:
+    common_name: Neodon_irene
+    conservation: UK
+  Neodon_leucurus:
+    common_name: Neodon_leucurus
+    conservation: UK
+  Neodon_lhozhagensis:
+    common_name: Neodon_lhozhagensis
+    conservation: UK
+  Neodon_liaoruii:
+    common_name: Neodon_liaoruii
+    conservation: UK
+  Neodon_linzhiensis:
+    common_name: Neodon_linzhiensis
+    conservation: UK
+  Neodon_medogensis:
+    common_name: Neodon_medogensis
+    conservation: UK
+  Neodon_namchabarwaensis:
+    common_name: Neodon_namchabarwaensis
+    conservation: UK
+  Neodon_nyalamensis:
+    common_name: Neodon_nyalamensis
+    conservation: UK
+  Neodon_shergylaensis:
+    common_name: Neodon_shergylaensis
+    conservation: UK
+  Neodon_sikimensis:
+    common_name: Neodon_sikimensis
+    conservation: UK
+  Neodon_sp_1_WJ_2014:
+    common_name: Neodon_sp_1_WJ_2014
+    conservation: UK
+  Neodon_sp_2_WJ_2014:
+    common_name: Neodon_sp_2_WJ_2014
+    conservation: UK
+  Neodon_sp_KIZ_DD180008:
+    common_name: Neodon_sp_KIZ_DD180008
+    conservation: UK
+  Neodon_sp_KIZ_DD180012:
+    common_name: Neodon_sp_KIZ_DD180012
+    conservation: UK
 ---
-
 # Neodon
 
 Genus containing 27 species.

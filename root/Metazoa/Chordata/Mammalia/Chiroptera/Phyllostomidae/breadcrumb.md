@@ -1,46 +1,19 @@
 ---
-title: "Phyllostomidae"
-description: "Family containing 56 genera."
-category: "taxonomy/family"
-tags: ["phyllostomidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cistugidae/breadcrumb.md", "../Craseonycteridae/breadcrumb.md", "../Emballonuridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9415
-parent: "../breadcrumb.md"
+title: Phyllostomidae
+description: Family containing 56 genera.
+category: taxonomy/family
+tags: [phyllostomidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Cistugidae/breadcrumb.md, ../Craseonycteridae/breadcrumb.md, ../Emballonuridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 56
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Ametrida/breadcrumb.md"
-    name: "Ametrida"
-  - path: "Anoura/breadcrumb.md"
-    name: "Anoura"
-  - path: "Ardops/breadcrumb.md"
-    name: "Ardops"
-  - path: "Ariteus/breadcrumb.md"
-    name: "Ariteus"
-  - path: "Artibeus/breadcrumb.md"
-    name: "Artibeus"
-  - path: "Brachyphylla/breadcrumb.md"
-    name: "Brachyphylla"
-  - path: "Carollia/breadcrumb.md"
-    name: "Carollia"
-  - path: "Centurio/breadcrumb.md"
-    name: "Centurio"
-  - path: "Chiroderma/breadcrumb.md"
-    name: "Chiroderma"
-  - path: "Choeroniscus/breadcrumb.md"
-    name: "Choeroniscus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Ametrida, Anoura, Ardops, Ariteus, Artibeus, Brachyphylla, Carollia, Centurio, Chiroderma, Choeroniscus]
 ---
-
 # Phyllostomidae
 
 Family containing 56 genera.

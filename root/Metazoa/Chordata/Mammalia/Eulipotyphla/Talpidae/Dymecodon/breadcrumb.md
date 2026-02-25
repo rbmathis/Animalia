@@ -1,30 +1,21 @@
 ---
-title: "Dymecodon"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["dymecodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alpiscaptulus/breadcrumb.md", "../Condylura/breadcrumb.md", "../Desmana/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 182679
-parent: "../breadcrumb.md"
+title: Dymecodon
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [dymecodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alpiscaptulus/breadcrumb.md, ../Condylura/breadcrumb.md, ../Desmana/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dymecodon_pilirostris.cs"
-    name: "Dymecodon pilirostris"
-    common_name: "Dymecodon_pilirostris"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dymecodon_pilirostris:
+    common_name: Dymecodon_pilirostris
+    conservation: UK
 ---
-
 # Dymecodon
 
 Genus containing 1 species.

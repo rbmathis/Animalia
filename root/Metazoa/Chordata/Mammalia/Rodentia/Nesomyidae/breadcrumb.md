@@ -1,46 +1,19 @@
 ---
-title: "Nesomyidae"
-description: "Family containing 19 genera."
-category: "taxonomy/family"
-tags: ["nesomyidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 337673
-parent: "../breadcrumb.md"
+title: Nesomyidae
+description: Family containing 19 genera.
+category: taxonomy/family
+tags: [nesomyidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 19
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Beamys/breadcrumb.md"
-    name: "Beamys"
-  - path: "Brachytarsomys/breadcrumb.md"
-    name: "Brachytarsomys"
-  - path: "Brachyuromys/breadcrumb.md"
-    name: "Brachyuromys"
-  - path: "Cricetomys/breadcrumb.md"
-    name: "Cricetomys"
-  - path: "Delanymys/breadcrumb.md"
-    name: "Delanymys"
-  - path: "Dendromus/breadcrumb.md"
-    name: "Dendromus"
-  - path: "Eliurus/breadcrumb.md"
-    name: "Eliurus"
-  - path: "Gymnuromys/breadcrumb.md"
-    name: "Gymnuromys"
-  - path: "Hypogeomys/breadcrumb.md"
-    name: "Hypogeomys"
-  - path: "Macrotarsomys/breadcrumb.md"
-    name: "Macrotarsomys"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Beamys, Brachytarsomys, Brachyuromys, Cricetomys, Delanymys, Dendromus, Eliurus, Gymnuromys, Hypogeomys, Macrotarsomys]
 ---
-
 # Nesomyidae
 
 Family containing 19 genera.

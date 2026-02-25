@@ -1,30 +1,21 @@
 ---
-title: "Xenogale"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["xenogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atilax/breadcrumb.md", "../Bdeogale/breadcrumb.md", "../Crossarchus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3082989
-parent: "../breadcrumb.md"
+title: Xenogale
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [xenogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atilax/breadcrumb.md, ../Bdeogale/breadcrumb.md, ../Crossarchus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Xenogale_naso.cs"
-    name: "Xenogale naso"
-    common_name: "Xenogale_naso"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Xenogale_naso:
+    common_name: Xenogale_naso
+    conservation: UK
 ---
-
 # Xenogale
 
 Genus containing 1 species.

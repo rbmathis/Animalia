@@ -1,45 +1,30 @@
 ---
-title: "Mormopterus"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["mormopterus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cheiromeles/breadcrumb.md", "../Cynomops/breadcrumb.md", "../Eumops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 27623
-parent: "../breadcrumb.md"
+title: Mormopterus
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [mormopterus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cheiromeles/breadcrumb.md, ../Cynomops/breadcrumb.md, ../Eumops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mormopterus_acetabulosus.cs"
-    name: "Mormopterus acetabulosus"
-    common_name: "Mormopterus_acetabulosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mormopterus_francoismoutoui.cs"
-    name: "Mormopterus francoismoutoui"
-    common_name: "Mormopterus_francoismoutoui"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mormopterus_jugularis.cs"
-    name: "Mormopterus jugularis"
-    common_name: "Mormopterus_jugularis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mormopterus_kalinowskii.cs"
-    name: "Mormopterus kalinowskii"
-    common_name: "Mormopterus_kalinowskii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mormopterus_acetabulosus:
+    common_name: Mormopterus_acetabulosus
+    conservation: UK
+  Mormopterus_francoismoutoui:
+    common_name: Mormopterus_francoismoutoui
+    conservation: UK
+  Mormopterus_jugularis:
+    common_name: Mormopterus_jugularis
+    conservation: UK
+  Mormopterus_kalinowskii:
+    common_name: Mormopterus_kalinowskii
+    conservation: UK
 ---
-
 # Mormopterus
 
 Genus containing 4 species.

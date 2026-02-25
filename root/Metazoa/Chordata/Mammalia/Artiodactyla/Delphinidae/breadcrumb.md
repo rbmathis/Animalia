@@ -1,46 +1,19 @@
 ---
-title: "Delphinidae"
-description: "Family containing 20 genera."
-category: "taxonomy/family"
-tags: ["delphinidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antilocapridae/breadcrumb.md", "../Balaenidae/breadcrumb.md", "../Balaenopteridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9726
-parent: "../breadcrumb.md"
+title: Delphinidae
+description: Family containing 20 genera.
+category: taxonomy/family
+tags: [delphinidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Antilocapridae/breadcrumb.md, ../Balaenidae/breadcrumb.md, ../Balaenopteridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 20
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Cephalorhynchus/breadcrumb.md"
-    name: "Cephalorhynchus"
-  - path: "Delphinus/breadcrumb.md"
-    name: "Delphinus"
-  - path: "Feresa/breadcrumb.md"
-    name: "Feresa"
-  - path: "Globicephala/breadcrumb.md"
-    name: "Globicephala"
-  - path: "Grampus/breadcrumb.md"
-    name: "Grampus"
-  - path: "Lagenodelphis/breadcrumb.md"
-    name: "Lagenodelphis"
-  - path: "Lagenorhynchus/breadcrumb.md"
-    name: "Lagenorhynchus"
-  - path: "Leucopleurus/breadcrumb.md"
-    name: "Leucopleurus"
-  - path: "Lissodelphis/breadcrumb.md"
-    name: "Lissodelphis"
-  - path: "Orcaella/breadcrumb.md"
-    name: "Orcaella"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Cephalorhynchus, Delphinus, Feresa, Globicephala, Grampus, Lagenodelphis, Lagenorhynchus, Leucopleurus, Lissodelphis, Orcaella]
 ---
-
 # Delphinidae
 
 Family containing 20 genera.

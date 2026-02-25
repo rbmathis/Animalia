@@ -1,30 +1,21 @@
 ---
-title: "Echinosorex"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["echinosorex", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atelerix/breadcrumb.md", "../Erinaceus/breadcrumb.md", "../Hemiechinus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 162629
-parent: "../breadcrumb.md"
+title: Echinosorex
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [echinosorex, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atelerix/breadcrumb.md, ../Erinaceus/breadcrumb.md, ../Hemiechinus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Echinosorex_gymnura.cs"
-    name: "Echinosorex gymnura"
-    common_name: "Echinosorex_gymnura"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Echinosorex_gymnura:
+    common_name: Echinosorex_gymnura
+    conservation: UK
 ---
-
 # Echinosorex
 
 Genus containing 1 species.

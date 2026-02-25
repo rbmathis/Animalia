@@ -1,126 +1,79 @@
 ---
-title: "Apodemus"
-description: "Genus containing 36 species."
-category: "taxonomy/genus"
-tags: ["apodemus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10128
-parent: "../breadcrumb.md"
+title: Apodemus
+description: Genus containing 36 species.
+category: taxonomy/genus
+tags: [apodemus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 36
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Apodemus_agrarius.cs"
-    name: "Apodemus agrarius"
-    common_name: "Apodemus_agrarius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_alpicola.cs"
-    name: "Apodemus alpicola"
-    common_name: "Apodemus_alpicola"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_argenteus.cs"
-    name: "Apodemus argenteus"
-    common_name: "Apodemus_argenteus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_cf_fulvipectus.cs"
-    name: "Apodemus cf. fulvipectus"
-    common_name: "Apodemus_cf_fulvipectus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_chejuensis.cs"
-    name: "Apodemus chejuensis"
-    common_name: "Apodemus_chejuensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_chevrieri.cs"
-    name: "Apodemus chevrieri"
-    common_name: "Apodemus_chevrieri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_ciscaucasicus.cs"
-    name: "Apodemus ciscaucasicus"
-    common_name: "Apodemus_ciscaucasicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_draco.cs"
-    name: "Apodemus draco"
-    common_name: "Apodemus_draco"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_epimelas.cs"
-    name: "Apodemus epimelas"
-    common_name: "Apodemus_epimelas"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_flavicollis.cs"
-    name: "Apodemus flavicollis"
-    common_name: "Apodemus_flavicollis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_fulvipectus.cs"
-    name: "Apodemus fulvipectus"
-    common_name: "Apodemus_fulvipectus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_gurkha.cs"
-    name: "Apodemus gurkha"
-    common_name: "Apodemus_gurkha"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_hermonensis.cs"
-    name: "Apodemus hermonensis"
-    common_name: "Apodemus_hermonensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_hyrcanicus.cs"
-    name: "Apodemus hyrcanicus"
-    common_name: "Apodemus_hyrcanicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_iconicus.cs"
-    name: "Apodemus iconicus"
-    common_name: "Apodemus_iconicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_ilex.cs"
-    name: "Apodemus ilex"
-    common_name: "Apodemus_ilex"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_latronum.cs"
-    name: "Apodemus latronum"
-    common_name: "Apodemus_latronum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_mystacinus.cs"
-    name: "Apodemus mystacinus"
-    common_name: "Apodemus_mystacinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_nigrus.cs"
-    name: "Apodemus nigrus"
-    common_name: "Apodemus_nigrus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Apodemus_pallipes.cs"
-    name: "Apodemus pallipes"
-    common_name: "Apodemus_pallipes"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Apodemus_agrarius:
+    common_name: Apodemus_agrarius
+    conservation: UK
+  Apodemus_alpicola:
+    common_name: Apodemus_alpicola
+    conservation: UK
+  Apodemus_argenteus:
+    common_name: Apodemus_argenteus
+    conservation: UK
+  Apodemus_cf_fulvipectus:
+    common_name: Apodemus_cf_fulvipectus
+    conservation: UK
+  Apodemus_chejuensis:
+    common_name: Apodemus_chejuensis
+    conservation: UK
+  Apodemus_chevrieri:
+    common_name: Apodemus_chevrieri
+    conservation: UK
+  Apodemus_ciscaucasicus:
+    common_name: Apodemus_ciscaucasicus
+    conservation: UK
+  Apodemus_draco:
+    common_name: Apodemus_draco
+    conservation: UK
+  Apodemus_epimelas:
+    common_name: Apodemus_epimelas
+    conservation: UK
+  Apodemus_flavicollis:
+    common_name: Apodemus_flavicollis
+    conservation: UK
+  Apodemus_fulvipectus:
+    common_name: Apodemus_fulvipectus
+    conservation: UK
+  Apodemus_gurkha:
+    common_name: Apodemus_gurkha
+    conservation: UK
+  Apodemus_hermonensis:
+    common_name: Apodemus_hermonensis
+    conservation: UK
+  Apodemus_hyrcanicus:
+    common_name: Apodemus_hyrcanicus
+    conservation: UK
+  Apodemus_iconicus:
+    common_name: Apodemus_iconicus
+    conservation: UK
+  Apodemus_ilex:
+    common_name: Apodemus_ilex
+    conservation: UK
+  Apodemus_latronum:
+    common_name: Apodemus_latronum
+    conservation: UK
+  Apodemus_mystacinus:
+    common_name: Apodemus_mystacinus
+    conservation: UK
+  Apodemus_nigrus:
+    common_name: Apodemus_nigrus
+    conservation: UK
+  Apodemus_pallipes:
+    common_name: Apodemus_pallipes
+    conservation: UK
 ---
-
 # Apodemus
 
 Genus containing 36 species.

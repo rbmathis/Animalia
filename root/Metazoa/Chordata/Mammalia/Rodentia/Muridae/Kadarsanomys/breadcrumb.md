@@ -1,30 +1,21 @@
 ---
-title: "Kadarsanomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["kadarsanomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2060319
-parent: "../breadcrumb.md"
+title: Kadarsanomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [kadarsanomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Kadarsanomys_sodyi.cs"
-    name: "Kadarsanomys sodyi"
-    common_name: "Kadarsanomys_sodyi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Kadarsanomys_sodyi:
+    common_name: Kadarsanomys_sodyi
+    conservation: UK
 ---
-
 # Kadarsanomys
 
 Genus containing 1 species.

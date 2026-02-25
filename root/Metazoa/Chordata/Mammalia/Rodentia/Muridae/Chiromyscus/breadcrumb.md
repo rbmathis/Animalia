@@ -1,46 +1,31 @@
 ---
-title: "Chiromyscus"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["chiromyscus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 491871
-parent: "../breadcrumb.md"
+title: Chiromyscus
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [chiromyscus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chiromyscus_chiropus.cs"
-    name: "Chiromyscus chiropus"
-    common_name: "Chiromyscus_chiropus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chiromyscus_langbianis.cs"
-    name: "Chiromyscus langbianis"
-    common_name: "Chiromyscus_langbianis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chiromyscus_sp_1_DG_2015.cs"
-    name: "Chiromyscus sp. 1 DG-2015"
-    common_name: "Chiromyscus_sp_1_DG_2015"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chiromyscus_thomasi.cs"
-    name: "Chiromyscus thomasi"
-    common_name: "Chiromyscus_thomasi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chiromyscus_chiropus:
+    common_name: Chiromyscus_chiropus
+    conservation: UK
+  Chiromyscus_langbianis:
+    common_name: Chiromyscus_langbianis
+    conservation: UK
+  Chiromyscus_sp_1_DG_2015:
+    common_name: Chiromyscus_sp_1_DG_2015
+    conservation: UK
+  Chiromyscus_thomasi:
+    common_name: Chiromyscus_thomasi
+    conservation: UK
 ---
-
 # Chiromyscus
 
 Genus containing 4 species.

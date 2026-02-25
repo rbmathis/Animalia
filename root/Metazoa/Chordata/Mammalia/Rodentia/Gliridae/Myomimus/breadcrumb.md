@@ -1,30 +1,21 @@
 ---
-title: "Myomimus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["myomimus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dryomys/breadcrumb.md", "../Eliomys/breadcrumb.md", "../Glirulus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 221693
-parent: "../breadcrumb.md"
+title: Myomimus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [myomimus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dryomys/breadcrumb.md, ../Eliomys/breadcrumb.md, ../Glirulus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Myomimus_roachi.cs"
-    name: "Myomimus roachi"
-    common_name: "Myomimus_roachi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Myomimus_roachi:
+    common_name: Myomimus_roachi
+    conservation: UK
 ---
-
 # Myomimus
 
 Genus containing 1 species.

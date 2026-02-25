@@ -1,126 +1,79 @@
 ---
-title: "Saccostomus"
-description: "Genus containing 26 species."
-category: "taxonomy/genus"
-tags: ["saccostomus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Beamys/breadcrumb.md", "../Brachytarsomys/breadcrumb.md", "../Brachyuromys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 106346
-parent: "../breadcrumb.md"
+title: Saccostomus
+description: Genus containing 26 species.
+category: taxonomy/genus
+tags: [saccostomus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Beamys/breadcrumb.md, ../Brachytarsomys/breadcrumb.md, ../Brachyuromys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 26
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Saccostomus_campestris.cs"
-    name: "Saccostomus campestris"
-    common_name: "Saccostomus_campestris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_campestris_x_mashonae.cs"
-    name: "Saccostomus campestris x mashonae"
-    common_name: "Saccostomus_campestris_x_mashonae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_cf_campestris_TA_2014.cs"
-    name: "Saccostomus cf. campestris TA-2014"
-    common_name: "Saccostomus_cf_campestris_TA_2014"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_mashonae.cs"
-    name: "Saccostomus mashonae"
-    common_name: "Saccostomus_mashonae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_mearnsi.cs"
-    name: "Saccostomus mearnsi"
-    common_name: "Saccostomus_mearnsi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_sp.cs"
-    name: "Saccostomus sp."
-    common_name: "Saccostomus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_sp_13777.cs"
-    name: "Saccostomus sp. 13777"
-    common_name: "Saccostomus_sp_13777"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_sp_13822.cs"
-    name: "Saccostomus sp. 13822"
-    common_name: "Saccostomus_sp_13822"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_sp_13823.cs"
-    name: "Saccostomus sp. 13823"
-    common_name: "Saccostomus_sp_13823"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_sp_13830.cs"
-    name: "Saccostomus sp. 13830"
-    common_name: "Saccostomus_sp_13830"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_sp_404411.cs"
-    name: "Saccostomus sp. 404411"
-    common_name: "Saccostomus_sp_404411"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_sp_41386.cs"
-    name: "Saccostomus sp. 41386"
-    common_name: "Saccostomus_sp_41386"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_sp_41392.cs"
-    name: "Saccostomus sp. 41392"
-    common_name: "Saccostomus_sp_41392"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_sp_41414.cs"
-    name: "Saccostomus sp. 41414"
-    common_name: "Saccostomus_sp_41414"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_sp_41623.cs"
-    name: "Saccostomus sp. 41623"
-    common_name: "Saccostomus_sp_41623"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_sp_42036.cs"
-    name: "Saccostomus sp. 42036"
-    common_name: "Saccostomus_sp_42036"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_sp_50064.cs"
-    name: "Saccostomus sp. 50064"
-    common_name: "Saccostomus_sp_50064"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_sp_50137.cs"
-    name: "Saccostomus sp. 50137"
-    common_name: "Saccostomus_sp_50137"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_sp_50664.cs"
-    name: "Saccostomus sp. 50664"
-    common_name: "Saccostomus_sp_50664"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saccostomus_sp_50709.cs"
-    name: "Saccostomus sp. 50709"
-    common_name: "Saccostomus_sp_50709"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Saccostomus_campestris:
+    common_name: Saccostomus_campestris
+    conservation: UK
+  Saccostomus_campestris_x_mashonae:
+    common_name: Saccostomus_campestris_x_mashonae
+    conservation: UK
+  Saccostomus_cf_campestris_TA_2014:
+    common_name: Saccostomus_cf_campestris_TA_2014
+    conservation: UK
+  Saccostomus_mashonae:
+    common_name: Saccostomus_mashonae
+    conservation: UK
+  Saccostomus_mearnsi:
+    common_name: Saccostomus_mearnsi
+    conservation: UK
+  Saccostomus_sp:
+    common_name: Saccostomus_sp
+    conservation: UK
+  Saccostomus_sp_13777:
+    common_name: Saccostomus_sp_13777
+    conservation: UK
+  Saccostomus_sp_13822:
+    common_name: Saccostomus_sp_13822
+    conservation: UK
+  Saccostomus_sp_13823:
+    common_name: Saccostomus_sp_13823
+    conservation: UK
+  Saccostomus_sp_13830:
+    common_name: Saccostomus_sp_13830
+    conservation: UK
+  Saccostomus_sp_404411:
+    common_name: Saccostomus_sp_404411
+    conservation: UK
+  Saccostomus_sp_41386:
+    common_name: Saccostomus_sp_41386
+    conservation: UK
+  Saccostomus_sp_41392:
+    common_name: Saccostomus_sp_41392
+    conservation: UK
+  Saccostomus_sp_41414:
+    common_name: Saccostomus_sp_41414
+    conservation: UK
+  Saccostomus_sp_41623:
+    common_name: Saccostomus_sp_41623
+    conservation: UK
+  Saccostomus_sp_42036:
+    common_name: Saccostomus_sp_42036
+    conservation: UK
+  Saccostomus_sp_50064:
+    common_name: Saccostomus_sp_50064
+    conservation: UK
+  Saccostomus_sp_50137:
+    common_name: Saccostomus_sp_50137
+    conservation: UK
+  Saccostomus_sp_50664:
+    common_name: Saccostomus_sp_50664
+    conservation: UK
+  Saccostomus_sp_50709:
+    common_name: Saccostomus_sp_50709
+    conservation: UK
 ---
-
 # Saccostomus
 
 Genus containing 26 species.

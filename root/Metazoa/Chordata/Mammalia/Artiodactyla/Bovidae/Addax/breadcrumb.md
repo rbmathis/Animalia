@@ -1,30 +1,21 @@
 ---
-title: "Addax"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["addax", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md", "../Ammotragus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 59514
-parent: "../breadcrumb.md"
+title: Addax
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [addax, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md, ../Ammotragus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Addax_nasomaculatus.cs"
-    name: "Addax nasomaculatus"
-    common_name: "Addax_nasomaculatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Addax_nasomaculatus:
+    common_name: Addax_nasomaculatus
+    conservation: UK
 ---
-
 # Addax
 
 Genus containing 1 species.

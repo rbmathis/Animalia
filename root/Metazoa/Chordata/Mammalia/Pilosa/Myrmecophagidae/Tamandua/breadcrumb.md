@@ -1,35 +1,24 @@
 ---
-title: "Tamandua"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["tamandua", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Myrmecophaga/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9350
-parent: "../breadcrumb.md"
+title: Tamandua
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [tamandua, genus]
+status: Living
+updated: 2026-02-23
+related: [../Myrmecophaga/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tamandua_mexicana.cs"
-    name: "Tamandua mexicana"
-    common_name: "Tamandua_mexicana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamandua_tetradactyla.cs"
-    name: "Tamandua tetradactyla"
-    common_name: "Tamandua_tetradactyla"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tamandua_mexicana:
+    common_name: Tamandua_mexicana
+    conservation: UK
+  Tamandua_tetradactyla:
+    common_name: Tamandua_tetradactyla
+    conservation: UK
 ---
-
 # Tamandua
 
 Genus containing 2 species.

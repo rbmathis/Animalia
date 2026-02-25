@@ -39,25 +39,31 @@ For well-known species, the path is deterministic:
 - **Panthera leo** → `root/Metazoa/Chordata/Mammalia/Carnivora/Felidae/Panthera/Panthera_leo.cs`
 - **Ursus arctos** → `root/Metazoa/Chordata/Mammalia/Carnivora/Ursidae/Ursus/Ursus_arctos.cs`
 
-### Strategy 2: Genus Breadcrumb → Species List
+### Strategy 2: Genus Breadcrumb → Species Lookup
 
 When you know the genus but not the exact species:
 
 1. Navigate to genus breadcrumb: `{Family}/{Genus}/breadcrumb.md`
-2. Read the `species` array in frontmatter
-3. Each entry includes: `file`, `name`, `common_name`, `conservation`, `enriched`
+2. Read the `species_data` lookup table in frontmatter
+3. Each key is the file stem, values include: `common_name`, `conservation` (IUCN code), `pet`
 
-**Example:** Find all wolves
+**Example:** Find wolves
 
 ```yaml
 # From Canis/breadcrumb.md
-species:
-  - file: "Canis_lupus.cs"
-    name: "Canis lupus"
-    common_name: "timber wolf"
-    conservation: "Least Concern"
-    enriched: true
+species_data:
+  Canis_lupus:
+    common_name: timber wolf
+    conservation: LC
+    pet: true
+  Canis_latrans:
+    common_name: prairie wolf
+    conservation: LC
 ```
+
+**Derivation from key:**
+- File: `{key}.cs` → `Canis_lupus.cs`
+- Name: `{key}` with `_` → ` ` → `Canis lupus`
 
 ### Strategy 3: Common Name → Breadcrumb Search
 

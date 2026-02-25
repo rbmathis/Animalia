@@ -1,30 +1,21 @@
 ---
-title: "Pseudoryx"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["pseudoryx", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 97362
-parent: "../breadcrumb.md"
+title: Pseudoryx
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [pseudoryx, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pseudoryx_nghetinhensis.cs"
-    name: "Pseudoryx nghetinhensis"
-    common_name: "Pseudoryx_nghetinhensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pseudoryx_nghetinhensis:
+    common_name: Pseudoryx_nghetinhensis
+    conservation: UK
 ---
-
 # Pseudoryx
 
 Genus containing 1 species.

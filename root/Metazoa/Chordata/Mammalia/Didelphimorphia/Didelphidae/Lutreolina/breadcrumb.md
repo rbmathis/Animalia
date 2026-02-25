@@ -1,35 +1,24 @@
 ---
-title: "Lutreolina"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["lutreolina", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Caluromys/breadcrumb.md", "../Caluromysiops/breadcrumb.md", "../Chacodelphys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 38619
-parent: "../breadcrumb.md"
+title: Lutreolina
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [lutreolina, genus]
+status: Living
+updated: 2026-02-23
+related: [../Caluromys/breadcrumb.md, ../Caluromysiops/breadcrumb.md, ../Chacodelphys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lutreolina_crassicaudata.cs"
-    name: "Lutreolina crassicaudata"
-    common_name: "Lutreolina_crassicaudata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lutreolina_massoia.cs"
-    name: "Lutreolina massoia"
-    common_name: "Lutreolina_massoia"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lutreolina_crassicaudata:
+    common_name: Lutreolina_crassicaudata
+    conservation: UK
+  Lutreolina_massoia:
+    common_name: Lutreolina_massoia
+    conservation: UK
 ---
-
 # Lutreolina
 
 Genus containing 2 species.

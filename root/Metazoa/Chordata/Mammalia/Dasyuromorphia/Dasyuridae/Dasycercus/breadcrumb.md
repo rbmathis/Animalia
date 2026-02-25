@@ -1,40 +1,27 @@
 ---
-title: "Dasycercus"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["dasycercus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antechinomys/breadcrumb.md", "../Antechinus/breadcrumb.md", "../Dasykaluta/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 32541
-parent: "../breadcrumb.md"
+title: Dasycercus
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [dasycercus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Antechinomys/breadcrumb.md, ../Antechinus/breadcrumb.md, ../Dasykaluta/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dasycercus_blythi.cs"
-    name: "Dasycercus blythi"
-    common_name: "Dasycercus_blythi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasycercus_cristicauda.cs"
-    name: "Dasycercus cristicauda"
-    common_name: "Dasycercus_cristicauda"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasycercus_hillieri.cs"
-    name: "Dasycercus hillieri"
-    common_name: "Dasycercus_hillieri"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dasycercus_blythi:
+    common_name: Dasycercus_blythi
+    conservation: UK
+  Dasycercus_cristicauda:
+    common_name: Dasycercus_cristicauda
+    conservation: UK
+  Dasycercus_hillieri:
+    common_name: Dasycercus_hillieri
+    conservation: UK
 ---
-
 # Dasycercus
 
 Genus containing 3 species.

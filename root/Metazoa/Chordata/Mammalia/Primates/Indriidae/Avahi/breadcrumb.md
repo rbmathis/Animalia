@@ -1,71 +1,46 @@
 ---
-title: "Avahi"
-description: "Genus containing 9 species."
-category: "taxonomy/genus"
-tags: ["avahi", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Archaeolemur/breadcrumb.md", "../Hadropithecus/breadcrumb.md", "../Indri/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 122245
-parent: "../breadcrumb.md"
+title: Avahi
+description: Genus containing 9 species.
+category: taxonomy/genus
+tags: [avahi, genus]
+status: Living
+updated: 2026-02-23
+related: [../Archaeolemur/breadcrumb.md, ../Hadropithecus/breadcrumb.md, ../Indri/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 9
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Avahi_betsileo.cs"
-    name: "Avahi betsileo"
-    common_name: "Avahi_betsileo"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Avahi_cleesei.cs"
-    name: "Avahi cleesei"
-    common_name: "Avahi_cleesei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Avahi_laniger.cs"
-    name: "Avahi laniger"
-    common_name: "Avahi_laniger"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Avahi_meridionalis.cs"
-    name: "Avahi meridionalis"
-    common_name: "Avahi_meridionalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Avahi_mooreorum.cs"
-    name: "Avahi mooreorum"
-    common_name: "Avahi_mooreorum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Avahi_occidentalis.cs"
-    name: "Avahi occidentalis"
-    common_name: "Avahi_occidentalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Avahi_peyrierasi.cs"
-    name: "Avahi peyrierasi"
-    common_name: "Avahi_peyrierasi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Avahi_sp.cs"
-    name: "Avahi sp."
-    common_name: "Avahi_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Avahi_unicolor.cs"
-    name: "Avahi unicolor"
-    common_name: "Avahi_unicolor"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Avahi_betsileo:
+    common_name: Avahi_betsileo
+    conservation: UK
+  Avahi_cleesei:
+    common_name: Avahi_cleesei
+    conservation: UK
+  Avahi_laniger:
+    common_name: Avahi_laniger
+    conservation: UK
+  Avahi_meridionalis:
+    common_name: Avahi_meridionalis
+    conservation: UK
+  Avahi_mooreorum:
+    common_name: Avahi_mooreorum
+    conservation: UK
+  Avahi_occidentalis:
+    common_name: Avahi_occidentalis
+    conservation: UK
+  Avahi_peyrierasi:
+    common_name: Avahi_peyrierasi
+    conservation: UK
+  Avahi_sp:
+    common_name: Avahi_sp
+    conservation: UK
+  Avahi_unicolor:
+    common_name: Avahi_unicolor
+    conservation: UK
 ---
-
 # Avahi
 
 Genus containing 9 species.

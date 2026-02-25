@@ -1,45 +1,30 @@
 ---
-title: "Eospalax"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["eospalax", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cannomys/breadcrumb.md", "../Myospalax/breadcrumb.md", "../Nannospalax/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 146131
-parent: "../breadcrumb.md"
+title: Eospalax
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [eospalax, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cannomys/breadcrumb.md, ../Myospalax/breadcrumb.md, ../Nannospalax/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Eospalax_fontanierii.cs"
-    name: "Eospalax fontanierii"
-    common_name: "Eospalax_fontanierii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eospalax_rothschildi.cs"
-    name: "Eospalax rothschildi"
-    common_name: "Eospalax_rothschildi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eospalax_rufescens.cs"
-    name: "Eospalax rufescens"
-    common_name: "Eospalax_rufescens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eospalax_smithii.cs"
-    name: "Eospalax smithii"
-    common_name: "Eospalax_smithii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Eospalax_fontanierii:
+    common_name: Eospalax_fontanierii
+    conservation: UK
+  Eospalax_rothschildi:
+    common_name: Eospalax_rothschildi
+    conservation: UK
+  Eospalax_rufescens:
+    common_name: Eospalax_rufescens
+    conservation: UK
+  Eospalax_smithii:
+    common_name: Eospalax_smithii
+    conservation: UK
 ---
-
 # Eospalax
 
 Genus containing 4 species.

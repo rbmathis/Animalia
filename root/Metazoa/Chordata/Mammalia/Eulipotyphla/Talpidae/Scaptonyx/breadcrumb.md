@@ -1,76 +1,49 @@
 ---
-title: "Scaptonyx"
-description: "Genus containing 10 species."
-category: "taxonomy/genus"
-tags: ["scaptonyx", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alpiscaptulus/breadcrumb.md", "../Condylura/breadcrumb.md", "../Desmana/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 224954
-parent: "../breadcrumb.md"
+title: Scaptonyx
+description: Genus containing 10 species.
+category: taxonomy/genus
+tags: [scaptonyx, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alpiscaptulus/breadcrumb.md, ../Condylura/breadcrumb.md, ../Desmana/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 10
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Scaptonyx_fusicauda.cs"
-    name: "Scaptonyx fusicauda"
-    common_name: "Scaptonyx_fusicauda"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Scaptonyx_sp_1_WS_2026.cs"
-    name: "Scaptonyx sp. 1 WS-2026"
-    common_name: "Scaptonyx_sp_1_WS_2026"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Scaptonyx_sp_KIZ_DD180128.cs"
-    name: "Scaptonyx sp. KIZ DD180128"
-    common_name: "Scaptonyx_sp_KIZ_DD180128"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Scaptonyx_sp_KIZ_DD180138.cs"
-    name: "Scaptonyx sp. KIZ DD180138"
-    common_name: "Scaptonyx_sp_KIZ_DD180138"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Scaptonyx_sp_KIZ_GW180131.cs"
-    name: "Scaptonyx sp. KIZ GW180131"
-    common_name: "Scaptonyx_sp_KIZ_GW180131"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Scaptonyx_sp_KIZ_GW180430.cs"
-    name: "Scaptonyx sp. KIZ GW180430"
-    common_name: "Scaptonyx_sp_KIZ_GW180430"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Scaptonyx_sp_KIZ_PM180107.cs"
-    name: "Scaptonyx sp. KIZ PM180107"
-    common_name: "Scaptonyx_sp_KIZ_PM180107"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Scaptonyx_sp_KIZ_PM180263.cs"
-    name: "Scaptonyx sp. KIZ PM180263"
-    common_name: "Scaptonyx_sp_KIZ_PM180263"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Scaptonyx_sp_KIZ_YP180002.cs"
-    name: "Scaptonyx sp. KIZ YP180002"
-    common_name: "Scaptonyx_sp_KIZ_YP180002"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Scaptonyx_sp_TE_2021.cs"
-    name: "Scaptonyx sp. TE-2021"
-    common_name: "Scaptonyx_sp_TE_2021"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Scaptonyx_fusicauda:
+    common_name: Scaptonyx_fusicauda
+    conservation: UK
+  Scaptonyx_sp_1_WS_2026:
+    common_name: Scaptonyx_sp_1_WS_2026
+    conservation: UK
+  Scaptonyx_sp_KIZ_DD180128:
+    common_name: Scaptonyx_sp_KIZ_DD180128
+    conservation: UK
+  Scaptonyx_sp_KIZ_DD180138:
+    common_name: Scaptonyx_sp_KIZ_DD180138
+    conservation: UK
+  Scaptonyx_sp_KIZ_GW180131:
+    common_name: Scaptonyx_sp_KIZ_GW180131
+    conservation: UK
+  Scaptonyx_sp_KIZ_GW180430:
+    common_name: Scaptonyx_sp_KIZ_GW180430
+    conservation: UK
+  Scaptonyx_sp_KIZ_PM180107:
+    common_name: Scaptonyx_sp_KIZ_PM180107
+    conservation: UK
+  Scaptonyx_sp_KIZ_PM180263:
+    common_name: Scaptonyx_sp_KIZ_PM180263
+    conservation: UK
+  Scaptonyx_sp_KIZ_YP180002:
+    common_name: Scaptonyx_sp_KIZ_YP180002
+    conservation: UK
+  Scaptonyx_sp_TE_2021:
+    common_name: Scaptonyx_sp_TE_2021
+    conservation: UK
 ---
-
 # Scaptonyx
 
 Genus containing 10 species.

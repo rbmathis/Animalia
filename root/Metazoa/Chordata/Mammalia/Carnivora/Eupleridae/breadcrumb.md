@@ -1,40 +1,19 @@
 ---
-title: "Eupleridae"
-description: "Family containing 7 genera."
-category: "taxonomy/family"
-tags: ["eupleridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ailuridae/breadcrumb.md", "../Canidae/breadcrumb.md", "../Felidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 379589
-parent: "../breadcrumb.md"
+title: Eupleridae
+description: Family containing 7 genera.
+category: taxonomy/family
+tags: [eupleridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Ailuridae/breadcrumb.md, ../Canidae/breadcrumb.md, ../Felidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 7
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Cryptoprocta/breadcrumb.md"
-    name: "Cryptoprocta"
-  - path: "Eupleres/breadcrumb.md"
-    name: "Eupleres"
-  - path: "Fossa/breadcrumb.md"
-    name: "Fossa"
-  - path: "Galidia/breadcrumb.md"
-    name: "Galidia"
-  - path: "Galidictis/breadcrumb.md"
-    name: "Galidictis"
-  - path: "Mungotictis/breadcrumb.md"
-    name: "Mungotictis"
-  - path: "Salanoia/breadcrumb.md"
-    name: "Salanoia"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Cryptoprocta, Eupleres, Fossa, Galidia, Galidictis, Mungotictis, Salanoia]
 ---
-
 # Eupleridae
 
 Family containing 7 genera.

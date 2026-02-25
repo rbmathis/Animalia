@@ -1,30 +1,21 @@
 ---
-title: "Glirulus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["glirulus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dryomys/breadcrumb.md", "../Eliomys/breadcrumb.md", "../Glis/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 55146
-parent: "../breadcrumb.md"
+title: Glirulus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [glirulus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dryomys/breadcrumb.md, ../Eliomys/breadcrumb.md, ../Glis/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Glirulus_japonicus.cs"
-    name: "Glirulus japonicus"
-    common_name: "Glirulus_japonicus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Glirulus_japonicus:
+    common_name: Glirulus_japonicus
+    conservation: UK
 ---
-
 # Glirulus
 
 Genus containing 1 species.

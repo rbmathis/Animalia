@@ -1,40 +1,27 @@
 ---
-title: "Hapalomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["hapalomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1156414
-parent: "../breadcrumb.md"
+title: Hapalomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [hapalomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hapalomys_delacouri.cs"
-    name: "Hapalomys delacouri"
-    common_name: "Hapalomys_delacouri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hapalomys_longicaudatus.cs"
-    name: "Hapalomys longicaudatus"
-    common_name: "Hapalomys_longicaudatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hapalomys_suntsovi.cs"
-    name: "Hapalomys suntsovi"
-    common_name: "Hapalomys_suntsovi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hapalomys_delacouri:
+    common_name: Hapalomys_delacouri
+    conservation: UK
+  Hapalomys_longicaudatus:
+    common_name: Hapalomys_longicaudatus
+    conservation: UK
+  Hapalomys_suntsovi:
+    common_name: Hapalomys_suntsovi
+    conservation: UK
 ---
-
 # Hapalomys
 
 Genus containing 3 species.

@@ -1,35 +1,24 @@
 ---
-title: "Napaeozapus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["napaeozapus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allactaga/breadcrumb.md", "../Allactodipus/breadcrumb.md", "../Cardiocranius/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 101670
-parent: "../breadcrumb.md"
+title: Napaeozapus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [napaeozapus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allactaga/breadcrumb.md, ../Allactodipus/breadcrumb.md, ../Cardiocranius/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Napaeozapus_abietorum.cs"
-    name: "Napaeozapus abietorum"
-    common_name: "Napaeozapus_abietorum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Napaeozapus_insignis.cs"
-    name: "Napaeozapus insignis"
-    common_name: "Napaeozapus_insignis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Napaeozapus_abietorum:
+    common_name: Napaeozapus_abietorum
+    conservation: UK
+  Napaeozapus_insignis:
+    common_name: Napaeozapus_insignis
+    conservation: UK
 ---
-
 # Napaeozapus
 
 Genus containing 2 species.

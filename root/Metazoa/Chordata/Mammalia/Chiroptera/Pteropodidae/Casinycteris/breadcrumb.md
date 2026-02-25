@@ -1,40 +1,27 @@
 ---
-title: "Casinycteris"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["casinycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1091508
-parent: "../breadcrumb.md"
+title: Casinycteris
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [casinycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Casinycteris_argynnis.cs"
-    name: "Casinycteris argynnis"
-    common_name: "Casinycteris_argynnis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Casinycteris_campomaanensis.cs"
-    name: "Casinycteris campomaanensis"
-    common_name: "Casinycteris_campomaanensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Casinycteris_ophiodon.cs"
-    name: "Casinycteris ophiodon"
-    common_name: "Casinycteris_ophiodon"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Casinycteris_argynnis:
+    common_name: Casinycteris_argynnis
+    conservation: UK
+  Casinycteris_campomaanensis:
+    common_name: Casinycteris_campomaanensis
+    conservation: UK
+  Casinycteris_ophiodon:
+    common_name: Casinycteris_ophiodon
+    conservation: UK
 ---
-
 # Casinycteris
 
 Genus containing 3 species.

@@ -1,76 +1,49 @@
 ---
-title: "Propithecus"
-description: "Genus containing 10 species."
-category: "taxonomy/genus"
-tags: ["propithecus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Archaeolemur/breadcrumb.md", "../Avahi/breadcrumb.md", "../Hadropithecus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 30600
-parent: "../breadcrumb.md"
+title: Propithecus
+description: Genus containing 10 species.
+category: taxonomy/genus
+tags: [propithecus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Archaeolemur/breadcrumb.md, ../Avahi/breadcrumb.md, ../Hadropithecus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 10
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Propithecus_candidus.cs"
-    name: "Propithecus candidus"
-    common_name: "Propithecus_candidus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Propithecus_coquereli.cs"
-    name: "Propithecus coquereli"
-    common_name: "Propithecus_coquereli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Propithecus_deckenii.cs"
-    name: "Propithecus deckenii"
-    common_name: "Propithecus_deckenii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Propithecus_diadema.cs"
-    name: "Propithecus diadema"
-    common_name: "Propithecus_diadema"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Propithecus_edwardsi.cs"
-    name: "Propithecus edwardsi"
-    common_name: "Propithecus_edwardsi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Propithecus_perrieri.cs"
-    name: "Propithecus perrieri"
-    common_name: "Propithecus_perrieri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Propithecus_sp.cs"
-    name: "Propithecus sp."
-    common_name: "Propithecus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Propithecus_sp_m_MH_2023.cs"
-    name: "Propithecus sp. m MH-2023"
-    common_name: "Propithecus_sp_m_MH_2023"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Propithecus_tattersalli.cs"
-    name: "Propithecus tattersalli"
-    common_name: "Propithecus_tattersalli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Propithecus_verreauxi.cs"
-    name: "Propithecus verreauxi"
-    common_name: "Propithecus_verreauxi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Propithecus_candidus:
+    common_name: Propithecus_candidus
+    conservation: UK
+  Propithecus_coquereli:
+    common_name: Propithecus_coquereli
+    conservation: UK
+  Propithecus_deckenii:
+    common_name: Propithecus_deckenii
+    conservation: UK
+  Propithecus_diadema:
+    common_name: Propithecus_diadema
+    conservation: UK
+  Propithecus_edwardsi:
+    common_name: Propithecus_edwardsi
+    conservation: UK
+  Propithecus_perrieri:
+    common_name: Propithecus_perrieri
+    conservation: UK
+  Propithecus_sp:
+    common_name: Propithecus_sp
+    conservation: UK
+  Propithecus_sp_m_MH_2023:
+    common_name: Propithecus_sp_m_MH_2023
+    conservation: UK
+  Propithecus_tattersalli:
+    common_name: Propithecus_tattersalli
+    conservation: UK
+  Propithecus_verreauxi:
+    common_name: Propithecus_verreauxi
+    conservation: UK
 ---
-
 # Propithecus
 
 Genus containing 10 species.

@@ -1,30 +1,21 @@
 ---
-title: "Tarsipes"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["tarsipes", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Tarsipes
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [tarsipes, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 38631
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tarsipes_rostratus.cs"
-    name: "Tarsipes rostratus"
-    common_name: "Tarsipes_rostratus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tarsipes_rostratus:
+    common_name: Tarsipes_rostratus
+    conservation: UK
 ---
-
 # Tarsipes
 
 Genus containing 1 species.

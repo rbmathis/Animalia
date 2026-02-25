@@ -1,23 +1,20 @@
 ---
-title: "Cricetinae"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["cricetinae", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-parent: "../breadcrumb.md"
+title: Cricetinae
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [cricetinae, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-species:
-  - file: "Cricetinae_gen_sp.cs"
-    name: "Cricetinae gen. sp."
-    common_name: "Cricetinae_gen_sp"
-    conservation: "Unknown"
-    enriched: false
+species_data:
+  Cricetinae_gen_sp:
+    common_name: Cricetinae_gen_sp
+    conservation: UK
 ---
-
 # Cricetinae
 
 Genus containing 1 species.

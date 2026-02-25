@@ -1,35 +1,24 @@
 ---
-title: "Capreolus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["capreolus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alces/breadcrumb.md", "../Axis/breadcrumb.md", "../Bisbalus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9857
-parent: "../breadcrumb.md"
+title: Capreolus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [capreolus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alces/breadcrumb.md, ../Axis/breadcrumb.md, ../Bisbalus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Capreolus_capreolus.cs"
-    name: "Capreolus capreolus"
-    common_name: "Capreolus_capreolus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Capreolus_pygargus.cs"
-    name: "Capreolus pygargus"
-    common_name: "Capreolus_pygargus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Capreolus_capreolus:
+    common_name: Capreolus_capreolus
+    conservation: UK
+  Capreolus_pygargus:
+    common_name: Capreolus_pygargus
+    conservation: UK
 ---
-
 # Capreolus
 
 Genus containing 2 species.

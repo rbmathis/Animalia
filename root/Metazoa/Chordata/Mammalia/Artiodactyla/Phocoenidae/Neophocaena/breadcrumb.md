@@ -1,51 +1,34 @@
 ---
-title: "Neophocaena"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["neophocaena", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Phocoena/breadcrumb.md", "../Phocoenoides/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 34891
-parent: "../breadcrumb.md"
+title: Neophocaena
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [neophocaena, genus]
+status: Living
+updated: 2026-02-23
+related: [../Phocoena/breadcrumb.md, ../Phocoenoides/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Neophocaena_asiaeorientalis.cs"
-    name: "Neophocaena asiaeorientalis"
-    common_name: "Neophocaena_asiaeorientalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neophocaena_phocaenoides.cs"
-    name: "Neophocaena phocaenoides"
-    common_name: "Neophocaena_phocaenoides"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neophocaena_sp_ZSIWGRC_3626.cs"
-    name: "Neophocaena sp. ZSIWGRC_3626"
-    common_name: "Neophocaena_sp_ZSIWGRC_3626"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neophocaena_sp_ZSIWGRC_3627.cs"
-    name: "Neophocaena sp. ZSIWGRC_3627"
-    common_name: "Neophocaena_sp_ZSIWGRC_3627"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neophocaena_sunameri.cs"
-    name: "Neophocaena sunameri"
-    common_name: "Neophocaena_sunameri"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Neophocaena_asiaeorientalis:
+    common_name: Neophocaena_asiaeorientalis
+    conservation: UK
+  Neophocaena_phocaenoides:
+    common_name: Neophocaena_phocaenoides
+    conservation: UK
+  Neophocaena_sp_ZSIWGRC_3626:
+    common_name: Neophocaena_sp_ZSIWGRC_3626
+    conservation: UK
+  Neophocaena_sp_ZSIWGRC_3627:
+    common_name: Neophocaena_sp_ZSIWGRC_3627
+    conservation: UK
+  Neophocaena_sunameri:
+    common_name: Neophocaena_sunameri
+    conservation: UK
 ---
-
 # Neophocaena
 
 Genus containing 5 species.

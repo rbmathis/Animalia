@@ -1,41 +1,28 @@
 ---
-title: "Pan"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["pan", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Gorilla/breadcrumb.md", "../Hominidae_intergeneric_hybrids/breadcrumb.md", "../Homo/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9596
-parent: "../breadcrumb.md"
+title: Pan
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [pan, genus]
+status: Living
+updated: 2026-02-23
+related: [../Gorilla/breadcrumb.md, ../Hominidae_intergeneric_hybrids/breadcrumb.md, ../Homo/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pan_paniscus.cs"
-    name: "Pan paniscus"
-    common_name: "Pan_paniscus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pan_sp.cs"
-    name: "Pan sp."
-    common_name: "Pan_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pan_troglodytes.cs"
-    name: "Pan troglodytes"
-    common_name: "Pan_troglodytes"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pan_paniscus:
+    common_name: Pan_paniscus
+    conservation: UK
+  Pan_sp:
+    common_name: Pan_sp
+    conservation: UK
+  Pan_troglodytes:
+    common_name: Pan_troglodytes
+    conservation: UK
 ---
-
 # Pan
 
 Genus containing 3 species.

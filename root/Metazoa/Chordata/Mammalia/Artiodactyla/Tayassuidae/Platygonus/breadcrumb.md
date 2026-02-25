@@ -1,30 +1,21 @@
 ---
-title: "Platygonus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["platygonus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Catagonus/breadcrumb.md", "../Dicotyles/breadcrumb.md", "../Pecari/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1983448
-parent: "../breadcrumb.md"
+title: Platygonus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [platygonus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Catagonus/breadcrumb.md, ../Dicotyles/breadcrumb.md, ../Pecari/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Platygonus_compressus.cs"
-    name: "Platygonus compressus"
-    common_name: "Platygonus_compressus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Platygonus_compressus:
+    common_name: Platygonus_compressus
+    conservation: UK
 ---
-
 # Platygonus
 
 Genus containing 1 species.

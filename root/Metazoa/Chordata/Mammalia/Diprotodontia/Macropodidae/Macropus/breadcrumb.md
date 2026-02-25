@@ -1,126 +1,79 @@
 ---
-title: "Macropus"
-description: "Genus containing 23 species."
-category: "taxonomy/genus"
-tags: ["macropus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dendrolagus/breadcrumb.md", "../Dorcopsis/breadcrumb.md", "../Dorcopsulus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9312
-parent: "../breadcrumb.md"
+title: Macropus
+description: Genus containing 23 species.
+category: taxonomy/genus
+tags: [macropus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dendrolagus/breadcrumb.md, ../Dorcopsis/breadcrumb.md, ../Dorcopsulus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 23
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Macropus_cf_fuliginosus_KS1.cs"
-    name: "Macropus cf. fuliginosus KS1"
-    common_name: "Macropus_cf_fuliginosus_KS1"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_fuliginosus_KS7.cs"
-    name: "Macropus cf. fuliginosus KS7"
-    common_name: "Macropus_cf_fuliginosus_KS7"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_giganteus_KD1.cs"
-    name: "Macropus cf. giganteus KD1"
-    common_name: "Macropus_cf_giganteus_KD1"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_giganteus_KD5.cs"
-    name: "Macropus cf. giganteus KD5"
-    common_name: "Macropus_cf_giganteus_KD5"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_giganteus_KD6.cs"
-    name: "Macropus cf. giganteus KD6"
-    common_name: "Macropus_cf_giganteus_KD6"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_giganteus_KS3.cs"
-    name: "Macropus cf. giganteus KS3"
-    common_name: "Macropus_cf_giganteus_KS3"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_giganteus_KS4.cs"
-    name: "Macropus cf. giganteus KS4"
-    common_name: "Macropus_cf_giganteus_KS4"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_giganteus_KS6.cs"
-    name: "Macropus cf. giganteus KS6"
-    common_name: "Macropus_cf_giganteus_KS6"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_giganteus_KS8.cs"
-    name: "Macropus cf. giganteus KS8"
-    common_name: "Macropus_cf_giganteus_KS8"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_giganteus_TL_2021.cs"
-    name: "Macropus cf. giganteus TL-2021"
-    common_name: "Macropus_cf_giganteus_TL_2021"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_rufus_KD2.cs"
-    name: "Macropus cf. rufus KD2"
-    common_name: "Macropus_cf_rufus_KD2"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_rufus_KD3.cs"
-    name: "Macropus cf. rufus KD3"
-    common_name: "Macropus_cf_rufus_KD3"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_rufus_KD4.cs"
-    name: "Macropus cf. rufus KD4"
-    common_name: "Macropus_cf_rufus_KD4"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_rufus_KD7.cs"
-    name: "Macropus cf. rufus KD7"
-    common_name: "Macropus_cf_rufus_KD7"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_rufus_KF1.cs"
-    name: "Macropus cf. rufus KF1"
-    common_name: "Macropus_cf_rufus_KF1"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_rufus_KS2.cs"
-    name: "Macropus cf. rufus KS2"
-    common_name: "Macropus_cf_rufus_KS2"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_cf_rufus_KS5.cs"
-    name: "Macropus cf. rufus KS5"
-    common_name: "Macropus_cf_rufus_KS5"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_fuliginosus.cs"
-    name: "Macropus fuliginosus"
-    common_name: "Macropus_fuliginosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_giganteus.cs"
-    name: "Macropus giganteus"
-    common_name: "Macropus_giganteus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macropus_sp.cs"
-    name: "Macropus sp."
-    common_name: "Macropus_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Macropus_cf_fuliginosus_KS1:
+    common_name: Macropus_cf_fuliginosus_KS1
+    conservation: UK
+  Macropus_cf_fuliginosus_KS7:
+    common_name: Macropus_cf_fuliginosus_KS7
+    conservation: UK
+  Macropus_cf_giganteus_KD1:
+    common_name: Macropus_cf_giganteus_KD1
+    conservation: UK
+  Macropus_cf_giganteus_KD5:
+    common_name: Macropus_cf_giganteus_KD5
+    conservation: UK
+  Macropus_cf_giganteus_KD6:
+    common_name: Macropus_cf_giganteus_KD6
+    conservation: UK
+  Macropus_cf_giganteus_KS3:
+    common_name: Macropus_cf_giganteus_KS3
+    conservation: UK
+  Macropus_cf_giganteus_KS4:
+    common_name: Macropus_cf_giganteus_KS4
+    conservation: UK
+  Macropus_cf_giganteus_KS6:
+    common_name: Macropus_cf_giganteus_KS6
+    conservation: UK
+  Macropus_cf_giganteus_KS8:
+    common_name: Macropus_cf_giganteus_KS8
+    conservation: UK
+  Macropus_cf_giganteus_TL_2021:
+    common_name: Macropus_cf_giganteus_TL_2021
+    conservation: UK
+  Macropus_cf_rufus_KD2:
+    common_name: Macropus_cf_rufus_KD2
+    conservation: UK
+  Macropus_cf_rufus_KD3:
+    common_name: Macropus_cf_rufus_KD3
+    conservation: UK
+  Macropus_cf_rufus_KD4:
+    common_name: Macropus_cf_rufus_KD4
+    conservation: UK
+  Macropus_cf_rufus_KD7:
+    common_name: Macropus_cf_rufus_KD7
+    conservation: UK
+  Macropus_cf_rufus_KF1:
+    common_name: Macropus_cf_rufus_KF1
+    conservation: UK
+  Macropus_cf_rufus_KS2:
+    common_name: Macropus_cf_rufus_KS2
+    conservation: UK
+  Macropus_cf_rufus_KS5:
+    common_name: Macropus_cf_rufus_KS5
+    conservation: UK
+  Macropus_fuliginosus:
+    common_name: Macropus_fuliginosus
+    conservation: UK
+  Macropus_giganteus:
+    common_name: Macropus_giganteus
+    conservation: UK
+  Macropus_sp:
+    common_name: Macropus_sp
+    conservation: UK
 ---
-
 # Macropus
 
 Genus containing 23 species.

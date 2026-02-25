@@ -1,30 +1,21 @@
 ---
-title: "Cardioderma"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["cardioderma", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Lavia/breadcrumb.md", "../Lyroderma/breadcrumb.md", "../Macroderma/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 270763
-parent: "../breadcrumb.md"
+title: Cardioderma
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [cardioderma, genus]
+status: Living
+updated: 2026-02-23
+related: [../Lavia/breadcrumb.md, ../Lyroderma/breadcrumb.md, ../Macroderma/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cardioderma_cor.cs"
-    name: "Cardioderma cor"
-    common_name: "Cardioderma_cor"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cardioderma_cor:
+    common_name: Cardioderma_cor
+    conservation: UK
 ---
-
 # Cardioderma
 
 Genus containing 1 species.

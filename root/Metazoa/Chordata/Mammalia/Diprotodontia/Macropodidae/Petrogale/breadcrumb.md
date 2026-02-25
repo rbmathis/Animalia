@@ -1,115 +1,72 @@
 ---
-title: "Petrogale"
-description: "Genus containing 18 species."
-category: "taxonomy/genus"
-tags: ["petrogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dendrolagus/breadcrumb.md", "../Dorcopsis/breadcrumb.md", "../Dorcopsulus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9324
-parent: "../breadcrumb.md"
+title: Petrogale
+description: Genus containing 18 species.
+category: taxonomy/genus
+tags: [petrogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dendrolagus/breadcrumb.md, ../Dorcopsis/breadcrumb.md, ../Dorcopsulus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 18
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Petrogale_assimilis.cs"
-    name: "Petrogale assimilis"
-    common_name: "Petrogale_assimilis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_brachyotis.cs"
-    name: "Petrogale brachyotis"
-    common_name: "Petrogale_brachyotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_burbidgei.cs"
-    name: "Petrogale burbidgei"
-    common_name: "Petrogale_burbidgei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_coenensis.cs"
-    name: "Petrogale coenensis"
-    common_name: "Petrogale_coenensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_concinna.cs"
-    name: "Petrogale concinna"
-    common_name: "Petrogale_concinna"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_godmani.cs"
-    name: "Petrogale godmani"
-    common_name: "Petrogale_godmani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_godmani_x_mareeba.cs"
-    name: "Petrogale godmani x mareeba"
-    common_name: "Petrogale_godmani_x_mareeba"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_herberti.cs"
-    name: "Petrogale herberti"
-    common_name: "Petrogale_herberti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_inornata.cs"
-    name: "Petrogale inornata"
-    common_name: "Petrogale_inornata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_lateralis.cs"
-    name: "Petrogale lateralis"
-    common_name: "Petrogale_lateralis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_mareeba.cs"
-    name: "Petrogale mareeba"
-    common_name: "Petrogale_mareeba"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_penicillata.cs"
-    name: "Petrogale penicillata"
-    common_name: "Petrogale_penicillata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_persephone.cs"
-    name: "Petrogale persephone"
-    common_name: "Petrogale_persephone"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_purpureicollis.cs"
-    name: "Petrogale purpureicollis"
-    common_name: "Petrogale_purpureicollis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_rothschildi.cs"
-    name: "Petrogale rothschildi"
-    common_name: "Petrogale_rothschildi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_sharmani.cs"
-    name: "Petrogale sharmani"
-    common_name: "Petrogale_sharmani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_wilkinsi.cs"
-    name: "Petrogale wilkinsi"
-    common_name: "Petrogale_wilkinsi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petrogale_xanthopus.cs"
-    name: "Petrogale xanthopus"
-    common_name: "Petrogale_xanthopus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Petrogale_assimilis:
+    common_name: Petrogale_assimilis
+    conservation: UK
+  Petrogale_brachyotis:
+    common_name: Petrogale_brachyotis
+    conservation: UK
+  Petrogale_burbidgei:
+    common_name: Petrogale_burbidgei
+    conservation: UK
+  Petrogale_coenensis:
+    common_name: Petrogale_coenensis
+    conservation: UK
+  Petrogale_concinna:
+    common_name: Petrogale_concinna
+    conservation: UK
+  Petrogale_godmani:
+    common_name: Petrogale_godmani
+    conservation: UK
+  Petrogale_godmani_x_mareeba:
+    common_name: Petrogale_godmani_x_mareeba
+    conservation: UK
+  Petrogale_herberti:
+    common_name: Petrogale_herberti
+    conservation: UK
+  Petrogale_inornata:
+    common_name: Petrogale_inornata
+    conservation: UK
+  Petrogale_lateralis:
+    common_name: Petrogale_lateralis
+    conservation: UK
+  Petrogale_mareeba:
+    common_name: Petrogale_mareeba
+    conservation: UK
+  Petrogale_penicillata:
+    common_name: Petrogale_penicillata
+    conservation: UK
+  Petrogale_persephone:
+    common_name: Petrogale_persephone
+    conservation: UK
+  Petrogale_purpureicollis:
+    common_name: Petrogale_purpureicollis
+    conservation: UK
+  Petrogale_rothschildi:
+    common_name: Petrogale_rothschildi
+    conservation: UK
+  Petrogale_sharmani:
+    common_name: Petrogale_sharmani
+    conservation: UK
+  Petrogale_wilkinsi:
+    common_name: Petrogale_wilkinsi
+    conservation: UK
+  Petrogale_xanthopus:
+    common_name: Petrogale_xanthopus
+    conservation: UK
 ---
-
 # Petrogale
 
 Genus containing 18 species.

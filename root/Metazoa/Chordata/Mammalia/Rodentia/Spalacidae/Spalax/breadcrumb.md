@@ -1,76 +1,49 @@
 ---
-title: "Spalax"
-description: "Genus containing 10 species."
-category: "taxonomy/genus"
-tags: ["spalax", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cannomys/breadcrumb.md", "../Eospalax/breadcrumb.md", "../Myospalax/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10062
-parent: "../breadcrumb.md"
+title: Spalax
+description: Genus containing 10 species.
+category: taxonomy/genus
+tags: [spalax, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cannomys/breadcrumb.md, ../Eospalax/breadcrumb.md, ../Myospalax/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 10
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Spalax_antiquus.cs"
-    name: "Spalax antiquus"
-    common_name: "Spalax_antiquus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Spalax_arenarius.cs"
-    name: "Spalax arenarius"
-    common_name: "Spalax_arenarius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Spalax_carmeli.cs"
-    name: "Spalax carmeli"
-    common_name: "Spalax_carmeli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Spalax_giganteus.cs"
-    name: "Spalax giganteus"
-    common_name: "Spalax_giganteus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Spalax_graecus.cs"
-    name: "Spalax graecus"
-    common_name: "Spalax_graecus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Spalax_istricus.cs"
-    name: "Spalax istricus"
-    common_name: "Spalax_istricus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Spalax_microphthalmus.cs"
-    name: "Spalax microphthalmus"
-    common_name: "Spalax_microphthalmus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Spalax_sp_MMS_2006.cs"
-    name: "Spalax sp. MMS-2006"
-    common_name: "Spalax_sp_MMS_2006"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Spalax_uralensis.cs"
-    name: "Spalax uralensis"
-    common_name: "Spalax_uralensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Spalax_zemni.cs"
-    name: "Spalax zemni"
-    common_name: "Spalax_zemni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Spalax_antiquus:
+    common_name: Spalax_antiquus
+    conservation: UK
+  Spalax_arenarius:
+    common_name: Spalax_arenarius
+    conservation: UK
+  Spalax_carmeli:
+    common_name: Spalax_carmeli
+    conservation: UK
+  Spalax_giganteus:
+    common_name: Spalax_giganteus
+    conservation: UK
+  Spalax_graecus:
+    common_name: Spalax_graecus
+    conservation: UK
+  Spalax_istricus:
+    common_name: Spalax_istricus
+    conservation: UK
+  Spalax_microphthalmus:
+    common_name: Spalax_microphthalmus
+    conservation: UK
+  Spalax_sp_MMS_2006:
+    common_name: Spalax_sp_MMS_2006
+    conservation: UK
+  Spalax_uralensis:
+    common_name: Spalax_uralensis
+    conservation: UK
+  Spalax_zemni:
+    common_name: Spalax_zemni
+    conservation: UK
 ---
-
 # Spalax
 
 Genus containing 10 species.

@@ -1,121 +1,76 @@
 ---
-title: "Trachypithecus"
-description: "Genus containing 19 species."
-category: "taxonomy/genus"
-tags: ["trachypithecus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allenopithecus/breadcrumb.md", "../Allochrocebus/breadcrumb.md", "../Cercocebus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 54136
-parent: "../breadcrumb.md"
+title: Trachypithecus
+description: Genus containing 19 species.
+category: taxonomy/genus
+tags: [trachypithecus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allenopithecus/breadcrumb.md, ../Allochrocebus/breadcrumb.md, ../Cercocebus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 19
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Trachypithecus_auratus.cs"
-    name: "Trachypithecus auratus"
-    common_name: "Trachypithecus_auratus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_barbei.cs"
-    name: "Trachypithecus barbei"
-    common_name: "Trachypithecus_barbei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_cristatus.cs"
-    name: "Trachypithecus cristatus"
-    common_name: "Trachypithecus_cristatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_delacouri.cs"
-    name: "Trachypithecus delacouri"
-    common_name: "Trachypithecus_delacouri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_francoisi.cs"
-    name: "Trachypithecus francoisi"
-    common_name: "Trachypithecus_francoisi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_francoisi_x_poliocephalus.cs"
-    name: "Trachypithecus francoisi x poliocephalus"
-    common_name: "Trachypithecus_francoisi_x_poliocephalus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_geei.cs"
-    name: "Trachypithecus geei"
-    common_name: "Trachypithecus_geei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_germaini.cs"
-    name: "Trachypithecus germaini"
-    common_name: "Trachypithecus_germaini"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_hatinhensis.cs"
-    name: "Trachypithecus hatinhensis"
-    common_name: "Trachypithecus_hatinhensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_johnii.cs"
-    name: "Trachypithecus johnii"
-    common_name: "Trachypithecus_johnii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_laotum.cs"
-    name: "Trachypithecus laotum"
-    common_name: "Trachypithecus_laotum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_mauritius.cs"
-    name: "Trachypithecus mauritius"
-    common_name: "Trachypithecus_mauritius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_obscurus.cs"
-    name: "Trachypithecus obscurus"
-    common_name: "Trachypithecus_obscurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_phayrei.cs"
-    name: "Trachypithecus phayrei"
-    common_name: "Trachypithecus_phayrei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_pileatus.cs"
-    name: "Trachypithecus pileatus"
-    common_name: "Trachypithecus_pileatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_poliocephalus.cs"
-    name: "Trachypithecus poliocephalus"
-    common_name: "Trachypithecus_poliocephalus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_shortridgei.cs"
-    name: "Trachypithecus shortridgei"
-    common_name: "Trachypithecus_shortridgei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_sp.cs"
-    name: "Trachypithecus sp."
-    common_name: "Trachypithecus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trachypithecus_vetulus.cs"
-    name: "Trachypithecus vetulus"
-    common_name: "Trachypithecus_vetulus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Trachypithecus_auratus:
+    common_name: Trachypithecus_auratus
+    conservation: UK
+  Trachypithecus_barbei:
+    common_name: Trachypithecus_barbei
+    conservation: UK
+  Trachypithecus_cristatus:
+    common_name: Trachypithecus_cristatus
+    conservation: UK
+  Trachypithecus_delacouri:
+    common_name: Trachypithecus_delacouri
+    conservation: UK
+  Trachypithecus_francoisi:
+    common_name: Trachypithecus_francoisi
+    conservation: UK
+  Trachypithecus_francoisi_x_poliocephalus:
+    common_name: Trachypithecus_francoisi_x_poliocephalus
+    conservation: UK
+  Trachypithecus_geei:
+    common_name: Trachypithecus_geei
+    conservation: UK
+  Trachypithecus_germaini:
+    common_name: Trachypithecus_germaini
+    conservation: UK
+  Trachypithecus_hatinhensis:
+    common_name: Trachypithecus_hatinhensis
+    conservation: UK
+  Trachypithecus_johnii:
+    common_name: Trachypithecus_johnii
+    conservation: UK
+  Trachypithecus_laotum:
+    common_name: Trachypithecus_laotum
+    conservation: UK
+  Trachypithecus_mauritius:
+    common_name: Trachypithecus_mauritius
+    conservation: UK
+  Trachypithecus_obscurus:
+    common_name: Trachypithecus_obscurus
+    conservation: UK
+  Trachypithecus_phayrei:
+    common_name: Trachypithecus_phayrei
+    conservation: UK
+  Trachypithecus_pileatus:
+    common_name: Trachypithecus_pileatus
+    conservation: UK
+  Trachypithecus_poliocephalus:
+    common_name: Trachypithecus_poliocephalus
+    conservation: UK
+  Trachypithecus_shortridgei:
+    common_name: Trachypithecus_shortridgei
+    conservation: UK
+  Trachypithecus_sp:
+    common_name: Trachypithecus_sp
+    conservation: UK
+  Trachypithecus_vetulus:
+    common_name: Trachypithecus_vetulus
+    conservation: UK
 ---
-
 # Trachypithecus
 
 Genus containing 19 species.

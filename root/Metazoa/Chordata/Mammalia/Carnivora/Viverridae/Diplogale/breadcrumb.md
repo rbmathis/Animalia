@@ -1,30 +1,21 @@
 ---
-title: "Diplogale"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["diplogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Arctictis/breadcrumb.md", "../Arctogalidia/breadcrumb.md", "../Chrotogale/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1198221
-parent: "../breadcrumb.md"
+title: Diplogale
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [diplogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Arctictis/breadcrumb.md, ../Arctogalidia/breadcrumb.md, ../Chrotogale/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Diplogale_hosei.cs"
-    name: "Diplogale hosei"
-    common_name: "Diplogale_hosei"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Diplogale_hosei:
+    common_name: Diplogale_hosei
+    conservation: UK
 ---
-
 # Diplogale
 
 Genus containing 1 species.

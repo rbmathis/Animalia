@@ -1,30 +1,21 @@
 ---
-title: "Notiomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["notiomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 29118
-parent: "../breadcrumb.md"
+title: Notiomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [notiomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Notiomys_edwardsii.cs"
-    name: "Notiomys edwardsii"
-    common_name: "Notiomys_edwardsii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Notiomys_edwardsii:
+    common_name: Notiomys_edwardsii
+    conservation: UK
 ---
-
 # Notiomys
 
 Genus containing 1 species.

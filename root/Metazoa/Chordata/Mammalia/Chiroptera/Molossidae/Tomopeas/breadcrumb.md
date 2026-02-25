@@ -1,30 +1,21 @@
 ---
-title: "Tomopeas"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["tomopeas", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cheiromeles/breadcrumb.md", "../Cynomops/breadcrumb.md", "../Eumops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 27631
-parent: "../breadcrumb.md"
+title: Tomopeas
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [tomopeas, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cheiromeles/breadcrumb.md, ../Cynomops/breadcrumb.md, ../Eumops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tomopeas_ravum.cs"
-    name: "Tomopeas ravum"
-    common_name: "Tomopeas_ravum"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tomopeas_ravum:
+    common_name: Tomopeas_ravum
+    conservation: UK
 ---
-
 # Tomopeas
 
 Genus containing 1 species.

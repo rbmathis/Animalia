@@ -1,101 +1,64 @@
 ---
-title: "Eumops"
-description: "Genus containing 15 species."
-category: "taxonomy/genus"
-tags: ["eumops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cheiromeles/breadcrumb.md", "../Cynomops/breadcrumb.md", "../Micronomus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 27618
-parent: "../breadcrumb.md"
+title: Eumops
+description: Genus containing 15 species.
+category: taxonomy/genus
+tags: [eumops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cheiromeles/breadcrumb.md, ../Cynomops/breadcrumb.md, ../Micronomus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 15
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Eumops_auripendulus.cs"
-    name: "Eumops auripendulus"
-    common_name: "Eumops_auripendulus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eumops_bonariensis.cs"
-    name: "Eumops bonariensis"
-    common_name: "Eumops_bonariensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eumops_chimaera.cs"
-    name: "Eumops chimaera"
-    common_name: "Eumops_chimaera"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eumops_dabbenei.cs"
-    name: "Eumops dabbenei"
-    common_name: "Eumops_dabbenei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eumops_ferox.cs"
-    name: "Eumops ferox"
-    common_name: "Eumops_ferox"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eumops_glaucinus.cs"
-    name: "Eumops glaucinus"
-    common_name: "Eumops_glaucinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eumops_hansae.cs"
-    name: "Eumops hansae"
-    common_name: "Eumops_hansae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eumops_maurus.cs"
-    name: "Eumops maurus"
-    common_name: "Eumops_maurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eumops_nanus.cs"
-    name: "Eumops nanus"
-    common_name: "Eumops_nanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eumops_patagonicus.cs"
-    name: "Eumops patagonicus"
-    common_name: "Eumops_patagonicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eumops_perotis.cs"
-    name: "Eumops perotis"
-    common_name: "Eumops_perotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eumops_sp_LMM_2014a.cs"
-    name: "Eumops sp. LMM-2014a"
-    common_name: "Eumops_sp_LMM_2014a"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eumops_sp_MMM_2008.cs"
-    name: "Eumops sp. MMM-2008"
-    common_name: "Eumops_sp_MMM_2008"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eumops_underwoodi.cs"
-    name: "Eumops underwoodi"
-    common_name: "Eumops_underwoodi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eumops_wilsoni.cs"
-    name: "Eumops wilsoni"
-    common_name: "Eumops_wilsoni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Eumops_auripendulus:
+    common_name: Eumops_auripendulus
+    conservation: UK
+  Eumops_bonariensis:
+    common_name: Eumops_bonariensis
+    conservation: UK
+  Eumops_chimaera:
+    common_name: Eumops_chimaera
+    conservation: UK
+  Eumops_dabbenei:
+    common_name: Eumops_dabbenei
+    conservation: UK
+  Eumops_ferox:
+    common_name: Eumops_ferox
+    conservation: UK
+  Eumops_glaucinus:
+    common_name: Eumops_glaucinus
+    conservation: UK
+  Eumops_hansae:
+    common_name: Eumops_hansae
+    conservation: UK
+  Eumops_maurus:
+    common_name: Eumops_maurus
+    conservation: UK
+  Eumops_nanus:
+    common_name: Eumops_nanus
+    conservation: UK
+  Eumops_patagonicus:
+    common_name: Eumops_patagonicus
+    conservation: UK
+  Eumops_perotis:
+    common_name: Eumops_perotis
+    conservation: UK
+  Eumops_sp_LMM_2014a:
+    common_name: Eumops_sp_LMM_2014a
+    conservation: UK
+  Eumops_sp_MMM_2008:
+    common_name: Eumops_sp_MMM_2008
+    conservation: UK
+  Eumops_underwoodi:
+    common_name: Eumops_underwoodi
+    conservation: UK
+  Eumops_wilsoni:
+    common_name: Eumops_wilsoni
+    conservation: UK
 ---
-
 # Eumops
 
 Genus containing 15 species.

@@ -1,115 +1,72 @@
 ---
-title: "Tamias"
-description: "Genus containing 18 species."
-category: "taxonomy/genus"
-tags: ["tamias", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 13712
-parent: "../breadcrumb.md"
+title: Tamias
+description: Genus containing 18 species.
+category: taxonomy/genus
+tags: [tamias, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 18
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tamias_amoenus.cs"
-    name: "Tamias amoenus"
-    common_name: "Tamias_amoenus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_amoenus_x_Tamias_ruficaudus.cs"
-    name: "Tamias amoenus x Tamias ruficaudus"
-    common_name: "Tamias_amoenus_x_Tamias_ruficaudus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_canipes.cs"
-    name: "Tamias canipes"
-    common_name: "Tamias_canipes"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_dorsalis.cs"
-    name: "Tamias dorsalis"
-    common_name: "Tamias_dorsalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_merriami.cs"
-    name: "Tamias merriami"
-    common_name: "Tamias_merriami"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_minimus.cs"
-    name: "Tamias minimus"
-    common_name: "Tamias_minimus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_obscurus.cs"
-    name: "Tamias obscurus"
-    common_name: "Tamias_obscurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_palmeri.cs"
-    name: "Tamias palmeri"
-    common_name: "Tamias_palmeri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_quadrimaculatus.cs"
-    name: "Tamias quadrimaculatus"
-    common_name: "Tamias_quadrimaculatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_quadrivittatus.cs"
-    name: "Tamias quadrivittatus"
-    common_name: "Tamias_quadrivittatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_rufus.cs"
-    name: "Tamias rufus"
-    common_name: "Tamias_rufus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_senex.cs"
-    name: "Tamias senex"
-    common_name: "Tamias_senex"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_sibiricus.cs"
-    name: "Tamias sibiricus"
-    common_name: "Tamias_sibiricus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_sonomae.cs"
-    name: "Tamias sonomae"
-    common_name: "Tamias_sonomae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_speciosus.cs"
-    name: "Tamias speciosus"
-    common_name: "Tamias_speciosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_striatus.cs"
-    name: "Tamias striatus"
-    common_name: "Tamias_striatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_townsendii.cs"
-    name: "Tamias townsendii"
-    common_name: "Tamias_townsendii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamias_umbrinus.cs"
-    name: "Tamias umbrinus"
-    common_name: "Tamias_umbrinus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tamias_amoenus:
+    common_name: Tamias_amoenus
+    conservation: UK
+  Tamias_amoenus_x_Tamias_ruficaudus:
+    common_name: Tamias_amoenus_x_Tamias_ruficaudus
+    conservation: UK
+  Tamias_canipes:
+    common_name: Tamias_canipes
+    conservation: UK
+  Tamias_dorsalis:
+    common_name: Tamias_dorsalis
+    conservation: UK
+  Tamias_merriami:
+    common_name: Tamias_merriami
+    conservation: UK
+  Tamias_minimus:
+    common_name: Tamias_minimus
+    conservation: UK
+  Tamias_obscurus:
+    common_name: Tamias_obscurus
+    conservation: UK
+  Tamias_palmeri:
+    common_name: Tamias_palmeri
+    conservation: UK
+  Tamias_quadrimaculatus:
+    common_name: Tamias_quadrimaculatus
+    conservation: UK
+  Tamias_quadrivittatus:
+    common_name: Tamias_quadrivittatus
+    conservation: UK
+  Tamias_rufus:
+    common_name: Tamias_rufus
+    conservation: UK
+  Tamias_senex:
+    common_name: Tamias_senex
+    conservation: UK
+  Tamias_sibiricus:
+    common_name: Tamias_sibiricus
+    conservation: UK
+  Tamias_sonomae:
+    common_name: Tamias_sonomae
+    conservation: UK
+  Tamias_speciosus:
+    common_name: Tamias_speciosus
+    conservation: UK
+  Tamias_striatus:
+    common_name: Tamias_striatus
+    conservation: UK
+  Tamias_townsendii:
+    common_name: Tamias_townsendii
+    conservation: UK
+  Tamias_umbrinus:
+    common_name: Tamias_umbrinus
+    conservation: UK
 ---
-
 # Tamias
 
 Genus containing 18 species.

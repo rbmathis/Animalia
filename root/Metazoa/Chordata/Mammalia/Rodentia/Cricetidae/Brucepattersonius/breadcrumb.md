@@ -1,45 +1,30 @@
 ---
-title: "Brucepattersonius"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["brucepattersonius", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 241098
-parent: "../breadcrumb.md"
+title: Brucepattersonius
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [brucepattersonius, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Brucepattersonius_griserufescens.cs"
-    name: "Brucepattersonius griserufescens"
-    common_name: "Brucepattersonius_griserufescens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Brucepattersonius_igniventris.cs"
-    name: "Brucepattersonius igniventris"
-    common_name: "Brucepattersonius_igniventris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Brucepattersonius_nebulosus.cs"
-    name: "Brucepattersonius nebulosus"
-    common_name: "Brucepattersonius_nebulosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Brucepattersonius_soricinus.cs"
-    name: "Brucepattersonius soricinus"
-    common_name: "Brucepattersonius_soricinus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Brucepattersonius_griserufescens:
+    common_name: Brucepattersonius_griserufescens
+    conservation: UK
+  Brucepattersonius_igniventris:
+    common_name: Brucepattersonius_igniventris
+    conservation: UK
+  Brucepattersonius_nebulosus:
+    common_name: Brucepattersonius_nebulosus
+    conservation: UK
+  Brucepattersonius_soricinus:
+    common_name: Brucepattersonius_soricinus
+    conservation: UK
 ---
-
 # Brucepattersonius
 
 Genus containing 4 species.

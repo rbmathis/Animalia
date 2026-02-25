@@ -1,38 +1,19 @@
 ---
-title: "Tupaiidae"
-description: "Family containing 6 genera."
-category: "taxonomy/family"
-tags: ["tupaiidae", "family"]
-status: "Living"
-updated: "2026-02-23"
+title: Tupaiidae
+description: Family containing 6 genera.
+category: taxonomy/family
+tags: [tupaiidae, family]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9393
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 6
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Anathana/breadcrumb.md"
-    name: "Anathana"
-  - path: "Dendrogale/breadcrumb.md"
-    name: "Dendrogale"
-  - path: "Ptilocercus/breadcrumb.md"
-    name: "Ptilocercus"
-  - path: "Tupaia/breadcrumb.md"
-    name: "Tupaia"
-  - path: "unclassified_Tupaiidae/breadcrumb.md"
-    name: "unclassified_Tupaiidae"
-  - path: "Urogale/breadcrumb.md"
-    name: "Urogale"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Anathana, Dendrogale, Ptilocercus, Tupaia, unclassified_Tupaiidae, Urogale]
 ---
-
 # Tupaiidae
 
 Family containing 6 genera.

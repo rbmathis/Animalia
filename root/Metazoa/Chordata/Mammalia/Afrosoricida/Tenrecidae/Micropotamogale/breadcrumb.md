@@ -1,35 +1,24 @@
 ---
-title: "Micropotamogale"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["micropotamogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Echinops/breadcrumb.md", "../Geogale/breadcrumb.md", "../Hemicentetes/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 105688
-parent: "../breadcrumb.md"
+title: Micropotamogale
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [micropotamogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Echinops/breadcrumb.md, ../Geogale/breadcrumb.md, ../Hemicentetes/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Micropotamogale_lamottei.cs"
-    name: "Micropotamogale lamottei"
-    common_name: "Micropotamogale_lamottei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Micropotamogale_ruwenzorii.cs"
-    name: "Micropotamogale ruwenzorii"
-    common_name: "Micropotamogale_ruwenzorii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Micropotamogale_lamottei:
+    common_name: Micropotamogale_lamottei
+    conservation: UK
+  Micropotamogale_ruwenzorii:
+    common_name: Micropotamogale_ruwenzorii
+    conservation: UK
 ---
-
 # Micropotamogale
 
 Genus containing 2 species.

@@ -1,30 +1,21 @@
 ---
-title: "Elasmotherium"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["elasmotherium", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ceratotherium/breadcrumb.md", "../Coelodonta/breadcrumb.md", "../Dicerorhinus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2491730
-parent: "../breadcrumb.md"
+title: Elasmotherium
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [elasmotherium, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ceratotherium/breadcrumb.md, ../Coelodonta/breadcrumb.md, ../Dicerorhinus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Elasmotherium_sibiricum.cs"
-    name: "Elasmotherium sibiricum"
-    common_name: "Elasmotherium_sibiricum"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Elasmotherium_sibiricum:
+    common_name: Elasmotherium_sibiricum
+    conservation: UK
 ---
-
 # Elasmotherium
 
 Genus containing 1 species.

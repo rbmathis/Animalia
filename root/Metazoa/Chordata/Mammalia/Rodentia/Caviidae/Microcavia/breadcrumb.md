@@ -1,50 +1,33 @@
 ---
-title: "Microcavia"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["microcavia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cavia/breadcrumb.md", "../Dolichotis/breadcrumb.md", "../Galea/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 181540
-parent: "../breadcrumb.md"
+title: Microcavia
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [microcavia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cavia/breadcrumb.md, ../Dolichotis/breadcrumb.md, ../Galea/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Microcavia_australis.cs"
-    name: "Microcavia australis"
-    common_name: "Microcavia_australis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Microcavia_jayat.cs"
-    name: "Microcavia jayat"
-    common_name: "Microcavia_jayat"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Microcavia_maenas.cs"
-    name: "Microcavia maenas"
-    common_name: "Microcavia_maenas"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Microcavia_niata.cs"
-    name: "Microcavia niata"
-    common_name: "Microcavia_niata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Microcavia_shiptoni.cs"
-    name: "Microcavia shiptoni"
-    common_name: "Microcavia_shiptoni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Microcavia_australis:
+    common_name: Microcavia_australis
+    conservation: UK
+  Microcavia_jayat:
+    common_name: Microcavia_jayat
+    conservation: UK
+  Microcavia_maenas:
+    common_name: Microcavia_maenas
+    conservation: UK
+  Microcavia_niata:
+    common_name: Microcavia_niata
+    conservation: UK
+  Microcavia_shiptoni:
+    common_name: Microcavia_shiptoni
+    conservation: UK
 ---
-
 # Microcavia
 
 Genus containing 5 species.

@@ -1,30 +1,21 @@
 ---
-title: "Felovia"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["felovia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ctenodactylus/breadcrumb.md", "../Massoutiera/breadcrumb.md", "../Pectinator/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1654793
-parent: "../breadcrumb.md"
+title: Felovia
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [felovia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ctenodactylus/breadcrumb.md, ../Massoutiera/breadcrumb.md, ../Pectinator/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Felovia_vae.cs"
-    name: "Felovia vae"
-    common_name: "Felovia_vae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Felovia_vae:
+    common_name: Felovia_vae
+    conservation: UK
 ---
-
 # Felovia
 
 Genus containing 1 species.

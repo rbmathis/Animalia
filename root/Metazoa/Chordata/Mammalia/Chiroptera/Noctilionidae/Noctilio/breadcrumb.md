@@ -1,45 +1,30 @@
 ---
-title: "Noctilio"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["noctilio", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Noctilio
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [noctilio, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 94958
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Noctilio_albiventris.cs"
-    name: "Noctilio albiventris"
-    common_name: "Noctilio_albiventris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Noctilio_albiventris_PS1.cs"
-    name: "Noctilio albiventris PS1"
-    common_name: "Noctilio_albiventris_PS1"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Noctilio_albiventris_PS2.cs"
-    name: "Noctilio albiventris PS2"
-    common_name: "Noctilio_albiventris_PS2"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Noctilio_leporinus.cs"
-    name: "Noctilio leporinus"
-    common_name: "Noctilio_leporinus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Noctilio_albiventris:
+    common_name: Noctilio_albiventris
+    conservation: UK
+  Noctilio_albiventris_PS1:
+    common_name: Noctilio_albiventris_PS1
+    conservation: UK
+  Noctilio_albiventris_PS2:
+    common_name: Noctilio_albiventris_PS2
+    conservation: UK
+  Noctilio_leporinus:
+    common_name: Noctilio_leporinus
+    conservation: UK
 ---
-
 # Noctilio
 
 Genus containing 4 species.

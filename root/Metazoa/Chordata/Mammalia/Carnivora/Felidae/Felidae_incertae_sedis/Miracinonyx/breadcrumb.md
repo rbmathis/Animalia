@@ -1,30 +1,21 @@
 ---
-title: "Miracinonyx"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["miracinonyx", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Homotherium/breadcrumb.md", "../Smilodon/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 339611
-parent: "../breadcrumb.md"
+title: Miracinonyx
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [miracinonyx, genus]
+status: Living
+updated: 2026-02-23
+related: [../Homotherium/breadcrumb.md, ../Smilodon/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Miracinonyx_trumani.cs"
-    name: "Miracinonyx trumani"
-    common_name: "Miracinonyx_trumani"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Miracinonyx_trumani:
+    common_name: Miracinonyx_trumani
+    conservation: UK
 ---
-
 # Miracinonyx
 
 Genus containing 1 species.

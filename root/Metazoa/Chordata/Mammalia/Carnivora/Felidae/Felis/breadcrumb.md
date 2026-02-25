@@ -1,72 +1,47 @@
 ---
-title: "Felis"
-description: "Genus containing 9 species."
-category: "taxonomy/genus"
-tags: ["felis", "genus", "has-pets"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acinonyx/breadcrumb.md", "../Caracal/breadcrumb.md", "../Catopuma/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9682
-parent: "../breadcrumb.md"
+title: Felis
+description: Genus containing 9 species.
+category: taxonomy/genus
+tags: [felis, genus, has-pets]
+status: Living
+updated: 2026-02-23
+related: [../Acinonyx/breadcrumb.md, ../Caracal/breadcrumb.md, ../Catopuma/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 9
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Felis_catus.cs"
-    name: "Felis catus"
-    common_name: "Felis_catus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Felis_catus:
+    common_name: Felis_catus
+    conservation: UK
     pet: true
-  - file: "Felis_chaus.cs"
-    name: "Felis chaus"
-    common_name: "Felis_chaus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Felis_chaus_x_Felis_catus.cs"
-    name: "Felis chaus x Felis catus"
-    common_name: "Felis_chaus_x_Felis_catus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Felis_environmental_sample.cs"
-    name: "Felis environmental sample"
-    common_name: "Felis_environmental_sample"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Felis_margarita.cs"
-    name: "Felis margarita"
-    common_name: "Felis_margarita"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Felis_nigripes.cs"
-    name: "Felis nigripes"
-    common_name: "Felis_nigripes"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Felis_silvestris.cs"
-    name: "Felis silvestris"
-    common_name: "Felis_silvestris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Felis_sp.cs"
-    name: "Felis sp."
-    common_name: "Felis_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Felis_sp_NG192.cs"
-    name: "Felis sp. NG192"
-    common_name: "Felis_sp_NG192"
-    conservation: "Unknown"
-    enriched: false
+  Felis_chaus:
+    common_name: Felis_chaus
+    conservation: UK
+  Felis_chaus_x_Felis_catus:
+    common_name: Felis_chaus_x_Felis_catus
+    conservation: UK
+  Felis_environmental_sample:
+    common_name: Felis_environmental_sample
+    conservation: UK
+  Felis_margarita:
+    common_name: Felis_margarita
+    conservation: UK
+  Felis_nigripes:
+    common_name: Felis_nigripes
+    conservation: UK
+  Felis_silvestris:
+    common_name: Felis_silvestris
+    conservation: UK
+  Felis_sp:
+    common_name: Felis_sp
+    conservation: UK
+  Felis_sp_NG192:
+    common_name: Felis_sp_NG192
+    conservation: UK
 ---
-
 # Felis
 
 Genus containing 9 species.

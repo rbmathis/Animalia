@@ -1,86 +1,55 @@
 ---
-title: "Tragelaphus"
-description: "Genus containing 12 species."
-category: "taxonomy/genus"
-tags: ["tragelaphus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9944
-parent: "../breadcrumb.md"
+title: Tragelaphus
+description: Genus containing 12 species.
+category: taxonomy/genus
+tags: [tragelaphus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 12
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tragelaphus_angasii.cs"
-    name: "Tragelaphus angasii"
-    common_name: "Tragelaphus_angasii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tragelaphus_buxtoni.cs"
-    name: "Tragelaphus buxtoni"
-    common_name: "Tragelaphus_buxtoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tragelaphus_environmental_sample.cs"
-    name: "Tragelaphus environmental sample"
-    common_name: "Tragelaphus_environmental_sample"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tragelaphus_eurycerus.cs"
-    name: "Tragelaphus eurycerus"
-    common_name: "Tragelaphus_eurycerus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tragelaphus_imberbis.cs"
-    name: "Tragelaphus imberbis"
-    common_name: "Tragelaphus_imberbis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tragelaphus_oryx.cs"
-    name: "Tragelaphus oryx"
-    common_name: "Tragelaphus_oryx"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tragelaphus_scriptus.cs"
-    name: "Tragelaphus scriptus"
-    common_name: "Tragelaphus_scriptus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tragelaphus_sp_AVB_2011.cs"
-    name: "Tragelaphus sp. AVB-2011"
-    common_name: "Tragelaphus_sp_AVB_2011"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tragelaphus_sp_BM_2017.cs"
-    name: "Tragelaphus sp. BM-2017"
-    common_name: "Tragelaphus_sp_BM_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tragelaphus_sp_BM_2020.cs"
-    name: "Tragelaphus sp. BM-2020"
-    common_name: "Tragelaphus_sp_BM_2020"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tragelaphus_spekii.cs"
-    name: "Tragelaphus spekii"
-    common_name: "Tragelaphus_spekii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tragelaphus_strepsiceros.cs"
-    name: "Tragelaphus strepsiceros"
-    common_name: "Tragelaphus_strepsiceros"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tragelaphus_angasii:
+    common_name: Tragelaphus_angasii
+    conservation: UK
+  Tragelaphus_buxtoni:
+    common_name: Tragelaphus_buxtoni
+    conservation: UK
+  Tragelaphus_environmental_sample:
+    common_name: Tragelaphus_environmental_sample
+    conservation: UK
+  Tragelaphus_eurycerus:
+    common_name: Tragelaphus_eurycerus
+    conservation: UK
+  Tragelaphus_imberbis:
+    common_name: Tragelaphus_imberbis
+    conservation: UK
+  Tragelaphus_oryx:
+    common_name: Tragelaphus_oryx
+    conservation: UK
+  Tragelaphus_scriptus:
+    common_name: Tragelaphus_scriptus
+    conservation: UK
+  Tragelaphus_sp_AVB_2011:
+    common_name: Tragelaphus_sp_AVB_2011
+    conservation: UK
+  Tragelaphus_sp_BM_2017:
+    common_name: Tragelaphus_sp_BM_2017
+    conservation: UK
+  Tragelaphus_sp_BM_2020:
+    common_name: Tragelaphus_sp_BM_2020
+    conservation: UK
+  Tragelaphus_spekii:
+    common_name: Tragelaphus_spekii
+    conservation: UK
+  Tragelaphus_strepsiceros:
+    common_name: Tragelaphus_strepsiceros
+    conservation: UK
 ---
-
 # Tragelaphus
 
 Genus containing 12 species.

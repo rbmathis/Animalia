@@ -1,30 +1,21 @@
 ---
-title: "Palawanosorex"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["palawanosorex", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2591605
-parent: "../breadcrumb.md"
+title: Palawanosorex
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [palawanosorex, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Palawanosorex_muscorum.cs"
-    name: "Palawanosorex muscorum"
-    common_name: "Palawanosorex_muscorum"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Palawanosorex_muscorum:
+    common_name: Palawanosorex_muscorum
+    conservation: UK
 ---
-
 # Palawanosorex
 
 Genus containing 1 species.

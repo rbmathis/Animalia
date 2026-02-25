@@ -1,46 +1,31 @@
 ---
-title: "Hadrosciurus"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["hadrosciurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2749099
-parent: "../breadcrumb.md"
+title: Hadrosciurus
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [hadrosciurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hadrosciurus_igniventris.cs"
-    name: "Hadrosciurus igniventris"
-    common_name: "Hadrosciurus_igniventris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hadrosciurus_pyrrhinus.cs"
-    name: "Hadrosciurus pyrrhinus"
-    common_name: "Hadrosciurus_pyrrhinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hadrosciurus_sp_3_EFA_2022.cs"
-    name: "Hadrosciurus sp. 3 EFA-2022"
-    common_name: "Hadrosciurus_sp_3_EFA_2022"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hadrosciurus_spadiceus.cs"
-    name: "Hadrosciurus spadiceus"
-    common_name: "Hadrosciurus_spadiceus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hadrosciurus_igniventris:
+    common_name: Hadrosciurus_igniventris
+    conservation: UK
+  Hadrosciurus_pyrrhinus:
+    common_name: Hadrosciurus_pyrrhinus
+    conservation: UK
+  Hadrosciurus_sp_3_EFA_2022:
+    common_name: Hadrosciurus_sp_3_EFA_2022
+    conservation: UK
+  Hadrosciurus_spadiceus:
+    common_name: Hadrosciurus_spadiceus
+    conservation: UK
 ---
-
 # Hadrosciurus
 
 Genus containing 4 species.

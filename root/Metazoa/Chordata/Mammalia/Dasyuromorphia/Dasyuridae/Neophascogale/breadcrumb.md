@@ -1,30 +1,21 @@
 ---
-title: "Neophascogale"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["neophascogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antechinomys/breadcrumb.md", "../Antechinus/breadcrumb.md", "../Dasycercus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 32550
-parent: "../breadcrumb.md"
+title: Neophascogale
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [neophascogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Antechinomys/breadcrumb.md, ../Antechinus/breadcrumb.md, ../Dasycercus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Neophascogale_lorentzii.cs"
-    name: "Neophascogale lorentzii"
-    common_name: "Neophascogale_lorentzii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Neophascogale_lorentzii:
+    common_name: Neophascogale_lorentzii
+    conservation: UK
 ---
-
 # Neophascogale
 
 Genus containing 1 species.

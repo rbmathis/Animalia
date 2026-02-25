@@ -1,45 +1,30 @@
 ---
-title: "Pronolagus"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["pronolagus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Brachylagus/breadcrumb.md", "../Bunolagus/breadcrumb.md", "../Caprolagus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 42058
-parent: "../breadcrumb.md"
+title: Pronolagus
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [pronolagus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Brachylagus/breadcrumb.md, ../Bunolagus/breadcrumb.md, ../Caprolagus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pronolagus_crassicaudatus.cs"
-    name: "Pronolagus crassicaudatus"
-    common_name: "Pronolagus_crassicaudatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pronolagus_randensis.cs"
-    name: "Pronolagus randensis"
-    common_name: "Pronolagus_randensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pronolagus_rupestris.cs"
-    name: "Pronolagus rupestris"
-    common_name: "Pronolagus_rupestris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pronolagus_saundersiae.cs"
-    name: "Pronolagus saundersiae"
-    common_name: "Pronolagus_saundersiae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pronolagus_crassicaudatus:
+    common_name: Pronolagus_crassicaudatus
+    conservation: UK
+  Pronolagus_randensis:
+    common_name: Pronolagus_randensis
+    conservation: UK
+  Pronolagus_rupestris:
+    common_name: Pronolagus_rupestris
+    conservation: UK
+  Pronolagus_saundersiae:
+    common_name: Pronolagus_saundersiae
+    conservation: UK
 ---
-
 # Pronolagus
 
 Genus containing 4 species.

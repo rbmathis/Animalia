@@ -1,65 +1,42 @@
 ---
-title: "Lonchophylla"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["lonchophylla", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 138704
-parent: "../breadcrumb.md"
+title: Lonchophylla
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [lonchophylla, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lonchophylla_chocoana.cs"
-    name: "Lonchophylla chocoana"
-    common_name: "Lonchophylla_chocoana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lonchophylla_concava.cs"
-    name: "Lonchophylla concava"
-    common_name: "Lonchophylla_concava"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lonchophylla_dekeyseri.cs"
-    name: "Lonchophylla dekeyseri"
-    common_name: "Lonchophylla_dekeyseri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lonchophylla_handleyi.cs"
-    name: "Lonchophylla handleyi"
-    common_name: "Lonchophylla_handleyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lonchophylla_hesperia.cs"
-    name: "Lonchophylla hesperia"
-    common_name: "Lonchophylla_hesperia"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lonchophylla_mordax.cs"
-    name: "Lonchophylla mordax"
-    common_name: "Lonchophylla_mordax"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lonchophylla_orienticollina.cs"
-    name: "Lonchophylla orienticollina"
-    common_name: "Lonchophylla_orienticollina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lonchophylla_robusta.cs"
-    name: "Lonchophylla robusta"
-    common_name: "Lonchophylla_robusta"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lonchophylla_chocoana:
+    common_name: Lonchophylla_chocoana
+    conservation: UK
+  Lonchophylla_concava:
+    common_name: Lonchophylla_concava
+    conservation: UK
+  Lonchophylla_dekeyseri:
+    common_name: Lonchophylla_dekeyseri
+    conservation: UK
+  Lonchophylla_handleyi:
+    common_name: Lonchophylla_handleyi
+    conservation: UK
+  Lonchophylla_hesperia:
+    common_name: Lonchophylla_hesperia
+    conservation: UK
+  Lonchophylla_mordax:
+    common_name: Lonchophylla_mordax
+    conservation: UK
+  Lonchophylla_orienticollina:
+    common_name: Lonchophylla_orienticollina
+    conservation: UK
+  Lonchophylla_robusta:
+    common_name: Lonchophylla_robusta
+    conservation: UK
 ---
-
 # Lonchophylla
 
 Genus containing 8 species.

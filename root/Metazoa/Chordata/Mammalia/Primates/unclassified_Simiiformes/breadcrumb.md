@@ -1,23 +1,20 @@
 ---
-title: "unclassified_Simiiformes"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["unclassified_simiiformes", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aotidae/breadcrumb.md", "../Atelidae/breadcrumb.md", "../Cebidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-parent: "../breadcrumb.md"
+title: unclassified_Simiiformes
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [unclassified_simiiformes, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aotidae/breadcrumb.md, ../Atelidae/breadcrumb.md, ../Cebidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-species:
-  - file: "Simiiformes_sp.cs"
-    name: "Simiiformes sp."
-    common_name: "Simiiformes_sp"
-    conservation: "Unknown"
-    enriched: false
+species_data:
+  Simiiformes_sp:
+    common_name: Simiiformes_sp
+    conservation: UK
 ---
-
 # unclassified_Simiiformes
 
 Genus containing 1 species.

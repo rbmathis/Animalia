@@ -1,30 +1,21 @@
 ---
-title: "Balionycteris"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["balionycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 77228
-parent: "../breadcrumb.md"
+title: Balionycteris
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [balionycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Balionycteris_maculata.cs"
-    name: "Balionycteris maculata"
-    common_name: "Balionycteris_maculata"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Balionycteris_maculata:
+    common_name: Balionycteris_maculata
+    conservation: UK
 ---
-
 # Balionycteris
 
 Genus containing 1 species.

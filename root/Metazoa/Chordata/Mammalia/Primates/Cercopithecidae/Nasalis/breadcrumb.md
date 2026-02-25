@@ -1,30 +1,21 @@
 ---
-title: "Nasalis"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["nasalis", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allenopithecus/breadcrumb.md", "../Allochrocebus/breadcrumb.md", "../Cercocebus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 43779
-parent: "../breadcrumb.md"
+title: Nasalis
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [nasalis, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allenopithecus/breadcrumb.md, ../Allochrocebus/breadcrumb.md, ../Cercocebus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Nasalis_larvatus.cs"
-    name: "Nasalis larvatus"
-    common_name: "Nasalis_larvatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Nasalis_larvatus:
+    common_name: Nasalis_larvatus
+    conservation: UK
 ---
-
 # Nasalis
 
 Genus containing 1 species.

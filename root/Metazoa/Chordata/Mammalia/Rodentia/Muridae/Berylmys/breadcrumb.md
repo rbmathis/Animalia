@@ -1,61 +1,40 @@
 ---
-title: "Berylmys"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["berylmys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 83758
-parent: "../breadcrumb.md"
+title: Berylmys
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [berylmys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Berylmys_berdmorei.cs"
-    name: "Berylmys berdmorei"
-    common_name: "Berylmys_berdmorei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Berylmys_bowersi.cs"
-    name: "Berylmys bowersi"
-    common_name: "Berylmys_bowersi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Berylmys_latouchei.cs"
-    name: "Berylmys latouchei"
-    common_name: "Berylmys_latouchei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Berylmys_mackenziei.cs"
-    name: "Berylmys mackenziei"
-    common_name: "Berylmys_mackenziei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Berylmys_manipulus.cs"
-    name: "Berylmys manipulus"
-    common_name: "Berylmys_manipulus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Berylmys_sp_AEB_2014.cs"
-    name: "Berylmys sp. AEB-2014"
-    common_name: "Berylmys_sp_AEB_2014"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Berylmys_sp_Be2b_MP_2010.cs"
-    name: "Berylmys sp. Be2b MP-2010"
-    common_name: "Berylmys_sp_Be2b_MP_2010"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Berylmys_berdmorei:
+    common_name: Berylmys_berdmorei
+    conservation: UK
+  Berylmys_bowersi:
+    common_name: Berylmys_bowersi
+    conservation: UK
+  Berylmys_latouchei:
+    common_name: Berylmys_latouchei
+    conservation: UK
+  Berylmys_mackenziei:
+    common_name: Berylmys_mackenziei
+    conservation: UK
+  Berylmys_manipulus:
+    common_name: Berylmys_manipulus
+    conservation: UK
+  Berylmys_sp_AEB_2014:
+    common_name: Berylmys_sp_AEB_2014
+    conservation: UK
+  Berylmys_sp_Be2b_MP_2010:
+    common_name: Berylmys_sp_Be2b_MP_2010
+    conservation: UK
 ---
-
 # Berylmys
 
 Genus containing 7 species.

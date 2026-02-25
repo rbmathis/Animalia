@@ -1,45 +1,30 @@
 ---
-title: "Cercartetus"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["cercartetus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Burramys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 38601
-parent: "../breadcrumb.md"
+title: Cercartetus
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [cercartetus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Burramys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cercartetus_caudatus.cs"
-    name: "Cercartetus caudatus"
-    common_name: "Cercartetus_caudatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cercartetus_concinnus.cs"
-    name: "Cercartetus concinnus"
-    common_name: "Cercartetus_concinnus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cercartetus_lepidus.cs"
-    name: "Cercartetus lepidus"
-    common_name: "Cercartetus_lepidus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cercartetus_nana.cs"
-    name: "Cercartetus nana"
-    common_name: "Cercartetus_nana"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cercartetus_caudatus:
+    common_name: Cercartetus_caudatus
+    conservation: UK
+  Cercartetus_concinnus:
+    common_name: Cercartetus_concinnus
+    conservation: UK
+  Cercartetus_lepidus:
+    common_name: Cercartetus_lepidus
+    conservation: UK
+  Cercartetus_nana:
+    common_name: Cercartetus_nana
+    conservation: UK
 ---
-
 # Cercartetus
 
 Genus containing 4 species.

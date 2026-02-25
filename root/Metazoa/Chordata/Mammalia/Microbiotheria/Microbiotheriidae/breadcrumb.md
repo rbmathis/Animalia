@@ -1,28 +1,19 @@
 ---
-title: "Microbiotheriidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["microbiotheriidae", "family"]
-status: "Living"
-updated: "2026-02-23"
+title: Microbiotheriidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [microbiotheriidae, family]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 30660
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Dromiciops/breadcrumb.md"
-    name: "Dromiciops"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Dromiciops]
 ---
-
 # Microbiotheriidae
 
 Family containing 1 genera.

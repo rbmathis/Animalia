@@ -1,30 +1,21 @@
 ---
-title: "Hyemoschus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["hyemoschus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Moschiola/breadcrumb.md", "../Tragulus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 666914
-parent: "../breadcrumb.md"
+title: Hyemoschus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [hyemoschus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Moschiola/breadcrumb.md, ../Tragulus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hyemoschus_aquaticus.cs"
-    name: "Hyemoschus aquaticus"
-    common_name: "Hyemoschus_aquaticus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hyemoschus_aquaticus:
+    common_name: Hyemoschus_aquaticus
+    conservation: UK
 ---
-
 # Hyemoschus
 
 Genus containing 1 species.

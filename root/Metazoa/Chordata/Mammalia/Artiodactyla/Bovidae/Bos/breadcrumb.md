@@ -1,126 +1,79 @@
 ---
-title: "Bos"
-description: "Genus containing 25 species."
-category: "taxonomy/genus"
-tags: ["bos", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9903
-parent: "../breadcrumb.md"
+title: Bos
+description: Genus containing 25 species.
+category: taxonomy/genus
+tags: [bos, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 25
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Bos_taurus_x_Bos_javanicus_x_Bos_indicus.cs"
-    name: "(Bos taurus x Bos javanicus) x Bos indicus"
-    common_name: "Bos_taurus_x_Bos_javanicus_x_Bos_indicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_frontalis.cs"
-    name: "Bos frontalis"
-    common_name: "Bos_frontalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_frontalis_x_Bos_indicus.cs"
-    name: "Bos frontalis x Bos indicus"
-    common_name: "Bos_frontalis_x_Bos_indicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_frontalis_x_Bos_taurus.cs"
-    name: "Bos frontalis x Bos taurus"
-    common_name: "Bos_frontalis_x_Bos_taurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_gaurus.cs"
-    name: "Bos gaurus"
-    common_name: "Bos_gaurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_gaurus_x_Bos_taurus.cs"
-    name: "Bos gaurus x Bos taurus"
-    common_name: "Bos_gaurus_x_Bos_taurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_grunniens.cs"
-    name: "Bos grunniens"
-    common_name: "Bos_grunniens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_grunniens_x_Bos_indicus.cs"
-    name: "Bos grunniens x Bos indicus"
-    common_name: "Bos_grunniens_x_Bos_indicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_grunniens_x_Bos_taurus.cs"
-    name: "Bos grunniens x Bos taurus"
-    common_name: "Bos_grunniens_x_Bos_taurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_indicus.cs"
-    name: "Bos indicus"
-    common_name: "Bos_indicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_indicus_x_Bos_taurus.cs"
-    name: "Bos indicus x Bos taurus"
-    common_name: "Bos_indicus_x_Bos_taurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_javanicus.cs"
-    name: "Bos javanicus"
-    common_name: "Bos_javanicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_javanicus_birmanicus_x_Bos_indicus.cs"
-    name: "Bos javanicus birmanicus x Bos indicus"
-    common_name: "Bos_javanicus_birmanicus_x_Bos_indicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_javanicus_x_Bos_indicus.cs"
-    name: "Bos javanicus x Bos indicus"
-    common_name: "Bos_javanicus_x_Bos_indicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_mutus.cs"
-    name: "Bos mutus"
-    common_name: "Bos_mutus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_mutus_x_Bos_grunniens.cs"
-    name: "Bos mutus x Bos grunniens"
-    common_name: "Bos_mutus_x_Bos_grunniens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_primigenius.cs"
-    name: "Bos primigenius"
-    common_name: "Bos_primigenius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_sauveli.cs"
-    name: "Bos sauveli"
-    common_name: "Bos_sauveli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_sp.cs"
-    name: "Bos sp."
-    common_name: "Bos_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bos_sp_20481.cs"
-    name: "Bos sp. 2048.1"
-    common_name: "Bos_sp_20481"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Bos_taurus_x_Bos_javanicus_x_Bos_indicus:
+    common_name: Bos_taurus_x_Bos_javanicus_x_Bos_indicus
+    conservation: UK
+  Bos_frontalis:
+    common_name: Bos_frontalis
+    conservation: UK
+  Bos_frontalis_x_Bos_indicus:
+    common_name: Bos_frontalis_x_Bos_indicus
+    conservation: UK
+  Bos_frontalis_x_Bos_taurus:
+    common_name: Bos_frontalis_x_Bos_taurus
+    conservation: UK
+  Bos_gaurus:
+    common_name: Bos_gaurus
+    conservation: UK
+  Bos_gaurus_x_Bos_taurus:
+    common_name: Bos_gaurus_x_Bos_taurus
+    conservation: UK
+  Bos_grunniens:
+    common_name: Bos_grunniens
+    conservation: UK
+  Bos_grunniens_x_Bos_indicus:
+    common_name: Bos_grunniens_x_Bos_indicus
+    conservation: UK
+  Bos_grunniens_x_Bos_taurus:
+    common_name: Bos_grunniens_x_Bos_taurus
+    conservation: UK
+  Bos_indicus:
+    common_name: Bos_indicus
+    conservation: UK
+  Bos_indicus_x_Bos_taurus:
+    common_name: Bos_indicus_x_Bos_taurus
+    conservation: UK
+  Bos_javanicus:
+    common_name: Bos_javanicus
+    conservation: UK
+  Bos_javanicus_birmanicus_x_Bos_indicus:
+    common_name: Bos_javanicus_birmanicus_x_Bos_indicus
+    conservation: UK
+  Bos_javanicus_x_Bos_indicus:
+    common_name: Bos_javanicus_x_Bos_indicus
+    conservation: UK
+  Bos_mutus:
+    common_name: Bos_mutus
+    conservation: UK
+  Bos_mutus_x_Bos_grunniens:
+    common_name: Bos_mutus_x_Bos_grunniens
+    conservation: UK
+  Bos_primigenius:
+    common_name: Bos_primigenius
+    conservation: UK
+  Bos_sauveli:
+    common_name: Bos_sauveli
+    conservation: UK
+  Bos_sp:
+    common_name: Bos_sp
+    conservation: UK
+  Bos_sp_20481:
+    common_name: Bos_sp_20481
+    conservation: UK
 ---
-
 # Bos
 
 Genus containing 25 species.

@@ -1,41 +1,28 @@
 ---
-title: "Mindomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["mindomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1003859
-parent: "../breadcrumb.md"
+title: Mindomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [mindomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mindomys_hammondi.cs"
-    name: "Mindomys hammondi"
-    common_name: "Mindomys_hammondi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mindomys_kutuku.cs"
-    name: "Mindomys kutuku"
-    common_name: "Mindomys_kutuku"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mindomys_sp_QCAZ_8720.cs"
-    name: "Mindomys sp. QCAZ 8720"
-    common_name: "Mindomys_sp_QCAZ_8720"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mindomys_hammondi:
+    common_name: Mindomys_hammondi
+    conservation: UK
+  Mindomys_kutuku:
+    common_name: Mindomys_kutuku
+    conservation: UK
+  Mindomys_sp_QCAZ_8720:
+    common_name: Mindomys_sp_QCAZ_8720
+    conservation: UK
 ---
-
 # Mindomys
 
 Genus containing 3 species.

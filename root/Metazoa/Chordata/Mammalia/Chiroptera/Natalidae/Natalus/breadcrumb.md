@@ -1,66 +1,43 @@
 ---
-title: "Natalus"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["natalus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Chilonatalus/breadcrumb.md", "../Nyctiellus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 59486
-parent: "../breadcrumb.md"
+title: Natalus
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [natalus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Chilonatalus/breadcrumb.md, ../Nyctiellus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Natalus_jamaicensis.cs"
-    name: "Natalus jamaicensis"
-    common_name: "Natalus_jamaicensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Natalus_macrourus.cs"
-    name: "Natalus macrourus"
-    common_name: "Natalus_macrourus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Natalus_major.cs"
-    name: "Natalus major"
-    common_name: "Natalus_major"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Natalus_mexicanus.cs"
-    name: "Natalus mexicanus"
-    common_name: "Natalus_mexicanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Natalus_saturatus.cs"
-    name: "Natalus saturatus"
-    common_name: "Natalus_saturatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Natalus_sp_LMGC_2011.cs"
-    name: "Natalus sp. LMGC-2011"
-    common_name: "Natalus_sp_LMGC_2011"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Natalus_stramineus.cs"
-    name: "Natalus stramineus"
-    common_name: "Natalus_stramineus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Natalus_tumidirostris.cs"
-    name: "Natalus tumidirostris"
-    common_name: "Natalus_tumidirostris"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Natalus_jamaicensis:
+    common_name: Natalus_jamaicensis
+    conservation: UK
+  Natalus_macrourus:
+    common_name: Natalus_macrourus
+    conservation: UK
+  Natalus_major:
+    common_name: Natalus_major
+    conservation: UK
+  Natalus_mexicanus:
+    common_name: Natalus_mexicanus
+    conservation: UK
+  Natalus_saturatus:
+    common_name: Natalus_saturatus
+    conservation: UK
+  Natalus_sp_LMGC_2011:
+    common_name: Natalus_sp_LMGC_2011
+    conservation: UK
+  Natalus_stramineus:
+    common_name: Natalus_stramineus
+    conservation: UK
+  Natalus_tumidirostris:
+    common_name: Natalus_tumidirostris
+    conservation: UK
 ---
-
 # Natalus
 
 Genus containing 8 species.

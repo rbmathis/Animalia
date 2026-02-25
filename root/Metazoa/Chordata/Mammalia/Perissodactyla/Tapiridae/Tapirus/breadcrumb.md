@@ -1,66 +1,43 @@
 ---
-title: "Tapirus"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["tapirus", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Tapirus
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [tapirus, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9800
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tapirus_bairdii.cs"
-    name: "Tapirus bairdii"
-    common_name: "Tapirus_bairdii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tapirus_indicus.cs"
-    name: "Tapirus indicus"
-    common_name: "Tapirus_indicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tapirus_kabomani.cs"
-    name: "Tapirus kabomani"
-    common_name: "Tapirus_kabomani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tapirus_pinchaque.cs"
-    name: "Tapirus pinchaque"
-    common_name: "Tapirus_pinchaque"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tapirus_sp.cs"
-    name: "Tapirus sp."
-    common_name: "Tapirus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tapirus_sp_CCS_2009a.cs"
-    name: "Tapirus sp. CCS-2009a"
-    common_name: "Tapirus_sp_CCS_2009a"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tapirus_sp_TTS_2004.cs"
-    name: "Tapirus sp. TTS-2004"
-    common_name: "Tapirus_sp_TTS_2004"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tapirus_terrestris.cs"
-    name: "Tapirus terrestris"
-    common_name: "Tapirus_terrestris"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tapirus_bairdii:
+    common_name: Tapirus_bairdii
+    conservation: UK
+  Tapirus_indicus:
+    common_name: Tapirus_indicus
+    conservation: UK
+  Tapirus_kabomani:
+    common_name: Tapirus_kabomani
+    conservation: UK
+  Tapirus_pinchaque:
+    common_name: Tapirus_pinchaque
+    conservation: UK
+  Tapirus_sp:
+    common_name: Tapirus_sp
+    conservation: UK
+  Tapirus_sp_CCS_2009a:
+    common_name: Tapirus_sp_CCS_2009a
+    conservation: UK
+  Tapirus_sp_TTS_2004:
+    common_name: Tapirus_sp_TTS_2004
+    conservation: UK
+  Tapirus_terrestris:
+    common_name: Tapirus_terrestris
+    conservation: UK
 ---
-
 # Tapirus
 
 Genus containing 8 species.

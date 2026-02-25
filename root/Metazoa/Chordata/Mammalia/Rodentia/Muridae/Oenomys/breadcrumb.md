@@ -1,35 +1,24 @@
 ---
-title: "Oenomys"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["oenomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 332667
-parent: "../breadcrumb.md"
+title: Oenomys
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [oenomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Oenomys_hypoxanthus.cs"
-    name: "Oenomys hypoxanthus"
-    common_name: "Oenomys_hypoxanthus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oenomys_ornatus.cs"
-    name: "Oenomys ornatus"
-    common_name: "Oenomys_ornatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Oenomys_hypoxanthus:
+    common_name: Oenomys_hypoxanthus
+    conservation: UK
+  Oenomys_ornatus:
+    common_name: Oenomys_ornatus
+    conservation: UK
 ---
-
 # Oenomys
 
 Genus containing 2 species.

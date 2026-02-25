@@ -1,61 +1,40 @@
 ---
-title: "Barbastella"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["barbastella", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 59448
-parent: "../breadcrumb.md"
+title: Barbastella
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [barbastella, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Barbastella_barbastellus.cs"
-    name: "Barbastella barbastellus"
-    common_name: "Barbastella_barbastellus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Barbastella_beijingensis.cs"
-    name: "Barbastella beijingensis"
-    common_name: "Barbastella_beijingensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Barbastella_caspica.cs"
-    name: "Barbastella caspica"
-    common_name: "Barbastella_caspica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Barbastella_darjelingensis.cs"
-    name: "Barbastella darjelingensis"
-    common_name: "Barbastella_darjelingensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Barbastella_leucomelas.cs"
-    name: "Barbastella leucomelas"
-    common_name: "Barbastella_leucomelas"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Barbastella_pacifica.cs"
-    name: "Barbastella pacifica"
-    common_name: "Barbastella_pacifica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Barbastella_sp_7184.cs"
-    name: "Barbastella sp. 7184"
-    common_name: "Barbastella_sp_7184"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Barbastella_barbastellus:
+    common_name: Barbastella_barbastellus
+    conservation: UK
+  Barbastella_beijingensis:
+    common_name: Barbastella_beijingensis
+    conservation: UK
+  Barbastella_caspica:
+    common_name: Barbastella_caspica
+    conservation: UK
+  Barbastella_darjelingensis:
+    common_name: Barbastella_darjelingensis
+    conservation: UK
+  Barbastella_leucomelas:
+    common_name: Barbastella_leucomelas
+    conservation: UK
+  Barbastella_pacifica:
+    common_name: Barbastella_pacifica
+    conservation: UK
+  Barbastella_sp_7184:
+    common_name: Barbastella_sp_7184
+    conservation: UK
 ---
-
 # Barbastella
 
 Genus containing 7 species.

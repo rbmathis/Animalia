@@ -1,35 +1,24 @@
 ---
-title: "Atherurus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["atherurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Hystrix/breadcrumb.md", "../Trichys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 34835
-parent: "../breadcrumb.md"
+title: Atherurus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [atherurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Hystrix/breadcrumb.md, ../Trichys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Atherurus_africanus.cs"
-    name: "Atherurus africanus"
-    common_name: "Atherurus_africanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Atherurus_macrourus.cs"
-    name: "Atherurus macrourus"
-    common_name: "Atherurus_macrourus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Atherurus_africanus:
+    common_name: Atherurus_africanus
+    conservation: UK
+  Atherurus_macrourus:
+    common_name: Atherurus_macrourus
+    conservation: UK
 ---
-
 # Atherurus
 
 Genus containing 2 species.

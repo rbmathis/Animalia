@@ -1,30 +1,21 @@
 ---
-title: "Eoglaucomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["eoglaucomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226810
-parent: "../breadcrumb.md"
+title: Eoglaucomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [eoglaucomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Eoglaucomys_fimbriatus.cs"
-    name: "Eoglaucomys fimbriatus"
-    common_name: "Eoglaucomys_fimbriatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Eoglaucomys_fimbriatus:
+    common_name: Eoglaucomys_fimbriatus
+    conservation: UK
 ---
-
 # Eoglaucomys
 
 Genus containing 1 species.

@@ -1,111 +1,70 @@
 ---
-title: "Metachirus"
-description: "Genus containing 17 species."
-category: "taxonomy/genus"
-tags: ["metachirus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Caluromys/breadcrumb.md", "../Caluromysiops/breadcrumb.md", "../Chacodelphys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 42724
-parent: "../breadcrumb.md"
+title: Metachirus
+description: Genus containing 17 species.
+category: taxonomy/genus
+tags: [metachirus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Caluromys/breadcrumb.md, ../Caluromysiops/breadcrumb.md, ../Chacodelphys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 17
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Metachirus_aritanai.cs"
-    name: "Metachirus aritanai"
-    common_name: "Metachirus_aritanai"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_myosuros.cs"
-    name: "Metachirus myosuros"
-    common_name: "Metachirus_myosuros"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_nudicaudatus.cs"
-    name: "Metachirus nudicaudatus"
-    common_name: "Metachirus_nudicaudatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_sp_FC4896.cs"
-    name: "Metachirus sp. FC4896"
-    common_name: "Metachirus_sp_FC4896"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_sp_INPA2516.cs"
-    name: "Metachirus sp. INPA2516"
-    common_name: "Metachirus_sp_INPA2516"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_sp_INPA2517.cs"
-    name: "Metachirus sp. INPA2517"
-    common_name: "Metachirus_sp_INPA2517"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_sp_INPA4309.cs"
-    name: "Metachirus sp. INPA4309"
-    common_name: "Metachirus_sp_INPA4309"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_sp_MCNM1200.cs"
-    name: "Metachirus sp. MCNM1200"
-    common_name: "Metachirus_sp_MCNM1200"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_sp_MF1618.cs"
-    name: "Metachirus sp. MF1618"
-    common_name: "Metachirus_sp_MF1618"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_sp_MF2165.cs"
-    name: "Metachirus sp. MF2165"
-    common_name: "Metachirus_sp_MF2165"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_sp_MF2211.cs"
-    name: "Metachirus sp. MF2211"
-    common_name: "Metachirus_sp_MF2211"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_sp_MF2374.cs"
-    name: "Metachirus sp. MF2374"
-    common_name: "Metachirus_sp_MF2374"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_sp_MSF1552.cs"
-    name: "Metachirus sp. MSF1552"
-    common_name: "Metachirus_sp_MSF1552"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_sp_MSN05.cs"
-    name: "Metachirus sp. MSN05"
-    common_name: "Metachirus_sp_MSN05"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_sp_MSN21.cs"
-    name: "Metachirus sp. MSN21"
-    common_name: "Metachirus_sp_MSN21"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_sp_TGP14.cs"
-    name: "Metachirus sp. TGP14"
-    common_name: "Metachirus_sp_TGP14"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Metachirus_sp_TGP33.cs"
-    name: "Metachirus sp. TGP33"
-    common_name: "Metachirus_sp_TGP33"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Metachirus_aritanai:
+    common_name: Metachirus_aritanai
+    conservation: UK
+  Metachirus_myosuros:
+    common_name: Metachirus_myosuros
+    conservation: UK
+  Metachirus_nudicaudatus:
+    common_name: Metachirus_nudicaudatus
+    conservation: UK
+  Metachirus_sp_FC4896:
+    common_name: Metachirus_sp_FC4896
+    conservation: UK
+  Metachirus_sp_INPA2516:
+    common_name: Metachirus_sp_INPA2516
+    conservation: UK
+  Metachirus_sp_INPA2517:
+    common_name: Metachirus_sp_INPA2517
+    conservation: UK
+  Metachirus_sp_INPA4309:
+    common_name: Metachirus_sp_INPA4309
+    conservation: UK
+  Metachirus_sp_MCNM1200:
+    common_name: Metachirus_sp_MCNM1200
+    conservation: UK
+  Metachirus_sp_MF1618:
+    common_name: Metachirus_sp_MF1618
+    conservation: UK
+  Metachirus_sp_MF2165:
+    common_name: Metachirus_sp_MF2165
+    conservation: UK
+  Metachirus_sp_MF2211:
+    common_name: Metachirus_sp_MF2211
+    conservation: UK
+  Metachirus_sp_MF2374:
+    common_name: Metachirus_sp_MF2374
+    conservation: UK
+  Metachirus_sp_MSF1552:
+    common_name: Metachirus_sp_MSF1552
+    conservation: UK
+  Metachirus_sp_MSN05:
+    common_name: Metachirus_sp_MSN05
+    conservation: UK
+  Metachirus_sp_MSN21:
+    common_name: Metachirus_sp_MSN21
+    conservation: UK
+  Metachirus_sp_TGP14:
+    common_name: Metachirus_sp_TGP14
+    conservation: UK
+  Metachirus_sp_TGP33:
+    common_name: Metachirus_sp_TGP33
+    conservation: UK
 ---
-
 # Metachirus
 
 Genus containing 17 species.

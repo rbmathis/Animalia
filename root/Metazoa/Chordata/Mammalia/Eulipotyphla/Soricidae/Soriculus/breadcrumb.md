@@ -1,56 +1,37 @@
 ---
-title: "Soriculus"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["soriculus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 62290
-parent: "../breadcrumb.md"
+title: Soriculus
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [soriculus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Soriculus_beibengensis.cs"
-    name: "Soriculus beibengensis"
-    common_name: "Soriculus_beibengensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Soriculus_nigrescens.cs"
-    name: "Soriculus nigrescens"
-    common_name: "Soriculus_nigrescens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Soriculus_sp_3_XXP_2024.cs"
-    name: "Soriculus sp. 3 XXP-2024"
-    common_name: "Soriculus_sp_3_XXP_2024"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Soriculus_sp_med_XXP_2023.cs"
-    name: "Soriculus sp. med XXP-2023"
-    common_name: "Soriculus_sp_med_XXP_2023"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Soriculus_sp_min_XXP_2023.cs"
-    name: "Soriculus sp. min XXP-2023"
-    common_name: "Soriculus_sp_min_XXP_2023"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Soriculus_sp_n_XXP_2023.cs"
-    name: "Soriculus sp. n XXP-2023"
-    common_name: "Soriculus_sp_n_XXP_2023"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Soriculus_beibengensis:
+    common_name: Soriculus_beibengensis
+    conservation: UK
+  Soriculus_nigrescens:
+    common_name: Soriculus_nigrescens
+    conservation: UK
+  Soriculus_sp_3_XXP_2024:
+    common_name: Soriculus_sp_3_XXP_2024
+    conservation: UK
+  Soriculus_sp_med_XXP_2023:
+    common_name: Soriculus_sp_med_XXP_2023
+    conservation: UK
+  Soriculus_sp_min_XXP_2023:
+    common_name: Soriculus_sp_min_XXP_2023
+    conservation: UK
+  Soriculus_sp_n_XXP_2023:
+    common_name: Soriculus_sp_n_XXP_2023
+    conservation: UK
 ---
-
 # Soriculus
 
 Genus containing 6 species.

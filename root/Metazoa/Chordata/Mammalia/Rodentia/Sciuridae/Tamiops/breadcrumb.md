@@ -1,50 +1,33 @@
 ---
-title: "Tamiops"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["tamiops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226576
-parent: "../breadcrumb.md"
+title: Tamiops
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [tamiops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tamiops_maritimus.cs"
-    name: "Tamiops maritimus"
-    common_name: "Tamiops_maritimus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamiops_mcclellandii.cs"
-    name: "Tamiops mcclellandii"
-    common_name: "Tamiops_mcclellandii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamiops_minshanicus.cs"
-    name: "Tamiops minshanicus"
-    common_name: "Tamiops_minshanicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamiops_rodolphii.cs"
-    name: "Tamiops rodolphii"
-    common_name: "Tamiops_rodolphii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tamiops_swinhoei.cs"
-    name: "Tamiops swinhoei"
-    common_name: "Tamiops_swinhoei"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tamiops_maritimus:
+    common_name: Tamiops_maritimus
+    conservation: UK
+  Tamiops_mcclellandii:
+    common_name: Tamiops_mcclellandii
+    conservation: UK
+  Tamiops_minshanicus:
+    common_name: Tamiops_minshanicus
+    conservation: UK
+  Tamiops_rodolphii:
+    common_name: Tamiops_rodolphii
+    conservation: UK
+  Tamiops_swinhoei:
+    common_name: Tamiops_swinhoei
+    conservation: UK
 ---
-
 # Tamiops
 
 Genus containing 5 species.

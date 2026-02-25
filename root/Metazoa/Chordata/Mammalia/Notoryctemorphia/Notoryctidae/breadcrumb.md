@@ -1,28 +1,19 @@
 ---
-title: "Notoryctidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["notoryctidae", "family"]
-status: "Living"
-updated: "2026-02-23"
+title: Notoryctidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [notoryctidae, family]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 30662
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Notoryctes/breadcrumb.md"
-    name: "Notoryctes"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Notoryctes]
 ---
-
 # Notoryctidae
 
 Family containing 1 genera.

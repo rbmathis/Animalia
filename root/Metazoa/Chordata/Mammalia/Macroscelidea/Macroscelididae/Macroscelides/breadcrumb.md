@@ -1,40 +1,27 @@
 ---
-title: "Macroscelides"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["macroscelides", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Elephantulus/breadcrumb.md", "../Galegeeska/breadcrumb.md", "../Petrodromus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 29081
-parent: "../breadcrumb.md"
+title: Macroscelides
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [macroscelides, genus]
+status: Living
+updated: 2026-02-23
+related: [../Elephantulus/breadcrumb.md, ../Galegeeska/breadcrumb.md, ../Petrodromus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Macroscelides_flavicaudatus.cs"
-    name: "Macroscelides flavicaudatus"
-    common_name: "Macroscelides_flavicaudatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macroscelides_micus.cs"
-    name: "Macroscelides micus"
-    common_name: "Macroscelides_micus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macroscelides_proboscideus.cs"
-    name: "Macroscelides proboscideus"
-    common_name: "Macroscelides_proboscideus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Macroscelides_flavicaudatus:
+    common_name: Macroscelides_flavicaudatus
+    conservation: UK
+  Macroscelides_micus:
+    common_name: Macroscelides_micus
+    conservation: UK
+  Macroscelides_proboscideus:
+    common_name: Macroscelides_proboscideus
+    conservation: UK
 ---
-
 # Macroscelides
 
 Genus containing 3 species.

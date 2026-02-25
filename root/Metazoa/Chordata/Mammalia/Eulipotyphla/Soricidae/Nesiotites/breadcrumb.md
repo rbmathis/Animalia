@@ -1,30 +1,21 @@
 ---
-title: "Nesiotites"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["nesiotites", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2315953
-parent: "../breadcrumb.md"
+title: Nesiotites
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [nesiotites, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Nesiotites_hidalgo.cs"
-    name: "Nesiotites hidalgo"
-    common_name: "Nesiotites_hidalgo"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Nesiotites_hidalgo:
+    common_name: Nesiotites_hidalgo
+    conservation: UK
 ---
-
 # Nesiotites
 
 Genus containing 1 species.

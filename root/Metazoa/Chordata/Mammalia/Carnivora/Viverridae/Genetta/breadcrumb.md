@@ -1,126 +1,79 @@
 ---
-title: "Genetta"
-description: "Genus containing 20 species."
-category: "taxonomy/genus"
-tags: ["genetta", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Arctictis/breadcrumb.md", "../Arctogalidia/breadcrumb.md", "../Chrotogale/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 94189
-parent: "../breadcrumb.md"
+title: Genetta
+description: Genus containing 20 species.
+category: taxonomy/genus
+tags: [genetta, genus]
+status: Living
+updated: 2026-02-23
+related: [../Arctictis/breadcrumb.md, ../Arctogalidia/breadcrumb.md, ../Chrotogale/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 20
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Genetta_abyssinica.cs"
-    name: "Genetta abyssinica"
-    common_name: "Genetta_abyssinica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_angolensis.cs"
-    name: "Genetta angolensis"
-    common_name: "Genetta_angolensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_bourloni.cs"
-    name: "Genetta bourloni"
-    common_name: "Genetta_bourloni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_cristata.cs"
-    name: "Genetta cristata"
-    common_name: "Genetta_cristata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_felina.cs"
-    name: "Genetta felina"
-    common_name: "Genetta_felina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_felina_x_Genetta_tigrina.cs"
-    name: "Genetta felina x Genetta tigrina"
-    common_name: "Genetta_felina_x_Genetta_tigrina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_genetta.cs"
-    name: "Genetta genetta"
-    common_name: "Genetta_genetta"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_johnstoni.cs"
-    name: "Genetta johnstoni"
-    common_name: "Genetta_johnstoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_maculata.cs"
-    name: "Genetta maculata"
-    common_name: "Genetta_maculata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_pardina.cs"
-    name: "Genetta pardina"
-    common_name: "Genetta_pardina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_piscivora.cs"
-    name: "Genetta piscivora"
-    common_name: "Genetta_piscivora"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_poensis.cs"
-    name: "Genetta poensis"
-    common_name: "Genetta_poensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_servalina.cs"
-    name: "Genetta servalina"
-    common_name: "Genetta_servalina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_sp_BDP7276_FMNH.cs"
-    name: "Genetta sp. BDP7276_FMNH"
-    common_name: "Genetta_sp_BDP7276_FMNH"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_sp_SC15_udzungwa.cs"
-    name: "Genetta sp. SC15-udzungwa"
-    common_name: "Genetta_sp_SC15_udzungwa"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_sp_pardinamaculata_PG_2024.cs"
-    name: "Genetta sp. pardina/'maculata' PG-2024"
-    common_name: "Genetta_sp_pardinamaculata_PG_2024"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_sp_schoutedeni.cs"
-    name: "Genetta sp. schoutedeni"
-    common_name: "Genetta_sp_schoutedeni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_thierryi.cs"
-    name: "Genetta thierryi"
-    common_name: "Genetta_thierryi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_tigrina.cs"
-    name: "Genetta tigrina"
-    common_name: "Genetta_tigrina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Genetta_victoriae.cs"
-    name: "Genetta victoriae"
-    common_name: "Genetta_victoriae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Genetta_abyssinica:
+    common_name: Genetta_abyssinica
+    conservation: UK
+  Genetta_angolensis:
+    common_name: Genetta_angolensis
+    conservation: UK
+  Genetta_bourloni:
+    common_name: Genetta_bourloni
+    conservation: UK
+  Genetta_cristata:
+    common_name: Genetta_cristata
+    conservation: UK
+  Genetta_felina:
+    common_name: Genetta_felina
+    conservation: UK
+  Genetta_felina_x_Genetta_tigrina:
+    common_name: Genetta_felina_x_Genetta_tigrina
+    conservation: UK
+  Genetta_genetta:
+    common_name: Genetta_genetta
+    conservation: UK
+  Genetta_johnstoni:
+    common_name: Genetta_johnstoni
+    conservation: UK
+  Genetta_maculata:
+    common_name: Genetta_maculata
+    conservation: UK
+  Genetta_pardina:
+    common_name: Genetta_pardina
+    conservation: UK
+  Genetta_piscivora:
+    common_name: Genetta_piscivora
+    conservation: UK
+  Genetta_poensis:
+    common_name: Genetta_poensis
+    conservation: UK
+  Genetta_servalina:
+    common_name: Genetta_servalina
+    conservation: UK
+  Genetta_sp_BDP7276_FMNH:
+    common_name: Genetta_sp_BDP7276_FMNH
+    conservation: UK
+  Genetta_sp_SC15_udzungwa:
+    common_name: Genetta_sp_SC15_udzungwa
+    conservation: UK
+  Genetta_sp_pardinamaculata_PG_2024:
+    common_name: Genetta_sp_pardinamaculata_PG_2024
+    conservation: UK
+  Genetta_sp_schoutedeni:
+    common_name: Genetta_sp_schoutedeni
+    conservation: UK
+  Genetta_thierryi:
+    common_name: Genetta_thierryi
+    conservation: UK
+  Genetta_tigrina:
+    common_name: Genetta_tigrina
+    conservation: UK
+  Genetta_victoriae:
+    common_name: Genetta_victoriae
+    conservation: UK
 ---
-
 # Genetta
 
 Genus containing 20 species.

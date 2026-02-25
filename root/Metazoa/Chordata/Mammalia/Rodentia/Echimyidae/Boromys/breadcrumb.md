@@ -1,30 +1,21 @@
 ---
-title: "Boromys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["boromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Brotomys/breadcrumb.md", "../Callistomys/breadcrumb.md", "../Carterodon/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2779810
-parent: "../breadcrumb.md"
+title: Boromys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [boromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Brotomys/breadcrumb.md, ../Callistomys/breadcrumb.md, ../Carterodon/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Boromys_offella.cs"
-    name: "Boromys offella"
-    common_name: "Boromys_offella"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Boromys_offella:
+    common_name: Boromys_offella
+    conservation: UK
 ---
-
 # Boromys
 
 Genus containing 1 species.

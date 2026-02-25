@@ -1,51 +1,34 @@
 ---
-title: "Chibchanomys"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["chibchanomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2928166
-parent: "../breadcrumb.md"
+title: Chibchanomys
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [chibchanomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chibchanomys_orcesi.cs"
-    name: "Chibchanomys orcesi"
-    common_name: "Chibchanomys_orcesi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chibchanomys_sp.cs"
-    name: "Chibchanomys sp."
-    common_name: "Chibchanomys_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chibchanomys_sp_MUSA13864.cs"
-    name: "Chibchanomys sp. MUSA13864"
-    common_name: "Chibchanomys_sp_MUSA13864"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chibchanomys_sp_MUSA18964.cs"
-    name: "Chibchanomys sp. MUSA18964"
-    common_name: "Chibchanomys_sp_MUSA18964"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chibchanomys_trichotis.cs"
-    name: "Chibchanomys trichotis"
-    common_name: "Chibchanomys_trichotis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chibchanomys_orcesi:
+    common_name: Chibchanomys_orcesi
+    conservation: UK
+  Chibchanomys_sp:
+    common_name: Chibchanomys_sp
+    conservation: UK
+  Chibchanomys_sp_MUSA13864:
+    common_name: Chibchanomys_sp_MUSA13864
+    conservation: UK
+  Chibchanomys_sp_MUSA18964:
+    common_name: Chibchanomys_sp_MUSA18964
+    conservation: UK
+  Chibchanomys_trichotis:
+    common_name: Chibchanomys_trichotis
+    conservation: UK
 ---
-
 # Chibchanomys
 
 Genus containing 5 species.

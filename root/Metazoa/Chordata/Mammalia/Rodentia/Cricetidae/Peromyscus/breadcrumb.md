@@ -1,126 +1,79 @@
 ---
-title: "Peromyscus"
-description: "Genus containing 102 species."
-category: "taxonomy/genus"
-tags: ["peromyscus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10040
-parent: "../breadcrumb.md"
+title: Peromyscus
+description: Genus containing 102 species.
+category: taxonomy/genus
+tags: [peromyscus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 102
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Peromyscus_amplus.cs"
-    name: "Peromyscus amplus"
-    common_name: "Peromyscus_amplus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_arcticus.cs"
-    name: "Peromyscus arcticus"
-    common_name: "Peromyscus_arcticus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_attwateri.cs"
-    name: "Peromyscus attwateri"
-    common_name: "Peromyscus_attwateri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_avius.cs"
-    name: "Peromyscus avius"
-    common_name: "Peromyscus_avius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_aztecus.cs"
-    name: "Peromyscus aztecus"
-    common_name: "Peromyscus_aztecus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_beatae.cs"
-    name: "Peromyscus beatae"
-    common_name: "Peromyscus_beatae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_boylii.cs"
-    name: "Peromyscus boylii"
-    common_name: "Peromyscus_boylii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_californicus.cs"
-    name: "Peromyscus californicus"
-    common_name: "Peromyscus_californicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_caniceps.cs"
-    name: "Peromyscus caniceps"
-    common_name: "Peromyscus_caniceps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_carletoni.cs"
-    name: "Peromyscus carletoni"
-    common_name: "Peromyscus_carletoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_carolpattonae.cs"
-    name: "Peromyscus carolpattonae"
-    common_name: "Peromyscus_carolpattonae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_cf_guatemalensis_SGP_2014.cs"
-    name: "Peromyscus cf. guatemalensis SGP-2014"
-    common_name: "Peromyscus_cf_guatemalensis_SGP_2014"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_cf_hylocetes_SJS_2017.cs"
-    name: "Peromyscus cf. hylocetes SJS-2017"
-    common_name: "Peromyscus_cf_hylocetes_SJS_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_cf_nicaraguae_SGP_2014.cs"
-    name: "Peromyscus cf. nicaraguae SGP-2014"
-    common_name: "Peromyscus_cf_nicaraguae_SGP_2014"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_cf_salvadorensis_SGP_2014.cs"
-    name: "Peromyscus cf. salvadorensis SGP-2014"
-    common_name: "Peromyscus_cf_salvadorensis_SGP_2014"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_cf_spicilegus_SJS_2017.cs"
-    name: "Peromyscus cf. spicilegus SJS-2017"
-    common_name: "Peromyscus_cf_spicilegus_SJS_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_cf_zarhynchus_SGP_2014.cs"
-    name: "Peromyscus cf. zarhynchus SGP-2014"
-    common_name: "Peromyscus_cf_zarhynchus_SGP_2014"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_collatus.cs"
-    name: "Peromyscus collatus"
-    common_name: "Peromyscus_collatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_collinus.cs"
-    name: "Peromyscus collinus"
-    common_name: "Peromyscus_collinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peromyscus_crinitus.cs"
-    name: "Peromyscus crinitus"
-    common_name: "Peromyscus_crinitus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Peromyscus_amplus:
+    common_name: Peromyscus_amplus
+    conservation: UK
+  Peromyscus_arcticus:
+    common_name: Peromyscus_arcticus
+    conservation: UK
+  Peromyscus_attwateri:
+    common_name: Peromyscus_attwateri
+    conservation: UK
+  Peromyscus_avius:
+    common_name: Peromyscus_avius
+    conservation: UK
+  Peromyscus_aztecus:
+    common_name: Peromyscus_aztecus
+    conservation: UK
+  Peromyscus_beatae:
+    common_name: Peromyscus_beatae
+    conservation: UK
+  Peromyscus_boylii:
+    common_name: Peromyscus_boylii
+    conservation: UK
+  Peromyscus_californicus:
+    common_name: Peromyscus_californicus
+    conservation: UK
+  Peromyscus_caniceps:
+    common_name: Peromyscus_caniceps
+    conservation: UK
+  Peromyscus_carletoni:
+    common_name: Peromyscus_carletoni
+    conservation: UK
+  Peromyscus_carolpattonae:
+    common_name: Peromyscus_carolpattonae
+    conservation: UK
+  Peromyscus_cf_guatemalensis_SGP_2014:
+    common_name: Peromyscus_cf_guatemalensis_SGP_2014
+    conservation: UK
+  Peromyscus_cf_hylocetes_SJS_2017:
+    common_name: Peromyscus_cf_hylocetes_SJS_2017
+    conservation: UK
+  Peromyscus_cf_nicaraguae_SGP_2014:
+    common_name: Peromyscus_cf_nicaraguae_SGP_2014
+    conservation: UK
+  Peromyscus_cf_salvadorensis_SGP_2014:
+    common_name: Peromyscus_cf_salvadorensis_SGP_2014
+    conservation: UK
+  Peromyscus_cf_spicilegus_SJS_2017:
+    common_name: Peromyscus_cf_spicilegus_SJS_2017
+    conservation: UK
+  Peromyscus_cf_zarhynchus_SGP_2014:
+    common_name: Peromyscus_cf_zarhynchus_SGP_2014
+    conservation: UK
+  Peromyscus_collatus:
+    common_name: Peromyscus_collatus
+    conservation: UK
+  Peromyscus_collinus:
+    common_name: Peromyscus_collinus
+    conservation: UK
+  Peromyscus_crinitus:
+    common_name: Peromyscus_crinitus
+    conservation: UK
 ---
-
 # Peromyscus
 
 Genus containing 102 species.

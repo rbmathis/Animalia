@@ -1,51 +1,34 @@
 ---
-title: "Phyllostomus"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["phyllostomus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9422
-parent: "../breadcrumb.md"
+title: Phyllostomus
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [phyllostomus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Phyllostomus_discolor.cs"
-    name: "Phyllostomus discolor"
-    common_name: "Phyllostomus_discolor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllostomus_elongatus.cs"
-    name: "Phyllostomus elongatus"
-    common_name: "Phyllostomus_elongatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllostomus_hastatus.cs"
-    name: "Phyllostomus hastatus"
-    common_name: "Phyllostomus_hastatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllostomus_latifolius.cs"
-    name: "Phyllostomus latifolius"
-    common_name: "Phyllostomus_latifolius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllostomus_sp_PHH3.cs"
-    name: "Phyllostomus sp. PHH3"
-    common_name: "Phyllostomus_sp_PHH3"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Phyllostomus_discolor:
+    common_name: Phyllostomus_discolor
+    conservation: UK
+  Phyllostomus_elongatus:
+    common_name: Phyllostomus_elongatus
+    conservation: UK
+  Phyllostomus_hastatus:
+    common_name: Phyllostomus_hastatus
+    conservation: UK
+  Phyllostomus_latifolius:
+    common_name: Phyllostomus_latifolius
+    conservation: UK
+  Phyllostomus_sp_PHH3:
+    common_name: Phyllostomus_sp_PHH3
+    conservation: UK
 ---
-
 # Phyllostomus
 
 Genus containing 5 species.

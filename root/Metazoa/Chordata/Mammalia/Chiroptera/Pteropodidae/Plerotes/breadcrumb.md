@@ -1,30 +1,21 @@
 ---
-title: "Plerotes"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["plerotes", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1812309
-parent: "../breadcrumb.md"
+title: Plerotes
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [plerotes, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Plerotes_anchietae.cs"
-    name: "Plerotes anchietae"
-    common_name: "Plerotes_anchietae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Plerotes_anchietae:
+    common_name: Plerotes_anchietae
+    conservation: UK
 ---
-
 # Plerotes
 
 Genus containing 1 species.

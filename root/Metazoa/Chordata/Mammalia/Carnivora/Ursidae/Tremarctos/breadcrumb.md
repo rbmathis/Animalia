@@ -1,36 +1,25 @@
 ---
-title: "Tremarctos"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["tremarctos", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ailuropoda/breadcrumb.md", "../Arctodus/breadcrumb.md", "../Arctotherium/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9637
-parent: "../breadcrumb.md"
+title: Tremarctos
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [tremarctos, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ailuropoda/breadcrumb.md, ../Arctodus/breadcrumb.md, ../Arctotherium/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tremarctos_ornatus.cs"
-    name: "Tremarctos ornatus"
-    common_name: "Tremarctos_ornatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tremarctos_sp.cs"
-    name: "Tremarctos sp."
-    common_name: "Tremarctos_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tremarctos_ornatus:
+    common_name: Tremarctos_ornatus
+    conservation: UK
+  Tremarctos_sp:
+    common_name: Tremarctos_sp
+    conservation: UK
 ---
-
 # Tremarctos
 
 Genus containing 2 species.

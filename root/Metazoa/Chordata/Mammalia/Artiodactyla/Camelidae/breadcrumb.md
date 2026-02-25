@@ -1,36 +1,19 @@
 ---
-title: "Camelidae"
-description: "Family containing 5 genera."
-category: "taxonomy/family"
-tags: ["camelidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antilocapridae/breadcrumb.md", "../Balaenidae/breadcrumb.md", "../Balaenopteridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9835
-parent: "../breadcrumb.md"
+title: Camelidae
+description: Family containing 5 genera.
+category: taxonomy/family
+tags: [camelidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Antilocapridae/breadcrumb.md, ../Balaenidae/breadcrumb.md, ../Balaenopteridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 5
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Camelops/breadcrumb.md"
-    name: "Camelops"
-  - path: "Camelus/breadcrumb.md"
-    name: "Camelus"
-  - path: "Lama/breadcrumb.md"
-    name: "Lama"
-  - path: "unclassified_Camelidae/breadcrumb.md"
-    name: "unclassified_Camelidae"
-  - path: "Vicugna/breadcrumb.md"
-    name: "Vicugna"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Camelops, Camelus, Lama, unclassified_Camelidae, Vicugna]
 ---
-
 # Camelidae
 
 Family containing 5 genera.

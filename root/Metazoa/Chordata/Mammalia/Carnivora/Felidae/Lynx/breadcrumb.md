@@ -1,56 +1,37 @@
 ---
-title: "Lynx"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["lynx", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acinonyx/breadcrumb.md", "../Caracal/breadcrumb.md", "../Catopuma/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 13124
-parent: "../breadcrumb.md"
+title: Lynx
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [lynx, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acinonyx/breadcrumb.md, ../Caracal/breadcrumb.md, ../Catopuma/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lynx_canadensis.cs"
-    name: "Lynx canadensis"
-    common_name: "Lynx_canadensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lynx_environmental_sample.cs"
-    name: "Lynx environmental sample"
-    common_name: "Lynx_environmental_sample"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lynx_lynx.cs"
-    name: "Lynx lynx"
-    common_name: "Lynx_lynx"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lynx_pardinus.cs"
-    name: "Lynx pardinus"
-    common_name: "Lynx_pardinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lynx_rufus.cs"
-    name: "Lynx rufus"
-    common_name: "Lynx_rufus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lynx_sp.cs"
-    name: "Lynx sp."
-    common_name: "Lynx_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lynx_canadensis:
+    common_name: Lynx_canadensis
+    conservation: UK
+  Lynx_environmental_sample:
+    common_name: Lynx_environmental_sample
+    conservation: UK
+  Lynx_lynx:
+    common_name: Lynx_lynx
+    conservation: UK
+  Lynx_pardinus:
+    common_name: Lynx_pardinus
+    conservation: UK
+  Lynx_rufus:
+    common_name: Lynx_rufus
+    conservation: UK
+  Lynx_sp:
+    common_name: Lynx_sp
+    conservation: UK
 ---
-
 # Lynx
 
 Genus containing 6 species.

@@ -1,46 +1,31 @@
 ---
-title: "Promops"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["promops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cheiromeles/breadcrumb.md", "../Cynomops/breadcrumb.md", "../Eumops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 27628
-parent: "../breadcrumb.md"
+title: Promops
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [promops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cheiromeles/breadcrumb.md, ../Cynomops/breadcrumb.md, ../Eumops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Promops_centralis.cs"
-    name: "Promops centralis"
-    common_name: "Promops_centralis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Promops_davisoni.cs"
-    name: "Promops davisoni"
-    common_name: "Promops_davisoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Promops_nasutus.cs"
-    name: "Promops nasutus"
-    common_name: "Promops_nasutus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Promops_sp_IP12042015.cs"
-    name: "Promops sp. IP1204/2015"
-    common_name: "Promops_sp_IP12042015"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Promops_centralis:
+    common_name: Promops_centralis
+    conservation: UK
+  Promops_davisoni:
+    common_name: Promops_davisoni
+    conservation: UK
+  Promops_nasutus:
+    common_name: Promops_nasutus
+    conservation: UK
+  Promops_sp_IP12042015:
+    common_name: Promops_sp_IP12042015
+    conservation: UK
 ---
-
 # Promops
 
 Genus containing 4 species.

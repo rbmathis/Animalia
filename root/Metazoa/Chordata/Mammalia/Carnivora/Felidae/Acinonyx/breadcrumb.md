@@ -1,30 +1,21 @@
 ---
-title: "Acinonyx"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["acinonyx", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Caracal/breadcrumb.md", "../Catopuma/breadcrumb.md", "../Felidae_incertae_sedis/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 32535
-parent: "../breadcrumb.md"
+title: Acinonyx
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [acinonyx, genus]
+status: Living
+updated: 2026-02-23
+related: [../Caracal/breadcrumb.md, ../Catopuma/breadcrumb.md, ../Felidae_incertae_sedis/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Acinonyx_jubatus.cs"
-    name: "Acinonyx jubatus"
-    common_name: "Acinonyx_jubatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Acinonyx_jubatus:
+    common_name: Acinonyx_jubatus
+    conservation: UK
 ---
-
 # Acinonyx
 
 Genus containing 1 species.

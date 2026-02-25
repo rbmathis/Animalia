@@ -1,70 +1,45 @@
 ---
-title: "Ozimops"
-description: "Genus containing 9 species."
-category: "taxonomy/genus"
-tags: ["ozimops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cheiromeles/breadcrumb.md", "../Cynomops/breadcrumb.md", "../Eumops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2689069
-parent: "../breadcrumb.md"
+title: Ozimops
+description: Genus containing 9 species.
+category: taxonomy/genus
+tags: [ozimops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cheiromeles/breadcrumb.md, ../Cynomops/breadcrumb.md, ../Eumops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 9
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ozimops_beccarii.cs"
-    name: "Ozimops beccarii"
-    common_name: "Ozimops_beccarii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ozimops_cobourgianus.cs"
-    name: "Ozimops cobourgianus"
-    common_name: "Ozimops_cobourgianus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ozimops_halli.cs"
-    name: "Ozimops halli"
-    common_name: "Ozimops_halli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ozimops_kitcheneri.cs"
-    name: "Ozimops kitcheneri"
-    common_name: "Ozimops_kitcheneri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ozimops_loriae.cs"
-    name: "Ozimops loriae"
-    common_name: "Ozimops_loriae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ozimops_lumsdenae.cs"
-    name: "Ozimops lumsdenae"
-    common_name: "Ozimops_lumsdenae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ozimops_petersi.cs"
-    name: "Ozimops petersi"
-    common_name: "Ozimops_petersi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ozimops_planiceps.cs"
-    name: "Ozimops planiceps"
-    common_name: "Ozimops_planiceps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ozimops_ridei.cs"
-    name: "Ozimops ridei"
-    common_name: "Ozimops_ridei"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ozimops_beccarii:
+    common_name: Ozimops_beccarii
+    conservation: UK
+  Ozimops_cobourgianus:
+    common_name: Ozimops_cobourgianus
+    conservation: UK
+  Ozimops_halli:
+    common_name: Ozimops_halli
+    conservation: UK
+  Ozimops_kitcheneri:
+    common_name: Ozimops_kitcheneri
+    conservation: UK
+  Ozimops_loriae:
+    common_name: Ozimops_loriae
+    conservation: UK
+  Ozimops_lumsdenae:
+    common_name: Ozimops_lumsdenae
+    conservation: UK
+  Ozimops_petersi:
+    common_name: Ozimops_petersi
+    conservation: UK
+  Ozimops_planiceps:
+    common_name: Ozimops_planiceps
+    conservation: UK
+  Ozimops_ridei:
+    common_name: Ozimops_ridei
+    conservation: UK
 ---
-
 # Ozimops
 
 Genus containing 9 species.

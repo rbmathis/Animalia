@@ -1,40 +1,27 @@
 ---
-title: "Glischropus"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["glischropus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 526817
-parent: "../breadcrumb.md"
+title: Glischropus
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [glischropus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Glischropus_aquilus.cs"
-    name: "Glischropus aquilus"
-    common_name: "Glischropus_aquilus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Glischropus_bucephalus.cs"
-    name: "Glischropus bucephalus"
-    common_name: "Glischropus_bucephalus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Glischropus_tylopus.cs"
-    name: "Glischropus tylopus"
-    common_name: "Glischropus_tylopus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Glischropus_aquilus:
+    common_name: Glischropus_aquilus
+    conservation: UK
+  Glischropus_bucephalus:
+    common_name: Glischropus_bucephalus
+    conservation: UK
+  Glischropus_tylopus:
+    common_name: Glischropus_tylopus
+    conservation: UK
 ---
-
 # Glischropus
 
 Genus containing 3 species.

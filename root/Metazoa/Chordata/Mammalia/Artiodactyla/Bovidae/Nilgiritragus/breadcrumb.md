@@ -1,30 +1,21 @@
 ---
-title: "Nilgiritragus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["nilgiritragus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3349690
-parent: "../breadcrumb.md"
+title: Nilgiritragus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [nilgiritragus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Nilgiritragus_hylocrius.cs"
-    name: "Nilgiritragus hylocrius"
-    common_name: "Nilgiritragus_hylocrius"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Nilgiritragus_hylocrius:
+    common_name: Nilgiritragus_hylocrius
+    conservation: UK
 ---
-
 # Nilgiritragus
 
 Genus containing 1 species.

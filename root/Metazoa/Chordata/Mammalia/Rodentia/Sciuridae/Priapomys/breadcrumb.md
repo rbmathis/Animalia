@@ -1,30 +1,21 @@
 ---
-title: "Priapomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["priapomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2883637
-parent: "../breadcrumb.md"
+title: Priapomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [priapomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Priapomys_leonardi.cs"
-    name: "Priapomys leonardi"
-    common_name: "Priapomys_leonardi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Priapomys_leonardi:
+    common_name: Priapomys_leonardi
+    conservation: UK
 ---
-
 # Priapomys
 
 Genus containing 1 species.

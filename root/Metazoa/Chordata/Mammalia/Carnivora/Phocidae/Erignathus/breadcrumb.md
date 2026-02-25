@@ -1,30 +1,21 @@
 ---
-title: "Erignathus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["erignathus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cystophora/breadcrumb.md", "../Halichoerus/breadcrumb.md", "../Hydrurga/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 39182
-parent: "../breadcrumb.md"
+title: Erignathus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [erignathus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cystophora/breadcrumb.md, ../Halichoerus/breadcrumb.md, ../Hydrurga/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Erignathus_barbatus.cs"
-    name: "Erignathus barbatus"
-    common_name: "Erignathus_barbatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Erignathus_barbatus:
+    common_name: Erignathus_barbatus
+    conservation: UK
 ---
-
 # Erignathus
 
 Genus containing 1 species.

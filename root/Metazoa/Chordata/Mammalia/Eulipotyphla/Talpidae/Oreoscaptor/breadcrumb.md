@@ -1,30 +1,21 @@
 ---
-title: "Oreoscaptor"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["oreoscaptor", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alpiscaptulus/breadcrumb.md", "../Condylura/breadcrumb.md", "../Desmana/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2835216
-parent: "../breadcrumb.md"
+title: Oreoscaptor
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [oreoscaptor, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alpiscaptulus/breadcrumb.md, ../Condylura/breadcrumb.md, ../Desmana/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Oreoscaptor_mizura.cs"
-    name: "Oreoscaptor mizura"
-    common_name: "Oreoscaptor_mizura"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Oreoscaptor_mizura:
+    common_name: Oreoscaptor_mizura
+    conservation: UK
 ---
-
 # Oreoscaptor
 
 Genus containing 1 species.

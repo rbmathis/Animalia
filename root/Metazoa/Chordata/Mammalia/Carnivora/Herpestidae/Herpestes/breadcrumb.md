@@ -1,71 +1,46 @@
 ---
-title: "Herpestes"
-description: "Genus containing 9 species."
-category: "taxonomy/genus"
-tags: ["herpestes", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atilax/breadcrumb.md", "../Bdeogale/breadcrumb.md", "../Crossarchus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9699
-parent: "../breadcrumb.md"
+title: Herpestes
+description: Genus containing 9 species.
+category: taxonomy/genus
+tags: [herpestes, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atilax/breadcrumb.md, ../Bdeogale/breadcrumb.md, ../Crossarchus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 9
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Herpestes_brachyurus.cs"
-    name: "Herpestes brachyurus"
-    common_name: "Herpestes_brachyurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Herpestes_edwardsi.cs"
-    name: "Herpestes edwardsi"
-    common_name: "Herpestes_edwardsi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Herpestes_fuscus.cs"
-    name: "Herpestes fuscus"
-    common_name: "Herpestes_fuscus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Herpestes_ichneumon.cs"
-    name: "Herpestes ichneumon"
-    common_name: "Herpestes_ichneumon"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Herpestes_semitorquatus.cs"
-    name: "Herpestes semitorquatus"
-    common_name: "Herpestes_semitorquatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Herpestes_smithii.cs"
-    name: "Herpestes smithii"
-    common_name: "Herpestes_smithii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Herpestes_sp.cs"
-    name: "Herpestes sp."
-    common_name: "Herpestes_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Herpestes_urva.cs"
-    name: "Herpestes urva"
-    common_name: "Herpestes_urva"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Herpestes_vitticollis.cs"
-    name: "Herpestes vitticollis"
-    common_name: "Herpestes_vitticollis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Herpestes_brachyurus:
+    common_name: Herpestes_brachyurus
+    conservation: UK
+  Herpestes_edwardsi:
+    common_name: Herpestes_edwardsi
+    conservation: UK
+  Herpestes_fuscus:
+    common_name: Herpestes_fuscus
+    conservation: UK
+  Herpestes_ichneumon:
+    common_name: Herpestes_ichneumon
+    conservation: UK
+  Herpestes_semitorquatus:
+    common_name: Herpestes_semitorquatus
+    conservation: UK
+  Herpestes_smithii:
+    common_name: Herpestes_smithii
+    conservation: UK
+  Herpestes_sp:
+    common_name: Herpestes_sp
+    conservation: UK
+  Herpestes_urva:
+    common_name: Herpestes_urva
+    conservation: UK
+  Herpestes_vitticollis:
+    common_name: Herpestes_vitticollis
+    conservation: UK
 ---
-
 # Herpestes
 
 Genus containing 9 species.

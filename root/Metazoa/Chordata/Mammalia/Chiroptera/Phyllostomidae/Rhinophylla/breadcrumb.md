@@ -1,40 +1,27 @@
 ---
-title: "Rhinophylla"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["rhinophylla", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 138698
-parent: "../breadcrumb.md"
+title: Rhinophylla
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [rhinophylla, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rhinophylla_alethina.cs"
-    name: "Rhinophylla alethina"
-    common_name: "Rhinophylla_alethina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinophylla_fischerae.cs"
-    name: "Rhinophylla fischerae"
-    common_name: "Rhinophylla_fischerae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinophylla_pumilio.cs"
-    name: "Rhinophylla pumilio"
-    common_name: "Rhinophylla_pumilio"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rhinophylla_alethina:
+    common_name: Rhinophylla_alethina
+    conservation: UK
+  Rhinophylla_fischerae:
+    common_name: Rhinophylla_fischerae
+    conservation: UK
+  Rhinophylla_pumilio:
+    common_name: Rhinophylla_pumilio
+    conservation: UK
 ---
-
 # Rhinophylla
 
 Genus containing 3 species.

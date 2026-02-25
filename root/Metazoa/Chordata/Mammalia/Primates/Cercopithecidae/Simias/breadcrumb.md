@@ -1,30 +1,21 @@
 ---
-title: "Simias"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["simias", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allenopithecus/breadcrumb.md", "../Allochrocebus/breadcrumb.md", "../Cercocebus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1203020
-parent: "../breadcrumb.md"
+title: Simias
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [simias, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allenopithecus/breadcrumb.md, ../Allochrocebus/breadcrumb.md, ../Cercocebus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Simias_concolor.cs"
-    name: "Simias concolor"
-    common_name: "Simias_concolor"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Simias_concolor:
+    common_name: Simias_concolor
+    conservation: UK
 ---
-
 # Simias
 
 Genus containing 1 species.

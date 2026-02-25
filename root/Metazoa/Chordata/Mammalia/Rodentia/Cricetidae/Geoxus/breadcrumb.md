@@ -1,45 +1,30 @@
 ---
-title: "Geoxus"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["geoxus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 29110
-parent: "../breadcrumb.md"
+title: Geoxus
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [geoxus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Geoxus_annectens.cs"
-    name: "Geoxus annectens"
-    common_name: "Geoxus_annectens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Geoxus_lafkenche.cs"
-    name: "Geoxus lafkenche"
-    common_name: "Geoxus_lafkenche"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Geoxus_michaelseni.cs"
-    name: "Geoxus michaelseni"
-    common_name: "Geoxus_michaelseni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Geoxus_valdivianus.cs"
-    name: "Geoxus valdivianus"
-    common_name: "Geoxus_valdivianus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Geoxus_annectens:
+    common_name: Geoxus_annectens
+    conservation: UK
+  Geoxus_lafkenche:
+    common_name: Geoxus_lafkenche
+    conservation: UK
+  Geoxus_michaelseni:
+    common_name: Geoxus_michaelseni
+    conservation: UK
+  Geoxus_valdivianus:
+    common_name: Geoxus_valdivianus
+    conservation: UK
 ---
-
 # Geoxus
 
 Genus containing 4 species.

@@ -1,30 +1,21 @@
 ---
-title: "Caluromysiops"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["caluromysiops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Caluromys/breadcrumb.md", "../Chacodelphys/breadcrumb.md", "../Chironectes/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 126285
-parent: "../breadcrumb.md"
+title: Caluromysiops
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [caluromysiops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Caluromys/breadcrumb.md, ../Chacodelphys/breadcrumb.md, ../Chironectes/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Caluromysiops_irrupta.cs"
-    name: "Caluromysiops irrupta"
-    common_name: "Caluromysiops_irrupta"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Caluromysiops_irrupta:
+    common_name: Caluromysiops_irrupta
+    conservation: UK
 ---
-
 # Caluromysiops
 
 Genus containing 1 species.

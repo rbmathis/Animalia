@@ -1,50 +1,33 @@
 ---
-title: "Otomops"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["otomops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cheiromeles/breadcrumb.md", "../Cynomops/breadcrumb.md", "../Eumops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 258866
-parent: "../breadcrumb.md"
+title: Otomops
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [otomops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cheiromeles/breadcrumb.md, ../Cynomops/breadcrumb.md, ../Eumops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Otomops_cf_formosus.cs"
-    name: "Otomops cf. formosus"
-    common_name: "Otomops_cf_formosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomops_harrisoni.cs"
-    name: "Otomops harrisoni"
-    common_name: "Otomops_harrisoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomops_madagascariensis.cs"
-    name: "Otomops madagascariensis"
-    common_name: "Otomops_madagascariensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomops_martiensseni.cs"
-    name: "Otomops martiensseni"
-    common_name: "Otomops_martiensseni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomops_wroughtoni.cs"
-    name: "Otomops wroughtoni"
-    common_name: "Otomops_wroughtoni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Otomops_cf_formosus:
+    common_name: Otomops_cf_formosus
+    conservation: UK
+  Otomops_harrisoni:
+    common_name: Otomops_harrisoni
+    conservation: UK
+  Otomops_madagascariensis:
+    common_name: Otomops_madagascariensis
+    conservation: UK
+  Otomops_martiensseni:
+    common_name: Otomops_martiensseni
+    conservation: UK
+  Otomops_wroughtoni:
+    common_name: Otomops_wroughtoni
+    conservation: UK
 ---
-
 # Otomops
 
 Genus containing 5 species.

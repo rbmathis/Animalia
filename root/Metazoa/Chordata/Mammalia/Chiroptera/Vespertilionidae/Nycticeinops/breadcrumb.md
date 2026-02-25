@@ -1,65 +1,42 @@
 ---
-title: "Nycticeinops"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["nycticeinops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 59468
-parent: "../breadcrumb.md"
+title: Nycticeinops
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [nycticeinops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Nycticeinops_bellieri.cs"
-    name: "Nycticeinops bellieri"
-    common_name: "Nycticeinops_bellieri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycticeinops_cf_crassulus.cs"
-    name: "Nycticeinops cf. crassulus"
-    common_name: "Nycticeinops_cf_crassulus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycticeinops_cf_grandidieri_JJA_2019.cs"
-    name: "Nycticeinops cf. grandidieri JJA-2019"
-    common_name: "Nycticeinops_cf_grandidieri_JJA_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycticeinops_cf_schlieffenii.cs"
-    name: "Nycticeinops cf. schlieffenii"
-    common_name: "Nycticeinops_cf_schlieffenii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycticeinops_crassulus.cs"
-    name: "Nycticeinops crassulus"
-    common_name: "Nycticeinops_crassulus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycticeinops_grandidieri.cs"
-    name: "Nycticeinops grandidieri"
-    common_name: "Nycticeinops_grandidieri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycticeinops_macrocephalus.cs"
-    name: "Nycticeinops macrocephalus"
-    common_name: "Nycticeinops_macrocephalus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycticeinops_schlieffeni.cs"
-    name: "Nycticeinops schlieffeni"
-    common_name: "Nycticeinops_schlieffeni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Nycticeinops_bellieri:
+    common_name: Nycticeinops_bellieri
+    conservation: UK
+  Nycticeinops_cf_crassulus:
+    common_name: Nycticeinops_cf_crassulus
+    conservation: UK
+  Nycticeinops_cf_grandidieri_JJA_2019:
+    common_name: Nycticeinops_cf_grandidieri_JJA_2019
+    conservation: UK
+  Nycticeinops_cf_schlieffenii:
+    common_name: Nycticeinops_cf_schlieffenii
+    conservation: UK
+  Nycticeinops_crassulus:
+    common_name: Nycticeinops_crassulus
+    conservation: UK
+  Nycticeinops_grandidieri:
+    common_name: Nycticeinops_grandidieri
+    conservation: UK
+  Nycticeinops_macrocephalus:
+    common_name: Nycticeinops_macrocephalus
+    conservation: UK
+  Nycticeinops_schlieffeni:
+    common_name: Nycticeinops_schlieffeni
+    conservation: UK
 ---
-
 # Nycticeinops
 
 Genus containing 8 species.

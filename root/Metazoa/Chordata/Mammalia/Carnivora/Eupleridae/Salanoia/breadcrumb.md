@@ -1,35 +1,24 @@
 ---
-title: "Salanoia"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["salanoia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cryptoprocta/breadcrumb.md", "../Eupleres/breadcrumb.md", "../Fossa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 219104
-parent: "../breadcrumb.md"
+title: Salanoia
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [salanoia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cryptoprocta/breadcrumb.md, ../Eupleres/breadcrumb.md, ../Fossa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Salanoia_concolor.cs"
-    name: "Salanoia concolor"
-    common_name: "Salanoia_concolor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Salanoia_durrelli.cs"
-    name: "Salanoia durrelli"
-    common_name: "Salanoia_durrelli"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Salanoia_concolor:
+    common_name: Salanoia_concolor
+    conservation: UK
+  Salanoia_durrelli:
+    common_name: Salanoia_durrelli
+    conservation: UK
 ---
-
 # Salanoia
 
 Genus containing 2 species.

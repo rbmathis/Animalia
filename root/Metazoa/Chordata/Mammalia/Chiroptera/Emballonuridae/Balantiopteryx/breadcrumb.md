@@ -1,40 +1,27 @@
 ---
-title: "Balantiopteryx"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["balantiopteryx", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Centronycteris/breadcrumb.md", "../Coleura/breadcrumb.md", "../Cormura/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 148079
-parent: "../breadcrumb.md"
+title: Balantiopteryx
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [balantiopteryx, genus]
+status: Living
+updated: 2026-02-23
+related: [../Centronycteris/breadcrumb.md, ../Coleura/breadcrumb.md, ../Cormura/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Balantiopteryx_infusca.cs"
-    name: "Balantiopteryx infusca"
-    common_name: "Balantiopteryx_infusca"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Balantiopteryx_io.cs"
-    name: "Balantiopteryx io"
-    common_name: "Balantiopteryx_io"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Balantiopteryx_plicata.cs"
-    name: "Balantiopteryx plicata"
-    common_name: "Balantiopteryx_plicata"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Balantiopteryx_infusca:
+    common_name: Balantiopteryx_infusca
+    conservation: UK
+  Balantiopteryx_io:
+    common_name: Balantiopteryx_io
+    conservation: UK
+  Balantiopteryx_plicata:
+    common_name: Balantiopteryx_plicata
+    conservation: UK
 ---
-
 # Balantiopteryx
 
 Genus containing 3 species.

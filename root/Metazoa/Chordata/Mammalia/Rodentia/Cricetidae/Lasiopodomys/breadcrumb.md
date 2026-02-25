@@ -1,40 +1,27 @@
 ---
-title: "Lasiopodomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["lasiopodomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 399233
-parent: "../breadcrumb.md"
+title: Lasiopodomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [lasiopodomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lasiopodomys_anglicus.cs"
-    name: "Lasiopodomys anglicus"
-    common_name: "Lasiopodomys_anglicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lasiopodomys_brandtii.cs"
-    name: "Lasiopodomys brandtii"
-    common_name: "Lasiopodomys_brandtii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lasiopodomys_mandarinus.cs"
-    name: "Lasiopodomys mandarinus"
-    common_name: "Lasiopodomys_mandarinus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lasiopodomys_anglicus:
+    common_name: Lasiopodomys_anglicus
+    conservation: UK
+  Lasiopodomys_brandtii:
+    common_name: Lasiopodomys_brandtii
+    conservation: UK
+  Lasiopodomys_mandarinus:
+    common_name: Lasiopodomys_mandarinus
+    conservation: UK
 ---
-
 # Lasiopodomys
 
 Genus containing 3 species.

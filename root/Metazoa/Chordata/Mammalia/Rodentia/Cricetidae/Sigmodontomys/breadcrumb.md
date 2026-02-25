@@ -1,41 +1,28 @@
 ---
-title: "Sigmodontomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["sigmodontomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 218837
-parent: "../breadcrumb.md"
+title: Sigmodontomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [sigmodontomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Sigmodontomys_alfari.cs"
-    name: "Sigmodontomys alfari"
-    common_name: "Sigmodontomys_alfari"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sigmodontomys_aphrastus.cs"
-    name: "Sigmodontomys aphrastus"
-    common_name: "Sigmodontomys_aphrastus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sigmodontomys_sp_JDH_2010a.cs"
-    name: "Sigmodontomys sp. JDH-2010a"
-    common_name: "Sigmodontomys_sp_JDH_2010a"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Sigmodontomys_alfari:
+    common_name: Sigmodontomys_alfari
+    conservation: UK
+  Sigmodontomys_aphrastus:
+    common_name: Sigmodontomys_aphrastus
+    conservation: UK
+  Sigmodontomys_sp_JDH_2010a:
+    common_name: Sigmodontomys_sp_JDH_2010a
+    conservation: UK
 ---
-
 # Sigmodontomys
 
 Genus containing 3 species.

@@ -1,30 +1,21 @@
 ---
-title: "Mirimiri"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["mirimiri", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1496136
-parent: "../breadcrumb.md"
+title: Mirimiri
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [mirimiri, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mirimiri_acrodonta.cs"
-    name: "Mirimiri acrodonta"
-    common_name: "Mirimiri_acrodonta"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mirimiri_acrodonta:
+    common_name: Mirimiri_acrodonta
+    conservation: UK
 ---
-
 # Mirimiri
 
 Genus containing 1 species.

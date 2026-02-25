@@ -1,46 +1,19 @@
 ---
-title: "Cercopithecidae"
-description: "Family containing 24 genera."
-category: "taxonomy/family"
-tags: ["cercopithecidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aotidae/breadcrumb.md", "../Atelidae/breadcrumb.md", "../Cebidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9527
-parent: "../breadcrumb.md"
+title: Cercopithecidae
+description: Family containing 24 genera.
+category: taxonomy/family
+tags: [cercopithecidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Aotidae/breadcrumb.md, ../Atelidae/breadcrumb.md, ../Cebidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 24
 species_count: 1
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Allenopithecus/breadcrumb.md"
-    name: "Allenopithecus"
-  - path: "Allochrocebus/breadcrumb.md"
-    name: "Allochrocebus"
-  - path: "Cercocebus/breadcrumb.md"
-    name: "Cercocebus"
-  - path: "Cercopithecus/breadcrumb.md"
-    name: "Cercopithecus"
-  - path: "Chlorocebus/breadcrumb.md"
-    name: "Chlorocebus"
-  - path: "Colobus/breadcrumb.md"
-    name: "Colobus"
-  - path: "Erythrocebus/breadcrumb.md"
-    name: "Erythrocebus"
-  - path: "Lophocebus/breadcrumb.md"
-    name: "Lophocebus"
-  - path: "Macaca/breadcrumb.md"
-    name: "Macaca"
-  - path: "Mandrillus/breadcrumb.md"
-    name: "Mandrillus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Allenopithecus, Allochrocebus, Cercocebus, Cercopithecus, Chlorocebus, Colobus, Erythrocebus, Lophocebus, Macaca, Mandrillus]
 ---
-
 # Cercopithecidae
 
 Family containing 24 genera.

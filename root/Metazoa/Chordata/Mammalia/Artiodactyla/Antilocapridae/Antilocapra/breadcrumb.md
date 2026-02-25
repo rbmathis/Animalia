@@ -1,30 +1,21 @@
 ---
-title: "Antilocapra"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["antilocapra", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Antilocapra
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [antilocapra, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9890
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Antilocapra_americana.cs"
-    name: "Antilocapra americana"
-    common_name: "Antilocapra_americana"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Antilocapra_americana:
+    common_name: Antilocapra_americana
+    conservation: UK
 ---
-
 # Antilocapra
 
 Genus containing 1 species.

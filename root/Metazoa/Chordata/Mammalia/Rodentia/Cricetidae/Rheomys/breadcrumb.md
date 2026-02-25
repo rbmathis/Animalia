@@ -1,40 +1,27 @@
 ---
-title: "Rheomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["rheomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 218835
-parent: "../breadcrumb.md"
+title: Rheomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [rheomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rheomys_mexicanus.cs"
-    name: "Rheomys mexicanus"
-    common_name: "Rheomys_mexicanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rheomys_raptor.cs"
-    name: "Rheomys raptor"
-    common_name: "Rheomys_raptor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rheomys_thomasi.cs"
-    name: "Rheomys thomasi"
-    common_name: "Rheomys_thomasi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rheomys_mexicanus:
+    common_name: Rheomys_mexicanus
+    conservation: UK
+  Rheomys_raptor:
+    common_name: Rheomys_raptor
+    conservation: UK
+  Rheomys_thomasi:
+    common_name: Rheomys_thomasi
+    conservation: UK
 ---
-
 # Rheomys
 
 Genus containing 3 species.

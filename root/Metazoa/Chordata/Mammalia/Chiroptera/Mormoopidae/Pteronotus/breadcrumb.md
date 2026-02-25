@@ -1,106 +1,67 @@
 ---
-title: "Pteronotus"
-description: "Genus containing 16 species."
-category: "taxonomy/genus"
-tags: ["pteronotus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Mormoops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 59475
-parent: "../breadcrumb.md"
+title: Pteronotus
+description: Genus containing 16 species.
+category: taxonomy/genus
+tags: [pteronotus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Mormoops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 16
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pteronotus_alitonus.cs"
-    name: "Pteronotus alitonus"
-    common_name: "Pteronotus_alitonus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteronotus_davyi.cs"
-    name: "Pteronotus davyi"
-    common_name: "Pteronotus_davyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteronotus_fuliginosus.cs"
-    name: "Pteronotus fuliginosus"
-    common_name: "Pteronotus_fuliginosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteronotus_fulvus.cs"
-    name: "Pteronotus fulvus"
-    common_name: "Pteronotus_fulvus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteronotus_gymnonotus.cs"
-    name: "Pteronotus gymnonotus"
-    common_name: "Pteronotus_gymnonotus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteronotus_macleayii.cs"
-    name: "Pteronotus macleayii"
-    common_name: "Pteronotus_macleayii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteronotus_mesoamericanus.cs"
-    name: "Pteronotus mesoamericanus"
-    common_name: "Pteronotus_mesoamericanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteronotus_parnellii.cs"
-    name: "Pteronotus parnellii"
-    common_name: "Pteronotus_parnellii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteronotus_personatus.cs"
-    name: "Pteronotus personatus"
-    common_name: "Pteronotus_personatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteronotus_psilotis.cs"
-    name: "Pteronotus psilotis"
-    common_name: "Pteronotus_psilotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteronotus_pusillus.cs"
-    name: "Pteronotus pusillus"
-    common_name: "Pteronotus_pusillus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteronotus_quadridens.cs"
-    name: "Pteronotus quadridens"
-    common_name: "Pteronotus_quadridens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteronotus_rubiginosus.cs"
-    name: "Pteronotus rubiginosus"
-    common_name: "Pteronotus_rubiginosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteronotus_sp.cs"
-    name: "Pteronotus sp."
-    common_name: "Pteronotus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteronotus_sp_3_BdT_2015.cs"
-    name: "Pteronotus sp. 3 BdT-2015"
-    common_name: "Pteronotus_sp_3_BdT_2015"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteronotus_sp_PV_RO_BRA.cs"
-    name: "Pteronotus sp. PV-RO-BRA"
-    common_name: "Pteronotus_sp_PV_RO_BRA"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pteronotus_alitonus:
+    common_name: Pteronotus_alitonus
+    conservation: UK
+  Pteronotus_davyi:
+    common_name: Pteronotus_davyi
+    conservation: UK
+  Pteronotus_fuliginosus:
+    common_name: Pteronotus_fuliginosus
+    conservation: UK
+  Pteronotus_fulvus:
+    common_name: Pteronotus_fulvus
+    conservation: UK
+  Pteronotus_gymnonotus:
+    common_name: Pteronotus_gymnonotus
+    conservation: UK
+  Pteronotus_macleayii:
+    common_name: Pteronotus_macleayii
+    conservation: UK
+  Pteronotus_mesoamericanus:
+    common_name: Pteronotus_mesoamericanus
+    conservation: UK
+  Pteronotus_parnellii:
+    common_name: Pteronotus_parnellii
+    conservation: UK
+  Pteronotus_personatus:
+    common_name: Pteronotus_personatus
+    conservation: UK
+  Pteronotus_psilotis:
+    common_name: Pteronotus_psilotis
+    conservation: UK
+  Pteronotus_pusillus:
+    common_name: Pteronotus_pusillus
+    conservation: UK
+  Pteronotus_quadridens:
+    common_name: Pteronotus_quadridens
+    conservation: UK
+  Pteronotus_rubiginosus:
+    common_name: Pteronotus_rubiginosus
+    conservation: UK
+  Pteronotus_sp:
+    common_name: Pteronotus_sp
+    conservation: UK
+  Pteronotus_sp_3_BdT_2015:
+    common_name: Pteronotus_sp_3_BdT_2015
+    conservation: UK
+  Pteronotus_sp_PV_RO_BRA:
+    common_name: Pteronotus_sp_PV_RO_BRA
+    conservation: UK
 ---
-
 # Pteronotus
 
 Genus containing 16 species.

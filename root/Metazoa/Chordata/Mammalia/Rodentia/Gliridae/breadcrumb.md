@@ -1,44 +1,19 @@
 ---
-title: "Gliridae"
-description: "Family containing 9 genera."
-category: "taxonomy/family"
-tags: ["gliridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 30650
-parent: "../breadcrumb.md"
+title: Gliridae
+description: Family containing 9 genera.
+category: taxonomy/family
+tags: [gliridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 9
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Dryomys/breadcrumb.md"
-    name: "Dryomys"
-  - path: "Eliomys/breadcrumb.md"
-    name: "Eliomys"
-  - path: "Glirulus/breadcrumb.md"
-    name: "Glirulus"
-  - path: "Glis/breadcrumb.md"
-    name: "Glis"
-  - path: "Graphiurus/breadcrumb.md"
-    name: "Graphiurus"
-  - path: "Hypnomys/breadcrumb.md"
-    name: "Hypnomys"
-  - path: "Muscardinus/breadcrumb.md"
-    name: "Muscardinus"
-  - path: "Myomimus/breadcrumb.md"
-    name: "Myomimus"
-  - path: "Selevinia/breadcrumb.md"
-    name: "Selevinia"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Dryomys, Eliomys, Glirulus, Glis, Graphiurus, Hypnomys, Muscardinus, Myomimus, Selevinia]
 ---
-
 # Gliridae
 
 Family containing 9 genera.

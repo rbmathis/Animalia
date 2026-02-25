@@ -1,35 +1,24 @@
 ---
-title: "Stephanorhinus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["stephanorhinus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ceratotherium/breadcrumb.md", "../Coelodonta/breadcrumb.md", "../Dicerorhinus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2003758
-parent: "../breadcrumb.md"
+title: Stephanorhinus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [stephanorhinus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ceratotherium/breadcrumb.md, ../Coelodonta/breadcrumb.md, ../Dicerorhinus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Stephanorhinus_cf_kirchbergensis_PH_2017.cs"
-    name: "Stephanorhinus cf. kirchbergensis PH-2017"
-    common_name: "Stephanorhinus_cf_kirchbergensis_PH_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Stephanorhinus_kirchbergensis.cs"
-    name: "Stephanorhinus kirchbergensis"
-    common_name: "Stephanorhinus_kirchbergensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Stephanorhinus_cf_kirchbergensis_PH_2017:
+    common_name: Stephanorhinus_cf_kirchbergensis_PH_2017
+    conservation: UK
+  Stephanorhinus_kirchbergensis:
+    common_name: Stephanorhinus_kirchbergensis
+    conservation: UK
 ---
-
 # Stephanorhinus
 
 Genus containing 2 species.

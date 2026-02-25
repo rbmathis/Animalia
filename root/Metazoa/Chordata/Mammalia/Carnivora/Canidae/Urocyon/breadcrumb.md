@@ -1,35 +1,24 @@
 ---
-title: "Urocyon"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["urocyon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aenocyon/breadcrumb.md", "../Atelocynus/breadcrumb.md", "../Canidae_intergeneric_hybrids/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 55039
-parent: "../breadcrumb.md"
+title: Urocyon
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [urocyon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aenocyon/breadcrumb.md, ../Atelocynus/breadcrumb.md, ../Canidae_intergeneric_hybrids/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Urocyon_cinereoargenteus.cs"
-    name: "Urocyon cinereoargenteus"
-    common_name: "Urocyon_cinereoargenteus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Urocyon_littoralis.cs"
-    name: "Urocyon littoralis"
-    common_name: "Urocyon_littoralis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Urocyon_cinereoargenteus:
+    common_name: Urocyon_cinereoargenteus
+    conservation: UK
+  Urocyon_littoralis:
+    common_name: Urocyon_littoralis
+    conservation: UK
 ---
-
 # Urocyon
 
 Genus containing 2 species.

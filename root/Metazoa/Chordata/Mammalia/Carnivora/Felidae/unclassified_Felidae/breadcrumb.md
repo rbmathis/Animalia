@@ -1,23 +1,20 @@
 ---
-title: "unclassified_Felidae"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["unclassified_felidae", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acinonyx/breadcrumb.md", "../Caracal/breadcrumb.md", "../Catopuma/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-parent: "../breadcrumb.md"
+title: unclassified_Felidae
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [unclassified_felidae, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acinonyx/breadcrumb.md, ../Caracal/breadcrumb.md, ../Catopuma/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-species:
-  - file: "Felidae_sp.cs"
-    name: "Felidae sp."
-    common_name: "Felidae_sp"
-    conservation: "Unknown"
-    enriched: false
+species_data:
+  Felidae_sp:
+    common_name: Felidae_sp
+    conservation: UK
 ---
-
 # unclassified_Felidae
 
 Genus containing 1 species.

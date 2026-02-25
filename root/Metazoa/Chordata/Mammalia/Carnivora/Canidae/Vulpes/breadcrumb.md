@@ -1,96 +1,61 @@
 ---
-title: "Vulpes"
-description: "Genus containing 14 species."
-category: "taxonomy/genus"
-tags: ["vulpes", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aenocyon/breadcrumb.md", "../Atelocynus/breadcrumb.md", "../Canidae_intergeneric_hybrids/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9625
-parent: "../breadcrumb.md"
+title: Vulpes
+description: Genus containing 14 species.
+category: taxonomy/genus
+tags: [vulpes, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aenocyon/breadcrumb.md, ../Atelocynus/breadcrumb.md, ../Canidae_intergeneric_hybrids/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 14
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Vulpes_bengalensis.cs"
-    name: "Vulpes bengalensis"
-    common_name: "Vulpes_bengalensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vulpes_cana.cs"
-    name: "Vulpes cana"
-    common_name: "Vulpes_cana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vulpes_chama.cs"
-    name: "Vulpes chama"
-    common_name: "Vulpes_chama"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vulpes_corsac.cs"
-    name: "Vulpes corsac"
-    common_name: "Vulpes_corsac"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vulpes_environmental_sample.cs"
-    name: "Vulpes environmental sample"
-    common_name: "Vulpes_environmental_sample"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vulpes_ferrilata.cs"
-    name: "Vulpes ferrilata"
-    common_name: "Vulpes_ferrilata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vulpes_lagopus.cs"
-    name: "Vulpes lagopus"
-    common_name: "Vulpes_lagopus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vulpes_macrotis.cs"
-    name: "Vulpes macrotis"
-    common_name: "Vulpes_macrotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vulpes_pallida.cs"
-    name: "Vulpes pallida"
-    common_name: "Vulpes_pallida"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vulpes_rueppellii.cs"
-    name: "Vulpes rueppellii"
-    common_name: "Vulpes_rueppellii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vulpes_sp.cs"
-    name: "Vulpes sp."
-    common_name: "Vulpes_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vulpes_velox.cs"
-    name: "Vulpes velox"
-    common_name: "Vulpes_velox"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vulpes_vulpes.cs"
-    name: "Vulpes vulpes"
-    common_name: "Vulpes_vulpes"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vulpes_zerda.cs"
-    name: "Vulpes zerda"
-    common_name: "Vulpes_zerda"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Vulpes_bengalensis:
+    common_name: Vulpes_bengalensis
+    conservation: UK
+  Vulpes_cana:
+    common_name: Vulpes_cana
+    conservation: UK
+  Vulpes_chama:
+    common_name: Vulpes_chama
+    conservation: UK
+  Vulpes_corsac:
+    common_name: Vulpes_corsac
+    conservation: UK
+  Vulpes_environmental_sample:
+    common_name: Vulpes_environmental_sample
+    conservation: UK
+  Vulpes_ferrilata:
+    common_name: Vulpes_ferrilata
+    conservation: UK
+  Vulpes_lagopus:
+    common_name: Vulpes_lagopus
+    conservation: UK
+  Vulpes_macrotis:
+    common_name: Vulpes_macrotis
+    conservation: UK
+  Vulpes_pallida:
+    common_name: Vulpes_pallida
+    conservation: UK
+  Vulpes_rueppellii:
+    common_name: Vulpes_rueppellii
+    conservation: UK
+  Vulpes_sp:
+    common_name: Vulpes_sp
+    conservation: UK
+  Vulpes_velox:
+    common_name: Vulpes_velox
+    conservation: UK
+  Vulpes_vulpes:
+    common_name: Vulpes_vulpes
+    conservation: UK
+  Vulpes_zerda:
+    common_name: Vulpes_zerda
+    conservation: UK
 ---
-
 # Vulpes
 
 Genus containing 14 species.

@@ -1,45 +1,30 @@
 ---
-title: "Pusa"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["pusa", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cystophora/breadcrumb.md", "../Erignathus/breadcrumb.md", "../Halichoerus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 693430
-parent: "../breadcrumb.md"
+title: Pusa
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [pusa, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cystophora/breadcrumb.md, ../Erignathus/breadcrumb.md, ../Halichoerus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pusa_caspica.cs"
-    name: "Pusa caspica"
-    common_name: "Pusa_caspica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pusa_hispida.cs"
-    name: "Pusa hispida"
-    common_name: "Pusa_hispida"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pusa_saimensis.cs"
-    name: "Pusa saimensis"
-    common_name: "Pusa_saimensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pusa_sibirica.cs"
-    name: "Pusa sibirica"
-    common_name: "Pusa_sibirica"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pusa_caspica:
+    common_name: Pusa_caspica
+    conservation: UK
+  Pusa_hispida:
+    common_name: Pusa_hispida
+    conservation: UK
+  Pusa_saimensis:
+    common_name: Pusa_saimensis
+    conservation: UK
+  Pusa_sibirica:
+    common_name: Pusa_sibirica
+    conservation: UK
 ---
-
 # Pusa
 
 Genus containing 4 species.

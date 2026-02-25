@@ -1,66 +1,43 @@
 ---
-title: "Taeromys"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["taeromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1405179
-parent: "../breadcrumb.md"
+title: Taeromys
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [taeromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Taeromys_callitrichus.cs"
-    name: "Taeromys callitrichus"
-    common_name: "Taeromys_callitrichus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Taeromys_celebensis.cs"
-    name: "Taeromys celebensis"
-    common_name: "Taeromys_celebensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Taeromys_dominator.cs"
-    name: "Taeromys dominator"
-    common_name: "Taeromys_dominator"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Taeromys_hamatus.cs"
-    name: "Taeromys hamatus"
-    common_name: "Taeromys_hamatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Taeromys_punicans.cs"
-    name: "Taeromys punicans"
-    common_name: "Taeromys_punicans"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Taeromys_sp_n_HH_2020.cs"
-    name: "Taeromys sp. n. HH-2020"
-    common_name: "Taeromys_sp_n_HH_2020"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Taeromys_sp_n_KR_2020.cs"
-    name: "Taeromys sp. n. KR-2020"
-    common_name: "Taeromys_sp_n_KR_2020"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Taeromys_taerae.cs"
-    name: "Taeromys taerae"
-    common_name: "Taeromys_taerae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Taeromys_callitrichus:
+    common_name: Taeromys_callitrichus
+    conservation: UK
+  Taeromys_celebensis:
+    common_name: Taeromys_celebensis
+    conservation: UK
+  Taeromys_dominator:
+    common_name: Taeromys_dominator
+    conservation: UK
+  Taeromys_hamatus:
+    common_name: Taeromys_hamatus
+    conservation: UK
+  Taeromys_punicans:
+    common_name: Taeromys_punicans
+    conservation: UK
+  Taeromys_sp_n_HH_2020:
+    common_name: Taeromys_sp_n_HH_2020
+    conservation: UK
+  Taeromys_sp_n_KR_2020:
+    common_name: Taeromys_sp_n_KR_2020
+    conservation: UK
+  Taeromys_taerae:
+    common_name: Taeromys_taerae
+    conservation: UK
 ---
-
 # Taeromys
 
 Genus containing 8 species.

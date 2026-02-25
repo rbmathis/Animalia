@@ -1,61 +1,40 @@
 ---
-title: "Cervus"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["cervus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alces/breadcrumb.md", "../Axis/breadcrumb.md", "../Bisbalus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9859
-parent: "../breadcrumb.md"
+title: Cervus
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [cervus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alces/breadcrumb.md, ../Axis/breadcrumb.md, ../Bisbalus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cervus_albirostris.cs"
-    name: "Cervus albirostris"
-    common_name: "Cervus_albirostris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cervus_canadensis.cs"
-    name: "Cervus canadensis"
-    common_name: "Cervus_canadensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cervus_elaphus.cs"
-    name: "Cervus elaphus"
-    common_name: "Cervus_elaphus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cervus_hanglu.cs"
-    name: "Cervus hanglu"
-    common_name: "Cervus_hanglu"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cervus_nippon.cs"
-    name: "Cervus nippon"
-    common_name: "Cervus_nippon"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cervus_sp.cs"
-    name: "Cervus sp."
-    common_name: "Cervus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cervus_sp_elaphus_sibiricusxanthopygus_OG_2023.cs"
-    name: "Cervus sp. 'elaphus sibiricus/xanthopygus' OG-2023"
-    common_name: "Cervus_sp_elaphus_sibiricusxanthopygus_OG_2023"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cervus_albirostris:
+    common_name: Cervus_albirostris
+    conservation: UK
+  Cervus_canadensis:
+    common_name: Cervus_canadensis
+    conservation: UK
+  Cervus_elaphus:
+    common_name: Cervus_elaphus
+    conservation: UK
+  Cervus_hanglu:
+    common_name: Cervus_hanglu
+    conservation: UK
+  Cervus_nippon:
+    common_name: Cervus_nippon
+    conservation: UK
+  Cervus_sp:
+    common_name: Cervus_sp
+    conservation: UK
+  Cervus_sp_elaphus_sibiricusxanthopygus_OG_2023:
+    common_name: Cervus_sp_elaphus_sibiricusxanthopygus_OG_2023
+    conservation: UK
 ---
-
 # Cervus
 
 Genus containing 7 species.

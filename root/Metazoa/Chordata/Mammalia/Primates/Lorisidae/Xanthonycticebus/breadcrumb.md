@@ -1,36 +1,25 @@
 ---
-title: "Xanthonycticebus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["xanthonycticebus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Arctocebus/breadcrumb.md", "../Loris/breadcrumb.md", "../Nycticebus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3030685
-parent: "../breadcrumb.md"
+title: Xanthonycticebus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [xanthonycticebus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Arctocebus/breadcrumb.md, ../Loris/breadcrumb.md, ../Nycticebus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Xanthonycticebus_pygmaeus.cs"
-    name: "Xanthonycticebus pygmaeus"
-    common_name: "Xanthonycticebus_pygmaeus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Xanthonycticebus_sp_i_MB_2023.cs"
-    name: "Xanthonycticebus sp. i MB-2023"
-    common_name: "Xanthonycticebus_sp_i_MB_2023"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Xanthonycticebus_pygmaeus:
+    common_name: Xanthonycticebus_pygmaeus
+    conservation: UK
+  Xanthonycticebus_sp_i_MB_2023:
+    common_name: Xanthonycticebus_sp_i_MB_2023
+    conservation: UK
 ---
-
 # Xanthonycticebus
 
 Genus containing 2 species.

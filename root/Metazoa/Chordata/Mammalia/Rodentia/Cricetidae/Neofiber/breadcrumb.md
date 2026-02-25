@@ -1,30 +1,21 @@
 ---
-title: "Neofiber"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["neofiber", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 484904
-parent: "../breadcrumb.md"
+title: Neofiber
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [neofiber, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Neofiber_alleni.cs"
-    name: "Neofiber alleni"
-    common_name: "Neofiber_alleni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Neofiber_alleni:
+    common_name: Neofiber_alleni
+    conservation: UK
 ---
-
 # Neofiber
 
 Genus containing 1 species.

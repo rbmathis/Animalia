@@ -1,45 +1,30 @@
 ---
-title: "Geocapromys"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["geocapromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Capromys/breadcrumb.md", "../Mesocapromys/breadcrumb.md", "../Mysateles/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1543401
-parent: "../breadcrumb.md"
+title: Geocapromys
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [geocapromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Capromys/breadcrumb.md, ../Mesocapromys/breadcrumb.md, ../Mysateles/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Geocapromys_brownii.cs"
-    name: "Geocapromys brownii"
-    common_name: "Geocapromys_brownii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Geocapromys_columbianus.cs"
-    name: "Geocapromys columbianus"
-    common_name: "Geocapromys_columbianus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Geocapromys_ingrahami.cs"
-    name: "Geocapromys ingrahami"
-    common_name: "Geocapromys_ingrahami"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Geocapromys_thoracatus.cs"
-    name: "Geocapromys thoracatus"
-    common_name: "Geocapromys_thoracatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Geocapromys_brownii:
+    common_name: Geocapromys_brownii
+    conservation: UK
+  Geocapromys_columbianus:
+    common_name: Geocapromys_columbianus
+    conservation: UK
+  Geocapromys_ingrahami:
+    common_name: Geocapromys_ingrahami
+    conservation: UK
+  Geocapromys_thoracatus:
+    common_name: Geocapromys_thoracatus
+    conservation: UK
 ---
-
 # Geocapromys
 
 Genus containing 4 species.

@@ -1,30 +1,21 @@
 ---
-title: "Trinycteris"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["trinycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3477446
-parent: "../breadcrumb.md"
+title: Trinycteris
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [trinycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Trinycteris_nicefori.cs"
-    name: "Trinycteris nicefori"
-    common_name: "Trinycteris_nicefori"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Trinycteris_nicefori:
+    common_name: Trinycteris_nicefori
+    conservation: UK
 ---
-
 # Trinycteris
 
 Genus containing 1 species.

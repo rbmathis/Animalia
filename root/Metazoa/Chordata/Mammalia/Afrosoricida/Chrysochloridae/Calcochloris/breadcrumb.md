@@ -1,30 +1,21 @@
 ---
-title: "Calcochloris"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["calcochloris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Amblysomus/breadcrumb.md", "../Carpitalpa/breadcrumb.md", "../Chlorotalpa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 745242
-parent: "../breadcrumb.md"
+title: Calcochloris
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [calcochloris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Amblysomus/breadcrumb.md, ../Carpitalpa/breadcrumb.md, ../Chlorotalpa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Calcochloris_obtusirostris.cs"
-    name: "Calcochloris obtusirostris"
-    common_name: "Calcochloris_obtusirostris"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Calcochloris_obtusirostris:
+    common_name: Calcochloris_obtusirostris
+    conservation: UK
 ---
-
 # Calcochloris
 
 Genus containing 1 species.

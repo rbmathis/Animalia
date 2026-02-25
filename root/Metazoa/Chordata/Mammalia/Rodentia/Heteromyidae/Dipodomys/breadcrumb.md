@@ -1,125 +1,78 @@
 ---
-title: "Dipodomys"
-description: "Genus containing 21 species."
-category: "taxonomy/genus"
-tags: ["dipodomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Chaetodipus/breadcrumb.md", "../Heteromys/breadcrumb.md", "../Microdipodops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10016
-parent: "../breadcrumb.md"
+title: Dipodomys
+description: Genus containing 21 species.
+category: taxonomy/genus
+tags: [dipodomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Chaetodipus/breadcrumb.md, ../Heteromys/breadcrumb.md, ../Microdipodops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 21
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dipodomys_agilis.cs"
-    name: "Dipodomys agilis"
-    common_name: "Dipodomys_agilis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_californicus.cs"
-    name: "Dipodomys californicus"
-    common_name: "Dipodomys_californicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_compactus.cs"
-    name: "Dipodomys compactus"
-    common_name: "Dipodomys_compactus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_deserti.cs"
-    name: "Dipodomys deserti"
-    common_name: "Dipodomys_deserti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_elator.cs"
-    name: "Dipodomys elator"
-    common_name: "Dipodomys_elator"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_elephantinus.cs"
-    name: "Dipodomys elephantinus"
-    common_name: "Dipodomys_elephantinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_gravipes.cs"
-    name: "Dipodomys gravipes"
-    common_name: "Dipodomys_gravipes"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_heermanni.cs"
-    name: "Dipodomys heermanni"
-    common_name: "Dipodomys_heermanni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_ingens.cs"
-    name: "Dipodomys ingens"
-    common_name: "Dipodomys_ingens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_insularis.cs"
-    name: "Dipodomys insularis"
-    common_name: "Dipodomys_insularis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_merriami.cs"
-    name: "Dipodomys merriami"
-    common_name: "Dipodomys_merriami"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_microps.cs"
-    name: "Dipodomys microps"
-    common_name: "Dipodomys_microps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_nelsoni.cs"
-    name: "Dipodomys nelsoni"
-    common_name: "Dipodomys_nelsoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_nitratoides.cs"
-    name: "Dipodomys nitratoides"
-    common_name: "Dipodomys_nitratoides"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_ordii.cs"
-    name: "Dipodomys ordii"
-    common_name: "Dipodomys_ordii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_panamintinus.cs"
-    name: "Dipodomys panamintinus"
-    common_name: "Dipodomys_panamintinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_phillipsii.cs"
-    name: "Dipodomys phillipsii"
-    common_name: "Dipodomys_phillipsii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_simulans.cs"
-    name: "Dipodomys simulans"
-    common_name: "Dipodomys_simulans"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_spectabilis.cs"
-    name: "Dipodomys spectabilis"
-    common_name: "Dipodomys_spectabilis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipodomys_stephensi.cs"
-    name: "Dipodomys stephensi"
-    common_name: "Dipodomys_stephensi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dipodomys_agilis:
+    common_name: Dipodomys_agilis
+    conservation: UK
+  Dipodomys_californicus:
+    common_name: Dipodomys_californicus
+    conservation: UK
+  Dipodomys_compactus:
+    common_name: Dipodomys_compactus
+    conservation: UK
+  Dipodomys_deserti:
+    common_name: Dipodomys_deserti
+    conservation: UK
+  Dipodomys_elator:
+    common_name: Dipodomys_elator
+    conservation: UK
+  Dipodomys_elephantinus:
+    common_name: Dipodomys_elephantinus
+    conservation: UK
+  Dipodomys_gravipes:
+    common_name: Dipodomys_gravipes
+    conservation: UK
+  Dipodomys_heermanni:
+    common_name: Dipodomys_heermanni
+    conservation: UK
+  Dipodomys_ingens:
+    common_name: Dipodomys_ingens
+    conservation: UK
+  Dipodomys_insularis:
+    common_name: Dipodomys_insularis
+    conservation: UK
+  Dipodomys_merriami:
+    common_name: Dipodomys_merriami
+    conservation: UK
+  Dipodomys_microps:
+    common_name: Dipodomys_microps
+    conservation: UK
+  Dipodomys_nelsoni:
+    common_name: Dipodomys_nelsoni
+    conservation: UK
+  Dipodomys_nitratoides:
+    common_name: Dipodomys_nitratoides
+    conservation: UK
+  Dipodomys_ordii:
+    common_name: Dipodomys_ordii
+    conservation: UK
+  Dipodomys_panamintinus:
+    common_name: Dipodomys_panamintinus
+    conservation: UK
+  Dipodomys_phillipsii:
+    common_name: Dipodomys_phillipsii
+    conservation: UK
+  Dipodomys_simulans:
+    common_name: Dipodomys_simulans
+    conservation: UK
+  Dipodomys_spectabilis:
+    common_name: Dipodomys_spectabilis
+    conservation: UK
+  Dipodomys_stephensi:
+    common_name: Dipodomys_stephensi
+    conservation: UK
 ---
-
 # Dipodomys
 
 Genus containing 21 species.

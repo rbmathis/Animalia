@@ -1,61 +1,40 @@
 ---
-title: "Didelphis"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["didelphis", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Caluromys/breadcrumb.md", "../Caluromysiops/breadcrumb.md", "../Chacodelphys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9266
-parent: "../breadcrumb.md"
+title: Didelphis
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [didelphis, genus]
+status: Living
+updated: 2026-02-23
+related: [../Caluromys/breadcrumb.md, ../Caluromysiops/breadcrumb.md, ../Chacodelphys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Didelphis_albiventris.cs"
-    name: "Didelphis albiventris"
-    common_name: "Didelphis_albiventris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Didelphis_aurita.cs"
-    name: "Didelphis aurita"
-    common_name: "Didelphis_aurita"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Didelphis_imperfecta.cs"
-    name: "Didelphis imperfecta"
-    common_name: "Didelphis_imperfecta"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Didelphis_marsupialis.cs"
-    name: "Didelphis marsupialis"
-    common_name: "Didelphis_marsupialis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Didelphis_pernigra.cs"
-    name: "Didelphis pernigra"
-    common_name: "Didelphis_pernigra"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Didelphis_sp.cs"
-    name: "Didelphis sp."
-    common_name: "Didelphis_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Didelphis_virginiana.cs"
-    name: "Didelphis virginiana"
-    common_name: "Didelphis_virginiana"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Didelphis_albiventris:
+    common_name: Didelphis_albiventris
+    conservation: UK
+  Didelphis_aurita:
+    common_name: Didelphis_aurita
+    conservation: UK
+  Didelphis_imperfecta:
+    common_name: Didelphis_imperfecta
+    conservation: UK
+  Didelphis_marsupialis:
+    common_name: Didelphis_marsupialis
+    conservation: UK
+  Didelphis_pernigra:
+    common_name: Didelphis_pernigra
+    conservation: UK
+  Didelphis_sp:
+    common_name: Didelphis_sp
+    conservation: UK
+  Didelphis_virginiana:
+    common_name: Didelphis_virginiana
+    conservation: UK
 ---
-
 # Didelphis
 
 Genus containing 7 species.

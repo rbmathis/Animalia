@@ -1,55 +1,36 @@
 ---
-title: "Melogale"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["melogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aonyx/breadcrumb.md", "../Arctonyx/breadcrumb.md", "../Eira/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 204266
-parent: "../breadcrumb.md"
+title: Melogale
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [melogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aonyx/breadcrumb.md, ../Arctonyx/breadcrumb.md, ../Eira/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Melogale_cucphuongensis.cs"
-    name: "Melogale cucphuongensis"
-    common_name: "Melogale_cucphuongensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Melogale_everetti.cs"
-    name: "Melogale everetti"
-    common_name: "Melogale_everetti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Melogale_moschata.cs"
-    name: "Melogale moschata"
-    common_name: "Melogale_moschata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Melogale_orientalis.cs"
-    name: "Melogale orientalis"
-    common_name: "Melogale_orientalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Melogale_personata.cs"
-    name: "Melogale personata"
-    common_name: "Melogale_personata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Melogale_subaurantiaca.cs"
-    name: "Melogale subaurantiaca"
-    common_name: "Melogale_subaurantiaca"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Melogale_cucphuongensis:
+    common_name: Melogale_cucphuongensis
+    conservation: UK
+  Melogale_everetti:
+    common_name: Melogale_everetti
+    conservation: UK
+  Melogale_moschata:
+    common_name: Melogale_moschata
+    conservation: UK
+  Melogale_orientalis:
+    common_name: Melogale_orientalis
+    conservation: UK
+  Melogale_personata:
+    common_name: Melogale_personata
+    conservation: UK
+  Melogale_subaurantiaca:
+    common_name: Melogale_subaurantiaca
+    conservation: UK
 ---
-
 # Melogale
 
 Genus containing 6 species.

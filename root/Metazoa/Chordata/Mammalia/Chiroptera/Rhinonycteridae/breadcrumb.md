@@ -1,34 +1,19 @@
 ---
-title: "Rhinonycteridae"
-description: "Family containing 4 genera."
-category: "taxonomy/family"
-tags: ["rhinonycteridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cistugidae/breadcrumb.md", "../Craseonycteridae/breadcrumb.md", "../Emballonuridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 1677019
-parent: "../breadcrumb.md"
+title: Rhinonycteridae
+description: Family containing 4 genera.
+category: taxonomy/family
+tags: [rhinonycteridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Cistugidae/breadcrumb.md, ../Craseonycteridae/breadcrumb.md, ../Emballonuridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 4
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Cloeotis/breadcrumb.md"
-    name: "Cloeotis"
-  - path: "Paratriaenops/breadcrumb.md"
-    name: "Paratriaenops"
-  - path: "Rhinonicteris/breadcrumb.md"
-    name: "Rhinonicteris"
-  - path: "Triaenops/breadcrumb.md"
-    name: "Triaenops"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Cloeotis, Paratriaenops, Rhinonicteris, Triaenops]
 ---
-
 # Rhinonycteridae
 
 Family containing 4 genera.

@@ -1,30 +1,21 @@
 ---
-title: "Daubentonia"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["daubentonia", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Daubentonia
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [daubentonia, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 13038
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Daubentonia_madagascariensis.cs"
-    name: "Daubentonia madagascariensis"
-    common_name: "Daubentonia_madagascariensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Daubentonia_madagascariensis:
+    common_name: Daubentonia_madagascariensis
+    conservation: UK
 ---
-
 # Daubentonia
 
 Genus containing 1 species.

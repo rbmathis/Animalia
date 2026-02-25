@@ -1,56 +1,37 @@
 ---
-title: "Allactaga"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["allactaga", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allactodipus/breadcrumb.md", "../Cardiocranius/breadcrumb.md", "../Chimaerodipus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 73860
-parent: "../breadcrumb.md"
+title: Allactaga
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [allactaga, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allactodipus/breadcrumb.md, ../Cardiocranius/breadcrumb.md, ../Chimaerodipus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Allactaga_firouzi.cs"
-    name: "Allactaga firouzi"
-    common_name: "Allactaga_firouzi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Allactaga_major.cs"
-    name: "Allactaga major"
-    common_name: "Allactaga_major"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Allactaga_severtzovi.cs"
-    name: "Allactaga severtzovi"
-    common_name: "Allactaga_severtzovi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Allactaga_sp_A_20_mk1.cs"
-    name: "Allactaga sp. A-20-mk1"
-    common_name: "Allactaga_sp_A_20_mk1"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Allactaga_sp_Kazakhstan.cs"
-    name: "Allactaga sp. Kazakhstan"
-    common_name: "Allactaga_sp_Kazakhstan"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Allactaga_sp_YY_2015.cs"
-    name: "Allactaga sp. YY-2015"
-    common_name: "Allactaga_sp_YY_2015"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Allactaga_firouzi:
+    common_name: Allactaga_firouzi
+    conservation: UK
+  Allactaga_major:
+    common_name: Allactaga_major
+    conservation: UK
+  Allactaga_severtzovi:
+    common_name: Allactaga_severtzovi
+    conservation: UK
+  Allactaga_sp_A_20_mk1:
+    common_name: Allactaga_sp_A_20_mk1
+    conservation: UK
+  Allactaga_sp_Kazakhstan:
+    common_name: Allactaga_sp_Kazakhstan
+    conservation: UK
+  Allactaga_sp_YY_2015:
+    common_name: Allactaga_sp_YY_2015
+    conservation: UK
 ---
-
 # Allactaga
 
 Genus containing 6 species.

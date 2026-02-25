@@ -1,35 +1,24 @@
 ---
-title: "Bassariscus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["bassariscus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Bassaricyon/breadcrumb.md", "../Nasua/breadcrumb.md", "../Nasuella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 55046
-parent: "../breadcrumb.md"
+title: Bassariscus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [bassariscus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Bassaricyon/breadcrumb.md, ../Nasua/breadcrumb.md, ../Nasuella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Bassariscus_astutus.cs"
-    name: "Bassariscus astutus"
-    common_name: "Bassariscus_astutus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bassariscus_sumichrasti.cs"
-    name: "Bassariscus sumichrasti"
-    common_name: "Bassariscus_sumichrasti"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Bassariscus_astutus:
+    common_name: Bassariscus_astutus
+    conservation: UK
+  Bassariscus_sumichrasti:
+    common_name: Bassariscus_sumichrasti
+    conservation: UK
 ---
-
 # Bassariscus
 
 Genus containing 2 species.

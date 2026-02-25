@@ -1,65 +1,42 @@
 ---
-title: "Cerradomys"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["cerradomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 530166
-parent: "../breadcrumb.md"
+title: Cerradomys
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [cerradomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cerradomys_akroai.cs"
-    name: "Cerradomys akroai"
-    common_name: "Cerradomys_akroai"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cerradomys_goytaca.cs"
-    name: "Cerradomys goytaca"
-    common_name: "Cerradomys_goytaca"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cerradomys_langguthi.cs"
-    name: "Cerradomys langguthi"
-    common_name: "Cerradomys_langguthi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cerradomys_maracajuensis.cs"
-    name: "Cerradomys maracajuensis"
-    common_name: "Cerradomys_maracajuensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cerradomys_marinhus.cs"
-    name: "Cerradomys marinhus"
-    common_name: "Cerradomys_marinhus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cerradomys_scotti.cs"
-    name: "Cerradomys scotti"
-    common_name: "Cerradomys_scotti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cerradomys_subflavus.cs"
-    name: "Cerradomys subflavus"
-    common_name: "Cerradomys_subflavus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cerradomys_vivoi.cs"
-    name: "Cerradomys vivoi"
-    common_name: "Cerradomys_vivoi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cerradomys_akroai:
+    common_name: Cerradomys_akroai
+    conservation: UK
+  Cerradomys_goytaca:
+    common_name: Cerradomys_goytaca
+    conservation: UK
+  Cerradomys_langguthi:
+    common_name: Cerradomys_langguthi
+    conservation: UK
+  Cerradomys_maracajuensis:
+    common_name: Cerradomys_maracajuensis
+    conservation: UK
+  Cerradomys_marinhus:
+    common_name: Cerradomys_marinhus
+    conservation: UK
+  Cerradomys_scotti:
+    common_name: Cerradomys_scotti
+    conservation: UK
+  Cerradomys_subflavus:
+    common_name: Cerradomys_subflavus
+    conservation: UK
+  Cerradomys_vivoi:
+    common_name: Cerradomys_vivoi
+    conservation: UK
 ---
-
 # Cerradomys
 
 Genus containing 8 species.

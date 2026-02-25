@@ -1,66 +1,43 @@
 ---
-title: "Rhinopithecus"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["rhinopithecus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allenopithecus/breadcrumb.md", "../Allochrocebus/breadcrumb.md", "../Cercocebus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 542827
-parent: "../breadcrumb.md"
+title: Rhinopithecus
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [rhinopithecus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allenopithecus/breadcrumb.md, ../Allochrocebus/breadcrumb.md, ../Cercocebus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rhinopithecus_avunculus.cs"
-    name: "Rhinopithecus avunculus"
-    common_name: "Rhinopithecus_avunculus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinopithecus_bieti.cs"
-    name: "Rhinopithecus bieti"
-    common_name: "Rhinopithecus_bieti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinopithecus_bieti_1_RL_2012.cs"
-    name: "Rhinopithecus bieti 1 RL-2012"
-    common_name: "Rhinopithecus_bieti_1_RL_2012"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinopithecus_bieti_2_RL_2012.cs"
-    name: "Rhinopithecus bieti 2 RL-2012"
-    common_name: "Rhinopithecus_bieti_2_RL_2012"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinopithecus_brelichi.cs"
-    name: "Rhinopithecus brelichi"
-    common_name: "Rhinopithecus_brelichi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinopithecus_roxellana.cs"
-    name: "Rhinopithecus roxellana"
-    common_name: "Rhinopithecus_roxellana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinopithecus_sp.cs"
-    name: "Rhinopithecus sp."
-    common_name: "Rhinopithecus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinopithecus_strykeri.cs"
-    name: "Rhinopithecus strykeri"
-    common_name: "Rhinopithecus_strykeri"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rhinopithecus_avunculus:
+    common_name: Rhinopithecus_avunculus
+    conservation: UK
+  Rhinopithecus_bieti:
+    common_name: Rhinopithecus_bieti
+    conservation: UK
+  Rhinopithecus_bieti_1_RL_2012:
+    common_name: Rhinopithecus_bieti_1_RL_2012
+    conservation: UK
+  Rhinopithecus_bieti_2_RL_2012:
+    common_name: Rhinopithecus_bieti_2_RL_2012
+    conservation: UK
+  Rhinopithecus_brelichi:
+    common_name: Rhinopithecus_brelichi
+    conservation: UK
+  Rhinopithecus_roxellana:
+    common_name: Rhinopithecus_roxellana
+    conservation: UK
+  Rhinopithecus_sp:
+    common_name: Rhinopithecus_sp
+    conservation: UK
+  Rhinopithecus_strykeri:
+    common_name: Rhinopithecus_strykeri
+    conservation: UK
 ---
-
 # Rhinopithecus
 
 Genus containing 8 species.

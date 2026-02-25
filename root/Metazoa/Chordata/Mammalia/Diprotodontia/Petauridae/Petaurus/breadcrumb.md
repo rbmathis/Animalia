@@ -1,121 +1,76 @@
 ---
-title: "Petaurus"
-description: "Genus containing 19 species."
-category: "taxonomy/genus"
-tags: ["petaurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dactylopsila/breadcrumb.md", "../Gymnobelideus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 34898
-parent: "../breadcrumb.md"
+title: Petaurus
+description: Genus containing 19 species.
+category: taxonomy/genus
+tags: [petaurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dactylopsila/breadcrumb.md, ../Gymnobelideus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 19
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Petaurus_abidi.cs"
-    name: "Petaurus abidi"
-    common_name: "Petaurus_abidi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_ariel.cs"
-    name: "Petaurus ariel"
-    common_name: "Petaurus_ariel"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_australis.cs"
-    name: "Petaurus australis"
-    common_name: "Petaurus_australis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_breviceps.cs"
-    name: "Petaurus breviceps"
-    common_name: "Petaurus_breviceps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_gracilis.cs"
-    name: "Petaurus gracilis"
-    common_name: "Petaurus_gracilis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_norfolcensis.cs"
-    name: "Petaurus norfolcensis"
-    common_name: "Petaurus_norfolcensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_notatus.cs"
-    name: "Petaurus notatus"
-    common_name: "Petaurus_notatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_papuanus.cs"
-    name: "Petaurus papuanus"
-    common_name: "Petaurus_papuanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_sp.cs"
-    name: "Petaurus sp."
-    common_name: "Petaurus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_sp_5_M7191.cs"
-    name: "Petaurus sp. 5_M7191"
-    common_name: "Petaurus_sp_5_M7191"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_sp_6_M3022.cs"
-    name: "Petaurus sp. 6_M3022"
-    common_name: "Petaurus_sp_6_M3022"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_sp_CF_2023.cs"
-    name: "Petaurus sp. CF-2023"
-    common_name: "Petaurus_sp_CF_2023"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_sp_KIM02.cs"
-    name: "Petaurus sp. KIM02"
-    common_name: "Petaurus_sp_KIM02"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_sp_KIM03.cs"
-    name: "Petaurus sp. KIM03"
-    common_name: "Petaurus_sp_KIM03"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_sp_M0405.cs"
-    name: "Petaurus sp. M0405"
-    common_name: "Petaurus_sp_M0405"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_sp_MO01.cs"
-    name: "Petaurus sp. MO01"
-    common_name: "Petaurus_sp_MO01"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_sp_NT005.cs"
-    name: "Petaurus sp. NT005"
-    common_name: "Petaurus_sp_NT005"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_sp_NT007.cs"
-    name: "Petaurus sp. NT007"
-    common_name: "Petaurus_sp_NT007"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurus_sp_ab_SC_2023.cs"
-    name: "Petaurus sp. ab SC-2023"
-    common_name: "Petaurus_sp_ab_SC_2023"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Petaurus_abidi:
+    common_name: Petaurus_abidi
+    conservation: UK
+  Petaurus_ariel:
+    common_name: Petaurus_ariel
+    conservation: UK
+  Petaurus_australis:
+    common_name: Petaurus_australis
+    conservation: UK
+  Petaurus_breviceps:
+    common_name: Petaurus_breviceps
+    conservation: UK
+  Petaurus_gracilis:
+    common_name: Petaurus_gracilis
+    conservation: UK
+  Petaurus_norfolcensis:
+    common_name: Petaurus_norfolcensis
+    conservation: UK
+  Petaurus_notatus:
+    common_name: Petaurus_notatus
+    conservation: UK
+  Petaurus_papuanus:
+    common_name: Petaurus_papuanus
+    conservation: UK
+  Petaurus_sp:
+    common_name: Petaurus_sp
+    conservation: UK
+  Petaurus_sp_5_M7191:
+    common_name: Petaurus_sp_5_M7191
+    conservation: UK
+  Petaurus_sp_6_M3022:
+    common_name: Petaurus_sp_6_M3022
+    conservation: UK
+  Petaurus_sp_CF_2023:
+    common_name: Petaurus_sp_CF_2023
+    conservation: UK
+  Petaurus_sp_KIM02:
+    common_name: Petaurus_sp_KIM02
+    conservation: UK
+  Petaurus_sp_KIM03:
+    common_name: Petaurus_sp_KIM03
+    conservation: UK
+  Petaurus_sp_M0405:
+    common_name: Petaurus_sp_M0405
+    conservation: UK
+  Petaurus_sp_MO01:
+    common_name: Petaurus_sp_MO01
+    conservation: UK
+  Petaurus_sp_NT005:
+    common_name: Petaurus_sp_NT005
+    conservation: UK
+  Petaurus_sp_NT007:
+    common_name: Petaurus_sp_NT007
+    conservation: UK
+  Petaurus_sp_ab_SC_2023:
+    common_name: Petaurus_sp_ab_SC_2023
+    conservation: UK
 ---
-
 # Petaurus
 
 Genus containing 19 species.

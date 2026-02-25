@@ -1,96 +1,61 @@
 ---
-title: "Trinomys"
-description: "Genus containing 14 species."
-category: "taxonomy/genus"
-tags: ["trinomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Boromys/breadcrumb.md", "../Brotomys/breadcrumb.md", "../Callistomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 42826
-parent: "../breadcrumb.md"
+title: Trinomys
+description: Genus containing 14 species.
+category: taxonomy/genus
+tags: [trinomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Boromys/breadcrumb.md, ../Brotomys/breadcrumb.md, ../Callistomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 14
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Trinomys_albispinus.cs"
-    name: "Trinomys albispinus"
-    common_name: "Trinomys_albispinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trinomys_dimidiatus.cs"
-    name: "Trinomys dimidiatus"
-    common_name: "Trinomys_dimidiatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trinomys_eliasi.cs"
-    name: "Trinomys eliasi"
-    common_name: "Trinomys_eliasi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trinomys_gratiosus.cs"
-    name: "Trinomys gratiosus"
-    common_name: "Trinomys_gratiosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trinomys_iheringi.cs"
-    name: "Trinomys iheringi"
-    common_name: "Trinomys_iheringi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trinomys_mirapitanga.cs"
-    name: "Trinomys mirapitanga"
-    common_name: "Trinomys_mirapitanga"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trinomys_moojeni.cs"
-    name: "Trinomys moojeni"
-    common_name: "Trinomys_moojeni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trinomys_paratus.cs"
-    name: "Trinomys paratus"
-    common_name: "Trinomys_paratus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trinomys_setosus.cs"
-    name: "Trinomys setosus"
-    common_name: "Trinomys_setosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trinomys_sp_EDH33.cs"
-    name: "Trinomys sp. EDH33"
-    common_name: "Trinomys_sp_EDH33"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trinomys_sp_ML110.cs"
-    name: "Trinomys sp. ML110"
-    common_name: "Trinomys_sp_ML110"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trinomys_sp_MN_31459.cs"
-    name: "Trinomys sp. MN-31459"
-    common_name: "Trinomys_sp_MN_31459"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trinomys_sp_PEU_880027.cs"
-    name: "Trinomys sp. PEU-880027"
-    common_name: "Trinomys_sp_PEU_880027"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trinomys_yonenagae.cs"
-    name: "Trinomys yonenagae"
-    common_name: "Trinomys_yonenagae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Trinomys_albispinus:
+    common_name: Trinomys_albispinus
+    conservation: UK
+  Trinomys_dimidiatus:
+    common_name: Trinomys_dimidiatus
+    conservation: UK
+  Trinomys_eliasi:
+    common_name: Trinomys_eliasi
+    conservation: UK
+  Trinomys_gratiosus:
+    common_name: Trinomys_gratiosus
+    conservation: UK
+  Trinomys_iheringi:
+    common_name: Trinomys_iheringi
+    conservation: UK
+  Trinomys_mirapitanga:
+    common_name: Trinomys_mirapitanga
+    conservation: UK
+  Trinomys_moojeni:
+    common_name: Trinomys_moojeni
+    conservation: UK
+  Trinomys_paratus:
+    common_name: Trinomys_paratus
+    conservation: UK
+  Trinomys_setosus:
+    common_name: Trinomys_setosus
+    conservation: UK
+  Trinomys_sp_EDH33:
+    common_name: Trinomys_sp_EDH33
+    conservation: UK
+  Trinomys_sp_ML110:
+    common_name: Trinomys_sp_ML110
+    conservation: UK
+  Trinomys_sp_MN_31459:
+    common_name: Trinomys_sp_MN_31459
+    conservation: UK
+  Trinomys_sp_PEU_880027:
+    common_name: Trinomys_sp_PEU_880027
+    conservation: UK
+  Trinomys_yonenagae:
+    common_name: Trinomys_yonenagae
+    conservation: UK
 ---
-
 # Trinomys
 
 Genus containing 14 species.

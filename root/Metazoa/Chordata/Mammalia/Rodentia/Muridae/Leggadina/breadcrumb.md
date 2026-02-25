@@ -1,35 +1,24 @@
 ---
-title: "Leggadina"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["leggadina", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 81934
-parent: "../breadcrumb.md"
+title: Leggadina
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [leggadina, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Leggadina_forresti.cs"
-    name: "Leggadina forresti"
-    common_name: "Leggadina_forresti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Leggadina_lakedownensis.cs"
-    name: "Leggadina lakedownensis"
-    common_name: "Leggadina_lakedownensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Leggadina_forresti:
+    common_name: Leggadina_forresti
+    conservation: UK
+  Leggadina_lakedownensis:
+    common_name: Leggadina_lakedownensis
+    conservation: UK
 ---
-
 # Leggadina
 
 Genus containing 2 species.

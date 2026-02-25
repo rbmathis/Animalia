@@ -1,91 +1,58 @@
 ---
-title: "Ovis"
-description: "Genus containing 13 species."
-category: "taxonomy/genus"
-tags: ["ovis", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9935
-parent: "../breadcrumb.md"
+title: Ovis
+description: Genus containing 13 species.
+category: taxonomy/genus
+tags: [ovis, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 13
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ovis_ammon.cs"
-    name: "Ovis ammon"
-    common_name: "Ovis_ammon"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ovis_ammon_polii_x_Ovis_aries.cs"
-    name: "Ovis ammon polii x Ovis aries"
-    common_name: "Ovis_ammon_polii_x_Ovis_aries"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ovis_aries.cs"
-    name: "Ovis aries"
-    common_name: "Ovis_aries"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ovis_canadensis.cs"
-    name: "Ovis canadensis"
-    common_name: "Ovis_canadensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ovis_canadensis_x_aries.cs"
-    name: "Ovis canadensis x aries"
-    common_name: "Ovis_canadensis_x_aries"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ovis_dalli.cs"
-    name: "Ovis dalli"
-    common_name: "Ovis_dalli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ovis_gmelinii.cs"
-    name: "Ovis gmelinii"
-    common_name: "Ovis_gmelinii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ovis_nivicola.cs"
-    name: "Ovis nivicola"
-    common_name: "Ovis_nivicola"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ovis_orientalis.cs"
-    name: "Ovis orientalis"
-    common_name: "Ovis_orientalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ovis_orientalis_x_vignei.cs"
-    name: "Ovis orientalis x vignei"
-    common_name: "Ovis_orientalis_x_vignei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ovis_sp.cs"
-    name: "Ovis sp."
-    common_name: "Ovis_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ovis_sp_LF_2011.cs"
-    name: "Ovis sp. LF-2011"
-    common_name: "Ovis_sp_LF_2011"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ovis_vignei.cs"
-    name: "Ovis vignei"
-    common_name: "Ovis_vignei"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ovis_ammon:
+    common_name: Ovis_ammon
+    conservation: UK
+  Ovis_ammon_polii_x_Ovis_aries:
+    common_name: Ovis_ammon_polii_x_Ovis_aries
+    conservation: UK
+  Ovis_aries:
+    common_name: Ovis_aries
+    conservation: UK
+  Ovis_canadensis:
+    common_name: Ovis_canadensis
+    conservation: UK
+  Ovis_canadensis_x_aries:
+    common_name: Ovis_canadensis_x_aries
+    conservation: UK
+  Ovis_dalli:
+    common_name: Ovis_dalli
+    conservation: UK
+  Ovis_gmelinii:
+    common_name: Ovis_gmelinii
+    conservation: UK
+  Ovis_nivicola:
+    common_name: Ovis_nivicola
+    conservation: UK
+  Ovis_orientalis:
+    common_name: Ovis_orientalis
+    conservation: UK
+  Ovis_orientalis_x_vignei:
+    common_name: Ovis_orientalis_x_vignei
+    conservation: UK
+  Ovis_sp:
+    common_name: Ovis_sp
+    conservation: UK
+  Ovis_sp_LF_2011:
+    common_name: Ovis_sp_LF_2011
+    conservation: UK
+  Ovis_vignei:
+    common_name: Ovis_vignei
+    conservation: UK
 ---
-
 # Ovis
 
 Genus containing 13 species.

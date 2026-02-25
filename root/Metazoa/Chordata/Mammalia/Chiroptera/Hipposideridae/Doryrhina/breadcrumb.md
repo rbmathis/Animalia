@@ -1,45 +1,30 @@
 ---
-title: "Doryrhina"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["doryrhina", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anthops/breadcrumb.md", "../Asellia/breadcrumb.md", "../Aselliscus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2664496
-parent: "../breadcrumb.md"
+title: Doryrhina
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [doryrhina, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anthops/breadcrumb.md, ../Asellia/breadcrumb.md, ../Aselliscus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Doryrhina_camerunensis.cs"
-    name: "Doryrhina camerunensis"
-    common_name: "Doryrhina_camerunensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Doryrhina_cf_camerunensis_TD_2020.cs"
-    name: "Doryrhina cf. camerunensis TD-2020"
-    common_name: "Doryrhina_cf_camerunensis_TD_2020"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Doryrhina_cyclops.cs"
-    name: "Doryrhina cyclops"
-    common_name: "Doryrhina_cyclops"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Doryrhina_cyclops_complex_sp_lineage_2.cs"
-    name: "Doryrhina cyclops complex sp. lineage 2"
-    common_name: "Doryrhina_cyclops_complex_sp_lineage_2"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Doryrhina_camerunensis:
+    common_name: Doryrhina_camerunensis
+    conservation: UK
+  Doryrhina_cf_camerunensis_TD_2020:
+    common_name: Doryrhina_cf_camerunensis_TD_2020
+    conservation: UK
+  Doryrhina_cyclops:
+    common_name: Doryrhina_cyclops
+    conservation: UK
+  Doryrhina_cyclops_complex_sp_lineage_2:
+    common_name: Doryrhina_cyclops_complex_sp_lineage_2
+    conservation: UK
 ---
-
 # Doryrhina
 
 Genus containing 4 species.

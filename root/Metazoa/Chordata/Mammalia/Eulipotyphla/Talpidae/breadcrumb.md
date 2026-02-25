@@ -1,46 +1,19 @@
 ---
-title: "Talpidae"
-description: "Family containing 20 genera."
-category: "taxonomy/family"
-tags: ["talpidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Erinaceidae/breadcrumb.md", "../Solenodontidae/breadcrumb.md", "../Soricidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9373
-parent: "../breadcrumb.md"
+title: Talpidae
+description: Family containing 20 genera.
+category: taxonomy/family
+tags: [talpidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Erinaceidae/breadcrumb.md, ../Solenodontidae/breadcrumb.md, ../Soricidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 20
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Alpiscaptulus/breadcrumb.md"
-    name: "Alpiscaptulus"
-  - path: "Condylura/breadcrumb.md"
-    name: "Condylura"
-  - path: "Desmana/breadcrumb.md"
-    name: "Desmana"
-  - path: "Dymecodon/breadcrumb.md"
-    name: "Dymecodon"
-  - path: "Euroscaptor/breadcrumb.md"
-    name: "Euroscaptor"
-  - path: "Galemys/breadcrumb.md"
-    name: "Galemys"
-  - path: "Mogera/breadcrumb.md"
-    name: "Mogera"
-  - path: "Neurotrichus/breadcrumb.md"
-    name: "Neurotrichus"
-  - path: "Oreoscaptor/breadcrumb.md"
-    name: "Oreoscaptor"
-  - path: "Parascalops/breadcrumb.md"
-    name: "Parascalops"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Alpiscaptulus, Condylura, Desmana, Dymecodon, Euroscaptor, Galemys, Mogera, Neurotrichus, Oreoscaptor, Parascalops]
 ---
-
 # Talpidae
 
 Family containing 20 genera.

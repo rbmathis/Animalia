@@ -1,34 +1,19 @@
 ---
-title: "Peroryctidae"
-description: "Family containing 4 genera."
-category: "taxonomy/family"
-tags: ["peroryctidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Peramelidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 38627
-parent: "../breadcrumb.md"
+title: Peroryctidae
+description: Family containing 4 genera.
+category: taxonomy/family
+tags: [peroryctidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Peramelidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 4
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Echymipera/breadcrumb.md"
-    name: "Echymipera"
-  - path: "Microperoryctes/breadcrumb.md"
-    name: "Microperoryctes"
-  - path: "Peroryctes/breadcrumb.md"
-    name: "Peroryctes"
-  - path: "Rhynchomeles/breadcrumb.md"
-    name: "Rhynchomeles"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Echymipera, Microperoryctes, Peroryctes, Rhynchomeles]
 ---
-
 # Peroryctidae
 
 Family containing 4 genera.

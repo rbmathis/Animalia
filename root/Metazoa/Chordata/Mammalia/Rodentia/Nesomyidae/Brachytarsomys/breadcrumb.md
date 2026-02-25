@@ -1,35 +1,24 @@
 ---
-title: "Brachytarsomys"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["brachytarsomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Beamys/breadcrumb.md", "../Brachyuromys/breadcrumb.md", "../Cricetomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 107269
-parent: "../breadcrumb.md"
+title: Brachytarsomys
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [brachytarsomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Beamys/breadcrumb.md, ../Brachyuromys/breadcrumb.md, ../Cricetomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Brachytarsomys_albicauda.cs"
-    name: "Brachytarsomys albicauda"
-    common_name: "Brachytarsomys_albicauda"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Brachytarsomys_villosus.cs"
-    name: "Brachytarsomys villosus"
-    common_name: "Brachytarsomys_villosus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Brachytarsomys_albicauda:
+    common_name: Brachytarsomys_albicauda
+    conservation: UK
+  Brachytarsomys_villosus:
+    common_name: Brachytarsomys_villosus
+    conservation: UK
 ---
-
 # Brachytarsomys
 
 Genus containing 2 species.

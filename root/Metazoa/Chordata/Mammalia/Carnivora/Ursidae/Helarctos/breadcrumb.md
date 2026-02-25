@@ -1,30 +1,21 @@
 ---
-title: "Helarctos"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["helarctos", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ailuropoda/breadcrumb.md", "../Arctodus/breadcrumb.md", "../Arctotherium/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9633
-parent: "../breadcrumb.md"
+title: Helarctos
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [helarctos, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ailuropoda/breadcrumb.md, ../Arctodus/breadcrumb.md, ../Arctotherium/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Helarctos_malayanus.cs"
-    name: "Helarctos malayanus"
-    common_name: "Helarctos_malayanus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Helarctos_malayanus:
+    common_name: Helarctos_malayanus
+    conservation: UK
 ---
-
 # Helarctos
 
 Genus containing 1 species.

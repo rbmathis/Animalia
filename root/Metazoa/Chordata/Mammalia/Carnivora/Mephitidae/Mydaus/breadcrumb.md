@@ -1,35 +1,24 @@
 ---
-title: "Mydaus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["mydaus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Conepatus/breadcrumb.md", "../Mephitis/breadcrumb.md", "../Spilogale/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 55044
-parent: "../breadcrumb.md"
+title: Mydaus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [mydaus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Conepatus/breadcrumb.md, ../Mephitis/breadcrumb.md, ../Spilogale/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mydaus_javanensis.cs"
-    name: "Mydaus javanensis"
-    common_name: "Mydaus_javanensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mydaus_marchei.cs"
-    name: "Mydaus marchei"
-    common_name: "Mydaus_marchei"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mydaus_javanensis:
+    common_name: Mydaus_javanensis
+    conservation: UK
+  Mydaus_marchei:
+    common_name: Mydaus_marchei
+    conservation: UK
 ---
-
 # Mydaus
 
 Genus containing 2 species.

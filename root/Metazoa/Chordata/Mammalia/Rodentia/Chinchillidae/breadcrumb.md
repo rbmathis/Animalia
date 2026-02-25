@@ -1,35 +1,20 @@
 ---
-title: "Chinchillidae"
-description: "Family containing 3 genera."
-category: "taxonomy/family"
-tags: ["chinchillidae", "family", "has-pets"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 10150
-parent: "../breadcrumb.md"
+title: Chinchillidae
+description: Family containing 3 genera.
+category: taxonomy/family
+tags: [chinchillidae, family, has-pets]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 3
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Chinchilla/breadcrumb.md"
-    name: "Chinchilla"
-  - path: "Lagidium/breadcrumb.md"
-    name: "Lagidium"
-  - path: "Lagostomus/breadcrumb.md"
-    name: "Lagostomus"pet_genera:
-  - name: "Chinchilla"
-    path: "Chinchilla/breadcrumb.md"
-
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Chinchilla, Lagidium, Lagostomus]
+pet_genera: [Chinchilla]
 ---
-
 # Chinchillidae
 
 Family containing 3 genera.

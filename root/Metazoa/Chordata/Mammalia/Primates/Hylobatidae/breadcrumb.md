@@ -1,34 +1,19 @@
 ---
-title: "Hylobatidae"
-description: "Family containing 4 genera."
-category: "taxonomy/family"
-tags: ["hylobatidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aotidae/breadcrumb.md", "../Atelidae/breadcrumb.md", "../Cebidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9577
-parent: "../breadcrumb.md"
+title: Hylobatidae
+description: Family containing 4 genera.
+category: taxonomy/family
+tags: [hylobatidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Aotidae/breadcrumb.md, ../Atelidae/breadcrumb.md, ../Cebidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 4
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Hoolock/breadcrumb.md"
-    name: "Hoolock"
-  - path: "Hylobates/breadcrumb.md"
-    name: "Hylobates"
-  - path: "Nomascus/breadcrumb.md"
-    name: "Nomascus"
-  - path: "Symphalangus/breadcrumb.md"
-    name: "Symphalangus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Hoolock, Hylobates, Nomascus, Symphalangus]
 ---
-
 # Hylobatidae
 
 Family containing 4 genera.

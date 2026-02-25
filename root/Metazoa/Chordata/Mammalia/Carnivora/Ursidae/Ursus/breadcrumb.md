@@ -1,91 +1,58 @@
 ---
-title: "Ursus"
-description: "Genus containing 13 species."
-category: "taxonomy/genus"
-tags: ["ursus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ailuropoda/breadcrumb.md", "../Arctodus/breadcrumb.md", "../Arctotherium/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9639
-parent: "../breadcrumb.md"
+title: Ursus
+description: Genus containing 13 species.
+category: taxonomy/genus
+tags: [ursus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ailuropoda/breadcrumb.md, ../Arctodus/breadcrumb.md, ../Arctotherium/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 13
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ursus_americanus.cs"
-    name: "Ursus americanus"
-    common_name: "Ursus_americanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ursus_arctos.cs"
-    name: "Ursus arctos"
-    common_name: "Ursus_arctos"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ursus_deningeri.cs"
-    name: "Ursus deningeri"
-    common_name: "Ursus_deningeri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ursus_environmental_sample.cs"
-    name: "Ursus environmental sample"
-    common_name: "Ursus_environmental_sample"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ursus_ingressus.cs"
-    name: "Ursus ingressus"
-    common_name: "Ursus_ingressus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ursus_kanivetz.cs"
-    name: "Ursus kanivetz"
-    common_name: "Ursus_kanivetz"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ursus_kudarensis.cs"
-    name: "Ursus kudarensis"
-    common_name: "Ursus_kudarensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ursus_maritimus.cs"
-    name: "Ursus maritimus"
-    common_name: "Ursus_maritimus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ursus_rossicus.cs"
-    name: "Ursus rossicus"
-    common_name: "Ursus_rossicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ursus_sp.cs"
-    name: "Ursus sp."
-    common_name: "Ursus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ursus_sp_Shennongjia_white_bear.cs"
-    name: "Ursus sp. Shennongjia white bear"
-    common_name: "Ursus_sp_Shennongjia_white_bear"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ursus_spelaeus.cs"
-    name: "Ursus spelaeus"
-    common_name: "Ursus_spelaeus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ursus_thibetanus.cs"
-    name: "Ursus thibetanus"
-    common_name: "Ursus_thibetanus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ursus_americanus:
+    common_name: Ursus_americanus
+    conservation: UK
+  Ursus_arctos:
+    common_name: Ursus_arctos
+    conservation: UK
+  Ursus_deningeri:
+    common_name: Ursus_deningeri
+    conservation: UK
+  Ursus_environmental_sample:
+    common_name: Ursus_environmental_sample
+    conservation: UK
+  Ursus_ingressus:
+    common_name: Ursus_ingressus
+    conservation: UK
+  Ursus_kanivetz:
+    common_name: Ursus_kanivetz
+    conservation: UK
+  Ursus_kudarensis:
+    common_name: Ursus_kudarensis
+    conservation: UK
+  Ursus_maritimus:
+    common_name: Ursus_maritimus
+    conservation: UK
+  Ursus_rossicus:
+    common_name: Ursus_rossicus
+    conservation: UK
+  Ursus_sp:
+    common_name: Ursus_sp
+    conservation: UK
+  Ursus_sp_Shennongjia_white_bear:
+    common_name: Ursus_sp_Shennongjia_white_bear
+    conservation: UK
+  Ursus_spelaeus:
+    common_name: Ursus_spelaeus
+    conservation: UK
+  Ursus_thibetanus:
+    common_name: Ursus_thibetanus
+    conservation: UK
 ---
-
 # Ursus
 
 Genus containing 13 species.

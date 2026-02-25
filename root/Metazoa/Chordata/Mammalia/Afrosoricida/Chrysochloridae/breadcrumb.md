@@ -1,46 +1,19 @@
 ---
-title: "Chrysochloridae"
-description: "Family containing 10 genera."
-category: "taxonomy/family"
-tags: ["chrysochloridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Tenrecidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9389
-parent: "../breadcrumb.md"
+title: Chrysochloridae
+description: Family containing 10 genera.
+category: taxonomy/family
+tags: [chrysochloridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Tenrecidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 10
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Amblysomus/breadcrumb.md"
-    name: "Amblysomus"
-  - path: "Calcochloris/breadcrumb.md"
-    name: "Calcochloris"
-  - path: "Carpitalpa/breadcrumb.md"
-    name: "Carpitalpa"
-  - path: "Chlorotalpa/breadcrumb.md"
-    name: "Chlorotalpa"
-  - path: "Chrysochloris/breadcrumb.md"
-    name: "Chrysochloris"
-  - path: "Chrysospalax/breadcrumb.md"
-    name: "Chrysospalax"
-  - path: "Cryptochloris/breadcrumb.md"
-    name: "Cryptochloris"
-  - path: "Eremitalpa/breadcrumb.md"
-    name: "Eremitalpa"
-  - path: "Huetia/breadcrumb.md"
-    name: "Huetia"
-  - path: "Neamblysomus/breadcrumb.md"
-    name: "Neamblysomus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Amblysomus, Calcochloris, Carpitalpa, Chlorotalpa, Chrysochloris, Chrysospalax, Cryptochloris, Eremitalpa, Huetia, Neamblysomus]
 ---
-
 # Chrysochloridae
 
 Family containing 10 genera.

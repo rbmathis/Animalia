@@ -1,56 +1,37 @@
 ---
-title: "Odocoileus"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["odocoileus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alces/breadcrumb.md", "../Axis/breadcrumb.md", "../Bisbalus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9871
-parent: "../breadcrumb.md"
+title: Odocoileus
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [odocoileus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alces/breadcrumb.md, ../Axis/breadcrumb.md, ../Bisbalus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Odocoileus_hemionus.cs"
-    name: "Odocoileus hemionus"
-    common_name: "Odocoileus_hemionus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Odocoileus_pandora.cs"
-    name: "Odocoileus pandora"
-    common_name: "Odocoileus_pandora"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Odocoileus_sp.cs"
-    name: "Odocoileus sp."
-    common_name: "Odocoileus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Odocoileus_sp_vd_DT_2022.cs"
-    name: "Odocoileus sp. vd DT-2022"
-    common_name: "Odocoileus_sp_vd_DT_2022"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Odocoileus_virginianus.cs"
-    name: "Odocoileus virginianus"
-    common_name: "Odocoileus_virginianus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Odocoileus_virginianus_x_Odocoileus_hemionus.cs"
-    name: "Odocoileus virginianus x Odocoileus hemionus"
-    common_name: "Odocoileus_virginianus_x_Odocoileus_hemionus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Odocoileus_hemionus:
+    common_name: Odocoileus_hemionus
+    conservation: UK
+  Odocoileus_pandora:
+    common_name: Odocoileus_pandora
+    conservation: UK
+  Odocoileus_sp:
+    common_name: Odocoileus_sp
+    conservation: UK
+  Odocoileus_sp_vd_DT_2022:
+    common_name: Odocoileus_sp_vd_DT_2022
+    conservation: UK
+  Odocoileus_virginianus:
+    common_name: Odocoileus_virginianus
+    conservation: UK
+  Odocoileus_virginianus_x_Odocoileus_hemionus:
+    common_name: Odocoileus_virginianus_x_Odocoileus_hemionus
+    conservation: UK
 ---
-
 # Odocoileus
 
 Genus containing 6 species.

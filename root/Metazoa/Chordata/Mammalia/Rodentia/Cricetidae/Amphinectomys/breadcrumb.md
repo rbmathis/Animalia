@@ -1,30 +1,21 @@
 ---
-title: "Amphinectomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["amphinectomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 218841
-parent: "../breadcrumb.md"
+title: Amphinectomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [amphinectomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Amphinectomys_savamis.cs"
-    name: "Amphinectomys savamis"
-    common_name: "Amphinectomys_savamis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Amphinectomys_savamis:
+    common_name: Amphinectomys_savamis
+    conservation: UK
 ---
-
 # Amphinectomys
 
 Genus containing 1 species.

@@ -1,30 +1,21 @@
 ---
-title: "Zenkerella"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["zenkerella", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anomalurus/breadcrumb.md", "../Idiurus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 101668
-parent: "../breadcrumb.md"
+title: Zenkerella
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [zenkerella, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anomalurus/breadcrumb.md, ../Idiurus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Zenkerella_insignis.cs"
-    name: "Zenkerella insignis"
-    common_name: "Zenkerella_insignis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Zenkerella_insignis:
+    common_name: Zenkerella_insignis
+    conservation: UK
 ---
-
 # Zenkerella
 
 Genus containing 1 species.

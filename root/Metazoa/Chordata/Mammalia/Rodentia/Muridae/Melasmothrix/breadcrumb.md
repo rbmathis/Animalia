@@ -1,30 +1,21 @@
 ---
-title: "Melasmothrix"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["melasmothrix", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 491875
-parent: "../breadcrumb.md"
+title: Melasmothrix
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [melasmothrix, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Melasmothrix_naso.cs"
-    name: "Melasmothrix naso"
-    common_name: "Melasmothrix_naso"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Melasmothrix_naso:
+    common_name: Melasmothrix_naso
+    conservation: UK
 ---
-
 # Melasmothrix
 
 Genus containing 1 species.

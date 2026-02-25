@@ -1,126 +1,79 @@
 ---
-title: "Crocidura"
-description: "Genus containing 294 species."
-category: "taxonomy/genus"
-tags: ["crocidura", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 36801
-parent: "../breadcrumb.md"
+title: Crocidura
+description: Genus containing 294 species.
+category: taxonomy/genus
+tags: [crocidura, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 294
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Crocidura_absconditus.cs"
-    name: "Crocidura absconditus"
-    common_name: "Crocidura_absconditus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_afeworkbekelei.cs"
-    name: "Crocidura afeworkbekelei"
-    common_name: "Crocidura_afeworkbekelei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_aff_gueldenstaedtii_ZIN_103590.cs"
-    name: "Crocidura aff. gueldenstaedtii ZIN 103590"
-    common_name: "Crocidura_aff_gueldenstaedtii_ZIN_103590"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_aff_suaveolens.cs"
-    name: "Crocidura aff. suaveolens"
-    common_name: "Crocidura_aff_suaveolens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_aff_suaveolens_ZMMU_S_182392.cs"
-    name: "Crocidura aff. suaveolens ZMMU S-182392"
-    common_name: "Crocidura_aff_suaveolens_ZMMU_S_182392"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_aff_suaveolens_ZMMU_S_182393.cs"
-    name: "Crocidura aff. suaveolens ZMMU S-182393"
-    common_name: "Crocidura_aff_suaveolens_ZMMU_S_182393"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_aff_suaveolens_ZMMU_S_187274.cs"
-    name: "Crocidura aff. suaveolens ZMMU S-187274"
-    common_name: "Crocidura_aff_suaveolens_ZMMU_S_187274"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_aff_suaveolens_ZMMU_S_187275.cs"
-    name: "Crocidura aff. suaveolens ZMMU S-187275"
-    common_name: "Crocidura_aff_suaveolens_ZMMU_S_187275"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_aff_suaveolens_ZMMU_S_187276.cs"
-    name: "Crocidura aff. suaveolens ZMMU S-187276"
-    common_name: "Crocidura_aff_suaveolens_ZMMU_S_187276"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_aff_suaveolens_ZMMU_S_195262.cs"
-    name: "Crocidura aff. suaveolens ZMMU S-195262"
-    common_name: "Crocidura_aff_suaveolens_ZMMU_S_195262"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_aff_suaveolens_ZMMU_S_199265.cs"
-    name: "Crocidura aff. suaveolens ZMMU S-199265"
-    common_name: "Crocidura_aff_suaveolens_ZMMU_S_199265"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_aff_suaveolens_ZMMU_S_199266.cs"
-    name: "Crocidura aff. suaveolens ZMMU S-199266"
-    common_name: "Crocidura_aff_suaveolens_ZMMU_S_199266"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_aff_suaveolens_ZMMU_S_199267.cs"
-    name: "Crocidura aff. suaveolens ZMMU S-199267"
-    common_name: "Crocidura_aff_suaveolens_ZMMU_S_199267"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_aff_suaveolens_ZMMU_S_199268.cs"
-    name: "Crocidura aff. suaveolens ZMMU S-199268"
-    common_name: "Crocidura_aff_suaveolens_ZMMU_S_199268"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_aff_suaveolens_ZMMU_S_207067.cs"
-    name: "Crocidura aff. suaveolens ZMMU S-207067"
-    common_name: "Crocidura_aff_suaveolens_ZMMU_S_207067"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_aleksandrisi.cs"
-    name: "Crocidura aleksandrisi"
-    common_name: "Crocidura_aleksandrisi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_andamanensis.cs"
-    name: "Crocidura andamanensis"
-    common_name: "Crocidura_andamanensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_anhuiensis.cs"
-    name: "Crocidura anhuiensis"
-    common_name: "Crocidura_anhuiensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_arispa.cs"
-    name: "Crocidura arispa"
-    common_name: "Crocidura_arispa"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crocidura_armenica.cs"
-    name: "Crocidura armenica"
-    common_name: "Crocidura_armenica"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Crocidura_absconditus:
+    common_name: Crocidura_absconditus
+    conservation: UK
+  Crocidura_afeworkbekelei:
+    common_name: Crocidura_afeworkbekelei
+    conservation: UK
+  Crocidura_aff_gueldenstaedtii_ZIN_103590:
+    common_name: Crocidura_aff_gueldenstaedtii_ZIN_103590
+    conservation: UK
+  Crocidura_aff_suaveolens:
+    common_name: Crocidura_aff_suaveolens
+    conservation: UK
+  Crocidura_aff_suaveolens_ZMMU_S_182392:
+    common_name: Crocidura_aff_suaveolens_ZMMU_S_182392
+    conservation: UK
+  Crocidura_aff_suaveolens_ZMMU_S_182393:
+    common_name: Crocidura_aff_suaveolens_ZMMU_S_182393
+    conservation: UK
+  Crocidura_aff_suaveolens_ZMMU_S_187274:
+    common_name: Crocidura_aff_suaveolens_ZMMU_S_187274
+    conservation: UK
+  Crocidura_aff_suaveolens_ZMMU_S_187275:
+    common_name: Crocidura_aff_suaveolens_ZMMU_S_187275
+    conservation: UK
+  Crocidura_aff_suaveolens_ZMMU_S_187276:
+    common_name: Crocidura_aff_suaveolens_ZMMU_S_187276
+    conservation: UK
+  Crocidura_aff_suaveolens_ZMMU_S_195262:
+    common_name: Crocidura_aff_suaveolens_ZMMU_S_195262
+    conservation: UK
+  Crocidura_aff_suaveolens_ZMMU_S_199265:
+    common_name: Crocidura_aff_suaveolens_ZMMU_S_199265
+    conservation: UK
+  Crocidura_aff_suaveolens_ZMMU_S_199266:
+    common_name: Crocidura_aff_suaveolens_ZMMU_S_199266
+    conservation: UK
+  Crocidura_aff_suaveolens_ZMMU_S_199267:
+    common_name: Crocidura_aff_suaveolens_ZMMU_S_199267
+    conservation: UK
+  Crocidura_aff_suaveolens_ZMMU_S_199268:
+    common_name: Crocidura_aff_suaveolens_ZMMU_S_199268
+    conservation: UK
+  Crocidura_aff_suaveolens_ZMMU_S_207067:
+    common_name: Crocidura_aff_suaveolens_ZMMU_S_207067
+    conservation: UK
+  Crocidura_aleksandrisi:
+    common_name: Crocidura_aleksandrisi
+    conservation: UK
+  Crocidura_andamanensis:
+    common_name: Crocidura_andamanensis
+    conservation: UK
+  Crocidura_anhuiensis:
+    common_name: Crocidura_anhuiensis
+    conservation: UK
+  Crocidura_arispa:
+    common_name: Crocidura_arispa
+    conservation: UK
+  Crocidura_armenica:
+    common_name: Crocidura_armenica
+    conservation: UK
 ---
-
 # Crocidura
 
 Genus containing 294 species.

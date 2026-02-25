@@ -1,36 +1,25 @@
 ---
-title: "Parablarinella"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["parablarinella", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2981328
-parent: "../breadcrumb.md"
+title: Parablarinella
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [parablarinella, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Parablarinella_griselda.cs"
-    name: "Parablarinella griselda"
-    common_name: "Parablarinella_griselda"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Parablarinella_sp_1_XP_2022a.cs"
-    name: "Parablarinella sp. 1 XP-2022a"
-    common_name: "Parablarinella_sp_1_XP_2022a"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Parablarinella_griselda:
+    common_name: Parablarinella_griselda
+    conservation: UK
+  Parablarinella_sp_1_XP_2022a:
+    common_name: Parablarinella_sp_1_XP_2022a
+    conservation: UK
 ---
-
 # Parablarinella
 
 Genus containing 2 species.

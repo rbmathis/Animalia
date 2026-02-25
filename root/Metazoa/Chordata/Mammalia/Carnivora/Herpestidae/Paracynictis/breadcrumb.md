@@ -1,30 +1,21 @@
 ---
-title: "Paracynictis"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["paracynictis", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atilax/breadcrumb.md", "../Bdeogale/breadcrumb.md", "../Crossarchus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 311559
-parent: "../breadcrumb.md"
+title: Paracynictis
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [paracynictis, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atilax/breadcrumb.md, ../Bdeogale/breadcrumb.md, ../Crossarchus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Paracynictis_selousi.cs"
-    name: "Paracynictis selousi"
-    common_name: "Paracynictis_selousi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Paracynictis_selousi:
+    common_name: Paracynictis_selousi
+    conservation: UK
 ---
-
 # Paracynictis
 
 Genus containing 1 species.

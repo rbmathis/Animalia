@@ -1,38 +1,19 @@
 ---
-title: "Octodontidae"
-description: "Family containing 6 genera."
-category: "taxonomy/family"
-tags: ["octodontidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 10158
-parent: "../breadcrumb.md"
+title: Octodontidae
+description: Family containing 6 genera.
+category: taxonomy/family
+tags: [octodontidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 6
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Aconaemys/breadcrumb.md"
-    name: "Aconaemys"
-  - path: "Octodon/breadcrumb.md"
-    name: "Octodon"
-  - path: "Octomys/breadcrumb.md"
-    name: "Octomys"
-  - path: "Pipanacoctomys/breadcrumb.md"
-    name: "Pipanacoctomys"
-  - path: "Spalacopus/breadcrumb.md"
-    name: "Spalacopus"
-  - path: "Tympanoctomys/breadcrumb.md"
-    name: "Tympanoctomys"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Aconaemys, Octodon, Octomys, Pipanacoctomys, Spalacopus, Tympanoctomys]
 ---
-
 # Octodontidae
 
 Family containing 6 genera.

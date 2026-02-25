@@ -1,35 +1,24 @@
 ---
-title: "Mammelomys"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["mammelomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 442582
-parent: "../breadcrumb.md"
+title: Mammelomys
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [mammelomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mammelomys_lanosus.cs"
-    name: "Mammelomys lanosus"
-    common_name: "Mammelomys_lanosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mammelomys_rattoides.cs"
-    name: "Mammelomys rattoides"
-    common_name: "Mammelomys_rattoides"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mammelomys_lanosus:
+    common_name: Mammelomys_lanosus
+    conservation: UK
+  Mammelomys_rattoides:
+    common_name: Mammelomys_rattoides
+    conservation: UK
 ---
-
 # Mammelomys
 
 Genus containing 2 species.

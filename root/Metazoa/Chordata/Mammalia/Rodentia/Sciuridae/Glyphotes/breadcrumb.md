@@ -1,30 +1,21 @@
 ---
-title: "Glyphotes"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["glyphotes", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226550
-parent: "../breadcrumb.md"
+title: Glyphotes
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [glyphotes, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Glyphotes_simus.cs"
-    name: "Glyphotes simus"
-    common_name: "Glyphotes_simus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Glyphotes_simus:
+    common_name: Glyphotes_simus
+    conservation: UK
 ---
-
 # Glyphotes
 
 Genus containing 1 species.

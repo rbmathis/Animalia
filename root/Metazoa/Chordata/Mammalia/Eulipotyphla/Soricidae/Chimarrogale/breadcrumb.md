@@ -1,55 +1,36 @@
 ---
-title: "Chimarrogale"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["chimarrogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 62292
-parent: "../breadcrumb.md"
+title: Chimarrogale
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [chimarrogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chimarrogale_himalayica.cs"
-    name: "Chimarrogale himalayica"
-    common_name: "Chimarrogale_himalayica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chimarrogale_leander.cs"
-    name: "Chimarrogale leander"
-    common_name: "Chimarrogale_leander"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chimarrogale_phaeura.cs"
-    name: "Chimarrogale phaeura"
-    common_name: "Chimarrogale_phaeura"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chimarrogale_platycephalus.cs"
-    name: "Chimarrogale platycephalus"
-    common_name: "Chimarrogale_platycephalus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chimarrogale_styani.cs"
-    name: "Chimarrogale styani"
-    common_name: "Chimarrogale_styani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chimarrogale_varennei.cs"
-    name: "Chimarrogale varennei"
-    common_name: "Chimarrogale_varennei"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chimarrogale_himalayica:
+    common_name: Chimarrogale_himalayica
+    conservation: UK
+  Chimarrogale_leander:
+    common_name: Chimarrogale_leander
+    conservation: UK
+  Chimarrogale_phaeura:
+    common_name: Chimarrogale_phaeura
+    conservation: UK
+  Chimarrogale_platycephalus:
+    common_name: Chimarrogale_platycephalus
+    conservation: UK
+  Chimarrogale_styani:
+    common_name: Chimarrogale_styani
+    conservation: UK
+  Chimarrogale_varennei:
+    common_name: Chimarrogale_varennei
+    conservation: UK
 ---
-
 # Chimarrogale
 
 Genus containing 6 species.

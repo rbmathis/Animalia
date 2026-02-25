@@ -1,23 +1,20 @@
 ---
-title: "unclassified_Sicistinae"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["unclassified_sicistinae", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allactaga/breadcrumb.md", "../Allactodipus/breadcrumb.md", "../Cardiocranius/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-parent: "../breadcrumb.md"
+title: unclassified_Sicistinae
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [unclassified_sicistinae, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allactaga/breadcrumb.md, ../Allactodipus/breadcrumb.md, ../Cardiocranius/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-species:
-  - file: "Sicistinae_gen_n_sp_s_ZZ_2025.cs"
-    name: "Sicistinae gen. n. sp. s ZZ-2025"
-    common_name: "Sicistinae_gen_n_sp_s_ZZ_2025"
-    conservation: "Unknown"
-    enriched: false
+species_data:
+  Sicistinae_gen_n_sp_s_ZZ_2025:
+    common_name: Sicistinae_gen_n_sp_s_ZZ_2025
+    conservation: UK
 ---
-
 # unclassified_Sicistinae
 
 Genus containing 1 species.

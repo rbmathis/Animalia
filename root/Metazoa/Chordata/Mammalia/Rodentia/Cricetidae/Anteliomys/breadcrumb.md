@@ -1,50 +1,33 @@
 ---
-title: "Anteliomys"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["anteliomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3370982
-parent: "../breadcrumb.md"
+title: Anteliomys
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [anteliomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Anteliomys_chinensis.cs"
-    name: "Anteliomys chinensis"
-    common_name: "Anteliomys_chinensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Anteliomys_custos.cs"
-    name: "Anteliomys custos"
-    common_name: "Anteliomys_custos"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Anteliomys_olitor.cs"
-    name: "Anteliomys olitor"
-    common_name: "Anteliomys_olitor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Anteliomys_proditor.cs"
-    name: "Anteliomys proditor"
-    common_name: "Anteliomys_proditor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Anteliomys_wardi.cs"
-    name: "Anteliomys wardi"
-    common_name: "Anteliomys_wardi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Anteliomys_chinensis:
+    common_name: Anteliomys_chinensis
+    conservation: UK
+  Anteliomys_custos:
+    common_name: Anteliomys_custos
+    conservation: UK
+  Anteliomys_olitor:
+    common_name: Anteliomys_olitor
+    conservation: UK
+  Anteliomys_proditor:
+    common_name: Anteliomys_proditor
+    conservation: UK
+  Anteliomys_wardi:
+    common_name: Anteliomys_wardi
+    conservation: UK
 ---
-
 # Anteliomys
 
 Genus containing 5 species.

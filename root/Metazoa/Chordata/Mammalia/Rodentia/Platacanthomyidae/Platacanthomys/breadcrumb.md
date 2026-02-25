@@ -1,30 +1,21 @@
 ---
-title: "Platacanthomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["platacanthomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Typhlomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2502161
-parent: "../breadcrumb.md"
+title: Platacanthomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [platacanthomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Typhlomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Platacanthomys_lasiurus.cs"
-    name: "Platacanthomys lasiurus"
-    common_name: "Platacanthomys_lasiurus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Platacanthomys_lasiurus:
+    common_name: Platacanthomys_lasiurus
+    conservation: UK
 ---
-
 # Platacanthomys
 
 Genus containing 1 species.

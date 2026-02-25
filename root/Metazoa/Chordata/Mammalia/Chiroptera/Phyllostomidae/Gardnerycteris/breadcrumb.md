@@ -1,40 +1,27 @@
 ---
-title: "Gardnerycteris"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["gardnerycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1920523
-parent: "../breadcrumb.md"
+title: Gardnerycteris
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [gardnerycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Gardnerycteris_crenulata.cs"
-    name: "Gardnerycteris crenulata"
-    common_name: "Gardnerycteris_crenulata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gardnerycteris_keenani.cs"
-    name: "Gardnerycteris keenani"
-    common_name: "Gardnerycteris_keenani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gardnerycteris_koepckeae.cs"
-    name: "Gardnerycteris koepckeae"
-    common_name: "Gardnerycteris_koepckeae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Gardnerycteris_crenulata:
+    common_name: Gardnerycteris_crenulata
+    conservation: UK
+  Gardnerycteris_keenani:
+    common_name: Gardnerycteris_keenani
+    conservation: UK
+  Gardnerycteris_koepckeae:
+    common_name: Gardnerycteris_koepckeae
+    conservation: UK
 ---
-
 # Gardnerycteris
 
 Genus containing 3 species.

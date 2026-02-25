@@ -1,50 +1,33 @@
 ---
-title: "Cynomys"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["cynomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 45478
-parent: "../breadcrumb.md"
+title: Cynomys
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [cynomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cynomys_gunnisoni.cs"
-    name: "Cynomys gunnisoni"
-    common_name: "Cynomys_gunnisoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomys_leucurus.cs"
-    name: "Cynomys leucurus"
-    common_name: "Cynomys_leucurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomys_ludovicianus.cs"
-    name: "Cynomys ludovicianus"
-    common_name: "Cynomys_ludovicianus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomys_mexicanus.cs"
-    name: "Cynomys mexicanus"
-    common_name: "Cynomys_mexicanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynomys_parvidens.cs"
-    name: "Cynomys parvidens"
-    common_name: "Cynomys_parvidens"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cynomys_gunnisoni:
+    common_name: Cynomys_gunnisoni
+    conservation: UK
+  Cynomys_leucurus:
+    common_name: Cynomys_leucurus
+    conservation: UK
+  Cynomys_ludovicianus:
+    common_name: Cynomys_ludovicianus
+    conservation: UK
+  Cynomys_mexicanus:
+    common_name: Cynomys_mexicanus
+    conservation: UK
+  Cynomys_parvidens:
+    common_name: Cynomys_parvidens
+    conservation: UK
 ---
-
 # Cynomys
 
 Genus containing 5 species.

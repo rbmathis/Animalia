@@ -1,30 +1,21 @@
 ---
-title: "Thoopterus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["thoopterus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 58086
-parent: "../breadcrumb.md"
+title: Thoopterus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [thoopterus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Thoopterus_nigrescens.cs"
-    name: "Thoopterus nigrescens"
-    common_name: "Thoopterus_nigrescens"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Thoopterus_nigrescens:
+    common_name: Thoopterus_nigrescens
+    conservation: UK
 ---
-
 # Thoopterus
 
 Genus containing 1 species.

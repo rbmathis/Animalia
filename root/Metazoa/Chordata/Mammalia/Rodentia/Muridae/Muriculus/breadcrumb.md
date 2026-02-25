@@ -1,30 +1,21 @@
 ---
-title: "Muriculus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["muriculus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1465658
-parent: "../breadcrumb.md"
+title: Muriculus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [muriculus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Muriculus_imberbis.cs"
-    name: "Muriculus imberbis"
-    common_name: "Muriculus_imberbis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Muriculus_imberbis:
+    common_name: Muriculus_imberbis
+    conservation: UK
 ---
-
 # Muriculus
 
 Genus containing 1 species.

@@ -1,56 +1,37 @@
 ---
-title: "Megaladapis"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["megaladapis", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Lepilemur/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 126593
-parent: "../breadcrumb.md"
+title: Megaladapis
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [megaladapis, genus]
+status: Living
+updated: 2026-02-23
+related: [../Lepilemur/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Megaladapis_edwardsi.cs"
-    name: "Megaladapis edwardsi"
-    common_name: "Megaladapis_edwardsi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Megaladapis_sp.cs"
-    name: "Megaladapis sp."
-    common_name: "Megaladapis_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Megaladapis_sp_UA4821.cs"
-    name: "Megaladapis sp. UA4821"
-    common_name: "Megaladapis_sp_UA4821"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Megaladapis_sp_UA4822.cs"
-    name: "Megaladapis sp. UA4822"
-    common_name: "Megaladapis_sp_UA4822"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Megaladapis_sp_UA4823.cs"
-    name: "Megaladapis sp. UA4823"
-    common_name: "Megaladapis_sp_UA4823"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Megaladapis_sp_UA5482.cs"
-    name: "Megaladapis sp. UA5482"
-    common_name: "Megaladapis_sp_UA5482"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Megaladapis_edwardsi:
+    common_name: Megaladapis_edwardsi
+    conservation: UK
+  Megaladapis_sp:
+    common_name: Megaladapis_sp
+    conservation: UK
+  Megaladapis_sp_UA4821:
+    common_name: Megaladapis_sp_UA4821
+    conservation: UK
+  Megaladapis_sp_UA4822:
+    common_name: Megaladapis_sp_UA4822
+    conservation: UK
+  Megaladapis_sp_UA4823:
+    common_name: Megaladapis_sp_UA4823
+    conservation: UK
+  Megaladapis_sp_UA5482:
+    common_name: Megaladapis_sp_UA5482
+    conservation: UK
 ---
-
 # Megaladapis
 
 Genus containing 6 species.

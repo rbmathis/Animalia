@@ -1,30 +1,21 @@
 ---
-title: "Vampyrum"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["vampyrum", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 148060
-parent: "../breadcrumb.md"
+title: Vampyrum
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [vampyrum, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Vampyrum_spectrum.cs"
-    name: "Vampyrum spectrum"
-    common_name: "Vampyrum_spectrum"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Vampyrum_spectrum:
+    common_name: Vampyrum_spectrum
+    conservation: UK
 ---
-
 # Vampyrum
 
 Genus containing 1 species.

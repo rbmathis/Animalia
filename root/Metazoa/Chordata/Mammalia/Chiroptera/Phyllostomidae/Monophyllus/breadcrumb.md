@@ -1,35 +1,24 @@
 ---
-title: "Monophyllus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["monophyllus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 148046
-parent: "../breadcrumb.md"
+title: Monophyllus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [monophyllus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Monophyllus_plethodon.cs"
-    name: "Monophyllus plethodon"
-    common_name: "Monophyllus_plethodon"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monophyllus_redmani.cs"
-    name: "Monophyllus redmani"
-    common_name: "Monophyllus_redmani"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Monophyllus_plethodon:
+    common_name: Monophyllus_plethodon
+    conservation: UK
+  Monophyllus_redmani:
+    common_name: Monophyllus_redmani
+    conservation: UK
 ---
-
 # Monophyllus
 
 Genus containing 2 species.

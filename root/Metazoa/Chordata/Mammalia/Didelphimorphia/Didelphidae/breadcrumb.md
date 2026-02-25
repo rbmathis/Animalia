@@ -1,46 +1,19 @@
 ---
-title: "Didelphidae"
-description: "Family containing 18 genera."
-category: "taxonomy/family"
-tags: ["didelphidae", "family"]
-status: "Living"
-updated: "2026-02-23"
+title: Didelphidae
+description: Family containing 18 genera.
+category: taxonomy/family
+tags: [didelphidae, family]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9265
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 18
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Caluromys/breadcrumb.md"
-    name: "Caluromys"
-  - path: "Caluromysiops/breadcrumb.md"
-    name: "Caluromysiops"
-  - path: "Chacodelphys/breadcrumb.md"
-    name: "Chacodelphys"
-  - path: "Chironectes/breadcrumb.md"
-    name: "Chironectes"
-  - path: "Cryptonanus/breadcrumb.md"
-    name: "Cryptonanus"
-  - path: "Didelphis/breadcrumb.md"
-    name: "Didelphis"
-  - path: "Glironia/breadcrumb.md"
-    name: "Glironia"
-  - path: "Gracilinanus/breadcrumb.md"
-    name: "Gracilinanus"
-  - path: "Hyladelphys/breadcrumb.md"
-    name: "Hyladelphys"
-  - path: "Lestodelphys/breadcrumb.md"
-    name: "Lestodelphys"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Caluromys, Caluromysiops, Chacodelphys, Chironectes, Cryptonanus, Didelphis, Glironia, Gracilinanus, Hyladelphys, Lestodelphys]
 ---
-
 # Didelphidae
 
 Family containing 18 genera.

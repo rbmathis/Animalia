@@ -1,40 +1,27 @@
 ---
-title: "Caluromys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["caluromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Caluromysiops/breadcrumb.md", "../Chacodelphys/breadcrumb.md", "../Chironectes/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 42712
-parent: "../breadcrumb.md"
+title: Caluromys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [caluromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Caluromysiops/breadcrumb.md, ../Chacodelphys/breadcrumb.md, ../Chironectes/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Caluromys_derbianus.cs"
-    name: "Caluromys derbianus"
-    common_name: "Caluromys_derbianus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Caluromys_lanatus.cs"
-    name: "Caluromys lanatus"
-    common_name: "Caluromys_lanatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Caluromys_philander.cs"
-    name: "Caluromys philander"
-    common_name: "Caluromys_philander"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Caluromys_derbianus:
+    common_name: Caluromys_derbianus
+    conservation: UK
+  Caluromys_lanatus:
+    common_name: Caluromys_lanatus
+    conservation: UK
+  Caluromys_philander:
+    common_name: Caluromys_philander
+    conservation: UK
 ---
-
 # Caluromys
 
 Genus containing 3 species.

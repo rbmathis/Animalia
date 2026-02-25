@@ -1,30 +1,21 @@
 ---
-title: "Rhyneptesicus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["rhyneptesicus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3411094
-parent: "../breadcrumb.md"
+title: Rhyneptesicus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [rhyneptesicus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rhyneptesicus_nasutus.cs"
-    name: "Rhyneptesicus nasutus"
-    common_name: "Rhyneptesicus_nasutus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rhyneptesicus_nasutus:
+    common_name: Rhyneptesicus_nasutus
+    conservation: UK
 ---
-
 # Rhyneptesicus
 
 Genus containing 1 species.

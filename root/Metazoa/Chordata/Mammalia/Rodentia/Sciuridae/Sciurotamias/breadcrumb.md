@@ -1,35 +1,24 @@
 ---
-title: "Sciurotamias"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["sciurotamias", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226848
-parent: "../breadcrumb.md"
+title: Sciurotamias
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [sciurotamias, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Sciurotamias_davidianus.cs"
-    name: "Sciurotamias davidianus"
-    common_name: "Sciurotamias_davidianus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sciurotamias_forresti.cs"
-    name: "Sciurotamias forresti"
-    common_name: "Sciurotamias_forresti"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Sciurotamias_davidianus:
+    common_name: Sciurotamias_davidianus
+    conservation: UK
+  Sciurotamias_forresti:
+    common_name: Sciurotamias_forresti
+    conservation: UK
 ---
-
 # Sciurotamias
 
 Genus containing 2 species.

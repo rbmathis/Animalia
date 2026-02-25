@@ -1,35 +1,24 @@
 ---
-title: "Volemys"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["volemys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 164382
-parent: "../breadcrumb.md"
+title: Volemys
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [volemys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Volemys_millicens.cs"
-    name: "Volemys millicens"
-    common_name: "Volemys_millicens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Volemys_musseri.cs"
-    name: "Volemys musseri"
-    common_name: "Volemys_musseri"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Volemys_millicens:
+    common_name: Volemys_millicens
+    conservation: UK
+  Volemys_musseri:
+    common_name: Volemys_musseri
+    conservation: UK
 ---
-
 # Volemys
 
 Genus containing 2 species.

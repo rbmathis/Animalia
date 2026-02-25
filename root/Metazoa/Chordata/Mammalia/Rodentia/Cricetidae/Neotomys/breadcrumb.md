@@ -1,30 +1,21 @@
 ---
-title: "Neotomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["neotomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1007657
-parent: "../breadcrumb.md"
+title: Neotomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [neotomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Neotomys_ebriosus.cs"
-    name: "Neotomys ebriosus"
-    common_name: "Neotomys_ebriosus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Neotomys_ebriosus:
+    common_name: Neotomys_ebriosus
+    conservation: UK
 ---
-
 # Neotomys
 
 Genus containing 1 species.

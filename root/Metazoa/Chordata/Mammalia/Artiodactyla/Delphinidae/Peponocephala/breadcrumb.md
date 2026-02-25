@@ -1,30 +1,21 @@
 ---
-title: "Peponocephala"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["peponocephala", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cephalorhynchus/breadcrumb.md", "../Delphinus/breadcrumb.md", "../Feresa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 103595
-parent: "../breadcrumb.md"
+title: Peponocephala
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [peponocephala, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cephalorhynchus/breadcrumb.md, ../Delphinus/breadcrumb.md, ../Feresa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Peponocephala_electra.cs"
-    name: "Peponocephala electra"
-    common_name: "Peponocephala_electra"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Peponocephala_electra:
+    common_name: Peponocephala_electra
+    conservation: UK
 ---
-
 # Peponocephala
 
 Genus containing 1 species.

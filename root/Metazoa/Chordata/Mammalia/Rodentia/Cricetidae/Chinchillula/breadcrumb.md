@@ -1,30 +1,21 @@
 ---
-title: "Chinchillula"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["chinchillula", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1258721
-parent: "../breadcrumb.md"
+title: Chinchillula
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [chinchillula, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chinchillula_sahamae.cs"
-    name: "Chinchillula sahamae"
-    common_name: "Chinchillula_sahamae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chinchillula_sahamae:
+    common_name: Chinchillula_sahamae
+    conservation: UK
 ---
-
 # Chinchillula
 
 Genus containing 1 species.

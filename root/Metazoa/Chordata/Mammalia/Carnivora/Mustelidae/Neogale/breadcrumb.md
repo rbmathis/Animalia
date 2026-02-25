@@ -1,51 +1,34 @@
 ---
-title: "Neogale"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["neogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aonyx/breadcrumb.md", "../Arctonyx/breadcrumb.md", "../Eira/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2902005
-parent: "../breadcrumb.md"
+title: Neogale
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [neogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aonyx/breadcrumb.md, ../Arctonyx/breadcrumb.md, ../Eira/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Neogale_africana.cs"
-    name: "Neogale africana"
-    common_name: "Neogale_africana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neogale_environmental_sample.cs"
-    name: "Neogale environmental sample"
-    common_name: "Neogale_environmental_sample"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neogale_felipei.cs"
-    name: "Neogale felipei"
-    common_name: "Neogale_felipei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neogale_frenata.cs"
-    name: "Neogale frenata"
-    common_name: "Neogale_frenata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neogale_vison.cs"
-    name: "Neogale vison"
-    common_name: "Neogale_vison"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Neogale_africana:
+    common_name: Neogale_africana
+    conservation: UK
+  Neogale_environmental_sample:
+    common_name: Neogale_environmental_sample
+    conservation: UK
+  Neogale_felipei:
+    common_name: Neogale_felipei
+    conservation: UK
+  Neogale_frenata:
+    common_name: Neogale_frenata
+    conservation: UK
+  Neogale_vison:
+    common_name: Neogale_vison
+    conservation: UK
 ---
-
 # Neogale
 
 Genus containing 5 species.

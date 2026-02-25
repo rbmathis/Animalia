@@ -1,30 +1,21 @@
 ---
-title: "Megaptera"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["megaptera", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Balaenoptera/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9772
-parent: "../breadcrumb.md"
+title: Megaptera
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [megaptera, genus]
+status: Living
+updated: 2026-02-23
+related: [../Balaenoptera/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Megaptera_novaeangliae.cs"
-    name: "Megaptera novaeangliae"
-    common_name: "Megaptera_novaeangliae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Megaptera_novaeangliae:
+    common_name: Megaptera_novaeangliae
+    conservation: UK
 ---
-
 # Megaptera
 
 Genus containing 1 species.

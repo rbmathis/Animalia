@@ -1,35 +1,24 @@
 ---
-title: "Styloctenium"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["styloctenium", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1091511
-parent: "../breadcrumb.md"
+title: Styloctenium
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [styloctenium, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Styloctenium_mindorense.cs"
-    name: "Styloctenium mindorense"
-    common_name: "Styloctenium_mindorense"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Styloctenium_wallacei.cs"
-    name: "Styloctenium wallacei"
-    common_name: "Styloctenium_wallacei"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Styloctenium_mindorense:
+    common_name: Styloctenium_mindorense
+    conservation: UK
+  Styloctenium_wallacei:
+    common_name: Styloctenium_wallacei
+    conservation: UK
 ---
-
 # Styloctenium
 
 Genus containing 2 species.

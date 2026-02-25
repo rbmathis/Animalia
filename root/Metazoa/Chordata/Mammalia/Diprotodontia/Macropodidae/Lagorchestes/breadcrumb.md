@@ -1,35 +1,24 @@
 ---
-title: "Lagorchestes"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["lagorchestes", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dendrolagus/breadcrumb.md", "../Dorcopsis/breadcrumb.md", "../Dorcopsulus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 65623
-parent: "../breadcrumb.md"
+title: Lagorchestes
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [lagorchestes, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dendrolagus/breadcrumb.md, ../Dorcopsis/breadcrumb.md, ../Dorcopsulus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lagorchestes_conspicillatus.cs"
-    name: "Lagorchestes conspicillatus"
-    common_name: "Lagorchestes_conspicillatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagorchestes_hirsutus.cs"
-    name: "Lagorchestes hirsutus"
-    common_name: "Lagorchestes_hirsutus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lagorchestes_conspicillatus:
+    common_name: Lagorchestes_conspicillatus
+    conservation: UK
+  Lagorchestes_hirsutus:
+    common_name: Lagorchestes_hirsutus
+    conservation: UK
 ---
-
 # Lagorchestes
 
 Genus containing 2 species.

@@ -1,31 +1,22 @@
 ---
-title: "Chingawaemys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["chingawaemys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2954918
-parent: "../breadcrumb.md"
+title: Chingawaemys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [chingawaemys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chingawaemys_sp_LAV1667.cs"
-    name: "Chingawaemys sp. LAV1667"
-    common_name: "Chingawaemys_sp_LAV1667"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chingawaemys_sp_LAV1667:
+    common_name: Chingawaemys_sp_LAV1667
+    conservation: UK
 ---
-
 # Chingawaemys
 
 Genus containing 1 species.

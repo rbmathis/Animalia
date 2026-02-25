@@ -1,30 +1,21 @@
 ---
-title: "Parahydromys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["parahydromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 442591
-parent: "../breadcrumb.md"
+title: Parahydromys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [parahydromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Parahydromys_asper.cs"
-    name: "Parahydromys asper"
-    common_name: "Parahydromys_asper"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Parahydromys_asper:
+    common_name: Parahydromys_asper
+    conservation: UK
 ---
-
 # Parahydromys
 
 Genus containing 1 species.

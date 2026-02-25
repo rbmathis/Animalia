@@ -1,35 +1,24 @@
 ---
-title: "Harpyionycteris"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["harpyionycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 378749
-parent: "../breadcrumb.md"
+title: Harpyionycteris
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [harpyionycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Harpyionycteris_celebensis.cs"
-    name: "Harpyionycteris celebensis"
-    common_name: "Harpyionycteris_celebensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Harpyionycteris_whiteheadi.cs"
-    name: "Harpyionycteris whiteheadi"
-    common_name: "Harpyionycteris_whiteheadi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Harpyionycteris_celebensis:
+    common_name: Harpyionycteris_celebensis
+    conservation: UK
+  Harpyionycteris_whiteheadi:
+    common_name: Harpyionycteris_whiteheadi
+    conservation: UK
 ---
-
 # Harpyionycteris
 
 Genus containing 2 species.

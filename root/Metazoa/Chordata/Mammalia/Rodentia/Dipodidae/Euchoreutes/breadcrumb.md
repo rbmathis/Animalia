@@ -1,30 +1,21 @@
 ---
-title: "Euchoreutes"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["euchoreutes", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allactaga/breadcrumb.md", "../Allactodipus/breadcrumb.md", "../Cardiocranius/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 980893
-parent: "../breadcrumb.md"
+title: Euchoreutes
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [euchoreutes, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allactaga/breadcrumb.md, ../Allactodipus/breadcrumb.md, ../Cardiocranius/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Euchoreutes_naso.cs"
-    name: "Euchoreutes naso"
-    common_name: "Euchoreutes_naso"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Euchoreutes_naso:
+    common_name: Euchoreutes_naso
+    conservation: UK
 ---
-
 # Euchoreutes
 
 Genus containing 1 species.

@@ -1,40 +1,27 @@
 ---
-title: "Paragalago"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["paragalago", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Euoticus/breadcrumb.md", "../Galago/breadcrumb.md", "../Galagoides/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2604441
-parent: "../breadcrumb.md"
+title: Paragalago
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [paragalago, genus]
+status: Living
+updated: 2026-02-23
+related: [../Euoticus/breadcrumb.md, ../Galago/breadcrumb.md, ../Galagoides/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Paragalago_cocos.cs"
-    name: "Paragalago cocos"
-    common_name: "Paragalago_cocos"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Paragalago_granti.cs"
-    name: "Paragalago granti"
-    common_name: "Paragalago_granti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Paragalago_zanzibaricus.cs"
-    name: "Paragalago zanzibaricus"
-    common_name: "Paragalago_zanzibaricus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Paragalago_cocos:
+    common_name: Paragalago_cocos
+    conservation: UK
+  Paragalago_granti:
+    common_name: Paragalago_granti
+    conservation: UK
+  Paragalago_zanzibaricus:
+    common_name: Paragalago_zanzibaricus
+    conservation: UK
 ---
-
 # Paragalago
 
 Genus containing 3 species.

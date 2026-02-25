@@ -1,30 +1,21 @@
 ---
-title: "Macrogalidia"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["macrogalidia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Arctictis/breadcrumb.md", "../Arctogalidia/breadcrumb.md", "../Chrotogale/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1198223
-parent: "../breadcrumb.md"
+title: Macrogalidia
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [macrogalidia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Arctictis/breadcrumb.md, ../Arctogalidia/breadcrumb.md, ../Chrotogale/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Macrogalidia_musschenbroekii.cs"
-    name: "Macrogalidia musschenbroekii"
-    common_name: "Macrogalidia_musschenbroekii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Macrogalidia_musschenbroekii:
+    common_name: Macrogalidia_musschenbroekii
+    conservation: UK
 ---
-
 # Macrogalidia
 
 Genus containing 1 species.

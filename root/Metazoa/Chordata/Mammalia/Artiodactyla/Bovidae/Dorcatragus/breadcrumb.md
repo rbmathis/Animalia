@@ -1,30 +1,21 @@
 ---
-title: "Dorcatragus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["dorcatragus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1027982
-parent: "../breadcrumb.md"
+title: Dorcatragus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [dorcatragus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dorcatragus_megalotis.cs"
-    name: "Dorcatragus megalotis"
-    common_name: "Dorcatragus_megalotis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dorcatragus_megalotis:
+    common_name: Dorcatragus_megalotis
+    conservation: UK
 ---
-
 # Dorcatragus
 
 Genus containing 1 species.

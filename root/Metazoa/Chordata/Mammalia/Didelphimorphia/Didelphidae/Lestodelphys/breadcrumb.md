@@ -1,30 +1,21 @@
 ---
-title: "Lestodelphys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["lestodelphys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Caluromys/breadcrumb.md", "../Caluromysiops/breadcrumb.md", "../Chacodelphys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 126291
-parent: "../breadcrumb.md"
+title: Lestodelphys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [lestodelphys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Caluromys/breadcrumb.md, ../Caluromysiops/breadcrumb.md, ../Chacodelphys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lestodelphys_halli.cs"
-    name: "Lestodelphys halli"
-    common_name: "Lestodelphys_halli"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lestodelphys_halli:
+    common_name: Lestodelphys_halli
+    conservation: UK
 ---
-
 # Lestodelphys
 
 Genus containing 1 species.

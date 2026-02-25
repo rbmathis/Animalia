@@ -1,96 +1,61 @@
 ---
-title: "Glauconycteris"
-description: "Genus containing 14 species."
-category: "taxonomy/genus"
-tags: ["glauconycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 909366
-parent: "../breadcrumb.md"
+title: Glauconycteris
+description: Genus containing 14 species.
+category: taxonomy/genus
+tags: [glauconycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 14
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Glauconycteris_alboguttata.cs"
-    name: "Glauconycteris alboguttata"
-    common_name: "Glauconycteris_alboguttata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Glauconycteris_argentata.cs"
-    name: "Glauconycteris argentata"
-    common_name: "Glauconycteris_argentata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Glauconycteris_atra.cs"
-    name: "Glauconycteris atra"
-    common_name: "Glauconycteris_atra"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Glauconycteris_beatrix.cs"
-    name: "Glauconycteris beatrix"
-    common_name: "Glauconycteris_beatrix"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Glauconycteris_cf_humeralis_R13_46.cs"
-    name: "Glauconycteris cf. humeralis R13-46"
-    common_name: "Glauconycteris_cf_humeralis_R13_46"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Glauconycteris_cf_humeralis_R13_98.cs"
-    name: "Glauconycteris cf. humeralis R13-98"
-    common_name: "Glauconycteris_cf_humeralis_R13_98"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Glauconycteris_curryae.cs"
-    name: "Glauconycteris curryae"
-    common_name: "Glauconycteris_curryae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Glauconycteris_egeria.cs"
-    name: "Glauconycteris egeria"
-    common_name: "Glauconycteris_egeria"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Glauconycteris_humeralis.cs"
-    name: "Glauconycteris humeralis"
-    common_name: "Glauconycteris_humeralis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Glauconycteris_poensis.cs"
-    name: "Glauconycteris poensis"
-    common_name: "Glauconycteris_poensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Glauconycteris_sp.cs"
-    name: "Glauconycteris sp."
-    common_name: "Glauconycteris_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Glauconycteris_sp_DMR_2017.cs"
-    name: "Glauconycteris sp. DMR-2017"
-    common_name: "Glauconycteris_sp_DMR_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Glauconycteris_superba.cs"
-    name: "Glauconycteris superba"
-    common_name: "Glauconycteris_superba"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Glauconycteris_variegata.cs"
-    name: "Glauconycteris variegata"
-    common_name: "Glauconycteris_variegata"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Glauconycteris_alboguttata:
+    common_name: Glauconycteris_alboguttata
+    conservation: UK
+  Glauconycteris_argentata:
+    common_name: Glauconycteris_argentata
+    conservation: UK
+  Glauconycteris_atra:
+    common_name: Glauconycteris_atra
+    conservation: UK
+  Glauconycteris_beatrix:
+    common_name: Glauconycteris_beatrix
+    conservation: UK
+  Glauconycteris_cf_humeralis_R13_46:
+    common_name: Glauconycteris_cf_humeralis_R13_46
+    conservation: UK
+  Glauconycteris_cf_humeralis_R13_98:
+    common_name: Glauconycteris_cf_humeralis_R13_98
+    conservation: UK
+  Glauconycteris_curryae:
+    common_name: Glauconycteris_curryae
+    conservation: UK
+  Glauconycteris_egeria:
+    common_name: Glauconycteris_egeria
+    conservation: UK
+  Glauconycteris_humeralis:
+    common_name: Glauconycteris_humeralis
+    conservation: UK
+  Glauconycteris_poensis:
+    common_name: Glauconycteris_poensis
+    conservation: UK
+  Glauconycteris_sp:
+    common_name: Glauconycteris_sp
+    conservation: UK
+  Glauconycteris_sp_DMR_2017:
+    common_name: Glauconycteris_sp_DMR_2017
+    conservation: UK
+  Glauconycteris_superba:
+    common_name: Glauconycteris_superba
+    conservation: UK
+  Glauconycteris_variegata:
+    common_name: Glauconycteris_variegata
+    conservation: UK
 ---
-
 # Glauconycteris
 
 Genus containing 14 species.

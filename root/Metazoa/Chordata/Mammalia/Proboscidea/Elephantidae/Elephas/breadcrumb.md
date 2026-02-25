@@ -1,46 +1,31 @@
 ---
-title: "Elephas"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["elephas", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Loxodonta/breadcrumb.md", "../Mammuthus/breadcrumb.md", "../Palaeoloxodon/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9782
-parent: "../breadcrumb.md"
+title: Elephas
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [elephas, genus]
+status: Living
+updated: 2026-02-23
+related: [../Loxodonta/breadcrumb.md, ../Mammuthus/breadcrumb.md, ../Palaeoloxodon/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Elephas_antiquus.cs"
-    name: "Elephas antiquus"
-    common_name: "Elephas_antiquus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Elephas_cypriotes.cs"
-    name: "Elephas cypriotes"
-    common_name: "Elephas_cypriotes"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Elephas_maximus.cs"
-    name: "Elephas maximus"
-    common_name: "Elephas_maximus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Elephas_sp_NHMC_20221.cs"
-    name: "Elephas sp. NHMC 20.2.2.1"
-    common_name: "Elephas_sp_NHMC_20221"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Elephas_antiquus:
+    common_name: Elephas_antiquus
+    conservation: UK
+  Elephas_cypriotes:
+    common_name: Elephas_cypriotes
+    conservation: UK
+  Elephas_maximus:
+    common_name: Elephas_maximus
+    conservation: UK
+  Elephas_sp_NHMC_20221:
+    common_name: Elephas_sp_NHMC_20221
+    conservation: UK
 ---
-
 # Elephas
 
 Genus containing 4 species.

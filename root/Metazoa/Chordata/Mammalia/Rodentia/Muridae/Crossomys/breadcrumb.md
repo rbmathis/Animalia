@@ -1,30 +1,21 @@
 ---
-title: "Crossomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["crossomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 442569
-parent: "../breadcrumb.md"
+title: Crossomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [crossomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Crossomys_moncktoni.cs"
-    name: "Crossomys moncktoni"
-    common_name: "Crossomys_moncktoni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Crossomys_moncktoni:
+    common_name: Crossomys_moncktoni
+    conservation: UK
 ---
-
 # Crossomys
 
 Genus containing 1 species.

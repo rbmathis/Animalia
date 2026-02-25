@@ -1,30 +1,21 @@
 ---
-title: "Rhynchogale"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["rhynchogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atilax/breadcrumb.md", "../Bdeogale/breadcrumb.md", "../Crossarchus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 210653
-parent: "../breadcrumb.md"
+title: Rhynchogale
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [rhynchogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atilax/breadcrumb.md, ../Bdeogale/breadcrumb.md, ../Crossarchus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rhynchogale_melleri.cs"
-    name: "Rhynchogale melleri"
-    common_name: "Rhynchogale_melleri"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rhynchogale_melleri:
+    common_name: Rhynchogale_melleri
+    conservation: UK
 ---
-
 # Rhynchogale
 
 Genus containing 1 species.

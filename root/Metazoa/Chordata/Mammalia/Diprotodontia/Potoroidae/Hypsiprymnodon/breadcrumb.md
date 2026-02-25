@@ -1,30 +1,21 @@
 ---
-title: "Hypsiprymnodon"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["hypsiprymnodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aepyprymnus/breadcrumb.md", "../Bettongia/breadcrumb.md", "../Caloprymnus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 65622
-parent: "../breadcrumb.md"
+title: Hypsiprymnodon
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [hypsiprymnodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aepyprymnus/breadcrumb.md, ../Bettongia/breadcrumb.md, ../Caloprymnus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hypsiprymnodon_moschatus.cs"
-    name: "Hypsiprymnodon moschatus"
-    common_name: "Hypsiprymnodon_moschatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hypsiprymnodon_moschatus:
+    common_name: Hypsiprymnodon_moschatus
+    conservation: UK
 ---
-
 # Hypsiprymnodon
 
 Genus containing 1 species.

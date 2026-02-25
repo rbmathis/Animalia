@@ -1,30 +1,21 @@
 ---
-title: "Hemibelideus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["hemibelideus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Petauroides/breadcrumb.md", "../Pseudocheirus/breadcrumb.md", "../Pseudochirops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 596255
-parent: "../breadcrumb.md"
+title: Hemibelideus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [hemibelideus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Petauroides/breadcrumb.md, ../Pseudocheirus/breadcrumb.md, ../Pseudochirops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hemibelideus_lemuroides.cs"
-    name: "Hemibelideus lemuroides"
-    common_name: "Hemibelideus_lemuroides"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hemibelideus_lemuroides:
+    common_name: Hemibelideus_lemuroides
+    conservation: UK
 ---
-
 # Hemibelideus
 
 Genus containing 1 species.

@@ -1,51 +1,34 @@
 ---
-title: "Tarsomys"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["tarsomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 349712
-parent: "../breadcrumb.md"
+title: Tarsomys
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [tarsomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tarsomys_apoensis.cs"
-    name: "Tarsomys apoensis"
-    common_name: "Tarsomys_apoensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tarsomys_echinatus.cs"
-    name: "Tarsomys echinatus"
-    common_name: "Tarsomys_echinatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tarsomys_sp_FMNH_194803.cs"
-    name: "Tarsomys sp. FMNH 194803"
-    common_name: "Tarsomys_sp_FMNH_194803"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tarsomys_sp_FMNH_208755.cs"
-    name: "Tarsomys sp. FMNH 208755"
-    common_name: "Tarsomys_sp_FMNH_208755"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tarsomys_sp_FMNH_208825.cs"
-    name: "Tarsomys sp. FMNH 208825"
-    common_name: "Tarsomys_sp_FMNH_208825"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tarsomys_apoensis:
+    common_name: Tarsomys_apoensis
+    conservation: UK
+  Tarsomys_echinatus:
+    common_name: Tarsomys_echinatus
+    conservation: UK
+  Tarsomys_sp_FMNH_194803:
+    common_name: Tarsomys_sp_FMNH_194803
+    conservation: UK
+  Tarsomys_sp_FMNH_208755:
+    common_name: Tarsomys_sp_FMNH_208755
+    conservation: UK
+  Tarsomys_sp_FMNH_208825:
+    common_name: Tarsomys_sp_FMNH_208825
+    conservation: UK
 ---
-
 # Tarsomys
 
 Genus containing 5 species.

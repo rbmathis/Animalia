@@ -1,90 +1,57 @@
 ---
-title: "Cratogeomys"
-description: "Genus containing 13 species."
-category: "taxonomy/genus"
-tags: ["cratogeomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Geomys/breadcrumb.md", "../Heterogeomys/breadcrumb.md", "../Orthogeomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 13627
-parent: "../breadcrumb.md"
+title: Cratogeomys
+description: Genus containing 13 species.
+category: taxonomy/genus
+tags: [cratogeomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Geomys/breadcrumb.md, ../Heterogeomys/breadcrumb.md, ../Orthogeomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 13
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cratogeomys_bursarius.cs"
-    name: "Cratogeomys bursarius"
-    common_name: "Cratogeomys_bursarius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cratogeomys_castanops.cs"
-    name: "Cratogeomys castanops"
-    common_name: "Cratogeomys_castanops"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cratogeomys_estor.cs"
-    name: "Cratogeomys estor"
-    common_name: "Cratogeomys_estor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cratogeomys_fulvescens.cs"
-    name: "Cratogeomys fulvescens"
-    common_name: "Cratogeomys_fulvescens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cratogeomys_fumosus.cs"
-    name: "Cratogeomys fumosus"
-    common_name: "Cratogeomys_fumosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cratogeomys_goldmani.cs"
-    name: "Cratogeomys goldmani"
-    common_name: "Cratogeomys_goldmani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cratogeomys_gymnurus.cs"
-    name: "Cratogeomys gymnurus"
-    common_name: "Cratogeomys_gymnurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cratogeomys_merriami.cs"
-    name: "Cratogeomys merriami"
-    common_name: "Cratogeomys_merriami"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cratogeomys_neglectus.cs"
-    name: "Cratogeomys neglectus"
-    common_name: "Cratogeomys_neglectus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cratogeomys_perotensis.cs"
-    name: "Cratogeomys perotensis"
-    common_name: "Cratogeomys_perotensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cratogeomys_planiceps.cs"
-    name: "Cratogeomys planiceps"
-    common_name: "Cratogeomys_planiceps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cratogeomys_tylorhinus.cs"
-    name: "Cratogeomys tylorhinus"
-    common_name: "Cratogeomys_tylorhinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cratogeomys_zinseri.cs"
-    name: "Cratogeomys zinseri"
-    common_name: "Cratogeomys_zinseri"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cratogeomys_bursarius:
+    common_name: Cratogeomys_bursarius
+    conservation: UK
+  Cratogeomys_castanops:
+    common_name: Cratogeomys_castanops
+    conservation: UK
+  Cratogeomys_estor:
+    common_name: Cratogeomys_estor
+    conservation: UK
+  Cratogeomys_fulvescens:
+    common_name: Cratogeomys_fulvescens
+    conservation: UK
+  Cratogeomys_fumosus:
+    common_name: Cratogeomys_fumosus
+    conservation: UK
+  Cratogeomys_goldmani:
+    common_name: Cratogeomys_goldmani
+    conservation: UK
+  Cratogeomys_gymnurus:
+    common_name: Cratogeomys_gymnurus
+    conservation: UK
+  Cratogeomys_merriami:
+    common_name: Cratogeomys_merriami
+    conservation: UK
+  Cratogeomys_neglectus:
+    common_name: Cratogeomys_neglectus
+    conservation: UK
+  Cratogeomys_perotensis:
+    common_name: Cratogeomys_perotensis
+    conservation: UK
+  Cratogeomys_planiceps:
+    common_name: Cratogeomys_planiceps
+    conservation: UK
+  Cratogeomys_tylorhinus:
+    common_name: Cratogeomys_tylorhinus
+    conservation: UK
+  Cratogeomys_zinseri:
+    common_name: Cratogeomys_zinseri
+    conservation: UK
 ---
-
 # Cratogeomys
 
 Genus containing 13 species.

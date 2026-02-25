@@ -1,111 +1,70 @@
 ---
-title: "Dendrolagus"
-description: "Genus containing 17 species."
-category: "taxonomy/genus"
-tags: ["dendrolagus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dorcopsis/breadcrumb.md", "../Dorcopsulus/breadcrumb.md", "../Lagorchestes/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 38603
-parent: "../breadcrumb.md"
+title: Dendrolagus
+description: Genus containing 17 species.
+category: taxonomy/genus
+tags: [dendrolagus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dorcopsis/breadcrumb.md, ../Dorcopsulus/breadcrumb.md, ../Lagorchestes/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 17
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dendrolagus_bennettianus.cs"
-    name: "Dendrolagus bennettianus"
-    common_name: "Dendrolagus_bennettianus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_cf_scottae_SP_2018.cs"
-    name: "Dendrolagus cf. scottae SP-2018"
-    common_name: "Dendrolagus_cf_scottae_SP_2018"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_cf_stellarum_SP_2018.cs"
-    name: "Dendrolagus cf. stellarum SP-2018"
-    common_name: "Dendrolagus_cf_stellarum_SP_2018"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_dorianus.cs"
-    name: "Dendrolagus dorianus"
-    common_name: "Dendrolagus_dorianus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_goodfellowi.cs"
-    name: "Dendrolagus goodfellowi"
-    common_name: "Dendrolagus_goodfellowi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_inustus.cs"
-    name: "Dendrolagus inustus"
-    common_name: "Dendrolagus_inustus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_lumholtzi.cs"
-    name: "Dendrolagus lumholtzi"
-    common_name: "Dendrolagus_lumholtzi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_matschiei.cs"
-    name: "Dendrolagus matschiei"
-    common_name: "Dendrolagus_matschiei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_mayri.cs"
-    name: "Dendrolagus mayri"
-    common_name: "Dendrolagus_mayri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_mbaiso.cs"
-    name: "Dendrolagus mbaiso"
-    common_name: "Dendrolagus_mbaiso"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_notatus.cs"
-    name: "Dendrolagus notatus"
-    common_name: "Dendrolagus_notatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_pulcherrimus.cs"
-    name: "Dendrolagus pulcherrimus"
-    common_name: "Dendrolagus_pulcherrimus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_scottae.cs"
-    name: "Dendrolagus scottae"
-    common_name: "Dendrolagus_scottae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_sp_ME_2003.cs"
-    name: "Dendrolagus sp. ME-2003"
-    common_name: "Dendrolagus_sp_ME_2003"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_spadix.cs"
-    name: "Dendrolagus spadix"
-    common_name: "Dendrolagus_spadix"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_stellarum.cs"
-    name: "Dendrolagus stellarum"
-    common_name: "Dendrolagus_stellarum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dendrolagus_ursinus.cs"
-    name: "Dendrolagus ursinus"
-    common_name: "Dendrolagus_ursinus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dendrolagus_bennettianus:
+    common_name: Dendrolagus_bennettianus
+    conservation: UK
+  Dendrolagus_cf_scottae_SP_2018:
+    common_name: Dendrolagus_cf_scottae_SP_2018
+    conservation: UK
+  Dendrolagus_cf_stellarum_SP_2018:
+    common_name: Dendrolagus_cf_stellarum_SP_2018
+    conservation: UK
+  Dendrolagus_dorianus:
+    common_name: Dendrolagus_dorianus
+    conservation: UK
+  Dendrolagus_goodfellowi:
+    common_name: Dendrolagus_goodfellowi
+    conservation: UK
+  Dendrolagus_inustus:
+    common_name: Dendrolagus_inustus
+    conservation: UK
+  Dendrolagus_lumholtzi:
+    common_name: Dendrolagus_lumholtzi
+    conservation: UK
+  Dendrolagus_matschiei:
+    common_name: Dendrolagus_matschiei
+    conservation: UK
+  Dendrolagus_mayri:
+    common_name: Dendrolagus_mayri
+    conservation: UK
+  Dendrolagus_mbaiso:
+    common_name: Dendrolagus_mbaiso
+    conservation: UK
+  Dendrolagus_notatus:
+    common_name: Dendrolagus_notatus
+    conservation: UK
+  Dendrolagus_pulcherrimus:
+    common_name: Dendrolagus_pulcherrimus
+    conservation: UK
+  Dendrolagus_scottae:
+    common_name: Dendrolagus_scottae
+    conservation: UK
+  Dendrolagus_sp_ME_2003:
+    common_name: Dendrolagus_sp_ME_2003
+    conservation: UK
+  Dendrolagus_spadix:
+    common_name: Dendrolagus_spadix
+    conservation: UK
+  Dendrolagus_stellarum:
+    common_name: Dendrolagus_stellarum
+    conservation: UK
+  Dendrolagus_ursinus:
+    common_name: Dendrolagus_ursinus
+    conservation: UK
 ---
-
 # Dendrolagus
 
 Genus containing 17 species.

@@ -1,35 +1,24 @@
 ---
-title: "Megalomys"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["megalomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1607756
-parent: "../breadcrumb.md"
+title: Megalomys
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [megalomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Megalomys_desmarestii.cs"
-    name: "Megalomys desmarestii"
-    common_name: "Megalomys_desmarestii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Megalomys_luciae.cs"
-    name: "Megalomys luciae"
-    common_name: "Megalomys_luciae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Megalomys_desmarestii:
+    common_name: Megalomys_desmarestii
+    conservation: UK
+  Megalomys_luciae:
+    common_name: Megalomys_luciae
+    conservation: UK
 ---
-
 # Megalomys
 
 Genus containing 2 species.

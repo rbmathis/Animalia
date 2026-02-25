@@ -1,30 +1,21 @@
 ---
-title: "Chiruromys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["chiruromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 442565
-parent: "../breadcrumb.md"
+title: Chiruromys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [chiruromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chiruromys_vates.cs"
-    name: "Chiruromys vates"
-    common_name: "Chiruromys_vates"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chiruromys_vates:
+    common_name: Chiruromys_vates
+    conservation: UK
 ---
-
 # Chiruromys
 
 Genus containing 1 species.

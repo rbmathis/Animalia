@@ -1,46 +1,19 @@
 ---
-title: "Sciuridae"
-description: "Family containing 69 genera."
-category: "taxonomy/family"
-tags: ["sciuridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 55153
-parent: "../breadcrumb.md"
+title: Sciuridae
+description: Family containing 69 genera.
+category: taxonomy/family
+tags: [sciuridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 69
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Aeretes/breadcrumb.md"
-    name: "Aeretes"
-  - path: "Aeromys/breadcrumb.md"
-    name: "Aeromys"
-  - path: "Ammospermophilus/breadcrumb.md"
-    name: "Ammospermophilus"
-  - path: "Atlantoxerus/breadcrumb.md"
-    name: "Atlantoxerus"
-  - path: "Belomys/breadcrumb.md"
-    name: "Belomys"
-  - path: "Biswamoyopterus/breadcrumb.md"
-    name: "Biswamoyopterus"
-  - path: "Callosciurus/breadcrumb.md"
-    name: "Callosciurus"
-  - path: "Callospermophilus/breadcrumb.md"
-    name: "Callospermophilus"
-  - path: "Cynomys/breadcrumb.md"
-    name: "Cynomys"
-  - path: "Dremomys/breadcrumb.md"
-    name: "Dremomys"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Aeretes, Aeromys, Ammospermophilus, Atlantoxerus, Belomys, Biswamoyopterus, Callosciurus, Callospermophilus, Cynomys, Dremomys]
 ---
-
 # Sciuridae
 
 Family containing 69 genera.

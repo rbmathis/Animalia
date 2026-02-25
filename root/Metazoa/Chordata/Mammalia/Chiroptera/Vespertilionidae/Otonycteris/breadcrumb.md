@@ -1,35 +1,24 @@
 ---
-title: "Otonycteris"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["otonycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 153292
-parent: "../breadcrumb.md"
+title: Otonycteris
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [otonycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Otonycteris_hemprichii.cs"
-    name: "Otonycteris hemprichii"
-    common_name: "Otonycteris_hemprichii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otonycteris_leucophaea.cs"
-    name: "Otonycteris leucophaea"
-    common_name: "Otonycteris_leucophaea"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Otonycteris_hemprichii:
+    common_name: Otonycteris_hemprichii
+    conservation: UK
+  Otonycteris_leucophaea:
+    common_name: Otonycteris_leucophaea
+    conservation: UK
 ---
-
 # Otonycteris
 
 Genus containing 2 species.

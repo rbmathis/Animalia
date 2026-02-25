@@ -1,30 +1,21 @@
 ---
-title: "Alionycteris"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["alionycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Aproteles/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 662936
-parent: "../breadcrumb.md"
+title: Alionycteris
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [alionycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Aproteles/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Alionycteris_paucidentata.cs"
-    name: "Alionycteris paucidentata"
-    common_name: "Alionycteris_paucidentata"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Alionycteris_paucidentata:
+    common_name: Alionycteris_paucidentata
+    conservation: UK
 ---
-
 # Alionycteris
 
 Genus containing 1 species.

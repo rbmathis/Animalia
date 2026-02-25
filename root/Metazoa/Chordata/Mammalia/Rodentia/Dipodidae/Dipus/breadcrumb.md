@@ -1,41 +1,28 @@
 ---
-title: "Dipus"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["dipus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allactaga/breadcrumb.md", "../Allactodipus/breadcrumb.md", "../Cardiocranius/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 73862
-parent: "../breadcrumb.md"
+title: Dipus
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [dipus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allactaga/breadcrumb.md, ../Allactodipus/breadcrumb.md, ../Cardiocranius/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dipus_deasyi.cs"
-    name: "Dipus deasyi"
-    common_name: "Dipus_deasyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipus_sagitta.cs"
-    name: "Dipus sagitta"
-    common_name: "Dipus_sagitta"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dipus_sp_YY_2015.cs"
-    name: "Dipus sp. YY-2015"
-    common_name: "Dipus_sp_YY_2015"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dipus_deasyi:
+    common_name: Dipus_deasyi
+    conservation: UK
+  Dipus_sagitta:
+    common_name: Dipus_sagitta
+    conservation: UK
+  Dipus_sp_YY_2015:
+    common_name: Dipus_sp_YY_2015
+    conservation: UK
 ---
-
 # Dipus
 
 Genus containing 3 species.

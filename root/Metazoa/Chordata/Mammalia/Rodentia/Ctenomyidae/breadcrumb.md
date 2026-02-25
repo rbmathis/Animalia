@@ -1,30 +1,19 @@
 ---
-title: "Ctenomyidae"
-description: "Family containing 2 genera."
-category: "taxonomy/family"
-tags: ["ctenomyidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 30645
-parent: "../breadcrumb.md"
+title: Ctenomyidae
+description: Family containing 2 genera.
+category: taxonomy/family
+tags: [ctenomyidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Ctenomys/breadcrumb.md"
-    name: "Ctenomys"
-  - path: "Octodontomys/breadcrumb.md"
-    name: "Octodontomys"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Ctenomys, Octodontomys]
 ---
-
 # Ctenomyidae
 
 Family containing 2 genera.

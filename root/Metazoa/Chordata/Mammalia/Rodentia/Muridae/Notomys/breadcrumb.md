@@ -1,65 +1,42 @@
 ---
-title: "Notomys"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["notomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 184395
-parent: "../breadcrumb.md"
+title: Notomys
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [notomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Notomys_alexis.cs"
-    name: "Notomys alexis"
-    common_name: "Notomys_alexis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Notomys_amplus.cs"
-    name: "Notomys amplus"
-    common_name: "Notomys_amplus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Notomys_aquilo.cs"
-    name: "Notomys aquilo"
-    common_name: "Notomys_aquilo"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Notomys_cervinus.cs"
-    name: "Notomys cervinus"
-    common_name: "Notomys_cervinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Notomys_fuscus.cs"
-    name: "Notomys fuscus"
-    common_name: "Notomys_fuscus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Notomys_longicaudatus.cs"
-    name: "Notomys longicaudatus"
-    common_name: "Notomys_longicaudatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Notomys_macrotis.cs"
-    name: "Notomys macrotis"
-    common_name: "Notomys_macrotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Notomys_mitchellii.cs"
-    name: "Notomys mitchellii"
-    common_name: "Notomys_mitchellii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Notomys_alexis:
+    common_name: Notomys_alexis
+    conservation: UK
+  Notomys_amplus:
+    common_name: Notomys_amplus
+    conservation: UK
+  Notomys_aquilo:
+    common_name: Notomys_aquilo
+    conservation: UK
+  Notomys_cervinus:
+    common_name: Notomys_cervinus
+    conservation: UK
+  Notomys_fuscus:
+    common_name: Notomys_fuscus
+    conservation: UK
+  Notomys_longicaudatus:
+    common_name: Notomys_longicaudatus
+    conservation: UK
+  Notomys_macrotis:
+    common_name: Notomys_macrotis
+    conservation: UK
+  Notomys_mitchellii:
+    common_name: Notomys_mitchellii
+    conservation: UK
 ---
-
 # Notomys
 
 Genus containing 8 species.

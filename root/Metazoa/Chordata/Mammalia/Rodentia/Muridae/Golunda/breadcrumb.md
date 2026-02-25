@@ -1,30 +1,21 @@
 ---
-title: "Golunda"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["golunda", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 121584
-parent: "../breadcrumb.md"
+title: Golunda
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [golunda, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Golunda_ellioti.cs"
-    name: "Golunda ellioti"
-    common_name: "Golunda_ellioti"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Golunda_ellioti:
+    common_name: Golunda_ellioti
+    conservation: UK
 ---
-
 # Golunda
 
 Genus containing 1 species.

@@ -1,40 +1,19 @@
 ---
-title: "Otariidae"
-description: "Family containing 7 genera."
-category: "taxonomy/family"
-tags: ["otariidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ailuridae/breadcrumb.md", "../Canidae/breadcrumb.md", "../Eupleridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9702
-parent: "../breadcrumb.md"
+title: Otariidae
+description: Family containing 7 genera.
+category: taxonomy/family
+tags: [otariidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Ailuridae/breadcrumb.md, ../Canidae/breadcrumb.md, ../Eupleridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 7
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Arctocephalus/breadcrumb.md"
-    name: "Arctocephalus"
-  - path: "Callorhinus/breadcrumb.md"
-    name: "Callorhinus"
-  - path: "Eumetopias/breadcrumb.md"
-    name: "Eumetopias"
-  - path: "Neophoca/breadcrumb.md"
-    name: "Neophoca"
-  - path: "Otaria/breadcrumb.md"
-    name: "Otaria"
-  - path: "Phocarctos/breadcrumb.md"
-    name: "Phocarctos"
-  - path: "Zalophus/breadcrumb.md"
-    name: "Zalophus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Arctocephalus, Callorhinus, Eumetopias, Neophoca, Otaria, Phocarctos, Zalophus]
 ---
-
 # Otariidae
 
 Family containing 7 genera.

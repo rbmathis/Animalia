@@ -1,55 +1,36 @@
 ---
-title: "Pseudantechinus"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["pseudantechinus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antechinomys/breadcrumb.md", "../Antechinus/breadcrumb.md", "../Dasycercus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9298
-parent: "../breadcrumb.md"
+title: Pseudantechinus
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [pseudantechinus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Antechinomys/breadcrumb.md, ../Antechinus/breadcrumb.md, ../Dasycercus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pseudantechinus_bilarni.cs"
-    name: "Pseudantechinus bilarni"
-    common_name: "Pseudantechinus_bilarni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudantechinus_macdonnellensis.cs"
-    name: "Pseudantechinus macdonnellensis"
-    common_name: "Pseudantechinus_macdonnellensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudantechinus_mimulus.cs"
-    name: "Pseudantechinus mimulus"
-    common_name: "Pseudantechinus_mimulus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudantechinus_ningbing.cs"
-    name: "Pseudantechinus ningbing"
-    common_name: "Pseudantechinus_ningbing"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudantechinus_roryi.cs"
-    name: "Pseudantechinus roryi"
-    common_name: "Pseudantechinus_roryi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudantechinus_woolleyae.cs"
-    name: "Pseudantechinus woolleyae"
-    common_name: "Pseudantechinus_woolleyae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pseudantechinus_bilarni:
+    common_name: Pseudantechinus_bilarni
+    conservation: UK
+  Pseudantechinus_macdonnellensis:
+    common_name: Pseudantechinus_macdonnellensis
+    conservation: UK
+  Pseudantechinus_mimulus:
+    common_name: Pseudantechinus_mimulus
+    conservation: UK
+  Pseudantechinus_ningbing:
+    common_name: Pseudantechinus_ningbing
+    conservation: UK
+  Pseudantechinus_roryi:
+    common_name: Pseudantechinus_roryi
+    conservation: UK
+  Pseudantechinus_woolleyae:
+    common_name: Pseudantechinus_woolleyae
+    conservation: UK
 ---
-
 # Pseudantechinus
 
 Genus containing 6 species.

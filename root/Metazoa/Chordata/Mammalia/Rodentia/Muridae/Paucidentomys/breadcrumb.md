@@ -1,30 +1,21 @@
 ---
-title: "Paucidentomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["paucidentomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1478021
-parent: "../breadcrumb.md"
+title: Paucidentomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [paucidentomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Paucidentomys_vermidax.cs"
-    name: "Paucidentomys vermidax"
-    common_name: "Paucidentomys_vermidax"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Paucidentomys_vermidax:
+    common_name: Paucidentomys_vermidax
+    conservation: UK
 ---
-
 # Paucidentomys
 
 Genus containing 1 species.

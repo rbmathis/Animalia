@@ -1,45 +1,30 @@
 ---
-title: "Hsunycteris"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["hsunycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1470803
-parent: "../breadcrumb.md"
+title: Hsunycteris
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [hsunycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hsunycteris_cadenai.cs"
-    name: "Hsunycteris cadenai"
-    common_name: "Hsunycteris_cadenai"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hsunycteris_dashe.cs"
-    name: "Hsunycteris dashe"
-    common_name: "Hsunycteris_dashe"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hsunycteris_pattoni.cs"
-    name: "Hsunycteris pattoni"
-    common_name: "Hsunycteris_pattoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hsunycteris_thomasi.cs"
-    name: "Hsunycteris thomasi"
-    common_name: "Hsunycteris_thomasi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hsunycteris_cadenai:
+    common_name: Hsunycteris_cadenai
+    conservation: UK
+  Hsunycteris_dashe:
+    common_name: Hsunycteris_dashe
+    conservation: UK
+  Hsunycteris_pattoni:
+    common_name: Hsunycteris_pattoni
+    conservation: UK
+  Hsunycteris_thomasi:
+    common_name: Hsunycteris_thomasi
+    conservation: UK
 ---
-
 # Hsunycteris
 
 Genus containing 4 species.

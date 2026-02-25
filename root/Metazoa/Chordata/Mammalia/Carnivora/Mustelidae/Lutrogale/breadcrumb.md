@@ -1,30 +1,21 @@
 ---
-title: "Lutrogale"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["lutrogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aonyx/breadcrumb.md", "../Arctonyx/breadcrumb.md", "../Eira/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 452643
-parent: "../breadcrumb.md"
+title: Lutrogale
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [lutrogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aonyx/breadcrumb.md, ../Arctonyx/breadcrumb.md, ../Eira/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lutrogale_perspicillata.cs"
-    name: "Lutrogale perspicillata"
-    common_name: "Lutrogale_perspicillata"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lutrogale_perspicillata:
+    common_name: Lutrogale_perspicillata
+    conservation: UK
 ---
-
 # Lutrogale
 
 Genus containing 1 species.

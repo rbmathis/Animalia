@@ -1,60 +1,39 @@
 ---
-title: "Chalinolobus"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["chalinolobus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 50352
-parent: "../breadcrumb.md"
+title: Chalinolobus
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [chalinolobus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chalinolobus_dwyeri.cs"
-    name: "Chalinolobus dwyeri"
-    common_name: "Chalinolobus_dwyeri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chalinolobus_gouldii.cs"
-    name: "Chalinolobus gouldii"
-    common_name: "Chalinolobus_gouldii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chalinolobus_morio.cs"
-    name: "Chalinolobus morio"
-    common_name: "Chalinolobus_morio"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chalinolobus_neocaledonicus.cs"
-    name: "Chalinolobus neocaledonicus"
-    common_name: "Chalinolobus_neocaledonicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chalinolobus_nigrogriseus.cs"
-    name: "Chalinolobus nigrogriseus"
-    common_name: "Chalinolobus_nigrogriseus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chalinolobus_picatus.cs"
-    name: "Chalinolobus picatus"
-    common_name: "Chalinolobus_picatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chalinolobus_tuberculatus.cs"
-    name: "Chalinolobus tuberculatus"
-    common_name: "Chalinolobus_tuberculatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chalinolobus_dwyeri:
+    common_name: Chalinolobus_dwyeri
+    conservation: UK
+  Chalinolobus_gouldii:
+    common_name: Chalinolobus_gouldii
+    conservation: UK
+  Chalinolobus_morio:
+    common_name: Chalinolobus_morio
+    conservation: UK
+  Chalinolobus_neocaledonicus:
+    common_name: Chalinolobus_neocaledonicus
+    conservation: UK
+  Chalinolobus_nigrogriseus:
+    common_name: Chalinolobus_nigrogriseus
+    conservation: UK
+  Chalinolobus_picatus:
+    common_name: Chalinolobus_picatus
+    conservation: UK
+  Chalinolobus_tuberculatus:
+    common_name: Chalinolobus_tuberculatus
+    conservation: UK
 ---
-
 # Chalinolobus
 
 Genus containing 7 species.

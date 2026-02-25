@@ -1,31 +1,22 @@
 ---
-title: "Scelidodon"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["scelidodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Glossotherium/breadcrumb.md", "../Mylodon/breadcrumb.md", "../Paramylodon/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2546655
-parent: "../breadcrumb.md"
+title: Scelidodon
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [scelidodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Glossotherium/breadcrumb.md, ../Mylodon/breadcrumb.md, ../Paramylodon/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Scelidodon_sp_SLP_2019.cs"
-    name: "Scelidodon sp. SLP-2019"
-    common_name: "Scelidodon_sp_SLP_2019"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Scelidodon_sp_SLP_2019:
+    common_name: Scelidodon_sp_SLP_2019
+    conservation: UK
 ---
-
 # Scelidodon
 
 Genus containing 1 species.

@@ -1,30 +1,21 @@
 ---
-title: "Condylura"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["condylura", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alpiscaptulus/breadcrumb.md", "../Desmana/breadcrumb.md", "../Dymecodon/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 143301
-parent: "../breadcrumb.md"
+title: Condylura
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [condylura, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alpiscaptulus/breadcrumb.md, ../Desmana/breadcrumb.md, ../Dymecodon/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Condylura_cristata.cs"
-    name: "Condylura cristata"
-    common_name: "Condylura_cristata"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Condylura_cristata:
+    common_name: Condylura_cristata
+    conservation: UK
 ---
-
 # Condylura
 
 Genus containing 1 species.

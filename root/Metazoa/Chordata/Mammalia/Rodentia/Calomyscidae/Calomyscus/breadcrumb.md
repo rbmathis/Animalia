@@ -1,126 +1,79 @@
 ---
-title: "Calomyscus"
-description: "Genus containing 22 species."
-category: "taxonomy/genus"
-tags: ["calomyscus", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Calomyscus
+description: Genus containing 22 species.
+category: taxonomy/genus
+tags: [calomyscus, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10132
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 22
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Calomyscus_bailwardi.cs"
-    name: "Calomyscus bailwardi"
-    common_name: "Calomyscus_bailwardi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_baluchi.cs"
-    name: "Calomyscus baluchi"
-    common_name: "Calomyscus_baluchi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_behzadi.cs"
-    name: "Calomyscus behzadi"
-    common_name: "Calomyscus_behzadi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_cf_bailwardi_Group_B.cs"
-    name: "Calomyscus cf. bailwardi Group B"
-    common_name: "Calomyscus_cf_bailwardi_Group_B"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_darvishi.cs"
-    name: "Calomyscus darvishi"
-    common_name: "Calomyscus_darvishi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_elburzensis.cs"
-    name: "Calomyscus elburzensis"
-    common_name: "Calomyscus_elburzensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_grandis.cs"
-    name: "Calomyscus grandis"
-    common_name: "Calomyscus_grandis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_hotsoni.cs"
-    name: "Calomyscus hotsoni"
-    common_name: "Calomyscus_hotsoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_kermanensis.cs"
-    name: "Calomyscus kermanensis"
-    common_name: "Calomyscus_kermanensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_kiabii.cs"
-    name: "Calomyscus kiabii"
-    common_name: "Calomyscus_kiabii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_mystax.cs"
-    name: "Calomyscus mystax"
-    common_name: "Calomyscus_mystax"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_sp.cs"
-    name: "Calomyscus sp."
-    common_name: "Calomyscus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_sp_1_JJS_2013.cs"
-    name: "Calomyscus sp. 1 JJS-2013"
-    common_name: "Calomyscus_sp_1_JJS_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_sp_Group_B.cs"
-    name: "Calomyscus sp. Group B"
-    common_name: "Calomyscus_sp_Group_B"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_sp_Group_C.cs"
-    name: "Calomyscus sp. Group C"
-    common_name: "Calomyscus_sp_Group_C"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_sp_Group_D.cs"
-    name: "Calomyscus sp. Group D"
-    common_name: "Calomyscus_sp_Group_D"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_sp_Group_G.cs"
-    name: "Calomyscus sp. Group G"
-    common_name: "Calomyscus_sp_Group_G"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_sp_SJS_2017.cs"
-    name: "Calomyscus sp. SJS-2017"
-    common_name: "Calomyscus_sp_SJS_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_sp_m47.cs"
-    name: "Calomyscus sp. m47"
-    common_name: "Calomyscus_sp_m47"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Calomyscus_sp_m49.cs"
-    name: "Calomyscus sp. m49"
-    common_name: "Calomyscus_sp_m49"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Calomyscus_bailwardi:
+    common_name: Calomyscus_bailwardi
+    conservation: UK
+  Calomyscus_baluchi:
+    common_name: Calomyscus_baluchi
+    conservation: UK
+  Calomyscus_behzadi:
+    common_name: Calomyscus_behzadi
+    conservation: UK
+  Calomyscus_cf_bailwardi_Group_B:
+    common_name: Calomyscus_cf_bailwardi_Group_B
+    conservation: UK
+  Calomyscus_darvishi:
+    common_name: Calomyscus_darvishi
+    conservation: UK
+  Calomyscus_elburzensis:
+    common_name: Calomyscus_elburzensis
+    conservation: UK
+  Calomyscus_grandis:
+    common_name: Calomyscus_grandis
+    conservation: UK
+  Calomyscus_hotsoni:
+    common_name: Calomyscus_hotsoni
+    conservation: UK
+  Calomyscus_kermanensis:
+    common_name: Calomyscus_kermanensis
+    conservation: UK
+  Calomyscus_kiabii:
+    common_name: Calomyscus_kiabii
+    conservation: UK
+  Calomyscus_mystax:
+    common_name: Calomyscus_mystax
+    conservation: UK
+  Calomyscus_sp:
+    common_name: Calomyscus_sp
+    conservation: UK
+  Calomyscus_sp_1_JJS_2013:
+    common_name: Calomyscus_sp_1_JJS_2013
+    conservation: UK
+  Calomyscus_sp_Group_B:
+    common_name: Calomyscus_sp_Group_B
+    conservation: UK
+  Calomyscus_sp_Group_C:
+    common_name: Calomyscus_sp_Group_C
+    conservation: UK
+  Calomyscus_sp_Group_D:
+    common_name: Calomyscus_sp_Group_D
+    conservation: UK
+  Calomyscus_sp_Group_G:
+    common_name: Calomyscus_sp_Group_G
+    conservation: UK
+  Calomyscus_sp_SJS_2017:
+    common_name: Calomyscus_sp_SJS_2017
+    conservation: UK
+  Calomyscus_sp_m47:
+    common_name: Calomyscus_sp_m47
+    conservation: UK
+  Calomyscus_sp_m49:
+    common_name: Calomyscus_sp_m49
+    conservation: UK
 ---
-
 # Calomyscus
 
 Genus containing 22 species.

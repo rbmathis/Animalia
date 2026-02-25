@@ -1,30 +1,21 @@
 ---
-title: "Cormura"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["cormura", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Balantiopteryx/breadcrumb.md", "../Centronycteris/breadcrumb.md", "../Coleura/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 249011
-parent: "../breadcrumb.md"
+title: Cormura
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [cormura, genus]
+status: Living
+updated: 2026-02-23
+related: [../Balantiopteryx/breadcrumb.md, ../Centronycteris/breadcrumb.md, ../Coleura/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cormura_brevirostris.cs"
-    name: "Cormura brevirostris"
-    common_name: "Cormura_brevirostris"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cormura_brevirostris:
+    common_name: Cormura_brevirostris
+    conservation: UK
 ---
-
 # Cormura
 
 Genus containing 1 species.

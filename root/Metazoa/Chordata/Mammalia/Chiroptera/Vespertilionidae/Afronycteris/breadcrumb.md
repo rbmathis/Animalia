@@ -1,30 +1,21 @@
 ---
-title: "Afronycteris"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["afronycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md", "../Arielulus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2778563
-parent: "../breadcrumb.md"
+title: Afronycteris
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [afronycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md, ../Arielulus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Afronycteris_nanus.cs"
-    name: "Afronycteris nanus"
-    common_name: "Afronycteris_nanus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Afronycteris_nanus:
+    common_name: Afronycteris_nanus
+    conservation: UK
 ---
-
 # Afronycteris
 
 Genus containing 1 species.

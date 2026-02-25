@@ -1,30 +1,21 @@
 ---
-title: "Neotetracus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["neotetracus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atelerix/breadcrumb.md", "../Echinosorex/breadcrumb.md", "../Erinaceus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 977877
-parent: "../breadcrumb.md"
+title: Neotetracus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [neotetracus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atelerix/breadcrumb.md, ../Echinosorex/breadcrumb.md, ../Erinaceus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Neotetracus_sinensis.cs"
-    name: "Neotetracus sinensis"
-    common_name: "Neotetracus_sinensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Neotetracus_sinensis:
+    common_name: Neotetracus_sinensis
+    conservation: UK
 ---
-
 # Neotetracus
 
 Genus containing 1 species.

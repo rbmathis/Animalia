@@ -1,45 +1,30 @@
 ---
-title: "Xerospermophilus"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["xerospermophilus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1141643
-parent: "../breadcrumb.md"
+title: Xerospermophilus
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [xerospermophilus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Xerospermophilus_mohavensis.cs"
-    name: "Xerospermophilus mohavensis"
-    common_name: "Xerospermophilus_mohavensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Xerospermophilus_perotensis.cs"
-    name: "Xerospermophilus perotensis"
-    common_name: "Xerospermophilus_perotensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Xerospermophilus_spilosoma.cs"
-    name: "Xerospermophilus spilosoma"
-    common_name: "Xerospermophilus_spilosoma"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Xerospermophilus_tereticaudus.cs"
-    name: "Xerospermophilus tereticaudus"
-    common_name: "Xerospermophilus_tereticaudus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Xerospermophilus_mohavensis:
+    common_name: Xerospermophilus_mohavensis
+    conservation: UK
+  Xerospermophilus_perotensis:
+    common_name: Xerospermophilus_perotensis
+    conservation: UK
+  Xerospermophilus_spilosoma:
+    common_name: Xerospermophilus_spilosoma
+    conservation: UK
+  Xerospermophilus_tereticaudus:
+    common_name: Xerospermophilus_tereticaudus
+    conservation: UK
 ---
-
 # Xerospermophilus
 
 Genus containing 4 species.

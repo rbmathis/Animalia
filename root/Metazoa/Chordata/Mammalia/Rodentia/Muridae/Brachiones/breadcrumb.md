@@ -1,30 +1,21 @@
 ---
-title: "Brachiones"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["brachiones", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 504101
-parent: "../breadcrumb.md"
+title: Brachiones
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [brachiones, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Brachiones_przewalskii.cs"
-    name: "Brachiones przewalskii"
-    common_name: "Brachiones_przewalskii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Brachiones_przewalskii:
+    common_name: Brachiones_przewalskii
+    conservation: UK
 ---
-
 # Brachiones
 
 Genus containing 1 species.

@@ -1,35 +1,24 @@
 ---
-title: "Erophylla"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["erophylla", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 148091
-parent: "../breadcrumb.md"
+title: Erophylla
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [erophylla, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Erophylla_bombifrons.cs"
-    name: "Erophylla bombifrons"
-    common_name: "Erophylla_bombifrons"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Erophylla_sezekorni.cs"
-    name: "Erophylla sezekorni"
-    common_name: "Erophylla_sezekorni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Erophylla_bombifrons:
+    common_name: Erophylla_bombifrons
+    conservation: UK
+  Erophylla_sezekorni:
+    common_name: Erophylla_sezekorni
+    conservation: UK
 ---
-
 # Erophylla
 
 Genus containing 2 species.

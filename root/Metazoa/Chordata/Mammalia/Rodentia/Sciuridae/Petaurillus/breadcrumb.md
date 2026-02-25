@@ -1,30 +1,21 @@
 ---
-title: "Petaurillus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["petaurillus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226814
-parent: "../breadcrumb.md"
+title: Petaurillus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [petaurillus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Petaurillus_kinlochii.cs"
-    name: "Petaurillus kinlochii"
-    common_name: "Petaurillus_kinlochii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Petaurillus_kinlochii:
+    common_name: Petaurillus_kinlochii
+    conservation: UK
 ---
-
 # Petaurillus
 
 Genus containing 1 species.

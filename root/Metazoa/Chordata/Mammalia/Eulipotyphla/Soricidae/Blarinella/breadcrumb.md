@@ -1,61 +1,40 @@
 ---
-title: "Blarinella"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["blarinella", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Chimarrogale/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 202265
-parent: "../breadcrumb.md"
+title: Blarinella
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [blarinella, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Chimarrogale/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Blarinella_cf_quadraticauda_KIZ_0509420.cs"
-    name: "Blarinella cf. quadraticauda KIZ 0509420"
-    common_name: "Blarinella_cf_quadraticauda_KIZ_0509420"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Blarinella_cf_quadraticauda_KIZ_0509423.cs"
-    name: "Blarinella cf. quadraticauda KIZ 0509423"
-    common_name: "Blarinella_cf_quadraticauda_KIZ_0509423"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Blarinella_cf_quadraticauda_KIZ_AL11069.cs"
-    name: "Blarinella cf. quadraticauda KIZ AL11069"
-    common_name: "Blarinella_cf_quadraticauda_KIZ_AL11069"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Blarinella_quadraticauda.cs"
-    name: "Blarinella quadraticauda"
-    common_name: "Blarinella_quadraticauda"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Blarinella_sp_CCJD_2002.cs"
-    name: "Blarinella sp. CCJD_2002"
-    common_name: "Blarinella_sp_CCJD_2002"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Blarinella_sp_ZMMU_S_195179.cs"
-    name: "Blarinella sp. ZMMU S-195179"
-    common_name: "Blarinella_sp_ZMMU_S_195179"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Blarinella_wardi.cs"
-    name: "Blarinella wardi"
-    common_name: "Blarinella_wardi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Blarinella_cf_quadraticauda_KIZ_0509420:
+    common_name: Blarinella_cf_quadraticauda_KIZ_0509420
+    conservation: UK
+  Blarinella_cf_quadraticauda_KIZ_0509423:
+    common_name: Blarinella_cf_quadraticauda_KIZ_0509423
+    conservation: UK
+  Blarinella_cf_quadraticauda_KIZ_AL11069:
+    common_name: Blarinella_cf_quadraticauda_KIZ_AL11069
+    conservation: UK
+  Blarinella_quadraticauda:
+    common_name: Blarinella_quadraticauda
+    conservation: UK
+  Blarinella_sp_CCJD_2002:
+    common_name: Blarinella_sp_CCJD_2002
+    conservation: UK
+  Blarinella_sp_ZMMU_S_195179:
+    common_name: Blarinella_sp_ZMMU_S_195179
+    conservation: UK
+  Blarinella_wardi:
+    common_name: Blarinella_wardi
+    conservation: UK
 ---
-
 # Blarinella
 
 Genus containing 7 species.

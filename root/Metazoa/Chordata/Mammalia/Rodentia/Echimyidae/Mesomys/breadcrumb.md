@@ -1,46 +1,31 @@
 ---
-title: "Mesomys"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["mesomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Boromys/breadcrumb.md", "../Brotomys/breadcrumb.md", "../Callistomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 30626
-parent: "../breadcrumb.md"
+title: Mesomys
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [mesomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Boromys/breadcrumb.md, ../Brotomys/breadcrumb.md, ../Callistomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mesomys_hispidus.cs"
-    name: "Mesomys hispidus"
-    common_name: "Mesomys_hispidus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesomys_occultus.cs"
-    name: "Mesomys occultus"
-    common_name: "Mesomys_occultus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesomys_sp.cs"
-    name: "Mesomys sp."
-    common_name: "Mesomys_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesomys_stimulax.cs"
-    name: "Mesomys stimulax"
-    common_name: "Mesomys_stimulax"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mesomys_hispidus:
+    common_name: Mesomys_hispidus
+    conservation: UK
+  Mesomys_occultus:
+    common_name: Mesomys_occultus
+    conservation: UK
+  Mesomys_sp:
+    common_name: Mesomys_sp
+    conservation: UK
+  Mesomys_stimulax:
+    common_name: Mesomys_stimulax
+    conservation: UK
 ---
-
 # Mesomys
 
 Genus containing 4 species.

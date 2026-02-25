@@ -17,44 +17,39 @@ Find commonly kept pet species **without file scanning** by using breadcrumb met
 - Comparing pet species across families/orders
 - Checking if a specific species is a common pet
 
-## Pet Data in Breadcrumbs
+## Pet Data in Breadcrumbs (Lean Schema v2)
 
 Pet information is aggregated at multiple taxonomy levels:
 
-### Species Level (in genus breadcrumb `species` array)
+### Species Level (in genus breadcrumb `species_data`)
 ```yaml
-species:
-  - file: "Canis_lupus_familiaris.cs"
-    name: "Canis lupus familiaris"
-    common_name: "Domestic Dog"
-    pet: true                    # Boolean flag
+species_data:
+  Canis_lupus:
+    common_name: timber wolf
+    conservation: LC
+    pet: true                    # Boolean flag (only if true)
+  Felis_catus:
+    common_name: domestic cat
+    conservation: LC
+    pet: true
 ```
 
 ### Genus Level
 ```yaml
-tags: ["canis", "genus", "has-pets"]
-pet_species:
-  - file: "Canis_lupus_familiaris.cs"
-    name: "Canis lupus familiaris"
-    common_name: "Domestic Dog"
+tags: [canis, genus, has-pets]
+# Pet species are identified by pet: true in species_data
 ```
 
 ### Family Level
 ```yaml
-tags: ["canidae", "family", "has-pets"]
-pet_genera:
-  - name: "Canis"
-    path: "Canis/breadcrumb.md"
+tags: [canidae, family, has-pets]
+pet_genera: [Canis]              # Simple list of genera with pets
 ```
 
 ### Order+ Level
 ```yaml
-tags: ["carnivora", "order", "has-pets"]
-pet_families:
-  - name: "Canidae"
-    path: "Canidae/breadcrumb.md"
-  - name: "Felidae"
-    path: "Felidae/breadcrumb.md"
+tags: [carnivora, order, has-pets]
+pet_families: [Canidae, Felidae]  # Simple list of families with pets
 ```
 
 ## Lookup Strategies
@@ -73,11 +68,11 @@ grep "has-pets" root/**/Carnivora/*/breadcrumb.md
 
 ### Strategy 2: List Pet Species in a Genus
 
-Read the genus breadcrumb and check `pet_species` array:
+Read the genus breadcrumb and find entries with `pet: true` in `species_data`:
 
 ```
 root/Metazoa/Chordata/Mammalia/Carnivora/Canidae/Canis/breadcrumb.md
-→ pet_species array lists all pet species
+→ species_data entries with pet: true are pet species
 ```
 
 ### Strategy 3: Find Pet Families in an Order
@@ -86,14 +81,14 @@ Read the order breadcrumb and check `pet_families` array:
 
 ```
 root/Metazoa/Chordata/Mammalia/Carnivora/breadcrumb.md
-→ pet_families array lists families with pets
+→ pet_families: [Canidae, Felidae] lists families with pets
 ```
 
 ### Strategy 4: Check if Specific Species is a Pet
 
 1. Navigate to genus breadcrumb
-2. Find species in `species` array
-3. Check `pet: true` flag
+2. Find species key in `species_data`
+3. Check for `pet: true` property
 
 ## Common Pet Species (Reference)
 

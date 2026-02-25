@@ -1,35 +1,24 @@
 ---
-title: "Pudu"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["pudu", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alces/breadcrumb.md", "../Axis/breadcrumb.md", "../Bisbalus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 163860
-parent: "../breadcrumb.md"
+title: Pudu
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [pudu, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alces/breadcrumb.md, ../Axis/breadcrumb.md, ../Bisbalus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pudu_mephistophiles.cs"
-    name: "Pudu mephistophiles"
-    common_name: "Pudu_mephistophiles"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pudu_puda.cs"
-    name: "Pudu puda"
-    common_name: "Pudu_puda"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pudu_mephistophiles:
+    common_name: Pudu_mephistophiles
+    conservation: UK
+  Pudu_puda:
+    common_name: Pudu_puda
+    conservation: UK
 ---
-
 # Pudu
 
 Genus containing 2 species.

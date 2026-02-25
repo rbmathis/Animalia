@@ -1,76 +1,49 @@
 ---
-title: "Tursiops"
-description: "Genus containing 10 species."
-category: "taxonomy/genus"
-tags: ["tursiops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cephalorhynchus/breadcrumb.md", "../Delphinus/breadcrumb.md", "../Feresa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9738
-parent: "../breadcrumb.md"
+title: Tursiops
+description: Genus containing 10 species.
+category: taxonomy/genus
+tags: [tursiops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cephalorhynchus/breadcrumb.md, ../Delphinus/breadcrumb.md, ../Feresa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 10
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tursiops_aduncus.cs"
-    name: "Tursiops aduncus"
-    common_name: "Tursiops_aduncus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tursiops_australis.cs"
-    name: "Tursiops australis"
-    common_name: "Tursiops_australis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tursiops_erebennus.cs"
-    name: "Tursiops erebennus"
-    common_name: "Tursiops_erebennus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tursiops_sp_AN_2005.cs"
-    name: "Tursiops sp. AN-2005"
-    common_name: "Tursiops_sp_AN_2005"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tursiops_sp_CHF_2011.cs"
-    name: "Tursiops sp. CHF-2011"
-    common_name: "Tursiops_sp_CHF_2011"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tursiops_sp_KB_2007.cs"
-    name: "Tursiops sp. KB-2007"
-    common_name: "Tursiops_sp_KB_2007"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tursiops_sp_SWFSC_Z34066.cs"
-    name: "Tursiops sp. SWFSC Z34066"
-    common_name: "Tursiops_sp_SWFSC_Z34066"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tursiops_sp_TA.cs"
-    name: "Tursiops sp. TA"
-    common_name: "Tursiops_sp_TA"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tursiops_sp_TT.cs"
-    name: "Tursiops sp. TT"
-    common_name: "Tursiops_sp_TT"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tursiops_truncatus.cs"
-    name: "Tursiops truncatus"
-    common_name: "Tursiops_truncatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tursiops_aduncus:
+    common_name: Tursiops_aduncus
+    conservation: UK
+  Tursiops_australis:
+    common_name: Tursiops_australis
+    conservation: UK
+  Tursiops_erebennus:
+    common_name: Tursiops_erebennus
+    conservation: UK
+  Tursiops_sp_AN_2005:
+    common_name: Tursiops_sp_AN_2005
+    conservation: UK
+  Tursiops_sp_CHF_2011:
+    common_name: Tursiops_sp_CHF_2011
+    conservation: UK
+  Tursiops_sp_KB_2007:
+    common_name: Tursiops_sp_KB_2007
+    conservation: UK
+  Tursiops_sp_SWFSC_Z34066:
+    common_name: Tursiops_sp_SWFSC_Z34066
+    conservation: UK
+  Tursiops_sp_TA:
+    common_name: Tursiops_sp_TA
+    conservation: UK
+  Tursiops_sp_TT:
+    common_name: Tursiops_sp_TT
+    conservation: UK
+  Tursiops_truncatus:
+    common_name: Tursiops_truncatus
+    conservation: UK
 ---
-
 # Tursiops
 
 Genus containing 10 species.

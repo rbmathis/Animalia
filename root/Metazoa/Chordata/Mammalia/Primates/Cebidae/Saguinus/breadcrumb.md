@@ -1,126 +1,79 @@
 ---
-title: "Saguinus"
-description: "Genus containing 51 species."
-category: "taxonomy/genus"
-tags: ["saguinus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Callimico/breadcrumb.md", "../Callithrix/breadcrumb.md", "../Cebuella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9486
-parent: "../breadcrumb.md"
+title: Saguinus
+description: Genus containing 51 species.
+category: taxonomy/genus
+tags: [saguinus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Callimico/breadcrumb.md, ../Callithrix/breadcrumb.md, ../Cebuella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 51
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Saguinus_bicolor.cs"
-    name: "Saguinus bicolor"
-    common_name: "Saguinus_bicolor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_geoffroyi.cs"
-    name: "Saguinus geoffroyi"
-    common_name: "Saguinus_geoffroyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_geoffroyi_x_Saguinus_leucopus.cs"
-    name: "Saguinus geoffroyi x Saguinus leucopus"
-    common_name: "Saguinus_geoffroyi_x_Saguinus_leucopus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_graellsi.cs"
-    name: "Saguinus graellsi"
-    common_name: "Saguinus_graellsi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_imperator.cs"
-    name: "Saguinus imperator"
-    common_name: "Saguinus_imperator"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_inustus.cs"
-    name: "Saguinus inustus"
-    common_name: "Saguinus_inustus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_labiatus.cs"
-    name: "Saguinus labiatus"
-    common_name: "Saguinus_labiatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_leucopus.cs"
-    name: "Saguinus leucopus"
-    common_name: "Saguinus_leucopus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_martinsi.cs"
-    name: "Saguinus martinsi"
-    common_name: "Saguinus_martinsi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_melanoleucus.cs"
-    name: "Saguinus melanoleucus"
-    common_name: "Saguinus_melanoleucus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_midas.cs"
-    name: "Saguinus midas"
-    common_name: "Saguinus_midas"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_mystax.cs"
-    name: "Saguinus mystax"
-    common_name: "Saguinus_mystax"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_niger.cs"
-    name: "Saguinus niger"
-    common_name: "Saguinus_niger"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_oedipus.cs"
-    name: "Saguinus oedipus"
-    common_name: "Saguinus_oedipus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_oedipus_x_Saguinus_leucopus.cs"
-    name: "Saguinus oedipus x Saguinus leucopus"
-    common_name: "Saguinus_oedipus_x_Saguinus_leucopus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_sp.cs"
-    name: "Saguinus sp."
-    common_name: "Saguinus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_sp_CN232.cs"
-    name: "Saguinus sp. CN232"
-    common_name: "Saguinus_sp_CN232"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_sp_CN274.cs"
-    name: "Saguinus sp. CN274"
-    common_name: "Saguinus_sp_CN274"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_sp_CN287.cs"
-    name: "Saguinus sp. CN287"
-    common_name: "Saguinus_sp_CN287"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Saguinus_sp_CTGA163.cs"
-    name: "Saguinus sp. CTGA163"
-    common_name: "Saguinus_sp_CTGA163"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Saguinus_bicolor:
+    common_name: Saguinus_bicolor
+    conservation: UK
+  Saguinus_geoffroyi:
+    common_name: Saguinus_geoffroyi
+    conservation: UK
+  Saguinus_geoffroyi_x_Saguinus_leucopus:
+    common_name: Saguinus_geoffroyi_x_Saguinus_leucopus
+    conservation: UK
+  Saguinus_graellsi:
+    common_name: Saguinus_graellsi
+    conservation: UK
+  Saguinus_imperator:
+    common_name: Saguinus_imperator
+    conservation: UK
+  Saguinus_inustus:
+    common_name: Saguinus_inustus
+    conservation: UK
+  Saguinus_labiatus:
+    common_name: Saguinus_labiatus
+    conservation: UK
+  Saguinus_leucopus:
+    common_name: Saguinus_leucopus
+    conservation: UK
+  Saguinus_martinsi:
+    common_name: Saguinus_martinsi
+    conservation: UK
+  Saguinus_melanoleucus:
+    common_name: Saguinus_melanoleucus
+    conservation: UK
+  Saguinus_midas:
+    common_name: Saguinus_midas
+    conservation: UK
+  Saguinus_mystax:
+    common_name: Saguinus_mystax
+    conservation: UK
+  Saguinus_niger:
+    common_name: Saguinus_niger
+    conservation: UK
+  Saguinus_oedipus:
+    common_name: Saguinus_oedipus
+    conservation: UK
+  Saguinus_oedipus_x_Saguinus_leucopus:
+    common_name: Saguinus_oedipus_x_Saguinus_leucopus
+    conservation: UK
+  Saguinus_sp:
+    common_name: Saguinus_sp
+    conservation: UK
+  Saguinus_sp_CN232:
+    common_name: Saguinus_sp_CN232
+    conservation: UK
+  Saguinus_sp_CN274:
+    common_name: Saguinus_sp_CN274
+    conservation: UK
+  Saguinus_sp_CN287:
+    common_name: Saguinus_sp_CN287
+    conservation: UK
+  Saguinus_sp_CTGA163:
+    common_name: Saguinus_sp_CTGA163
+    conservation: UK
 ---
-
 # Saguinus
 
 Genus containing 51 species.

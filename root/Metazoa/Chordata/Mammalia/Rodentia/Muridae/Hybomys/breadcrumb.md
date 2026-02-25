@@ -1,71 +1,46 @@
 ---
-title: "Hybomys"
-description: "Genus containing 9 species."
-category: "taxonomy/genus"
-tags: ["hybomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 71161
-parent: "../breadcrumb.md"
+title: Hybomys
+description: Genus containing 9 species.
+category: taxonomy/genus
+tags: [hybomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 9
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hybomys_badius.cs"
-    name: "Hybomys badius"
-    common_name: "Hybomys_badius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hybomys_basilii.cs"
-    name: "Hybomys basilii"
-    common_name: "Hybomys_basilii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hybomys_eisentrauti.cs"
-    name: "Hybomys eisentrauti"
-    common_name: "Hybomys_eisentrauti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hybomys_lunaris.cs"
-    name: "Hybomys lunaris"
-    common_name: "Hybomys_lunaris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hybomys_planifrons.cs"
-    name: "Hybomys planifrons"
-    common_name: "Hybomys_planifrons"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hybomys_rufocanus.cs"
-    name: "Hybomys rufocanus"
-    common_name: "Hybomys_rufocanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hybomys_sp_n_VVB_2020.cs"
-    name: "Hybomys sp. n. VVB-2020"
-    common_name: "Hybomys_sp_n_VVB_2020"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hybomys_trivirgatus.cs"
-    name: "Hybomys trivirgatus"
-    common_name: "Hybomys_trivirgatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hybomys_univittatus.cs"
-    name: "Hybomys univittatus"
-    common_name: "Hybomys_univittatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hybomys_badius:
+    common_name: Hybomys_badius
+    conservation: UK
+  Hybomys_basilii:
+    common_name: Hybomys_basilii
+    conservation: UK
+  Hybomys_eisentrauti:
+    common_name: Hybomys_eisentrauti
+    conservation: UK
+  Hybomys_lunaris:
+    common_name: Hybomys_lunaris
+    conservation: UK
+  Hybomys_planifrons:
+    common_name: Hybomys_planifrons
+    conservation: UK
+  Hybomys_rufocanus:
+    common_name: Hybomys_rufocanus
+    conservation: UK
+  Hybomys_sp_n_VVB_2020:
+    common_name: Hybomys_sp_n_VVB_2020
+    conservation: UK
+  Hybomys_trivirgatus:
+    common_name: Hybomys_trivirgatus
+    conservation: UK
+  Hybomys_univittatus:
+    common_name: Hybomys_univittatus
+    conservation: UK
 ---
-
 # Hybomys
 
 Genus containing 9 species.

@@ -1,30 +1,21 @@
 ---
-title: "Saiga"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["saiga", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 34874
-parent: "../breadcrumb.md"
+title: Saiga
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [saiga, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Saiga_tatarica.cs"
-    name: "Saiga tatarica"
-    common_name: "Saiga_tatarica"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Saiga_tatarica:
+    common_name: Saiga_tatarica
+    conservation: UK
 ---
-
 # Saiga
 
 Genus containing 1 species.

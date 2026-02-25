@@ -1,28 +1,19 @@
 ---
-title: "Cistugidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["cistugidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Craseonycteridae/breadcrumb.md", "../Emballonuridae/breadcrumb.md", "../environmental_samples/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 3136025
-parent: "../breadcrumb.md"
+title: Cistugidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [cistugidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Craseonycteridae/breadcrumb.md, ../Emballonuridae/breadcrumb.md, ../environmental_samples/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Cistugo/breadcrumb.md"
-    name: "Cistugo"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Cistugo]
 ---
-
 # Cistugidae
 
 Family containing 1 genera.

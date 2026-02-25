@@ -1,34 +1,19 @@
 ---
-title: "Atelidae"
-description: "Family containing 4 genera."
-category: "taxonomy/family"
-tags: ["atelidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aotidae/breadcrumb.md", "../Cebidae/breadcrumb.md", "../Cercopithecidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 378855
-parent: "../breadcrumb.md"
+title: Atelidae
+description: Family containing 4 genera.
+category: taxonomy/family
+tags: [atelidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Aotidae/breadcrumb.md, ../Cebidae/breadcrumb.md, ../Cercopithecidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 4
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Alouatta/breadcrumb.md"
-    name: "Alouatta"
-  - path: "Ateles/breadcrumb.md"
-    name: "Ateles"
-  - path: "Brachyteles/breadcrumb.md"
-    name: "Brachyteles"
-  - path: "Lagothrix/breadcrumb.md"
-    name: "Lagothrix"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Alouatta, Ateles, Brachyteles, Lagothrix]
 ---
-
 # Atelidae
 
 Family containing 4 genera.

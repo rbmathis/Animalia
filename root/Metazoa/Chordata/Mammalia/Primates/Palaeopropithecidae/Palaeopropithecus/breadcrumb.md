@@ -1,51 +1,34 @@
 ---
-title: "Palaeopropithecus"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["palaeopropithecus", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Palaeopropithecus
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [palaeopropithecus, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 322024
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Palaeopropithecus_ingens.cs"
-    name: "Palaeopropithecus ingens"
-    common_name: "Palaeopropithecus_ingens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Palaeopropithecus_maximus.cs"
-    name: "Palaeopropithecus maximus"
-    common_name: "Palaeopropithecus_maximus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Palaeopropithecus_sp_KPK_2005.cs"
-    name: "Palaeopropithecus sp. KPK-2005"
-    common_name: "Palaeopropithecus_sp_KPK_2005"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Palaeopropithecus_sp_UA4466.cs"
-    name: "Palaeopropithecus sp. UA4466"
-    common_name: "Palaeopropithecus_sp_UA4466"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Palaeopropithecus_sp_UA6184.cs"
-    name: "Palaeopropithecus sp. UA6184"
-    common_name: "Palaeopropithecus_sp_UA6184"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Palaeopropithecus_ingens:
+    common_name: Palaeopropithecus_ingens
+    conservation: UK
+  Palaeopropithecus_maximus:
+    common_name: Palaeopropithecus_maximus
+    conservation: UK
+  Palaeopropithecus_sp_KPK_2005:
+    common_name: Palaeopropithecus_sp_KPK_2005
+    conservation: UK
+  Palaeopropithecus_sp_UA4466:
+    common_name: Palaeopropithecus_sp_UA4466
+    conservation: UK
+  Palaeopropithecus_sp_UA6184:
+    common_name: Palaeopropithecus_sp_UA6184
+    conservation: UK
 ---
-
 # Palaeopropithecus
 
 Genus containing 5 species.

@@ -1,35 +1,24 @@
 ---
-title: "Eliomys"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["eliomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dryomys/breadcrumb.md", "../Glirulus/breadcrumb.md", "../Glis/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 53276
-parent: "../breadcrumb.md"
+title: Eliomys
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [eliomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dryomys/breadcrumb.md, ../Glirulus/breadcrumb.md, ../Glis/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Eliomys_melanurus.cs"
-    name: "Eliomys melanurus"
-    common_name: "Eliomys_melanurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eliomys_quercinus.cs"
-    name: "Eliomys quercinus"
-    common_name: "Eliomys_quercinus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Eliomys_melanurus:
+    common_name: Eliomys_melanurus
+    conservation: UK
+  Eliomys_quercinus:
+    common_name: Eliomys_quercinus
+    conservation: UK
 ---
-
 # Eliomys
 
 Genus containing 2 species.

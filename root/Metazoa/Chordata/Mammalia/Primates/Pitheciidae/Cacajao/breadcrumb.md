@@ -1,61 +1,40 @@
 ---
-title: "Cacajao"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["cacajao", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Callicebus/breadcrumb.md", "../Cheracebus/breadcrumb.md", "../Chiropotes/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 30595
-parent: "../breadcrumb.md"
+title: Cacajao
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [cacajao, genus]
+status: Living
+updated: 2026-02-23
+related: [../Callicebus/breadcrumb.md, ../Cheracebus/breadcrumb.md, ../Chiropotes/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cacajao_amuna.cs"
-    name: "Cacajao amuna"
-    common_name: "Cacajao_amuna"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cacajao_ayresi.cs"
-    name: "Cacajao ayresi"
-    common_name: "Cacajao_ayresi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cacajao_calvus.cs"
-    name: "Cacajao calvus"
-    common_name: "Cacajao_calvus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cacajao_hosomi.cs"
-    name: "Cacajao hosomi"
-    common_name: "Cacajao_hosomi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cacajao_melanocephalus.cs"
-    name: "Cacajao melanocephalus"
-    common_name: "Cacajao_melanocephalus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cacajao_rubicundus.cs"
-    name: "Cacajao rubicundus"
-    common_name: "Cacajao_rubicundus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cacajao_sp_CTGAM5666.cs"
-    name: "Cacajao sp. CTGAM5666"
-    common_name: "Cacajao_sp_CTGAM5666"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cacajao_amuna:
+    common_name: Cacajao_amuna
+    conservation: UK
+  Cacajao_ayresi:
+    common_name: Cacajao_ayresi
+    conservation: UK
+  Cacajao_calvus:
+    common_name: Cacajao_calvus
+    conservation: UK
+  Cacajao_hosomi:
+    common_name: Cacajao_hosomi
+    conservation: UK
+  Cacajao_melanocephalus:
+    common_name: Cacajao_melanocephalus
+    conservation: UK
+  Cacajao_rubicundus:
+    common_name: Cacajao_rubicundus
+    conservation: UK
+  Cacajao_sp_CTGAM5666:
+    common_name: Cacajao_sp_CTGAM5666
+    conservation: UK
 ---
-
 # Cacajao
 
 Genus containing 7 species.

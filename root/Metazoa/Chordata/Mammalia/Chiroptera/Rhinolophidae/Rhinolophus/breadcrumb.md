@@ -1,126 +1,79 @@
 ---
-title: "Rhinolophus"
-description: "Genus containing 174 species."
-category: "taxonomy/genus"
-tags: ["rhinolophus", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Rhinolophus
+description: Genus containing 174 species.
+category: taxonomy/genus
+tags: [rhinolophus, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 49442
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 174
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rhinolophus_acuminatus.cs"
-    name: "Rhinolophus acuminatus"
-    common_name: "Rhinolophus_acuminatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_affinis.cs"
-    name: "Rhinolophus affinis"
-    common_name: "Rhinolophus_affinis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_alcyone.cs"
-    name: "Rhinolophus alcyone"
-    common_name: "Rhinolophus_alcyone"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_andamanensis.cs"
-    name: "Rhinolophus andamanensis"
-    common_name: "Rhinolophus_andamanensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_arcuatus.cs"
-    name: "Rhinolophus arcuatus"
-    common_name: "Rhinolophus_arcuatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_beddomei.cs"
-    name: "Rhinolophus beddomei"
-    common_name: "Rhinolophus_beddomei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_blasii.cs"
-    name: "Rhinolophus blasii"
-    common_name: "Rhinolophus_blasii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_blasii_complex_sp_1_TD_2019.cs"
-    name: "Rhinolophus blasii complex sp. 1 TD-2019"
-    common_name: "Rhinolophus_blasii_complex_sp_1_TD_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_bocharicus.cs"
-    name: "Rhinolophus bocharicus"
-    common_name: "Rhinolophus_bocharicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_borneensis.cs"
-    name: "Rhinolophus borneensis"
-    common_name: "Rhinolophus_borneensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_capensis.cs"
-    name: "Rhinolophus capensis"
-    common_name: "Rhinolophus_capensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_celebensis.cs"
-    name: "Rhinolophus celebensis"
-    common_name: "Rhinolophus_celebensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_cf_chaseni_BOLDAAB4878.cs"
-    name: "Rhinolophus cf. chaseni BOLD:AAB4878"
-    common_name: "Rhinolophus_cf_chaseni_BOLDAAB4878"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_cf_chaseni_SVK_2012.cs"
-    name: "Rhinolophus cf. chaseni SVK-2012"
-    common_name: "Rhinolophus_cf_chaseni_SVK_2012"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_cf_denti_TD_2019.cs"
-    name: "Rhinolophus cf. denti TD-2019"
-    common_name: "Rhinolophus_cf_denti_TD_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_cf_dentisimulator_TD_2019.cs"
-    name: "Rhinolophus cf. denti/simulator TD-2019"
-    common_name: "Rhinolophus_cf_dentisimulator_TD_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_cf_eloquens_DMR_2017.cs"
-    name: "Rhinolophus cf. eloquens DMR-2017"
-    common_name: "Rhinolophus_cf_eloquens_DMR_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_cf_ferrumequinum_CMF_2010.cs"
-    name: "Rhinolophus cf. ferrumequinum CMF-2010"
-    common_name: "Rhinolophus_cf_ferrumequinum_CMF_2010"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_cf_hildebrandti.cs"
-    name: "Rhinolophus cf. hildebrandti"
-    common_name: "Rhinolophus_cf_hildebrandti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinolophus_cf_inops_MRMD1747.cs"
-    name: "Rhinolophus cf. inops MRMD1747"
-    common_name: "Rhinolophus_cf_inops_MRMD1747"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rhinolophus_acuminatus:
+    common_name: Rhinolophus_acuminatus
+    conservation: UK
+  Rhinolophus_affinis:
+    common_name: Rhinolophus_affinis
+    conservation: UK
+  Rhinolophus_alcyone:
+    common_name: Rhinolophus_alcyone
+    conservation: UK
+  Rhinolophus_andamanensis:
+    common_name: Rhinolophus_andamanensis
+    conservation: UK
+  Rhinolophus_arcuatus:
+    common_name: Rhinolophus_arcuatus
+    conservation: UK
+  Rhinolophus_beddomei:
+    common_name: Rhinolophus_beddomei
+    conservation: UK
+  Rhinolophus_blasii:
+    common_name: Rhinolophus_blasii
+    conservation: UK
+  Rhinolophus_blasii_complex_sp_1_TD_2019:
+    common_name: Rhinolophus_blasii_complex_sp_1_TD_2019
+    conservation: UK
+  Rhinolophus_bocharicus:
+    common_name: Rhinolophus_bocharicus
+    conservation: UK
+  Rhinolophus_borneensis:
+    common_name: Rhinolophus_borneensis
+    conservation: UK
+  Rhinolophus_capensis:
+    common_name: Rhinolophus_capensis
+    conservation: UK
+  Rhinolophus_celebensis:
+    common_name: Rhinolophus_celebensis
+    conservation: UK
+  Rhinolophus_cf_chaseni_BOLDAAB4878:
+    common_name: Rhinolophus_cf_chaseni_BOLDAAB4878
+    conservation: UK
+  Rhinolophus_cf_chaseni_SVK_2012:
+    common_name: Rhinolophus_cf_chaseni_SVK_2012
+    conservation: UK
+  Rhinolophus_cf_denti_TD_2019:
+    common_name: Rhinolophus_cf_denti_TD_2019
+    conservation: UK
+  Rhinolophus_cf_dentisimulator_TD_2019:
+    common_name: Rhinolophus_cf_dentisimulator_TD_2019
+    conservation: UK
+  Rhinolophus_cf_eloquens_DMR_2017:
+    common_name: Rhinolophus_cf_eloquens_DMR_2017
+    conservation: UK
+  Rhinolophus_cf_ferrumequinum_CMF_2010:
+    common_name: Rhinolophus_cf_ferrumequinum_CMF_2010
+    conservation: UK
+  Rhinolophus_cf_hildebrandti:
+    common_name: Rhinolophus_cf_hildebrandti
+    conservation: UK
+  Rhinolophus_cf_inops_MRMD1747:
+    common_name: Rhinolophus_cf_inops_MRMD1747
+    conservation: UK
 ---
-
 # Rhinolophus
 
 Genus containing 174 species.

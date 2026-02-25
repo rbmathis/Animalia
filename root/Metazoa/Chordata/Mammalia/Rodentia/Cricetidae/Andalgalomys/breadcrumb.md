@@ -1,40 +1,27 @@
 ---
-title: "Andalgalomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["andalgalomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 118857
-parent: "../breadcrumb.md"
+title: Andalgalomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [andalgalomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Andalgalomys_olrogi.cs"
-    name: "Andalgalomys olrogi"
-    common_name: "Andalgalomys_olrogi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Andalgalomys_pearsoni.cs"
-    name: "Andalgalomys pearsoni"
-    common_name: "Andalgalomys_pearsoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Andalgalomys_roigi.cs"
-    name: "Andalgalomys roigi"
-    common_name: "Andalgalomys_roigi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Andalgalomys_olrogi:
+    common_name: Andalgalomys_olrogi
+    conservation: UK
+  Andalgalomys_pearsoni:
+    common_name: Andalgalomys_pearsoni
+    conservation: UK
+  Andalgalomys_roigi:
+    common_name: Andalgalomys_roigi
+    conservation: UK
 ---
-
 # Andalgalomys
 
 Genus containing 3 species.

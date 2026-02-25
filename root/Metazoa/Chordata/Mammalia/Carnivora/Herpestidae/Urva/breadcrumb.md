@@ -1,40 +1,27 @@
 ---
-title: "Urva"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["urva", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atilax/breadcrumb.md", "../Bdeogale/breadcrumb.md", "../Crossarchus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2079297
-parent: "../breadcrumb.md"
+title: Urva
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [urva, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atilax/breadcrumb.md, ../Bdeogale/breadcrumb.md, ../Crossarchus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Urva_auropunctata.cs"
-    name: "Urva auropunctata"
-    common_name: "Urva_auropunctata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Urva_edwardsii.cs"
-    name: "Urva edwardsii"
-    common_name: "Urva_edwardsii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Urva_javanica.cs"
-    name: "Urva javanica"
-    common_name: "Urva_javanica"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Urva_auropunctata:
+    common_name: Urva_auropunctata
+    conservation: UK
+  Urva_edwardsii:
+    common_name: Urva_edwardsii
+    conservation: UK
+  Urva_javanica:
+    common_name: Urva_javanica
+    conservation: UK
 ---
-
 # Urva
 
 Genus containing 3 species.

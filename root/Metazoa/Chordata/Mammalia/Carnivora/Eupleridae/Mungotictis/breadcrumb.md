@@ -1,30 +1,21 @@
 ---
-title: "Mungotictis"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["mungotictis", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cryptoprocta/breadcrumb.md", "../Eupleres/breadcrumb.md", "../Fossa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 205648
-parent: "../breadcrumb.md"
+title: Mungotictis
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [mungotictis, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cryptoprocta/breadcrumb.md, ../Eupleres/breadcrumb.md, ../Fossa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mungotictis_decemlineata.cs"
-    name: "Mungotictis decemlineata"
-    common_name: "Mungotictis_decemlineata"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mungotictis_decemlineata:
+    common_name: Mungotictis_decemlineata
+    conservation: UK
 ---
-
 # Mungotictis
 
 Genus containing 1 species.

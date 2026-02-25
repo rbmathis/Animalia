@@ -1,105 +1,66 @@
 ---
-title: "Thomomys"
-description: "Genus containing 16 species."
-category: "taxonomy/genus"
-tags: ["thomomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cratogeomys/breadcrumb.md", "../Geomys/breadcrumb.md", "../Heterogeomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10011
-parent: "../breadcrumb.md"
+title: Thomomys
+description: Genus containing 16 species.
+category: taxonomy/genus
+tags: [thomomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cratogeomys/breadcrumb.md, ../Geomys/breadcrumb.md, ../Heterogeomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 16
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Thomomys_anitae.cs"
-    name: "Thomomys anitae"
-    common_name: "Thomomys_anitae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thomomys_atrovarius.cs"
-    name: "Thomomys atrovarius"
-    common_name: "Thomomys_atrovarius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thomomys_bottae.cs"
-    name: "Thomomys bottae"
-    common_name: "Thomomys_bottae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thomomys_bulbivorus.cs"
-    name: "Thomomys bulbivorus"
-    common_name: "Thomomys_bulbivorus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thomomys_chihuahue.cs"
-    name: "Thomomys chihuahue"
-    common_name: "Thomomys_chihuahue"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thomomys_fulvus.cs"
-    name: "Thomomys fulvus"
-    common_name: "Thomomys_fulvus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thomomys_idahoensis.cs"
-    name: "Thomomys idahoensis"
-    common_name: "Thomomys_idahoensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thomomys_laticeps.cs"
-    name: "Thomomys laticeps"
-    common_name: "Thomomys_laticeps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thomomys_mazama.cs"
-    name: "Thomomys mazama"
-    common_name: "Thomomys_mazama"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thomomys_monticola.cs"
-    name: "Thomomys monticola"
-    common_name: "Thomomys_monticola"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thomomys_nayarensis.cs"
-    name: "Thomomys nayarensis"
-    common_name: "Thomomys_nayarensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thomomys_nigricans.cs"
-    name: "Thomomys nigricans"
-    common_name: "Thomomys_nigricans"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thomomys_sheldoni.cs"
-    name: "Thomomys sheldoni"
-    common_name: "Thomomys_sheldoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thomomys_talpoides.cs"
-    name: "Thomomys talpoides"
-    common_name: "Thomomys_talpoides"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thomomys_townsendii.cs"
-    name: "Thomomys townsendii"
-    common_name: "Thomomys_townsendii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thomomys_umbrinus.cs"
-    name: "Thomomys umbrinus"
-    common_name: "Thomomys_umbrinus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Thomomys_anitae:
+    common_name: Thomomys_anitae
+    conservation: UK
+  Thomomys_atrovarius:
+    common_name: Thomomys_atrovarius
+    conservation: UK
+  Thomomys_bottae:
+    common_name: Thomomys_bottae
+    conservation: UK
+  Thomomys_bulbivorus:
+    common_name: Thomomys_bulbivorus
+    conservation: UK
+  Thomomys_chihuahue:
+    common_name: Thomomys_chihuahue
+    conservation: UK
+  Thomomys_fulvus:
+    common_name: Thomomys_fulvus
+    conservation: UK
+  Thomomys_idahoensis:
+    common_name: Thomomys_idahoensis
+    conservation: UK
+  Thomomys_laticeps:
+    common_name: Thomomys_laticeps
+    conservation: UK
+  Thomomys_mazama:
+    common_name: Thomomys_mazama
+    conservation: UK
+  Thomomys_monticola:
+    common_name: Thomomys_monticola
+    conservation: UK
+  Thomomys_nayarensis:
+    common_name: Thomomys_nayarensis
+    conservation: UK
+  Thomomys_nigricans:
+    common_name: Thomomys_nigricans
+    conservation: UK
+  Thomomys_sheldoni:
+    common_name: Thomomys_sheldoni
+    conservation: UK
+  Thomomys_talpoides:
+    common_name: Thomomys_talpoides
+    conservation: UK
+  Thomomys_townsendii:
+    common_name: Thomomys_townsendii
+    conservation: UK
+  Thomomys_umbrinus:
+    common_name: Thomomys_umbrinus
+    conservation: UK
 ---
-
 # Thomomys
 
 Genus containing 16 species.

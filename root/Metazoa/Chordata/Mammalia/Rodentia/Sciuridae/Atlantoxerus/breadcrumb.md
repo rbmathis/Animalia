@@ -1,30 +1,21 @@
 ---
-title: "Atlantoxerus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["atlantoxerus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226854
-parent: "../breadcrumb.md"
+title: Atlantoxerus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [atlantoxerus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Atlantoxerus_getulus.cs"
-    name: "Atlantoxerus getulus"
-    common_name: "Atlantoxerus_getulus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Atlantoxerus_getulus:
+    common_name: Atlantoxerus_getulus
+    conservation: UK
 ---
-
 # Atlantoxerus
 
 Genus containing 1 species.

@@ -1,30 +1,21 @@
 ---
-title: "Komodomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["komodomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1799707
-parent: "../breadcrumb.md"
+title: Komodomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [komodomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Komodomys_rintjanus.cs"
-    name: "Komodomys rintjanus"
-    common_name: "Komodomys_rintjanus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Komodomys_rintjanus:
+    common_name: Komodomys_rintjanus
+    conservation: UK
 ---
-
 # Komodomys
 
 Genus containing 1 species.

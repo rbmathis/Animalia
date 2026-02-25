@@ -1,41 +1,28 @@
 ---
-title: "Hydromys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["hydromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 160447
-parent: "../breadcrumb.md"
+title: Hydromys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [hydromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hydromys_chrysogaster.cs"
-    name: "Hydromys chrysogaster"
-    common_name: "Hydromys_chrysogaster"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hydromys_neobrittanicus.cs"
-    name: "Hydromys neobrittanicus"
-    common_name: "Hydromys_neobrittanicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hydromys_sp.cs"
-    name: "Hydromys sp."
-    common_name: "Hydromys_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hydromys_chrysogaster:
+    common_name: Hydromys_chrysogaster
+    conservation: UK
+  Hydromys_neobrittanicus:
+    common_name: Hydromys_neobrittanicus
+    conservation: UK
+  Hydromys_sp:
+    common_name: Hydromys_sp
+    conservation: UK
 ---
-
 # Hydromys
 
 Genus containing 3 species.

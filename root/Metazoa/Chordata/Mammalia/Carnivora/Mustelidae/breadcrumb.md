@@ -1,49 +1,20 @@
 ---
-title: "Mustelidae"
-description: "Family containing 25 genera."
-category: "taxonomy/family"
-tags: ["mustelidae", "family", "has-pets"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ailuridae/breadcrumb.md", "../Canidae/breadcrumb.md", "../Eupleridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9655
-parent: "../breadcrumb.md"
+title: Mustelidae
+description: Family containing 25 genera.
+category: taxonomy/family
+tags: [mustelidae, family, has-pets]
+status: Living
+updated: 2026-02-23
+related: [../Ailuridae/breadcrumb.md, ../Canidae/breadcrumb.md, ../Eupleridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 25
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Aonyx/breadcrumb.md"
-    name: "Aonyx"
-  - path: "Arctonyx/breadcrumb.md"
-    name: "Arctonyx"
-  - path: "Eira/breadcrumb.md"
-    name: "Eira"
-  - path: "Enhydra/breadcrumb.md"
-    name: "Enhydra"
-  - path: "Galictis/breadcrumb.md"
-    name: "Galictis"
-  - path: "Gulo/breadcrumb.md"
-    name: "Gulo"
-  - path: "Hydrictis/breadcrumb.md"
-    name: "Hydrictis"
-  - path: "Ictonyx/breadcrumb.md"
-    name: "Ictonyx"
-  - path: "Lontra/breadcrumb.md"
-    name: "Lontra"
-  - path: "Lutra/breadcrumb.md"
-    name: "Lutra"pet_genera:
-  - name: "Mustela"
-    path: "Mustela/breadcrumb.md"
-
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Aonyx, Arctonyx, Eira, Enhydra, Galictis, Gulo, Hydrictis, Ictonyx, Lontra, Lutra]
+pet_genera: [Mustela]
 ---
-
 # Mustelidae
 
 Family containing 25 genera.

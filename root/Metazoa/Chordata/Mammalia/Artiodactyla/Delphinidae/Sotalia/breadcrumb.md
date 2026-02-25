@@ -1,41 +1,28 @@
 ---
-title: "Sotalia"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["sotalia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cephalorhynchus/breadcrumb.md", "../Delphinus/breadcrumb.md", "../Feresa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 103597
-parent: "../breadcrumb.md"
+title: Sotalia
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [sotalia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cephalorhynchus/breadcrumb.md, ../Delphinus/breadcrumb.md, ../Feresa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Sotalia_fluviatilis.cs"
-    name: "Sotalia fluviatilis"
-    common_name: "Sotalia_fluviatilis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sotalia_guianensis.cs"
-    name: "Sotalia guianensis"
-    common_name: "Sotalia_guianensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sotalia_sp_SSC_2007.cs"
-    name: "Sotalia sp. SSC-2007"
-    common_name: "Sotalia_sp_SSC_2007"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Sotalia_fluviatilis:
+    common_name: Sotalia_fluviatilis
+    conservation: UK
+  Sotalia_guianensis:
+    common_name: Sotalia_guianensis
+    conservation: UK
+  Sotalia_sp_SSC_2007:
+    common_name: Sotalia_sp_SSC_2007
+    conservation: UK
 ---
-
 # Sotalia
 
 Genus containing 3 species.

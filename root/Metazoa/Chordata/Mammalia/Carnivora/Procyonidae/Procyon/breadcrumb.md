@@ -1,51 +1,34 @@
 ---
-title: "Procyon"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["procyon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Bassaricyon/breadcrumb.md", "../Bassariscus/breadcrumb.md", "../Nasua/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9653
-parent: "../breadcrumb.md"
+title: Procyon
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [procyon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Bassaricyon/breadcrumb.md, ../Bassariscus/breadcrumb.md, ../Nasua/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Procyon_cancrivorus.cs"
-    name: "Procyon cancrivorus"
-    common_name: "Procyon_cancrivorus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Procyon_environmental_sample.cs"
-    name: "Procyon environmental sample"
-    common_name: "Procyon_environmental_sample"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Procyon_lotor.cs"
-    name: "Procyon lotor"
-    common_name: "Procyon_lotor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Procyon_minor.cs"
-    name: "Procyon minor"
-    common_name: "Procyon_minor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Procyon_pygmaeus.cs"
-    name: "Procyon pygmaeus"
-    common_name: "Procyon_pygmaeus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Procyon_cancrivorus:
+    common_name: Procyon_cancrivorus
+    conservation: UK
+  Procyon_environmental_sample:
+    common_name: Procyon_environmental_sample
+    conservation: UK
+  Procyon_lotor:
+    common_name: Procyon_lotor
+    conservation: UK
+  Procyon_minor:
+    common_name: Procyon_minor
+    conservation: UK
+  Procyon_pygmaeus:
+    common_name: Procyon_pygmaeus
+    conservation: UK
 ---
-
 # Procyon
 
 Genus containing 5 species.

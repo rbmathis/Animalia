@@ -1,35 +1,24 @@
 ---
-title: "Vespertilio"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["vespertilio", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 59484
-parent: "../breadcrumb.md"
+title: Vespertilio
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [vespertilio, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Vespertilio_murinus.cs"
-    name: "Vespertilio murinus"
-    common_name: "Vespertilio_murinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vespertilio_sinensis.cs"
-    name: "Vespertilio sinensis"
-    common_name: "Vespertilio_sinensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Vespertilio_murinus:
+    common_name: Vespertilio_murinus
+    conservation: UK
+  Vespertilio_sinensis:
+    common_name: Vespertilio_sinensis
+    conservation: UK
 ---
-
 # Vespertilio
 
 Genus containing 2 species.

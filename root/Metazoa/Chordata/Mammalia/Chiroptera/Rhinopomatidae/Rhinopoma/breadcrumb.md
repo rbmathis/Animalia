@@ -1,55 +1,36 @@
 ---
-title: "Rhinopoma"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["rhinopoma", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Rhinopoma
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [rhinopoma, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 124755
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rhinopoma_cystops.cs"
-    name: "Rhinopoma cystops"
-    common_name: "Rhinopoma_cystops"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinopoma_hadramauticum.cs"
-    name: "Rhinopoma hadramauticum"
-    common_name: "Rhinopoma_hadramauticum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinopoma_hardwickii.cs"
-    name: "Rhinopoma hardwickii"
-    common_name: "Rhinopoma_hardwickii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinopoma_macinnesi.cs"
-    name: "Rhinopoma macinnesi"
-    common_name: "Rhinopoma_macinnesi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinopoma_microphyllum.cs"
-    name: "Rhinopoma microphyllum"
-    common_name: "Rhinopoma_microphyllum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhinopoma_muscatellum.cs"
-    name: "Rhinopoma muscatellum"
-    common_name: "Rhinopoma_muscatellum"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rhinopoma_cystops:
+    common_name: Rhinopoma_cystops
+    conservation: UK
+  Rhinopoma_hadramauticum:
+    common_name: Rhinopoma_hadramauticum
+    conservation: UK
+  Rhinopoma_hardwickii:
+    common_name: Rhinopoma_hardwickii
+    conservation: UK
+  Rhinopoma_macinnesi:
+    common_name: Rhinopoma_macinnesi
+    conservation: UK
+  Rhinopoma_microphyllum:
+    common_name: Rhinopoma_microphyllum
+    conservation: UK
+  Rhinopoma_muscatellum:
+    common_name: Rhinopoma_muscatellum
+    conservation: UK
 ---
-
 # Rhinopoma
 
 Genus containing 6 species.

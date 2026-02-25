@@ -1,41 +1,28 @@
 ---
-title: "Pseudois"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["pseudois", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 59541
-parent: "../breadcrumb.md"
+title: Pseudois
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [pseudois, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pseudois_nayaur.cs"
-    name: "Pseudois nayaur"
-    common_name: "Pseudois_nayaur"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudois_schaeferi.cs"
-    name: "Pseudois schaeferi"
-    common_name: "Pseudois_schaeferi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudois_sp_DL.cs"
-    name: "Pseudois sp. DL"
-    common_name: "Pseudois_sp_DL"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pseudois_nayaur:
+    common_name: Pseudois_nayaur
+    conservation: UK
+  Pseudois_schaeferi:
+    common_name: Pseudois_schaeferi
+    conservation: UK
+  Pseudois_sp_DL:
+    common_name: Pseudois_sp_DL
+    conservation: UK
 ---
-
 # Pseudois
 
 Genus containing 3 species.

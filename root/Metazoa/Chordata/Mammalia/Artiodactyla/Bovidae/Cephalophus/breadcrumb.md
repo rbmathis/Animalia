@@ -1,71 +1,46 @@
 ---
-title: "Cephalophus"
-description: "Genus containing 9 species."
-category: "taxonomy/genus"
-tags: ["cephalophus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9954
-parent: "../breadcrumb.md"
+title: Cephalophus
+description: Genus containing 9 species.
+category: taxonomy/genus
+tags: [cephalophus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 9
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cephalophus_dorsalis.cs"
-    name: "Cephalophus dorsalis"
-    common_name: "Cephalophus_dorsalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cephalophus_harveyi.cs"
-    name: "Cephalophus harveyi"
-    common_name: "Cephalophus_harveyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cephalophus_jentinki.cs"
-    name: "Cephalophus jentinki"
-    common_name: "Cephalophus_jentinki"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cephalophus_silvicultor.cs"
-    name: "Cephalophus silvicultor"
-    common_name: "Cephalophus_silvicultor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cephalophus_sp.cs"
-    name: "Cephalophus sp."
-    common_name: "Cephalophus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cephalophus_sp_BXL004.cs"
-    name: "Cephalophus sp. BXL004"
-    common_name: "Cephalophus_sp_BXL004"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cephalophus_sp_BXL008.cs"
-    name: "Cephalophus sp. BXL008"
-    common_name: "Cephalophus_sp_BXL008"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cephalophus_sp_PG_2014.cs"
-    name: "Cephalophus sp. PG-2014"
-    common_name: "Cephalophus_sp_PG_2014"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cephalophus_spadix.cs"
-    name: "Cephalophus spadix"
-    common_name: "Cephalophus_spadix"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cephalophus_dorsalis:
+    common_name: Cephalophus_dorsalis
+    conservation: UK
+  Cephalophus_harveyi:
+    common_name: Cephalophus_harveyi
+    conservation: UK
+  Cephalophus_jentinki:
+    common_name: Cephalophus_jentinki
+    conservation: UK
+  Cephalophus_silvicultor:
+    common_name: Cephalophus_silvicultor
+    conservation: UK
+  Cephalophus_sp:
+    common_name: Cephalophus_sp
+    conservation: UK
+  Cephalophus_sp_BXL004:
+    common_name: Cephalophus_sp_BXL004
+    conservation: UK
+  Cephalophus_sp_BXL008:
+    common_name: Cephalophus_sp_BXL008
+    conservation: UK
+  Cephalophus_sp_PG_2014:
+    common_name: Cephalophus_sp_PG_2014
+    conservation: UK
+  Cephalophus_spadix:
+    common_name: Cephalophus_spadix
+    conservation: UK
 ---
-
 # Cephalophus
 
 Genus containing 9 species.

@@ -1,60 +1,39 @@
 ---
-title: "Panthera"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["panthera", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acinonyx/breadcrumb.md", "../Caracal/breadcrumb.md", "../Catopuma/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9688
-parent: "../breadcrumb.md"
+title: Panthera
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [panthera, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acinonyx/breadcrumb.md, ../Caracal/breadcrumb.md, ../Catopuma/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Panthera_leo.cs"
-    name: "Panthera leo"
-    common_name: "Panthera_leo"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Panthera_leo_x_Panthera_tigris.cs"
-    name: "Panthera leo x Panthera tigris"
-    common_name: "Panthera_leo_x_Panthera_tigris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Panthera_onca.cs"
-    name: "Panthera onca"
-    common_name: "Panthera_onca"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Panthera_pardus.cs"
-    name: "Panthera pardus"
-    common_name: "Panthera_pardus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Panthera_spelaea.cs"
-    name: "Panthera spelaea"
-    common_name: "Panthera_spelaea"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Panthera_tigris.cs"
-    name: "Panthera tigris"
-    common_name: "Panthera_tigris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Panthera_uncia.cs"
-    name: "Panthera uncia"
-    common_name: "Panthera_uncia"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Panthera_leo:
+    common_name: Panthera_leo
+    conservation: UK
+  Panthera_leo_x_Panthera_tigris:
+    common_name: Panthera_leo_x_Panthera_tigris
+    conservation: UK
+  Panthera_onca:
+    common_name: Panthera_onca
+    conservation: UK
+  Panthera_pardus:
+    common_name: Panthera_pardus
+    conservation: UK
+  Panthera_spelaea:
+    common_name: Panthera_spelaea
+    conservation: UK
+  Panthera_tigris:
+    common_name: Panthera_tigris
+    conservation: UK
+  Panthera_uncia:
+    common_name: Panthera_uncia
+    conservation: UK
 ---
-
 # Panthera
 
 Genus containing 7 species.

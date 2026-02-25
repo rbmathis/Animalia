@@ -1,46 +1,19 @@
 ---
-title: "Cervidae"
-description: "Family containing 26 genera."
-category: "taxonomy/family"
-tags: ["cervidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antilocapridae/breadcrumb.md", "../Balaenidae/breadcrumb.md", "../Balaenopteridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9850
-parent: "../breadcrumb.md"
+title: Cervidae
+description: Family containing 26 genera.
+category: taxonomy/family
+tags: [cervidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Antilocapridae/breadcrumb.md, ../Balaenidae/breadcrumb.md, ../Balaenopteridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 26
 species_count: 2
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Alces/breadcrumb.md"
-    name: "Alces"
-  - path: "Axis/breadcrumb.md"
-    name: "Axis"
-  - path: "Bisbalus/breadcrumb.md"
-    name: "Bisbalus"
-  - path: "Blastocerus/breadcrumb.md"
-    name: "Blastocerus"
-  - path: "Capreolus/breadcrumb.md"
-    name: "Capreolus"
-  - path: "Cervus/breadcrumb.md"
-    name: "Cervus"
-  - path: "Dama/breadcrumb.md"
-    name: "Dama"
-  - path: "Elaphodus/breadcrumb.md"
-    name: "Elaphodus"
-  - path: "Elaphurus/breadcrumb.md"
-    name: "Elaphurus"
-  - path: "Hippocamelus/breadcrumb.md"
-    name: "Hippocamelus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Alces, Axis, Bisbalus, Blastocerus, Capreolus, Cervus, Dama, Elaphodus, Elaphurus, Hippocamelus]
 ---
-
 # Cervidae
 
 Family containing 26 genera.

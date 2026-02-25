@@ -1,34 +1,19 @@
 ---
-title: "Peramelidae"
-description: "Family containing 4 genera."
-category: "taxonomy/family"
-tags: ["peramelidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Peroryctidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9342
-parent: "../breadcrumb.md"
+title: Peramelidae
+description: Family containing 4 genera.
+category: taxonomy/family
+tags: [peramelidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Peroryctidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 4
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Chaeropus/breadcrumb.md"
-    name: "Chaeropus"
-  - path: "Isoodon/breadcrumb.md"
-    name: "Isoodon"
-  - path: "Macrotis/breadcrumb.md"
-    name: "Macrotis"
-  - path: "Perameles/breadcrumb.md"
-    name: "Perameles"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Chaeropus, Isoodon, Macrotis, Perameles]
 ---
-
 # Peramelidae
 
 Family containing 4 genera.

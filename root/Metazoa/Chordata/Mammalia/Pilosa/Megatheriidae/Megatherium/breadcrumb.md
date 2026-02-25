@@ -1,30 +1,21 @@
 ---
-title: "Megatherium"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["megatherium", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Nothrotheriops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2546650
-parent: "../breadcrumb.md"
+title: Megatherium
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [megatherium, genus]
+status: Living
+updated: 2026-02-23
+related: [../Nothrotheriops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Megatherium_americanum.cs"
-    name: "Megatherium americanum"
-    common_name: "Megatherium_americanum"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Megatherium_americanum:
+    common_name: Megatherium_americanum
+    conservation: UK
 ---
-
 # Megatherium
 
 Genus containing 1 species.

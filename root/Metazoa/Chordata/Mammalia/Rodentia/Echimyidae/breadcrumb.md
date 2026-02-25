@@ -1,46 +1,19 @@
 ---
-title: "Echimyidae"
-description: "Family containing 24 genera."
-category: "taxonomy/family"
-tags: ["echimyidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 10161
-parent: "../breadcrumb.md"
+title: Echimyidae
+description: Family containing 24 genera.
+category: taxonomy/family
+tags: [echimyidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 24
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Boromys/breadcrumb.md"
-    name: "Boromys"
-  - path: "Brotomys/breadcrumb.md"
-    name: "Brotomys"
-  - path: "Callistomys/breadcrumb.md"
-    name: "Callistomys"
-  - path: "Carterodon/breadcrumb.md"
-    name: "Carterodon"
-  - path: "Clyomys/breadcrumb.md"
-    name: "Clyomys"
-  - path: "Dactylomys/breadcrumb.md"
-    name: "Dactylomys"
-  - path: "Diplomys/breadcrumb.md"
-    name: "Diplomys"
-  - path: "Echimys/breadcrumb.md"
-    name: "Echimys"
-  - path: "Euryzygomatomys/breadcrumb.md"
-    name: "Euryzygomatomys"
-  - path: "Hoplomys/breadcrumb.md"
-    name: "Hoplomys"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Boromys, Brotomys, Callistomys, Carterodon, Clyomys, Dactylomys, Diplomys, Echimys, Euryzygomatomys, Hoplomys]
 ---
-
 # Echimyidae
 
 Family containing 24 genera.

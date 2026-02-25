@@ -1,50 +1,33 @@
 ---
-title: "Scapanus"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["scapanus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alpiscaptulus/breadcrumb.md", "../Condylura/breadcrumb.md", "../Desmana/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 182672
-parent: "../breadcrumb.md"
+title: Scapanus
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [scapanus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alpiscaptulus/breadcrumb.md, ../Condylura/breadcrumb.md, ../Desmana/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Scapanus_anthonyi.cs"
-    name: "Scapanus anthonyi"
-    common_name: "Scapanus_anthonyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Scapanus_latimanus.cs"
-    name: "Scapanus latimanus"
-    common_name: "Scapanus_latimanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Scapanus_occultus.cs"
-    name: "Scapanus occultus"
-    common_name: "Scapanus_occultus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Scapanus_orarius.cs"
-    name: "Scapanus orarius"
-    common_name: "Scapanus_orarius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Scapanus_townsendii.cs"
-    name: "Scapanus townsendii"
-    common_name: "Scapanus_townsendii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Scapanus_anthonyi:
+    common_name: Scapanus_anthonyi
+    conservation: UK
+  Scapanus_latimanus:
+    common_name: Scapanus_latimanus
+    conservation: UK
+  Scapanus_occultus:
+    common_name: Scapanus_occultus
+    conservation: UK
+  Scapanus_orarius:
+    common_name: Scapanus_orarius
+    conservation: UK
+  Scapanus_townsendii:
+    common_name: Scapanus_townsendii
+    conservation: UK
 ---
-
 # Scapanus
 
 Genus containing 5 species.

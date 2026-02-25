@@ -1,28 +1,19 @@
 ---
-title: "Miniopteridae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["miniopteridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cistugidae/breadcrumb.md", "../Craseonycteridae/breadcrumb.md", "../Emballonuridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 981671
-parent: "../breadcrumb.md"
+title: Miniopteridae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [miniopteridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Cistugidae/breadcrumb.md, ../Craseonycteridae/breadcrumb.md, ../Emballonuridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Miniopterus/breadcrumb.md"
-    name: "Miniopterus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Miniopterus]
 ---
-
 # Miniopteridae
 
 Family containing 1 genera.

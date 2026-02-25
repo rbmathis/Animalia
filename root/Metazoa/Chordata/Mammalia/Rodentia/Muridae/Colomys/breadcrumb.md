@@ -1,45 +1,30 @@
 ---
-title: "Colomys"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["colomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 119563
-parent: "../breadcrumb.md"
+title: Colomys
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [colomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Colomys_eisentrauti.cs"
-    name: "Colomys eisentrauti"
-    common_name: "Colomys_eisentrauti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Colomys_goslingi.cs"
-    name: "Colomys goslingi"
-    common_name: "Colomys_goslingi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Colomys_lumumbai.cs"
-    name: "Colomys lumumbai"
-    common_name: "Colomys_lumumbai"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Colomys_wologizi.cs"
-    name: "Colomys wologizi"
-    common_name: "Colomys_wologizi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Colomys_eisentrauti:
+    common_name: Colomys_eisentrauti
+    conservation: UK
+  Colomys_goslingi:
+    common_name: Colomys_goslingi
+    conservation: UK
+  Colomys_lumumbai:
+    common_name: Colomys_lumumbai
+    conservation: UK
+  Colomys_wologizi:
+    common_name: Colomys_wologizi
+    conservation: UK
 ---
-
 # Colomys
 
 Genus containing 4 species.

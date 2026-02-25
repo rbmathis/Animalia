@@ -1,76 +1,49 @@
 ---
-title: "Cynopterus"
-description: "Genus containing 10 species."
-category: "taxonomy/genus"
-tags: ["cynopterus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9399
-parent: "../breadcrumb.md"
+title: Cynopterus
+description: Genus containing 10 species.
+category: taxonomy/genus
+tags: [cynopterus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 10
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cynopterus_brachyotis.cs"
-    name: "Cynopterus brachyotis"
-    common_name: "Cynopterus_brachyotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynopterus_cf_brachyotis_CMF_2010.cs"
-    name: "Cynopterus cf. brachyotis CMF-2010"
-    common_name: "Cynopterus_cf_brachyotis_CMF_2010"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynopterus_horsfieldii.cs"
-    name: "Cynopterus horsfieldii"
-    common_name: "Cynopterus_horsfieldii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynopterus_nusatenggara.cs"
-    name: "Cynopterus nusatenggara"
-    common_name: "Cynopterus_nusatenggara"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynopterus_sp.cs"
-    name: "Cynopterus sp."
-    common_name: "Cynopterus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynopterus_sp_A_JLE_2012.cs"
-    name: "Cynopterus sp. A JLE-2012"
-    common_name: "Cynopterus_sp_A_JLE_2012"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynopterus_sp_BC_2014.cs"
-    name: "Cynopterus sp. BC-2014"
-    common_name: "Cynopterus_sp_BC_2014"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynopterus_sp_USNM_MAMM_619523.cs"
-    name: "Cynopterus sp. USNM MAMM 619523"
-    common_name: "Cynopterus_sp_USNM_MAMM_619523"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynopterus_sphinx.cs"
-    name: "Cynopterus sphinx"
-    common_name: "Cynopterus_sphinx"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cynopterus_titthaecheilus.cs"
-    name: "Cynopterus titthaecheilus"
-    common_name: "Cynopterus_titthaecheilus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cynopterus_brachyotis:
+    common_name: Cynopterus_brachyotis
+    conservation: UK
+  Cynopterus_cf_brachyotis_CMF_2010:
+    common_name: Cynopterus_cf_brachyotis_CMF_2010
+    conservation: UK
+  Cynopterus_horsfieldii:
+    common_name: Cynopterus_horsfieldii
+    conservation: UK
+  Cynopterus_nusatenggara:
+    common_name: Cynopterus_nusatenggara
+    conservation: UK
+  Cynopterus_sp:
+    common_name: Cynopterus_sp
+    conservation: UK
+  Cynopterus_sp_A_JLE_2012:
+    common_name: Cynopterus_sp_A_JLE_2012
+    conservation: UK
+  Cynopterus_sp_BC_2014:
+    common_name: Cynopterus_sp_BC_2014
+    conservation: UK
+  Cynopterus_sp_USNM_MAMM_619523:
+    common_name: Cynopterus_sp_USNM_MAMM_619523
+    conservation: UK
+  Cynopterus_sphinx:
+    common_name: Cynopterus_sphinx
+    conservation: UK
+  Cynopterus_titthaecheilus:
+    common_name: Cynopterus_titthaecheilus
+    conservation: UK
 ---
-
 # Cynopterus
 
 Genus containing 10 species.

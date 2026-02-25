@@ -1,95 +1,60 @@
 ---
-title: "Eulemur"
-description: "Genus containing 14 species."
-category: "taxonomy/genus"
-tags: ["eulemur", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Hapalemur/breadcrumb.md", "../Lemur/breadcrumb.md", "../Pachylemur/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 13513
-parent: "../breadcrumb.md"
+title: Eulemur
+description: Genus containing 14 species.
+category: taxonomy/genus
+tags: [eulemur, genus]
+status: Living
+updated: 2026-02-23
+related: [../Hapalemur/breadcrumb.md, ../Lemur/breadcrumb.md, ../Pachylemur/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 14
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Eulemur_albifrons.cs"
-    name: "Eulemur albifrons"
-    common_name: "Eulemur_albifrons"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eulemur_albifrons_x_cinereiceps.cs"
-    name: "Eulemur albifrons x cinereiceps"
-    common_name: "Eulemur_albifrons_x_cinereiceps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eulemur_albifrons_x_rufifrons.cs"
-    name: "Eulemur albifrons x rufifrons"
-    common_name: "Eulemur_albifrons_x_rufifrons"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eulemur_cinereiceps.cs"
-    name: "Eulemur cinereiceps"
-    common_name: "Eulemur_cinereiceps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eulemur_cinereiceps_x_rufifrons.cs"
-    name: "Eulemur cinereiceps x rufifrons"
-    common_name: "Eulemur_cinereiceps_x_rufifrons"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eulemur_coronatus.cs"
-    name: "Eulemur coronatus"
-    common_name: "Eulemur_coronatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eulemur_flavifrons.cs"
-    name: "Eulemur flavifrons"
-    common_name: "Eulemur_flavifrons"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eulemur_fulvus.cs"
-    name: "Eulemur fulvus"
-    common_name: "Eulemur_fulvus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eulemur_macaco.cs"
-    name: "Eulemur macaco"
-    common_name: "Eulemur_macaco"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eulemur_mongoz.cs"
-    name: "Eulemur mongoz"
-    common_name: "Eulemur_mongoz"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eulemur_rubriventer.cs"
-    name: "Eulemur rubriventer"
-    common_name: "Eulemur_rubriventer"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eulemur_rufifrons.cs"
-    name: "Eulemur rufifrons"
-    common_name: "Eulemur_rufifrons"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eulemur_rufus.cs"
-    name: "Eulemur rufus"
-    common_name: "Eulemur_rufus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eulemur_sanfordi.cs"
-    name: "Eulemur sanfordi"
-    common_name: "Eulemur_sanfordi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Eulemur_albifrons:
+    common_name: Eulemur_albifrons
+    conservation: UK
+  Eulemur_albifrons_x_cinereiceps:
+    common_name: Eulemur_albifrons_x_cinereiceps
+    conservation: UK
+  Eulemur_albifrons_x_rufifrons:
+    common_name: Eulemur_albifrons_x_rufifrons
+    conservation: UK
+  Eulemur_cinereiceps:
+    common_name: Eulemur_cinereiceps
+    conservation: UK
+  Eulemur_cinereiceps_x_rufifrons:
+    common_name: Eulemur_cinereiceps_x_rufifrons
+    conservation: UK
+  Eulemur_coronatus:
+    common_name: Eulemur_coronatus
+    conservation: UK
+  Eulemur_flavifrons:
+    common_name: Eulemur_flavifrons
+    conservation: UK
+  Eulemur_fulvus:
+    common_name: Eulemur_fulvus
+    conservation: UK
+  Eulemur_macaco:
+    common_name: Eulemur_macaco
+    conservation: UK
+  Eulemur_mongoz:
+    common_name: Eulemur_mongoz
+    conservation: UK
+  Eulemur_rubriventer:
+    common_name: Eulemur_rubriventer
+    conservation: UK
+  Eulemur_rufifrons:
+    common_name: Eulemur_rufifrons
+    conservation: UK
+  Eulemur_rufus:
+    common_name: Eulemur_rufus
+    conservation: UK
+  Eulemur_sanfordi:
+    common_name: Eulemur_sanfordi
+    conservation: UK
 ---
-
 # Eulemur
 
 Genus containing 14 species.

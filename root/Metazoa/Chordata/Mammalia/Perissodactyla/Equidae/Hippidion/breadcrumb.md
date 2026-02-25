@@ -1,76 +1,49 @@
 ---
-title: "Hippidion"
-description: "Genus containing 10 species."
-category: "taxonomy/genus"
-tags: ["hippidion", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Equus/breadcrumb.md", "../Haringtonhippus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 216181
-parent: "../breadcrumb.md"
+title: Hippidion
+description: Genus containing 10 species.
+category: taxonomy/genus
+tags: [hippidion, genus]
+status: Living
+updated: 2026-02-23
+related: [../Equus/breadcrumb.md, ../Haringtonhippus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 10
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hippidion_devillei.cs"
-    name: "Hippidion devillei"
-    common_name: "Hippidion_devillei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hippidion_principale.cs"
-    name: "Hippidion principale"
-    common_name: "Hippidion_principale"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hippidion_saldiasi.cs"
-    name: "Hippidion saldiasi"
-    common_name: "Hippidion_saldiasi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hippidion_sp.cs"
-    name: "Hippidion sp."
-    common_name: "Hippidion_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hippidion_sp_CDM286c_780.cs"
-    name: "Hippidion sp. CDM28/6c-780"
-    common_name: "Hippidion_sp_CDM286c_780"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hippidion_sp_CLS142563.cs"
-    name: "Hippidion sp. CLS142563"
-    common_name: "Hippidion_sp_CLS142563"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hippidion_sp_CLS144887.cs"
-    name: "Hippidion sp. CLS144887"
-    common_name: "Hippidion_sp_CLS144887"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hippidion_sp_CLV.cs"
-    name: "Hippidion sp. CLV"
-    common_name: "Hippidion_sp_CLV"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hippidion_sp_MLP6_272.cs"
-    name: "Hippidion sp. MLP6-272"
-    common_name: "Hippidion_sp_MLP6_272"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hippidion_sp_TA14001.cs"
-    name: "Hippidion sp. TA14001"
-    common_name: "Hippidion_sp_TA14001"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hippidion_devillei:
+    common_name: Hippidion_devillei
+    conservation: UK
+  Hippidion_principale:
+    common_name: Hippidion_principale
+    conservation: UK
+  Hippidion_saldiasi:
+    common_name: Hippidion_saldiasi
+    conservation: UK
+  Hippidion_sp:
+    common_name: Hippidion_sp
+    conservation: UK
+  Hippidion_sp_CDM286c_780:
+    common_name: Hippidion_sp_CDM286c_780
+    conservation: UK
+  Hippidion_sp_CLS142563:
+    common_name: Hippidion_sp_CLS142563
+    conservation: UK
+  Hippidion_sp_CLS144887:
+    common_name: Hippidion_sp_CLS144887
+    conservation: UK
+  Hippidion_sp_CLV:
+    common_name: Hippidion_sp_CLV
+    conservation: UK
+  Hippidion_sp_MLP6_272:
+    common_name: Hippidion_sp_MLP6_272
+    conservation: UK
+  Hippidion_sp_TA14001:
+    common_name: Hippidion_sp_TA14001
+    conservation: UK
 ---
-
 # Hippidion
 
 Genus containing 10 species.

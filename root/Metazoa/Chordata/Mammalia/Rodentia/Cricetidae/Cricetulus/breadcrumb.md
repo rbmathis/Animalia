@@ -1,51 +1,34 @@
 ---
-title: "Cricetulus"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["cricetulus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10028
-parent: "../breadcrumb.md"
+title: Cricetulus
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [cricetulus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cricetulus_barabensis.cs"
-    name: "Cricetulus barabensis"
-    common_name: "Cricetulus_barabensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cricetulus_griseus.cs"
-    name: "Cricetulus griseus"
-    common_name: "Cricetulus_griseus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cricetulus_longicaudatus.cs"
-    name: "Cricetulus longicaudatus"
-    common_name: "Cricetulus_longicaudatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cricetulus_sokolovi.cs"
-    name: "Cricetulus sokolovi"
-    common_name: "Cricetulus_sokolovi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cricetulus_sp.cs"
-    name: "Cricetulus sp."
-    common_name: "Cricetulus_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cricetulus_barabensis:
+    common_name: Cricetulus_barabensis
+    conservation: UK
+  Cricetulus_griseus:
+    common_name: Cricetulus_griseus
+    conservation: UK
+  Cricetulus_longicaudatus:
+    common_name: Cricetulus_longicaudatus
+    conservation: UK
+  Cricetulus_sokolovi:
+    common_name: Cricetulus_sokolovi
+    conservation: UK
+  Cricetulus_sp:
+    common_name: Cricetulus_sp
+    conservation: UK
 ---
-
 # Cricetulus
 
 Genus containing 5 species.

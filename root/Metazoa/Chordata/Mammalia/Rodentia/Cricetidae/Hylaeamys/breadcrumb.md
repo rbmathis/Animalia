@@ -1,60 +1,39 @@
 ---
-title: "Hylaeamys"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["hylaeamys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 530174
-parent: "../breadcrumb.md"
+title: Hylaeamys
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [hylaeamys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hylaeamys_acritus.cs"
-    name: "Hylaeamys acritus"
-    common_name: "Hylaeamys_acritus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylaeamys_laticeps.cs"
-    name: "Hylaeamys laticeps"
-    common_name: "Hylaeamys_laticeps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylaeamys_megacephalus.cs"
-    name: "Hylaeamys megacephalus"
-    common_name: "Hylaeamys_megacephalus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylaeamys_perenensis.cs"
-    name: "Hylaeamys perenensis"
-    common_name: "Hylaeamys_perenensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylaeamys_seuanezi.cs"
-    name: "Hylaeamys seuanezi"
-    common_name: "Hylaeamys_seuanezi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylaeamys_tatei.cs"
-    name: "Hylaeamys tatei"
-    common_name: "Hylaeamys_tatei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylaeamys_yunganus.cs"
-    name: "Hylaeamys yunganus"
-    common_name: "Hylaeamys_yunganus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hylaeamys_acritus:
+    common_name: Hylaeamys_acritus
+    conservation: UK
+  Hylaeamys_laticeps:
+    common_name: Hylaeamys_laticeps
+    conservation: UK
+  Hylaeamys_megacephalus:
+    common_name: Hylaeamys_megacephalus
+    conservation: UK
+  Hylaeamys_perenensis:
+    common_name: Hylaeamys_perenensis
+    conservation: UK
+  Hylaeamys_seuanezi:
+    common_name: Hylaeamys_seuanezi
+    conservation: UK
+  Hylaeamys_tatei:
+    common_name: Hylaeamys_tatei
+    conservation: UK
+  Hylaeamys_yunganus:
+    common_name: Hylaeamys_yunganus
+    conservation: UK
 ---
-
 # Hylaeamys
 
 Genus containing 7 species.

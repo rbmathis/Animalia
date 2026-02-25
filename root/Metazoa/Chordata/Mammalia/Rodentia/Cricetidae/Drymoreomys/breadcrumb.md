@@ -1,30 +1,21 @@
 ---
-title: "Drymoreomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["drymoreomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 948927
-parent: "../breadcrumb.md"
+title: Drymoreomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [drymoreomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Drymoreomys_albimaculatus.cs"
-    name: "Drymoreomys albimaculatus"
-    common_name: "Drymoreomys_albimaculatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Drymoreomys_albimaculatus:
+    common_name: Drymoreomys_albimaculatus
+    conservation: UK
 ---
-
 # Drymoreomys
 
 Genus containing 1 species.

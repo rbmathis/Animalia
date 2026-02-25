@@ -1,28 +1,19 @@
 ---
-title: "Pontoporiidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["pontoporiidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antilocapridae/breadcrumb.md", "../Balaenidae/breadcrumb.md", "../Balaenopteridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 197539
-parent: "../breadcrumb.md"
+title: Pontoporiidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [pontoporiidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Antilocapridae/breadcrumb.md, ../Balaenidae/breadcrumb.md, ../Balaenopteridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Pontoporia/breadcrumb.md"
-    name: "Pontoporia"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Pontoporia]
 ---
-
 # Pontoporiidae
 
 Family containing 1 genera.

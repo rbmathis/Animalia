@@ -1,46 +1,31 @@
 ---
-title: "Rhizomys"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["rhizomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cannomys/breadcrumb.md", "../Eospalax/breadcrumb.md", "../Myospalax/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 53274
-parent: "../breadcrumb.md"
+title: Rhizomys
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [rhizomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cannomys/breadcrumb.md, ../Eospalax/breadcrumb.md, ../Myospalax/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rhizomys_pruinosus.cs"
-    name: "Rhizomys pruinosus"
-    common_name: "Rhizomys_pruinosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhizomys_sinensis.cs"
-    name: "Rhizomys sinensis"
-    common_name: "Rhizomys_sinensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhizomys_sp_TCZ_2012.cs"
-    name: "Rhizomys sp. TCZ-2012"
-    common_name: "Rhizomys_sp_TCZ_2012"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhizomys_sumatrensis.cs"
-    name: "Rhizomys sumatrensis"
-    common_name: "Rhizomys_sumatrensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rhizomys_pruinosus:
+    common_name: Rhizomys_pruinosus
+    conservation: UK
+  Rhizomys_sinensis:
+    common_name: Rhizomys_sinensis
+    conservation: UK
+  Rhizomys_sp_TCZ_2012:
+    common_name: Rhizomys_sp_TCZ_2012
+    conservation: UK
+  Rhizomys_sumatrensis:
+    common_name: Rhizomys_sumatrensis
+    conservation: UK
 ---
-
 # Rhizomys
 
 Genus containing 4 species.

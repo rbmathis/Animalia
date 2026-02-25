@@ -1,28 +1,19 @@
 ---
-title: "Tapiridae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["tapiridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Equidae/breadcrumb.md", "../Rhinocerotidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9799
-parent: "../breadcrumb.md"
+title: Tapiridae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [tapiridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Equidae/breadcrumb.md, ../Rhinocerotidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Tapirus/breadcrumb.md"
-    name: "Tapirus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Tapirus]
 ---
-
 # Tapiridae
 
 Family containing 1 genera.

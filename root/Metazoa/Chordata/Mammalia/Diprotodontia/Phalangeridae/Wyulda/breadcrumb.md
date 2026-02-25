@@ -1,30 +1,21 @@
 ---
-title: "Wyulda"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["wyulda", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ailurops/breadcrumb.md", "../Phalanger/breadcrumb.md", "../Spilocuscus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 175812
-parent: "../breadcrumb.md"
+title: Wyulda
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [wyulda, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ailurops/breadcrumb.md, ../Phalanger/breadcrumb.md, ../Spilocuscus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Wyulda_squamicaudata.cs"
-    name: "Wyulda squamicaudata"
-    common_name: "Wyulda_squamicaudata"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Wyulda_squamicaudata:
+    common_name: Wyulda_squamicaudata
+    conservation: UK
 ---
-
 # Wyulda
 
 Genus containing 1 species.

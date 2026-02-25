@@ -1,126 +1,79 @@
 ---
-title: "Hypsugo"
-description: "Genus containing 23 species."
-category: "taxonomy/genus"
-tags: ["hypsugo", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 109484
-parent: "../breadcrumb.md"
+title: Hypsugo
+description: Genus containing 23 species.
+category: taxonomy/genus
+tags: [hypsugo, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 23
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hypsugo_alaschanicus.cs"
-    name: "Hypsugo alaschanicus"
-    common_name: "Hypsugo_alaschanicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_arabicus.cs"
-    name: "Hypsugo arabicus"
-    common_name: "Hypsugo_arabicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_ariel.cs"
-    name: "Hypsugo ariel"
-    common_name: "Hypsugo_ariel"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_cadornae.cs"
-    name: "Hypsugo cadornae"
-    common_name: "Hypsugo_cadornae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_dolichodon.cs"
-    name: "Hypsugo dolichodon"
-    common_name: "Hypsugo_dolichodon"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_macrotis.cs"
-    name: "Hypsugo macrotis"
-    common_name: "Hypsugo_macrotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_petersi.cs"
-    name: "Hypsugo petersi"
-    common_name: "Hypsugo_petersi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_pulveratus.cs"
-    name: "Hypsugo pulveratus"
-    common_name: "Hypsugo_pulveratus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_savii.cs"
-    name: "Hypsugo savii"
-    common_name: "Hypsugo_savii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_sp_A_CMF_2010.cs"
-    name: "Hypsugo sp. A CMF-2010"
-    common_name: "Hypsugo_sp_A_CMF_2010"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_sp_C1.cs"
-    name: "Hypsugo sp. C1"
-    common_name: "Hypsugo_sp_C1"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_sp_C2.cs"
-    name: "Hypsugo sp. C2"
-    common_name: "Hypsugo_sp_C2"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_sp_C4.cs"
-    name: "Hypsugo sp. C4"
-    common_name: "Hypsugo_sp_C4"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_sp_FFM_2006A.cs"
-    name: "Hypsugo sp. FFM-2006A"
-    common_name: "Hypsugo_sp_FFM_2006A"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_sp_FFM_2006B.cs"
-    name: "Hypsugo sp. FFM-2006B"
-    common_name: "Hypsugo_sp_FFM_2006B"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_sp_Hsav_III_1.cs"
-    name: "Hypsugo sp. Hsav-III-1"
-    common_name: "Hypsugo_sp_Hsav_III_1"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_sp_JA_2016a.cs"
-    name: "Hypsugo sp. JA-2016a"
-    common_name: "Hypsugo_sp_JA_2016a"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_sp_N1.cs"
-    name: "Hypsugo sp. N1"
-    common_name: "Hypsugo_sp_N1"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_sp_N2.cs"
-    name: "Hypsugo sp. N2"
-    common_name: "Hypsugo_sp_N2"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hypsugo_sp_N7.cs"
-    name: "Hypsugo sp. N7"
-    common_name: "Hypsugo_sp_N7"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hypsugo_alaschanicus:
+    common_name: Hypsugo_alaschanicus
+    conservation: UK
+  Hypsugo_arabicus:
+    common_name: Hypsugo_arabicus
+    conservation: UK
+  Hypsugo_ariel:
+    common_name: Hypsugo_ariel
+    conservation: UK
+  Hypsugo_cadornae:
+    common_name: Hypsugo_cadornae
+    conservation: UK
+  Hypsugo_dolichodon:
+    common_name: Hypsugo_dolichodon
+    conservation: UK
+  Hypsugo_macrotis:
+    common_name: Hypsugo_macrotis
+    conservation: UK
+  Hypsugo_petersi:
+    common_name: Hypsugo_petersi
+    conservation: UK
+  Hypsugo_pulveratus:
+    common_name: Hypsugo_pulveratus
+    conservation: UK
+  Hypsugo_savii:
+    common_name: Hypsugo_savii
+    conservation: UK
+  Hypsugo_sp_A_CMF_2010:
+    common_name: Hypsugo_sp_A_CMF_2010
+    conservation: UK
+  Hypsugo_sp_C1:
+    common_name: Hypsugo_sp_C1
+    conservation: UK
+  Hypsugo_sp_C2:
+    common_name: Hypsugo_sp_C2
+    conservation: UK
+  Hypsugo_sp_C4:
+    common_name: Hypsugo_sp_C4
+    conservation: UK
+  Hypsugo_sp_FFM_2006A:
+    common_name: Hypsugo_sp_FFM_2006A
+    conservation: UK
+  Hypsugo_sp_FFM_2006B:
+    common_name: Hypsugo_sp_FFM_2006B
+    conservation: UK
+  Hypsugo_sp_Hsav_III_1:
+    common_name: Hypsugo_sp_Hsav_III_1
+    conservation: UK
+  Hypsugo_sp_JA_2016a:
+    common_name: Hypsugo_sp_JA_2016a
+    conservation: UK
+  Hypsugo_sp_N1:
+    common_name: Hypsugo_sp_N1
+    conservation: UK
+  Hypsugo_sp_N2:
+    common_name: Hypsugo_sp_N2
+    conservation: UK
+  Hypsugo_sp_N7:
+    common_name: Hypsugo_sp_N7
+    conservation: UK
 ---
-
 # Hypsugo
 
 Genus containing 23 species.

@@ -1,30 +1,21 @@
 ---
-title: "Prolemur"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["prolemur", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Eulemur/breadcrumb.md", "../Hapalemur/breadcrumb.md", "../Lemur/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1328069
-parent: "../breadcrumb.md"
+title: Prolemur
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [prolemur, genus]
+status: Living
+updated: 2026-02-23
+related: [../Eulemur/breadcrumb.md, ../Hapalemur/breadcrumb.md, ../Lemur/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Prolemur_simus.cs"
-    name: "Prolemur simus"
-    common_name: "Prolemur_simus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Prolemur_simus:
+    common_name: Prolemur_simus
+    conservation: UK
 ---
-
 # Prolemur
 
 Genus containing 1 species.

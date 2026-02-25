@@ -1,30 +1,21 @@
 ---
-title: "Notiomastodon"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["notiomastodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Notiomastodon
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [notiomastodon, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2885231
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Notiomastodon_platensis.cs"
-    name: "Notiomastodon platensis"
-    common_name: "Notiomastodon_platensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Notiomastodon_platensis:
+    common_name: Notiomastodon_platensis
+    conservation: UK
 ---
-
 # Notiomastodon
 
 Genus containing 1 species.

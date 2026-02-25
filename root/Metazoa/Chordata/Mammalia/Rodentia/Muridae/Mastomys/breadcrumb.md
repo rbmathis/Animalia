@@ -1,126 +1,79 @@
 ---
-title: "Mastomys"
-description: "Genus containing 27 species."
-category: "taxonomy/genus"
-tags: ["mastomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 30639
-parent: "../breadcrumb.md"
+title: Mastomys
+description: Genus containing 27 species.
+category: taxonomy/genus
+tags: [mastomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 27
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mastomys_angolensis.cs"
-    name: "Mastomys angolensis"
-    common_name: "Mastomys_angolensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_awashensis.cs"
-    name: "Mastomys awashensis"
-    common_name: "Mastomys_awashensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_coucha.cs"
-    name: "Mastomys coucha"
-    common_name: "Mastomys_coucha"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_erythroleucus.cs"
-    name: "Mastomys erythroleucus"
-    common_name: "Mastomys_erythroleucus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_erythroleucus_complex_sp_eryC.cs"
-    name: "Mastomys erythroleucus complex sp. eryC"
-    common_name: "Mastomys_erythroleucus_complex_sp_eryC"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_erythroleucus_complex_sp_eryD.cs"
-    name: "Mastomys erythroleucus complex sp. eryD"
-    common_name: "Mastomys_erythroleucus_complex_sp_eryD"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_erythroleucus_complex_sp_eryE.cs"
-    name: "Mastomys erythroleucus complex sp. eryE"
-    common_name: "Mastomys_erythroleucus_complex_sp_eryE"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_huberti.cs"
-    name: "Mastomys huberti"
-    common_name: "Mastomys_huberti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_huberti_complex_sp_hubA.cs"
-    name: "Mastomys huberti complex sp. hubA"
-    common_name: "Mastomys_huberti_complex_sp_hubA"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_huberti_complex_sp_hubB.cs"
-    name: "Mastomys huberti complex sp. hubB"
-    common_name: "Mastomys_huberti_complex_sp_hubB"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_huberti_complex_sp_hubC.cs"
-    name: "Mastomys huberti complex sp. hubC"
-    common_name: "Mastomys_huberti_complex_sp_hubC"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_kollmannspergeri.cs"
-    name: "Mastomys kollmannspergeri"
-    common_name: "Mastomys_kollmannspergeri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_natalensis.cs"
-    name: "Mastomys natalensis"
-    common_name: "Mastomys_natalensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_natalensis_complex_sp_natAI.cs"
-    name: "Mastomys natalensis complex sp. natAI"
-    common_name: "Mastomys_natalensis_complex_sp_natAI"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_natalensis_complex_sp_natAIII.cs"
-    name: "Mastomys natalensis complex sp. natAIII"
-    common_name: "Mastomys_natalensis_complex_sp_natAIII"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_natalensis_complex_sp_natBIV.cs"
-    name: "Mastomys natalensis complex sp. natBIV"
-    common_name: "Mastomys_natalensis_complex_sp_natBIV"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_natalensis_complex_sp_natBV.cs"
-    name: "Mastomys natalensis complex sp. natBV"
-    common_name: "Mastomys_natalensis_complex_sp_natBV"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_natalensis_complex_sp_natBVI.cs"
-    name: "Mastomys natalensis complex sp. natBVI"
-    common_name: "Mastomys_natalensis_complex_sp_natBVI"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_shortridgei.cs"
-    name: "Mastomys shortridgei"
-    common_name: "Mastomys_shortridgei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mastomys_sp.cs"
-    name: "Mastomys sp."
-    common_name: "Mastomys_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mastomys_angolensis:
+    common_name: Mastomys_angolensis
+    conservation: UK
+  Mastomys_awashensis:
+    common_name: Mastomys_awashensis
+    conservation: UK
+  Mastomys_coucha:
+    common_name: Mastomys_coucha
+    conservation: UK
+  Mastomys_erythroleucus:
+    common_name: Mastomys_erythroleucus
+    conservation: UK
+  Mastomys_erythroleucus_complex_sp_eryC:
+    common_name: Mastomys_erythroleucus_complex_sp_eryC
+    conservation: UK
+  Mastomys_erythroleucus_complex_sp_eryD:
+    common_name: Mastomys_erythroleucus_complex_sp_eryD
+    conservation: UK
+  Mastomys_erythroleucus_complex_sp_eryE:
+    common_name: Mastomys_erythroleucus_complex_sp_eryE
+    conservation: UK
+  Mastomys_huberti:
+    common_name: Mastomys_huberti
+    conservation: UK
+  Mastomys_huberti_complex_sp_hubA:
+    common_name: Mastomys_huberti_complex_sp_hubA
+    conservation: UK
+  Mastomys_huberti_complex_sp_hubB:
+    common_name: Mastomys_huberti_complex_sp_hubB
+    conservation: UK
+  Mastomys_huberti_complex_sp_hubC:
+    common_name: Mastomys_huberti_complex_sp_hubC
+    conservation: UK
+  Mastomys_kollmannspergeri:
+    common_name: Mastomys_kollmannspergeri
+    conservation: UK
+  Mastomys_natalensis:
+    common_name: Mastomys_natalensis
+    conservation: UK
+  Mastomys_natalensis_complex_sp_natAI:
+    common_name: Mastomys_natalensis_complex_sp_natAI
+    conservation: UK
+  Mastomys_natalensis_complex_sp_natAIII:
+    common_name: Mastomys_natalensis_complex_sp_natAIII
+    conservation: UK
+  Mastomys_natalensis_complex_sp_natBIV:
+    common_name: Mastomys_natalensis_complex_sp_natBIV
+    conservation: UK
+  Mastomys_natalensis_complex_sp_natBV:
+    common_name: Mastomys_natalensis_complex_sp_natBV
+    conservation: UK
+  Mastomys_natalensis_complex_sp_natBVI:
+    common_name: Mastomys_natalensis_complex_sp_natBVI
+    conservation: UK
+  Mastomys_shortridgei:
+    common_name: Mastomys_shortridgei
+    conservation: UK
+  Mastomys_sp:
+    common_name: Mastomys_sp
+    conservation: UK
 ---
-
 # Mastomys
 
 Genus containing 27 species.

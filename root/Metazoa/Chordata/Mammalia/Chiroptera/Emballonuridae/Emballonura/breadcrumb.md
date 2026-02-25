@@ -1,71 +1,46 @@
 ---
-title: "Emballonura"
-description: "Genus containing 9 species."
-category: "taxonomy/genus"
-tags: ["emballonura", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Balantiopteryx/breadcrumb.md", "../Centronycteris/breadcrumb.md", "../Coleura/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 110939
-parent: "../breadcrumb.md"
+title: Emballonura
+description: Genus containing 9 species.
+category: taxonomy/genus
+tags: [emballonura, genus]
+status: Living
+updated: 2026-02-23
+related: [../Balantiopteryx/breadcrumb.md, ../Centronycteris/breadcrumb.md, ../Coleura/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 9
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Emballonura_alecto.cs"
-    name: "Emballonura alecto"
-    common_name: "Emballonura_alecto"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Emballonura_beccarii.cs"
-    name: "Emballonura beccarii"
-    common_name: "Emballonura_beccarii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Emballonura_dianae.cs"
-    name: "Emballonura dianae"
-    common_name: "Emballonura_dianae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Emballonura_monticola.cs"
-    name: "Emballonura monticola"
-    common_name: "Emballonura_monticola"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Emballonura_raffrayana.cs"
-    name: "Emballonura raffrayana"
-    common_name: "Emballonura_raffrayana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Emballonura_semicaudata.cs"
-    name: "Emballonura semicaudata"
-    common_name: "Emballonura_semicaudata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Emballonura_serii.cs"
-    name: "Emballonura serii"
-    common_name: "Emballonura_serii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Emballonura_sp_JMW_2004.cs"
-    name: "Emballonura sp. JMW-2004"
-    common_name: "Emballonura_sp_JMW_2004"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Emballonura_sp_SJP_2012.cs"
-    name: "Emballonura sp. SJP-2012"
-    common_name: "Emballonura_sp_SJP_2012"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Emballonura_alecto:
+    common_name: Emballonura_alecto
+    conservation: UK
+  Emballonura_beccarii:
+    common_name: Emballonura_beccarii
+    conservation: UK
+  Emballonura_dianae:
+    common_name: Emballonura_dianae
+    conservation: UK
+  Emballonura_monticola:
+    common_name: Emballonura_monticola
+    conservation: UK
+  Emballonura_raffrayana:
+    common_name: Emballonura_raffrayana
+    conservation: UK
+  Emballonura_semicaudata:
+    common_name: Emballonura_semicaudata
+    conservation: UK
+  Emballonura_serii:
+    common_name: Emballonura_serii
+    conservation: UK
+  Emballonura_sp_JMW_2004:
+    common_name: Emballonura_sp_JMW_2004
+    conservation: UK
+  Emballonura_sp_SJP_2012:
+    common_name: Emballonura_sp_SJP_2012
+    conservation: UK
 ---
-
 # Emballonura
 
 Genus containing 9 species.

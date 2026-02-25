@@ -1,35 +1,24 @@
 ---
-title: "Anourosorex"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["anourosorex", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md", "../Chimarrogale/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 127559
-parent: "../breadcrumb.md"
+title: Anourosorex
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [anourosorex, genus]
+status: Living
+updated: 2026-02-23
+related: [../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md, ../Chimarrogale/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Anourosorex_squamipes.cs"
-    name: "Anourosorex squamipes"
-    common_name: "Anourosorex_squamipes"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Anourosorex_yamashinai.cs"
-    name: "Anourosorex yamashinai"
-    common_name: "Anourosorex_yamashinai"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Anourosorex_squamipes:
+    common_name: Anourosorex_squamipes
+    conservation: UK
+  Anourosorex_yamashinai:
+    common_name: Anourosorex_yamashinai
+    conservation: UK
 ---
-
 # Anourosorex
 
 Genus containing 2 species.

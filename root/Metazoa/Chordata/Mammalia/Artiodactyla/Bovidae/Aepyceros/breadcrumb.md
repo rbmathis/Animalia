@@ -1,30 +1,21 @@
 ---
-title: "Aepyceros"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["aepyceros", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Alcelaphus/breadcrumb.md", "../Ammotragus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9896
-parent: "../breadcrumb.md"
+title: Aepyceros
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [aepyceros, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Alcelaphus/breadcrumb.md, ../Ammotragus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Aepyceros_melampus.cs"
-    name: "Aepyceros melampus"
-    common_name: "Aepyceros_melampus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Aepyceros_melampus:
+    common_name: Aepyceros_melampus
+    conservation: UK
 ---
-
 # Aepyceros
 
 Genus containing 1 species.

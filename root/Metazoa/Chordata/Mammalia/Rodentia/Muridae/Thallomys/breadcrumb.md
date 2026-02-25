@@ -1,56 +1,37 @@
 ---
-title: "Thallomys"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["thallomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 332672
-parent: "../breadcrumb.md"
+title: Thallomys
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [thallomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Thallomys_loringi.cs"
-    name: "Thallomys loringi"
-    common_name: "Thallomys_loringi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thallomys_nigricauda.cs"
-    name: "Thallomys nigricauda"
-    common_name: "Thallomys_nigricauda"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thallomys_paedulcus.cs"
-    name: "Thallomys paedulcus"
-    common_name: "Thallomys_paedulcus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thallomys_sp.cs"
-    name: "Thallomys sp."
-    common_name: "Thallomys_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thallomys_sp_SJS_2017.cs"
-    name: "Thallomys sp. SJS-2017"
-    common_name: "Thallomys_sp_SJS_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thallomys_sp_VN_2012.cs"
-    name: "Thallomys sp. VN-2012"
-    common_name: "Thallomys_sp_VN_2012"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Thallomys_loringi:
+    common_name: Thallomys_loringi
+    conservation: UK
+  Thallomys_nigricauda:
+    common_name: Thallomys_nigricauda
+    conservation: UK
+  Thallomys_paedulcus:
+    common_name: Thallomys_paedulcus
+    conservation: UK
+  Thallomys_sp:
+    common_name: Thallomys_sp
+    conservation: UK
+  Thallomys_sp_SJS_2017:
+    common_name: Thallomys_sp_SJS_2017
+    conservation: UK
+  Thallomys_sp_VN_2012:
+    common_name: Thallomys_sp_VN_2012
+    conservation: UK
 ---
-
 # Thallomys
 
 Genus containing 6 species.

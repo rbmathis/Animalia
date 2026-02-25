@@ -1,28 +1,19 @@
 ---
-title: "Palaeopropithecidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["palaeopropithecidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aotidae/breadcrumb.md", "../Atelidae/breadcrumb.md", "../Cebidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 1513476
-parent: "../breadcrumb.md"
+title: Palaeopropithecidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [palaeopropithecidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Aotidae/breadcrumb.md, ../Atelidae/breadcrumb.md, ../Cebidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Palaeopropithecus/breadcrumb.md"
-    name: "Palaeopropithecus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Palaeopropithecus]
 ---
-
 # Palaeopropithecidae
 
 Family containing 1 genera.

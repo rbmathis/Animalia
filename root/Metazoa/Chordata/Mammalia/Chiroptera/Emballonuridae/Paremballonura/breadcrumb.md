@@ -1,35 +1,24 @@
 ---
-title: "Paremballonura"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["paremballonura", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Balantiopteryx/breadcrumb.md", "../Centronycteris/breadcrumb.md", "../Coleura/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3371047
-parent: "../breadcrumb.md"
+title: Paremballonura
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [paremballonura, genus]
+status: Living
+updated: 2026-02-23
+related: [../Balantiopteryx/breadcrumb.md, ../Centronycteris/breadcrumb.md, ../Coleura/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Paremballonura_atrata.cs"
-    name: "Paremballonura atrata"
-    common_name: "Paremballonura_atrata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Paremballonura_tiavato.cs"
-    name: "Paremballonura tiavato"
-    common_name: "Paremballonura_tiavato"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Paremballonura_atrata:
+    common_name: Paremballonura_atrata
+    conservation: UK
+  Paremballonura_tiavato:
+    common_name: Paremballonura_tiavato
+    conservation: UK
 ---
-
 # Paremballonura
 
 Genus containing 2 species.

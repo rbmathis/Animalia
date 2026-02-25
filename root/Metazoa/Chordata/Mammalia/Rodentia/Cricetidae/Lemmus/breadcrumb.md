@@ -1,51 +1,34 @@
 ---
-title: "Lemmus"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["lemmus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 79948
-parent: "../breadcrumb.md"
+title: Lemmus
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [lemmus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lemmus_amurensis.cs"
-    name: "Lemmus amurensis"
-    common_name: "Lemmus_amurensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lemmus_lemmus.cs"
-    name: "Lemmus lemmus"
-    common_name: "Lemmus_lemmus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lemmus_sibiricus.cs"
-    name: "Lemmus sibiricus"
-    common_name: "Lemmus_sibiricus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lemmus_sp_1_VKL_2013.cs"
-    name: "Lemmus sp. 1 VKL-2013"
-    common_name: "Lemmus_sp_1_VKL_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lemmus_trimucronatus.cs"
-    name: "Lemmus trimucronatus"
-    common_name: "Lemmus_trimucronatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lemmus_amurensis:
+    common_name: Lemmus_amurensis
+    conservation: UK
+  Lemmus_lemmus:
+    common_name: Lemmus_lemmus
+    conservation: UK
+  Lemmus_sibiricus:
+    common_name: Lemmus_sibiricus
+    conservation: UK
+  Lemmus_sp_1_VKL_2013:
+    common_name: Lemmus_sp_1_VKL_2013
+    conservation: UK
+  Lemmus_trimucronatus:
+    common_name: Lemmus_trimucronatus
+    conservation: UK
 ---
-
 # Lemmus
 
 Genus containing 5 species.

@@ -1,126 +1,79 @@
 ---
-title: "Rattus"
-description: "Genus containing 125 species."
-category: "taxonomy/genus"
-tags: ["rattus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10114
-parent: "../breadcrumb.md"
+title: Rattus
+description: Genus containing 125 species.
+category: taxonomy/genus
+tags: [rattus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 125
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rattus_andamanensis.cs"
-    name: "Rattus andamanensis"
-    common_name: "Rattus_andamanensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_annandalei.cs"
-    name: "Rattus annandalei"
-    common_name: "Rattus_annandalei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_argentiventer.cs"
-    name: "Rattus argentiventer"
-    common_name: "Rattus_argentiventer"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_baluensis.cs"
-    name: "Rattus baluensis"
-    common_name: "Rattus_baluensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_cf_losea_MP_2010.cs"
-    name: "Rattus cf. losea MP-2010"
-    common_name: "Rattus_cf_losea_MP_2010"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_cf_moluccarius_TJG_2015.cs"
-    name: "Rattus cf. moluccarius TJG-2015"
-    common_name: "Rattus_cf_moluccarius_TJG_2015"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_colletti.cs"
-    name: "Rattus colletti"
-    common_name: "Rattus_colletti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_detentus.cs"
-    name: "Rattus detentus"
-    common_name: "Rattus_detentus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_everetti.cs"
-    name: "Rattus everetti"
-    common_name: "Rattus_everetti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_exulans.cs"
-    name: "Rattus exulans"
-    common_name: "Rattus_exulans"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_facetus.cs"
-    name: "Rattus facetus"
-    common_name: "Rattus_facetus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_flavipectus.cs"
-    name: "Rattus flavipectus"
-    common_name: "Rattus_flavipectus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_fuscipes.cs"
-    name: "Rattus fuscipes"
-    common_name: "Rattus_fuscipes"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_giluwensis.cs"
-    name: "Rattus giluwensis"
-    common_name: "Rattus_giluwensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_hoffmanni.cs"
-    name: "Rattus hoffmanni"
-    common_name: "Rattus_hoffmanni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_hoogerwerfi.cs"
-    name: "Rattus hoogerwerfi"
-    common_name: "Rattus_hoogerwerfi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_korinchi.cs"
-    name: "Rattus korinchi"
-    common_name: "Rattus_korinchi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_leucopus.cs"
-    name: "Rattus leucopus"
-    common_name: "Rattus_leucopus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_losea.cs"
-    name: "Rattus losea"
-    common_name: "Rattus_losea"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rattus_lutreolus.cs"
-    name: "Rattus lutreolus"
-    common_name: "Rattus_lutreolus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rattus_andamanensis:
+    common_name: Rattus_andamanensis
+    conservation: UK
+  Rattus_annandalei:
+    common_name: Rattus_annandalei
+    conservation: UK
+  Rattus_argentiventer:
+    common_name: Rattus_argentiventer
+    conservation: UK
+  Rattus_baluensis:
+    common_name: Rattus_baluensis
+    conservation: UK
+  Rattus_cf_losea_MP_2010:
+    common_name: Rattus_cf_losea_MP_2010
+    conservation: UK
+  Rattus_cf_moluccarius_TJG_2015:
+    common_name: Rattus_cf_moluccarius_TJG_2015
+    conservation: UK
+  Rattus_colletti:
+    common_name: Rattus_colletti
+    conservation: UK
+  Rattus_detentus:
+    common_name: Rattus_detentus
+    conservation: UK
+  Rattus_everetti:
+    common_name: Rattus_everetti
+    conservation: UK
+  Rattus_exulans:
+    common_name: Rattus_exulans
+    conservation: UK
+  Rattus_facetus:
+    common_name: Rattus_facetus
+    conservation: UK
+  Rattus_flavipectus:
+    common_name: Rattus_flavipectus
+    conservation: UK
+  Rattus_fuscipes:
+    common_name: Rattus_fuscipes
+    conservation: UK
+  Rattus_giluwensis:
+    common_name: Rattus_giluwensis
+    conservation: UK
+  Rattus_hoffmanni:
+    common_name: Rattus_hoffmanni
+    conservation: UK
+  Rattus_hoogerwerfi:
+    common_name: Rattus_hoogerwerfi
+    conservation: UK
+  Rattus_korinchi:
+    common_name: Rattus_korinchi
+    conservation: UK
+  Rattus_leucopus:
+    common_name: Rattus_leucopus
+    conservation: UK
+  Rattus_losea:
+    common_name: Rattus_losea
+    conservation: UK
+  Rattus_lutreolus:
+    common_name: Rattus_lutreolus
+    conservation: UK
 ---
-
 # Rattus
 
 Genus containing 125 species.

@@ -1,45 +1,30 @@
 ---
-title: "Xerus"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["xerus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226859
-parent: "../breadcrumb.md"
+title: Xerus
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [xerus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Xerus_erythropus.cs"
-    name: "Xerus erythropus"
-    common_name: "Xerus_erythropus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Xerus_inauris.cs"
-    name: "Xerus inauris"
-    common_name: "Xerus_inauris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Xerus_princeps.cs"
-    name: "Xerus princeps"
-    common_name: "Xerus_princeps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Xerus_rutilus.cs"
-    name: "Xerus rutilus"
-    common_name: "Xerus_rutilus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Xerus_erythropus:
+    common_name: Xerus_erythropus
+    conservation: UK
+  Xerus_inauris:
+    common_name: Xerus_inauris
+    conservation: UK
+  Xerus_princeps:
+    common_name: Xerus_princeps
+    conservation: UK
+  Xerus_rutilus:
+    common_name: Xerus_rutilus
+    conservation: UK
 ---
-
 # Xerus
 
 Genus containing 4 species.

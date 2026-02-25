@@ -1,51 +1,34 @@
 ---
-title: "Dasymys"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["dasymys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 71172
-parent: "../breadcrumb.md"
+title: Dasymys
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [dasymys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dasymys_incomtus.cs"
-    name: "Dasymys incomtus"
-    common_name: "Dasymys_incomtus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasymys_montanus.cs"
-    name: "Dasymys montanus"
-    common_name: "Dasymys_montanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasymys_rufulus.cs"
-    name: "Dasymys rufulus"
-    common_name: "Dasymys_rufulus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasymys_sp.cs"
-    name: "Dasymys sp."
-    common_name: "Dasymys_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasymys_sp_indet_Clade90.cs"
-    name: "Dasymys sp. indet. Clade90"
-    common_name: "Dasymys_sp_indet_Clade90"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dasymys_incomtus:
+    common_name: Dasymys_incomtus
+    conservation: UK
+  Dasymys_montanus:
+    common_name: Dasymys_montanus
+    conservation: UK
+  Dasymys_rufulus:
+    common_name: Dasymys_rufulus
+    conservation: UK
+  Dasymys_sp:
+    common_name: Dasymys_sp
+    conservation: UK
+  Dasymys_sp_indet_Clade90:
+    common_name: Dasymys_sp_indet_Clade90
+    conservation: UK
 ---
-
 # Dasymys
 
 Genus containing 5 species.

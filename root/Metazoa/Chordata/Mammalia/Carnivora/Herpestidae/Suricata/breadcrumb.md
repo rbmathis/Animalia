@@ -1,30 +1,21 @@
 ---
-title: "Suricata"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["suricata", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atilax/breadcrumb.md", "../Bdeogale/breadcrumb.md", "../Crossarchus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 37031
-parent: "../breadcrumb.md"
+title: Suricata
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [suricata, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atilax/breadcrumb.md, ../Bdeogale/breadcrumb.md, ../Crossarchus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Suricata_suricatta.cs"
-    name: "Suricata suricatta"
-    common_name: "Suricata_suricatta"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Suricata_suricatta:
+    common_name: Suricata_suricatta
+    conservation: UK
 ---
-
 # Suricata
 
 Genus containing 1 species.

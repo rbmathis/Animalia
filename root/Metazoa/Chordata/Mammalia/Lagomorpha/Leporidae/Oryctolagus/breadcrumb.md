@@ -1,42 +1,29 @@
 ---
-title: "Oryctolagus"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["oryctolagus", "genus", "has-pets"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Brachylagus/breadcrumb.md", "../Bunolagus/breadcrumb.md", "../Caprolagus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9984
-parent: "../breadcrumb.md"
+title: Oryctolagus
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [oryctolagus, genus, has-pets]
+status: Living
+updated: 2026-02-23
+related: [../Brachylagus/breadcrumb.md, ../Bunolagus/breadcrumb.md, ../Caprolagus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Oryctolagus_cuniculus.cs"
-    name: "Oryctolagus cuniculus"
-    common_name: "Oryctolagus_cuniculus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Oryctolagus_cuniculus:
+    common_name: Oryctolagus_cuniculus
+    conservation: UK
     pet: true
-  - file: "Oryctolagus_sp.cs"
-    name: "Oryctolagus sp."
-    common_name: "Oryctolagus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oryctolagus_sp_Rabbit_OD.cs"
-    name: "Oryctolagus sp. 'Rabbit_OD'"
-    common_name: "Oryctolagus_sp_Rabbit_OD"
-    conservation: "Unknown"
-    enriched: false
+  Oryctolagus_sp:
+    common_name: Oryctolagus_sp
+    conservation: UK
+  Oryctolagus_sp_Rabbit_OD:
+    common_name: Oryctolagus_sp_Rabbit_OD
+    conservation: UK
 ---
-
 # Oryctolagus
 
 Genus containing 3 species.

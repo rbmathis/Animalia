@@ -1,45 +1,30 @@
 ---
-title: "Hoolock"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["hoolock", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Hylobates/breadcrumb.md", "../Nomascus/breadcrumb.md", "../Symphalangus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 325167
-parent: "../breadcrumb.md"
+title: Hoolock
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [hoolock, genus]
+status: Living
+updated: 2026-02-23
+related: [../Hylobates/breadcrumb.md, ../Nomascus/breadcrumb.md, ../Symphalangus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hoolock_hoolock.cs"
-    name: "Hoolock hoolock"
-    common_name: "Hoolock_hoolock"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hoolock_leuconedys.cs"
-    name: "Hoolock leuconedys"
-    common_name: "Hoolock_leuconedys"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hoolock_leuconedys_x_Hoolock_tianxing.cs"
-    name: "Hoolock leuconedys x Hoolock tianxing"
-    common_name: "Hoolock_leuconedys_x_Hoolock_tianxing"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hoolock_tianxing.cs"
-    name: "Hoolock tianxing"
-    common_name: "Hoolock_tianxing"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hoolock_hoolock:
+    common_name: Hoolock_hoolock
+    conservation: UK
+  Hoolock_leuconedys:
+    common_name: Hoolock_leuconedys
+    conservation: UK
+  Hoolock_leuconedys_x_Hoolock_tianxing:
+    common_name: Hoolock_leuconedys_x_Hoolock_tianxing
+    conservation: UK
+  Hoolock_tianxing:
+    common_name: Hoolock_tianxing
+    conservation: UK
 ---
-
 # Hoolock
 
 Genus containing 4 species.

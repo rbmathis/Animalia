@@ -1,40 +1,27 @@
 ---
-title: "Phyllonycteris"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["phyllonycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 138701
-parent: "../breadcrumb.md"
+title: Phyllonycteris
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [phyllonycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Phyllonycteris_aphylla.cs"
-    name: "Phyllonycteris aphylla"
-    common_name: "Phyllonycteris_aphylla"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllonycteris_obtusa.cs"
-    name: "Phyllonycteris obtusa"
-    common_name: "Phyllonycteris_obtusa"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllonycteris_poeyi.cs"
-    name: "Phyllonycteris poeyi"
-    common_name: "Phyllonycteris_poeyi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Phyllonycteris_aphylla:
+    common_name: Phyllonycteris_aphylla
+    conservation: UK
+  Phyllonycteris_obtusa:
+    common_name: Phyllonycteris_obtusa
+    conservation: UK
+  Phyllonycteris_poeyi:
+    common_name: Phyllonycteris_poeyi
+    conservation: UK
 ---
-
 # Phyllonycteris
 
 Genus containing 3 species.

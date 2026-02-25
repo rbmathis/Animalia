@@ -1,40 +1,27 @@
 ---
-title: "Otospermophilus"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["otospermophilus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1048899
-parent: "../breadcrumb.md"
+title: Otospermophilus
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [otospermophilus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Otospermophilus_atricapillus.cs"
-    name: "Otospermophilus atricapillus"
-    common_name: "Otospermophilus_atricapillus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otospermophilus_beecheyi.cs"
-    name: "Otospermophilus beecheyi"
-    common_name: "Otospermophilus_beecheyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otospermophilus_variegatus.cs"
-    name: "Otospermophilus variegatus"
-    common_name: "Otospermophilus_variegatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Otospermophilus_atricapillus:
+    common_name: Otospermophilus_atricapillus
+    conservation: UK
+  Otospermophilus_beecheyi:
+    common_name: Otospermophilus_beecheyi
+    conservation: UK
+  Otospermophilus_variegatus:
+    common_name: Otospermophilus_variegatus
+    conservation: UK
 ---
-
 # Otospermophilus
 
 Genus containing 3 species.

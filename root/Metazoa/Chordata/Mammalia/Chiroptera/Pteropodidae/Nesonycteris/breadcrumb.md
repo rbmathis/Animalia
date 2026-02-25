@@ -1,45 +1,30 @@
 ---
-title: "Nesonycteris"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["nesonycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3371070
-parent: "../breadcrumb.md"
+title: Nesonycteris
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [nesonycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Nesonycteris_ardoulisi.cs"
-    name: "Nesonycteris ardoulisi"
-    common_name: "Nesonycteris_ardoulisi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nesonycteris_fardoulisi.cs"
-    name: "Nesonycteris fardoulisi"
-    common_name: "Nesonycteris_fardoulisi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nesonycteris_maccoyi.cs"
-    name: "Nesonycteris maccoyi"
-    common_name: "Nesonycteris_maccoyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nesonycteris_mengermani.cs"
-    name: "Nesonycteris mengermani"
-    common_name: "Nesonycteris_mengermani"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Nesonycteris_ardoulisi:
+    common_name: Nesonycteris_ardoulisi
+    conservation: UK
+  Nesonycteris_fardoulisi:
+    common_name: Nesonycteris_fardoulisi
+    conservation: UK
+  Nesonycteris_maccoyi:
+    common_name: Nesonycteris_maccoyi
+    conservation: UK
+  Nesonycteris_mengermani:
+    common_name: Nesonycteris_mengermani
+    conservation: UK
 ---
-
 # Nesonycteris
 
 Genus containing 4 species.

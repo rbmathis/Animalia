@@ -1,30 +1,21 @@
 ---
-title: "Simosthenurus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["simosthenurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dendrolagus/breadcrumb.md", "../Dorcopsis/breadcrumb.md", "../Dorcopsulus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2493642
-parent: "../breadcrumb.md"
+title: Simosthenurus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [simosthenurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dendrolagus/breadcrumb.md, ../Dorcopsis/breadcrumb.md, ../Dorcopsulus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Simosthenurus_occidentalis.cs"
-    name: "Simosthenurus occidentalis"
-    common_name: "Simosthenurus_occidentalis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Simosthenurus_occidentalis:
+    common_name: Simosthenurus_occidentalis
+    conservation: UK
 ---
-
 # Simosthenurus
 
 Genus containing 1 species.

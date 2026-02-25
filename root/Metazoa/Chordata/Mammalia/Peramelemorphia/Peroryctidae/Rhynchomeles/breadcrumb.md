@@ -1,30 +1,21 @@
 ---
-title: "Rhynchomeles"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["rhynchomeles", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Echymipera/breadcrumb.md", "../Microperoryctes/breadcrumb.md", "../Peroryctes/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1031280
-parent: "../breadcrumb.md"
+title: Rhynchomeles
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [rhynchomeles, genus]
+status: Living
+updated: 2026-02-23
+related: [../Echymipera/breadcrumb.md, ../Microperoryctes/breadcrumb.md, ../Peroryctes/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rhynchomeles_prattorum.cs"
-    name: "Rhynchomeles prattorum"
-    common_name: "Rhynchomeles_prattorum"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rhynchomeles_prattorum:
+    common_name: Rhynchomeles_prattorum
+    conservation: UK
 ---
-
 # Rhynchomeles
 
 Genus containing 1 species.

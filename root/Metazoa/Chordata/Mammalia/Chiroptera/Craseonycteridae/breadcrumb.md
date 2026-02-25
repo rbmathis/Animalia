@@ -1,28 +1,19 @@
 ---
-title: "Craseonycteridae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["craseonycteridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cistugidae/breadcrumb.md", "../Emballonuridae/breadcrumb.md", "../environmental_samples/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 217614
-parent: "../breadcrumb.md"
+title: Craseonycteridae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [craseonycteridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Cistugidae/breadcrumb.md, ../Emballonuridae/breadcrumb.md, ../environmental_samples/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Craseonycteris/breadcrumb.md"
-    name: "Craseonycteris"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Craseonycteris]
 ---
-
 # Craseonycteridae
 
 Family containing 1 genera.

@@ -1,30 +1,21 @@
 ---
-title: "Antidorcas"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["antidorcas", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 59522
-parent: "../breadcrumb.md"
+title: Antidorcas
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [antidorcas, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Antidorcas_marsupialis.cs"
-    name: "Antidorcas marsupialis"
-    common_name: "Antidorcas_marsupialis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Antidorcas_marsupialis:
+    common_name: Antidorcas_marsupialis
+    conservation: UK
 ---
-
 # Antidorcas
 
 Genus containing 1 species.

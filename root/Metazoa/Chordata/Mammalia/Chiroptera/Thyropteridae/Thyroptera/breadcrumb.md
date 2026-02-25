@@ -1,45 +1,30 @@
 ---
-title: "Thyroptera"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["thyroptera", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Thyroptera
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [thyroptera, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 124758
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Thyroptera_discifera.cs"
-    name: "Thyroptera discifera"
-    common_name: "Thyroptera_discifera"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thyroptera_lavali.cs"
-    name: "Thyroptera lavali"
-    common_name: "Thyroptera_lavali"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thyroptera_tricolor.cs"
-    name: "Thyroptera tricolor"
-    common_name: "Thyroptera_tricolor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thyroptera_wynneae.cs"
-    name: "Thyroptera wynneae"
-    common_name: "Thyroptera_wynneae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Thyroptera_discifera:
+    common_name: Thyroptera_discifera
+    conservation: UK
+  Thyroptera_lavali:
+    common_name: Thyroptera_lavali
+    conservation: UK
+  Thyroptera_tricolor:
+    common_name: Thyroptera_tricolor
+    conservation: UK
+  Thyroptera_wynneae:
+    common_name: Thyroptera_wynneae
+    conservation: UK
 ---
-
 # Thyroptera
 
 Genus containing 4 species.

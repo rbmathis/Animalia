@@ -1,30 +1,21 @@
 ---
-title: "Ondatra"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["ondatra", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10059
-parent: "../breadcrumb.md"
+title: Ondatra
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [ondatra, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ondatra_zibethicus.cs"
-    name: "Ondatra zibethicus"
-    common_name: "Ondatra_zibethicus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ondatra_zibethicus:
+    common_name: Ondatra_zibethicus
+    conservation: UK
 ---
-
 # Ondatra
 
 Genus containing 1 species.

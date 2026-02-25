@@ -1,35 +1,24 @@
 ---
-title: "Chrysochloris"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["chrysochloris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Amblysomus/breadcrumb.md", "../Calcochloris/breadcrumb.md", "../Carpitalpa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 185452
-parent: "../breadcrumb.md"
+title: Chrysochloris
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [chrysochloris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Amblysomus/breadcrumb.md, ../Calcochloris/breadcrumb.md, ../Carpitalpa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chrysochloris_asiatica.cs"
-    name: "Chrysochloris asiatica"
-    common_name: "Chrysochloris_asiatica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chrysochloris_stuhlmanni.cs"
-    name: "Chrysochloris stuhlmanni"
-    common_name: "Chrysochloris_stuhlmanni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chrysochloris_asiatica:
+    common_name: Chrysochloris_asiatica
+    conservation: UK
+  Chrysochloris_stuhlmanni:
+    common_name: Chrysochloris_stuhlmanni
+    conservation: UK
 ---
-
 # Chrysochloris
 
 Genus containing 2 species.

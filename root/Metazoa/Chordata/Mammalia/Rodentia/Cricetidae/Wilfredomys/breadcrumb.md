@@ -1,41 +1,28 @@
 ---
-title: "Wilfredomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["wilfredomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 89127
-parent: "../breadcrumb.md"
+title: Wilfredomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [wilfredomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Wilfredomys_oenax.cs"
-    name: "Wilfredomys oenax"
-    common_name: "Wilfredomys_oenax"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Wilfredomys_pictipes.cs"
-    name: "Wilfredomys pictipes"
-    common_name: "Wilfredomys_pictipes"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Wilfredomys_sp.cs"
-    name: "Wilfredomys sp."
-    common_name: "Wilfredomys_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Wilfredomys_oenax:
+    common_name: Wilfredomys_oenax
+    conservation: UK
+  Wilfredomys_pictipes:
+    common_name: Wilfredomys_pictipes
+    conservation: UK
+  Wilfredomys_sp:
+    common_name: Wilfredomys_sp
+    conservation: UK
 ---
-
 # Wilfredomys
 
 Genus containing 3 species.

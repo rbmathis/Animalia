@@ -1,40 +1,27 @@
 ---
-title: "Exilisciurus"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["exilisciurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226547
-parent: "../breadcrumb.md"
+title: Exilisciurus
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [exilisciurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Exilisciurus_concinnus.cs"
-    name: "Exilisciurus concinnus"
-    common_name: "Exilisciurus_concinnus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Exilisciurus_exilis.cs"
-    name: "Exilisciurus exilis"
-    common_name: "Exilisciurus_exilis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Exilisciurus_whiteheadi.cs"
-    name: "Exilisciurus whiteheadi"
-    common_name: "Exilisciurus_whiteheadi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Exilisciurus_concinnus:
+    common_name: Exilisciurus_concinnus
+    conservation: UK
+  Exilisciurus_exilis:
+    common_name: Exilisciurus_exilis
+    conservation: UK
+  Exilisciurus_whiteheadi:
+    common_name: Exilisciurus_whiteheadi
+    conservation: UK
 ---
-
 # Exilisciurus
 
 Genus containing 3 species.

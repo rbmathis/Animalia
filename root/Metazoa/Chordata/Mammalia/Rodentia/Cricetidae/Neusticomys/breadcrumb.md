@@ -1,71 +1,46 @@
 ---
-title: "Neusticomys"
-description: "Genus containing 9 species."
-category: "taxonomy/genus"
-tags: ["neusticomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 548545
-parent: "../breadcrumb.md"
+title: Neusticomys
+description: Genus containing 9 species.
+category: taxonomy/genus
+tags: [neusticomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 9
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Neusticomys_monticolus.cs"
-    name: "Neusticomys monticolus"
-    common_name: "Neusticomys_monticolus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neusticomys_oyapocki.cs"
-    name: "Neusticomys oyapocki"
-    common_name: "Neusticomys_oyapocki"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neusticomys_peruviensis.cs"
-    name: "Neusticomys peruviensis"
-    common_name: "Neusticomys_peruviensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neusticomys_sp_BOLDAAI3081.cs"
-    name: "Neusticomys sp. BOLD:AAI3081"
-    common_name: "Neusticomys_sp_BOLDAAI3081"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neusticomys_sp_CTU4274.cs"
-    name: "Neusticomys sp. CTU4274"
-    common_name: "Neusticomys_sp_CTU4274"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neusticomys_sp_CTUA2619.cs"
-    name: "Neusticomys sp. CTUA2619"
-    common_name: "Neusticomys_sp_CTUA2619"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neusticomys_sp_CTUA2621.cs"
-    name: "Neusticomys sp. CTUA2621"
-    common_name: "Neusticomys_sp_CTUA2621"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neusticomys_sp_MSB250000.cs"
-    name: "Neusticomys sp. MSB250000"
-    common_name: "Neusticomys_sp_MSB250000"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neusticomys_vossi.cs"
-    name: "Neusticomys vossi"
-    common_name: "Neusticomys_vossi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Neusticomys_monticolus:
+    common_name: Neusticomys_monticolus
+    conservation: UK
+  Neusticomys_oyapocki:
+    common_name: Neusticomys_oyapocki
+    conservation: UK
+  Neusticomys_peruviensis:
+    common_name: Neusticomys_peruviensis
+    conservation: UK
+  Neusticomys_sp_BOLDAAI3081:
+    common_name: Neusticomys_sp_BOLDAAI3081
+    conservation: UK
+  Neusticomys_sp_CTU4274:
+    common_name: Neusticomys_sp_CTU4274
+    conservation: UK
+  Neusticomys_sp_CTUA2619:
+    common_name: Neusticomys_sp_CTUA2619
+    conservation: UK
+  Neusticomys_sp_CTUA2621:
+    common_name: Neusticomys_sp_CTUA2621
+    conservation: UK
+  Neusticomys_sp_MSB250000:
+    common_name: Neusticomys_sp_MSB250000
+    conservation: UK
+  Neusticomys_vossi:
+    common_name: Neusticomys_vossi
+    conservation: UK
 ---
-
 # Neusticomys
 
 Genus containing 9 species.

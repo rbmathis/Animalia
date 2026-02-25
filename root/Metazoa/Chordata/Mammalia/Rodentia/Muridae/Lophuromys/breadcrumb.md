@@ -1,126 +1,79 @@
 ---
-title: "Lophuromys"
-description: "Genus containing 41 species."
-category: "taxonomy/genus"
-tags: ["lophuromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 51347
-parent: "../breadcrumb.md"
+title: Lophuromys
+description: Genus containing 41 species.
+category: taxonomy/genus
+tags: [lophuromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 41
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lophuromys_angolensis.cs"
-    name: "Lophuromys angolensis"
-    common_name: "Lophuromys_angolensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_ansorgei.cs"
-    name: "Lophuromys ansorgei"
-    common_name: "Lophuromys_ansorgei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_aquilus.cs"
-    name: "Lophuromys aquilus"
-    common_name: "Lophuromys_aquilus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_brevicaudus.cs"
-    name: "Lophuromys brevicaudus"
-    common_name: "Lophuromys_brevicaudus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_brunneus.cs"
-    name: "Lophuromys brunneus"
-    common_name: "Lophuromys_brunneus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_cf_cinereus_FMNH_171657.cs"
-    name: "Lophuromys cf. cinereus FMNH 171657"
-    common_name: "Lophuromys_cf_cinereus_FMNH_171657"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_cf_cinereus_FMNH_189324.cs"
-    name: "Lophuromys cf. cinereus FMNH 189324"
-    common_name: "Lophuromys_cf_cinereus_FMNH_189324"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_cf_cinereus_FMNH_189348.cs"
-    name: "Lophuromys cf. cinereus FMNH 189348"
-    common_name: "Lophuromys_cf_cinereus_FMNH_189348"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_cf_cinereus_FMNH_189349.cs"
-    name: "Lophuromys cf. cinereus FMNH 189349"
-    common_name: "Lophuromys_cf_cinereus_FMNH_189349"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_cf_cinereus_FMNH_195092.cs"
-    name: "Lophuromys cf. cinereus FMNH 195092"
-    common_name: "Lophuromys_cf_cinereus_FMNH_195092"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_cf_cinereus_FMNH_195093.cs"
-    name: "Lophuromys cf. cinereus FMNH 195093"
-    common_name: "Lophuromys_cf_cinereus_FMNH_195093"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_cf_cinereus_FMNH_203774.cs"
-    name: "Lophuromys cf. cinereus FMNH 203774"
-    common_name: "Lophuromys_cf_cinereus_FMNH_203774"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_cf_cinereus_FMNH_204060.cs"
-    name: "Lophuromys cf. cinereus FMNH 204060"
-    common_name: "Lophuromys_cf_cinereus_FMNH_204060"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_cf_cinereus_FMNH_227712.cs"
-    name: "Lophuromys cf. cinereus FMNH 227712"
-    common_name: "Lophuromys_cf_cinereus_FMNH_227712"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_cf_cinereus_FMNH_227728.cs"
-    name: "Lophuromys cf. cinereus FMNH 227728"
-    common_name: "Lophuromys_cf_cinereus_FMNH_227728"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_chercherensis.cs"
-    name: "Lophuromys chercherensis"
-    common_name: "Lophuromys_chercherensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_chrysopus.cs"
-    name: "Lophuromys chrysopus"
-    common_name: "Lophuromys_chrysopus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_dudui.cs"
-    name: "Lophuromys dudui"
-    common_name: "Lophuromys_dudui"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_flavopunctatus.cs"
-    name: "Lophuromys flavopunctatus"
-    common_name: "Lophuromys_flavopunctatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lophuromys_huttereri.cs"
-    name: "Lophuromys huttereri"
-    common_name: "Lophuromys_huttereri"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lophuromys_angolensis:
+    common_name: Lophuromys_angolensis
+    conservation: UK
+  Lophuromys_ansorgei:
+    common_name: Lophuromys_ansorgei
+    conservation: UK
+  Lophuromys_aquilus:
+    common_name: Lophuromys_aquilus
+    conservation: UK
+  Lophuromys_brevicaudus:
+    common_name: Lophuromys_brevicaudus
+    conservation: UK
+  Lophuromys_brunneus:
+    common_name: Lophuromys_brunneus
+    conservation: UK
+  Lophuromys_cf_cinereus_FMNH_171657:
+    common_name: Lophuromys_cf_cinereus_FMNH_171657
+    conservation: UK
+  Lophuromys_cf_cinereus_FMNH_189324:
+    common_name: Lophuromys_cf_cinereus_FMNH_189324
+    conservation: UK
+  Lophuromys_cf_cinereus_FMNH_189348:
+    common_name: Lophuromys_cf_cinereus_FMNH_189348
+    conservation: UK
+  Lophuromys_cf_cinereus_FMNH_189349:
+    common_name: Lophuromys_cf_cinereus_FMNH_189349
+    conservation: UK
+  Lophuromys_cf_cinereus_FMNH_195092:
+    common_name: Lophuromys_cf_cinereus_FMNH_195092
+    conservation: UK
+  Lophuromys_cf_cinereus_FMNH_195093:
+    common_name: Lophuromys_cf_cinereus_FMNH_195093
+    conservation: UK
+  Lophuromys_cf_cinereus_FMNH_203774:
+    common_name: Lophuromys_cf_cinereus_FMNH_203774
+    conservation: UK
+  Lophuromys_cf_cinereus_FMNH_204060:
+    common_name: Lophuromys_cf_cinereus_FMNH_204060
+    conservation: UK
+  Lophuromys_cf_cinereus_FMNH_227712:
+    common_name: Lophuromys_cf_cinereus_FMNH_227712
+    conservation: UK
+  Lophuromys_cf_cinereus_FMNH_227728:
+    common_name: Lophuromys_cf_cinereus_FMNH_227728
+    conservation: UK
+  Lophuromys_chercherensis:
+    common_name: Lophuromys_chercherensis
+    conservation: UK
+  Lophuromys_chrysopus:
+    common_name: Lophuromys_chrysopus
+    conservation: UK
+  Lophuromys_dudui:
+    common_name: Lophuromys_dudui
+    conservation: UK
+  Lophuromys_flavopunctatus:
+    common_name: Lophuromys_flavopunctatus
+    conservation: UK
+  Lophuromys_huttereri:
+    common_name: Lophuromys_huttereri
+    conservation: UK
 ---
-
 # Lophuromys
 
 Genus containing 41 species.

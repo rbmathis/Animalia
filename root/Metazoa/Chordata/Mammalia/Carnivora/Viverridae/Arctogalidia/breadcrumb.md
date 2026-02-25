@@ -1,30 +1,21 @@
 ---
-title: "Arctogalidia"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["arctogalidia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Arctictis/breadcrumb.md", "../Chrotogale/breadcrumb.md", "../Civettictis/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 94181
-parent: "../breadcrumb.md"
+title: Arctogalidia
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [arctogalidia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Arctictis/breadcrumb.md, ../Chrotogale/breadcrumb.md, ../Civettictis/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Arctogalidia_trivirgata.cs"
-    name: "Arctogalidia trivirgata"
-    common_name: "Arctogalidia_trivirgata"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Arctogalidia_trivirgata:
+    common_name: Arctogalidia_trivirgata
+    conservation: UK
 ---
-
 # Arctogalidia
 
 Genus containing 1 species.

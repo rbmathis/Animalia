@@ -1,28 +1,19 @@
 ---
-title: "Cuniculidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["cuniculidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 723806
-parent: "../breadcrumb.md"
+title: Cuniculidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [cuniculidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Cuniculus/breadcrumb.md"
-    name: "Cuniculus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Cuniculus]
 ---
-
 # Cuniculidae
 
 Family containing 1 genera.

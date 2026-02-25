@@ -1,45 +1,30 @@
 ---
-title: "Graomys"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["graomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 118863
-parent: "../breadcrumb.md"
+title: Graomys
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [graomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Graomys_centralis.cs"
-    name: "Graomys centralis"
-    common_name: "Graomys_centralis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graomys_chacoensis.cs"
-    name: "Graomys chacoensis"
-    common_name: "Graomys_chacoensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graomys_domorum.cs"
-    name: "Graomys domorum"
-    common_name: "Graomys_domorum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graomys_griseoflavus.cs"
-    name: "Graomys griseoflavus"
-    common_name: "Graomys_griseoflavus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Graomys_centralis:
+    common_name: Graomys_centralis
+    conservation: UK
+  Graomys_chacoensis:
+    common_name: Graomys_chacoensis
+    conservation: UK
+  Graomys_domorum:
+    common_name: Graomys_domorum
+    conservation: UK
+  Graomys_griseoflavus:
+    common_name: Graomys_griseoflavus
+    conservation: UK
 ---
-
 # Graomys
 
 Genus containing 4 species.

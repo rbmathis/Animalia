@@ -1,30 +1,21 @@
 ---
-title: "Montemys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["montemys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3371079
-parent: "../breadcrumb.md"
+title: Montemys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [montemys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Montemys_delectorum.cs"
-    name: "Montemys delectorum"
-    common_name: "Montemys_delectorum"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Montemys_delectorum:
+    common_name: Montemys_delectorum
+    conservation: UK
 ---
-
 # Montemys
 
 Genus containing 1 species.

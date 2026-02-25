@@ -1,30 +1,21 @@
 ---
-title: "Ariteus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["ariteus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 148024
-parent: "../breadcrumb.md"
+title: Ariteus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [ariteus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ariteus_flavescens.cs"
-    name: "Ariteus flavescens"
-    common_name: "Ariteus_flavescens"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ariteus_flavescens:
+    common_name: Ariteus_flavescens
+    conservation: UK
 ---
-
 # Ariteus
 
 Genus containing 1 species.

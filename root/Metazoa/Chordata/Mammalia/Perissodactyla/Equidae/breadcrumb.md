@@ -1,34 +1,19 @@
 ---
-title: "Equidae"
-description: "Family containing 4 genera."
-category: "taxonomy/family"
-tags: ["equidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Rhinocerotidae/breadcrumb.md", "../Tapiridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9788
-parent: "../breadcrumb.md"
+title: Equidae
+description: Family containing 4 genera.
+category: taxonomy/family
+tags: [equidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Rhinocerotidae/breadcrumb.md, ../Tapiridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 4
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Equus/breadcrumb.md"
-    name: "Equus"
-  - path: "Haringtonhippus/breadcrumb.md"
-    name: "Haringtonhippus"
-  - path: "Hippidion/breadcrumb.md"
-    name: "Hippidion"
-  - path: "unclassified_Equidae/breadcrumb.md"
-    name: "unclassified_Equidae"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Equus, Haringtonhippus, Hippidion, unclassified_Equidae]
 ---
-
 # Equidae
 
 Family containing 4 genera.

@@ -1,23 +1,20 @@
 ---
-title: "unclassified_Phyllostomidae"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["unclassified_phyllostomidae", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-parent: "../breadcrumb.md"
+title: unclassified_Phyllostomidae
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [unclassified_phyllostomidae, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-species:
-  - file: "Phyllostomidae_sp.cs"
-    name: "Phyllostomidae sp."
-    common_name: "Phyllostomidae_sp"
-    conservation: "Unknown"
-    enriched: false
+species_data:
+  Phyllostomidae_sp:
+    common_name: Phyllostomidae_sp
+    conservation: UK
 ---
-
 # unclassified_Phyllostomidae
 
 Genus containing 1 species.

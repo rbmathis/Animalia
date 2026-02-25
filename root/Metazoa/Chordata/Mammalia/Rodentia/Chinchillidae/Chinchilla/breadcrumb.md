@@ -1,42 +1,29 @@
 ---
-title: "Chinchilla"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["chinchilla", "genus", "has-pets"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Lagidium/breadcrumb.md", "../Lagostomus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10151
-parent: "../breadcrumb.md"
+title: Chinchilla
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [chinchilla, genus, has-pets]
+status: Living
+updated: 2026-02-23
+related: [../Lagidium/breadcrumb.md, ../Lagostomus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chinchilla_chinchilla.cs"
-    name: "Chinchilla chinchilla"
-    common_name: "Chinchilla_chinchilla"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chinchilla_lanigera.cs"
-    name: "Chinchilla lanigera"
-    common_name: "Chinchilla_lanigera"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chinchilla_chinchilla:
+    common_name: Chinchilla_chinchilla
+    conservation: UK
+  Chinchilla_lanigera:
+    common_name: Chinchilla_lanigera
+    conservation: UK
     pet: true
-  - file: "Chinchilla_sp.cs"
-    name: "Chinchilla sp."
-    common_name: "Chinchilla_sp"
-    conservation: "Unknown"
-    enriched: false
+  Chinchilla_sp:
+    common_name: Chinchilla_sp
+    conservation: UK
 ---
-
 # Chinchilla
 
 Genus containing 3 species.

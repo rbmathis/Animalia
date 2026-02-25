@@ -1,126 +1,79 @@
 ---
-title: "Otomys"
-description: "Genus containing 34 species."
-category: "taxonomy/genus"
-tags: ["otomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 109680
-parent: "../breadcrumb.md"
+title: Otomys
+description: Genus containing 34 species.
+category: taxonomy/genus
+tags: [otomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 34
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Otomys_anchietae.cs"
-    name: "Otomys anchietae"
-    common_name: "Otomys_anchietae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_angoniensis.cs"
-    name: "Otomys angoniensis"
-    common_name: "Otomys_angoniensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_auratus.cs"
-    name: "Otomys auratus"
-    common_name: "Otomys_auratus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_barbouri.cs"
-    name: "Otomys barbouri"
-    common_name: "Otomys_barbouri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_burtoni.cs"
-    name: "Otomys burtoni"
-    common_name: "Otomys_burtoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_cf_cheesmani_DM_2023.cs"
-    name: "Otomys cf. cheesmani DM-2023"
-    common_name: "Otomys_cf_cheesmani_DM_2023"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_cf_saundersiae.cs"
-    name: "Otomys cf. saundersiae"
-    common_name: "Otomys_cf_saundersiae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_cf_yaldeni_DM_2023.cs"
-    name: "Otomys cf. yaldeni DM-2023"
-    common_name: "Otomys_cf_yaldeni_DM_2023"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_dartmouthi.cs"
-    name: "Otomys dartmouthi"
-    common_name: "Otomys_dartmouthi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_denti.cs"
-    name: "Otomys denti"
-    common_name: "Otomys_denti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_irroratus.cs"
-    name: "Otomys irroratus"
-    common_name: "Otomys_irroratus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_jacksoni.cs"
-    name: "Otomys jacksoni"
-    common_name: "Otomys_jacksoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_lacustris.cs"
-    name: "Otomys lacustris"
-    common_name: "Otomys_lacustris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_laminatus.cs"
-    name: "Otomys laminatus"
-    common_name: "Otomys_laminatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_maximus.cs"
-    name: "Otomys maximus"
-    common_name: "Otomys_maximus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_occidentalis.cs"
-    name: "Otomys occidentalis"
-    common_name: "Otomys_occidentalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_orestes.cs"
-    name: "Otomys orestes"
-    common_name: "Otomys_orestes"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_saundersiae.cs"
-    name: "Otomys saundersiae"
-    common_name: "Otomys_saundersiae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_simiensis.cs"
-    name: "Otomys simiensis"
-    common_name: "Otomys_simiensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Otomys_sloggetti.cs"
-    name: "Otomys sloggetti"
-    common_name: "Otomys_sloggetti"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Otomys_anchietae:
+    common_name: Otomys_anchietae
+    conservation: UK
+  Otomys_angoniensis:
+    common_name: Otomys_angoniensis
+    conservation: UK
+  Otomys_auratus:
+    common_name: Otomys_auratus
+    conservation: UK
+  Otomys_barbouri:
+    common_name: Otomys_barbouri
+    conservation: UK
+  Otomys_burtoni:
+    common_name: Otomys_burtoni
+    conservation: UK
+  Otomys_cf_cheesmani_DM_2023:
+    common_name: Otomys_cf_cheesmani_DM_2023
+    conservation: UK
+  Otomys_cf_saundersiae:
+    common_name: Otomys_cf_saundersiae
+    conservation: UK
+  Otomys_cf_yaldeni_DM_2023:
+    common_name: Otomys_cf_yaldeni_DM_2023
+    conservation: UK
+  Otomys_dartmouthi:
+    common_name: Otomys_dartmouthi
+    conservation: UK
+  Otomys_denti:
+    common_name: Otomys_denti
+    conservation: UK
+  Otomys_irroratus:
+    common_name: Otomys_irroratus
+    conservation: UK
+  Otomys_jacksoni:
+    common_name: Otomys_jacksoni
+    conservation: UK
+  Otomys_lacustris:
+    common_name: Otomys_lacustris
+    conservation: UK
+  Otomys_laminatus:
+    common_name: Otomys_laminatus
+    conservation: UK
+  Otomys_maximus:
+    common_name: Otomys_maximus
+    conservation: UK
+  Otomys_occidentalis:
+    common_name: Otomys_occidentalis
+    conservation: UK
+  Otomys_orestes:
+    common_name: Otomys_orestes
+    conservation: UK
+  Otomys_saundersiae:
+    common_name: Otomys_saundersiae
+    conservation: UK
+  Otomys_simiensis:
+    common_name: Otomys_simiensis
+    conservation: UK
+  Otomys_sloggetti:
+    common_name: Otomys_sloggetti
+    conservation: UK
 ---
-
 # Otomys
 
 Genus containing 34 species.

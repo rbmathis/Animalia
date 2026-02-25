@@ -1,32 +1,19 @@
 ---
-title: "Tragulidae"
-description: "Family containing 3 genera."
-category: "taxonomy/family"
-tags: ["tragulidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antilocapridae/breadcrumb.md", "../Balaenidae/breadcrumb.md", "../Balaenopteridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9846
-parent: "../breadcrumb.md"
+title: Tragulidae
+description: Family containing 3 genera.
+category: taxonomy/family
+tags: [tragulidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Antilocapridae/breadcrumb.md, ../Balaenidae/breadcrumb.md, ../Balaenopteridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 3
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Hyemoschus/breadcrumb.md"
-    name: "Hyemoschus"
-  - path: "Moschiola/breadcrumb.md"
-    name: "Moschiola"
-  - path: "Tragulus/breadcrumb.md"
-    name: "Tragulus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Hyemoschus, Moschiola, Tragulus]
 ---
-
 # Tragulidae
 
 Family containing 3 genera.

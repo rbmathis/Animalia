@@ -1,45 +1,30 @@
 ---
-title: "Dicrostonyx"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["dicrostonyx", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 85951
-parent: "../breadcrumb.md"
+title: Dicrostonyx
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [dicrostonyx, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dicrostonyx_groenlandicus.cs"
-    name: "Dicrostonyx groenlandicus"
-    common_name: "Dicrostonyx_groenlandicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dicrostonyx_hudsonius.cs"
-    name: "Dicrostonyx hudsonius"
-    common_name: "Dicrostonyx_hudsonius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dicrostonyx_richardsoni.cs"
-    name: "Dicrostonyx richardsoni"
-    common_name: "Dicrostonyx_richardsoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dicrostonyx_torquatus.cs"
-    name: "Dicrostonyx torquatus"
-    common_name: "Dicrostonyx_torquatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dicrostonyx_groenlandicus:
+    common_name: Dicrostonyx_groenlandicus
+    conservation: UK
+  Dicrostonyx_hudsonius:
+    common_name: Dicrostonyx_hudsonius
+    conservation: UK
+  Dicrostonyx_richardsoni:
+    common_name: Dicrostonyx_richardsoni
+    conservation: UK
+  Dicrostonyx_torquatus:
+    common_name: Dicrostonyx_torquatus
+    conservation: UK
 ---
-
 # Dicrostonyx
 
 Genus containing 4 species.

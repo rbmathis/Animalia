@@ -1,30 +1,21 @@
 ---
-title: "Protoxerus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["protoxerus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226691
-parent: "../breadcrumb.md"
+title: Protoxerus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [protoxerus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Protoxerus_stangeri.cs"
-    name: "Protoxerus stangeri"
-    common_name: "Protoxerus_stangeri"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Protoxerus_stangeri:
+    common_name: Protoxerus_stangeri
+    conservation: UK
 ---
-
 # Protoxerus
 
 Genus containing 1 species.

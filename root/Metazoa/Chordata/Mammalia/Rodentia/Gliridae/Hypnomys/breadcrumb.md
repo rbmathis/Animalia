@@ -1,30 +1,21 @@
 ---
-title: "Hypnomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["hypnomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dryomys/breadcrumb.md", "../Eliomys/breadcrumb.md", "../Glirulus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2033400
-parent: "../breadcrumb.md"
+title: Hypnomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [hypnomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dryomys/breadcrumb.md, ../Eliomys/breadcrumb.md, ../Glirulus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hypnomys_morpheus.cs"
-    name: "Hypnomys morpheus"
-    common_name: "Hypnomys_morpheus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hypnomys_morpheus:
+    common_name: Hypnomys_morpheus
+    conservation: UK
 ---
-
 # Hypnomys
 
 Genus containing 1 species.

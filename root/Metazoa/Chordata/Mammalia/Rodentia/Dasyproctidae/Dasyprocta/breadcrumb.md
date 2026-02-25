@@ -1,66 +1,43 @@
 ---
-title: "Dasyprocta"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["dasyprocta", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Myoprocta/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 34845
-parent: "../breadcrumb.md"
+title: Dasyprocta
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [dasyprocta, genus]
+status: Living
+updated: 2026-02-23
+related: [../Myoprocta/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dasyprocta_azarae.cs"
-    name: "Dasyprocta azarae"
-    common_name: "Dasyprocta_azarae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasyprocta_fuliginosa.cs"
-    name: "Dasyprocta fuliginosa"
-    common_name: "Dasyprocta_fuliginosa"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasyprocta_kalinowski.cs"
-    name: "Dasyprocta kalinowski"
-    common_name: "Dasyprocta_kalinowski"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasyprocta_leporina.cs"
-    name: "Dasyprocta leporina"
-    common_name: "Dasyprocta_leporina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasyprocta_punctata.cs"
-    name: "Dasyprocta punctata"
-    common_name: "Dasyprocta_punctata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasyprocta_ruatanica.cs"
-    name: "Dasyprocta ruatanica"
-    common_name: "Dasyprocta_ruatanica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasyprocta_sp_1_EG_2017.cs"
-    name: "Dasyprocta sp. 1 EG-2017"
-    common_name: "Dasyprocta_sp_1_EG_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dasyprocta_sp_2_EG_2017.cs"
-    name: "Dasyprocta sp. 2 EG-2017"
-    common_name: "Dasyprocta_sp_2_EG_2017"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dasyprocta_azarae:
+    common_name: Dasyprocta_azarae
+    conservation: UK
+  Dasyprocta_fuliginosa:
+    common_name: Dasyprocta_fuliginosa
+    conservation: UK
+  Dasyprocta_kalinowski:
+    common_name: Dasyprocta_kalinowski
+    conservation: UK
+  Dasyprocta_leporina:
+    common_name: Dasyprocta_leporina
+    conservation: UK
+  Dasyprocta_punctata:
+    common_name: Dasyprocta_punctata
+    conservation: UK
+  Dasyprocta_ruatanica:
+    common_name: Dasyprocta_ruatanica
+    conservation: UK
+  Dasyprocta_sp_1_EG_2017:
+    common_name: Dasyprocta_sp_1_EG_2017
+    conservation: UK
+  Dasyprocta_sp_2_EG_2017:
+    common_name: Dasyprocta_sp_2_EG_2017
+    conservation: UK
 ---
-
 # Dasyprocta
 
 Genus containing 8 species.

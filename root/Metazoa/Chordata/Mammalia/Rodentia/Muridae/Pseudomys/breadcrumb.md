@@ -1,125 +1,78 @@
 ---
-title: "Pseudomys"
-description: "Genus containing 23 species."
-category: "taxonomy/genus"
-tags: ["pseudomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 187267
-parent: "../breadcrumb.md"
+title: Pseudomys
+description: Genus containing 23 species.
+category: taxonomy/genus
+tags: [pseudomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 23
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pseudomys_albocinereus.cs"
-    name: "Pseudomys albocinereus"
-    common_name: "Pseudomys_albocinereus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_apodemoides.cs"
-    name: "Pseudomys apodemoides"
-    common_name: "Pseudomys_apodemoides"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_australis.cs"
-    name: "Pseudomys australis"
-    common_name: "Pseudomys_australis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_bolami.cs"
-    name: "Pseudomys bolami"
-    common_name: "Pseudomys_bolami"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_calabyi.cs"
-    name: "Pseudomys calabyi"
-    common_name: "Pseudomys_calabyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_chapmani.cs"
-    name: "Pseudomys chapmani"
-    common_name: "Pseudomys_chapmani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_delicatulus.cs"
-    name: "Pseudomys delicatulus"
-    common_name: "Pseudomys_delicatulus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_desertor.cs"
-    name: "Pseudomys desertor"
-    common_name: "Pseudomys_desertor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_fieldi.cs"
-    name: "Pseudomys fieldi"
-    common_name: "Pseudomys_fieldi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_fumeus.cs"
-    name: "Pseudomys fumeus"
-    common_name: "Pseudomys_fumeus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_gouldii.cs"
-    name: "Pseudomys gouldii"
-    common_name: "Pseudomys_gouldii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_gracilicaudatus.cs"
-    name: "Pseudomys gracilicaudatus"
-    common_name: "Pseudomys_gracilicaudatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_hermannsburgensis.cs"
-    name: "Pseudomys hermannsburgensis"
-    common_name: "Pseudomys_hermannsburgensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_higginsi.cs"
-    name: "Pseudomys higginsi"
-    common_name: "Pseudomys_higginsi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_johnsoni.cs"
-    name: "Pseudomys johnsoni"
-    common_name: "Pseudomys_johnsoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_laborifex.cs"
-    name: "Pseudomys laborifex"
-    common_name: "Pseudomys_laborifex"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_nanus.cs"
-    name: "Pseudomys nanus"
-    common_name: "Pseudomys_nanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_novaehollandiae.cs"
-    name: "Pseudomys novaehollandiae"
-    common_name: "Pseudomys_novaehollandiae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_occidentalis.cs"
-    name: "Pseudomys occidentalis"
-    common_name: "Pseudomys_occidentalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudomys_oralis.cs"
-    name: "Pseudomys oralis"
-    common_name: "Pseudomys_oralis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pseudomys_albocinereus:
+    common_name: Pseudomys_albocinereus
+    conservation: UK
+  Pseudomys_apodemoides:
+    common_name: Pseudomys_apodemoides
+    conservation: UK
+  Pseudomys_australis:
+    common_name: Pseudomys_australis
+    conservation: UK
+  Pseudomys_bolami:
+    common_name: Pseudomys_bolami
+    conservation: UK
+  Pseudomys_calabyi:
+    common_name: Pseudomys_calabyi
+    conservation: UK
+  Pseudomys_chapmani:
+    common_name: Pseudomys_chapmani
+    conservation: UK
+  Pseudomys_delicatulus:
+    common_name: Pseudomys_delicatulus
+    conservation: UK
+  Pseudomys_desertor:
+    common_name: Pseudomys_desertor
+    conservation: UK
+  Pseudomys_fieldi:
+    common_name: Pseudomys_fieldi
+    conservation: UK
+  Pseudomys_fumeus:
+    common_name: Pseudomys_fumeus
+    conservation: UK
+  Pseudomys_gouldii:
+    common_name: Pseudomys_gouldii
+    conservation: UK
+  Pseudomys_gracilicaudatus:
+    common_name: Pseudomys_gracilicaudatus
+    conservation: UK
+  Pseudomys_hermannsburgensis:
+    common_name: Pseudomys_hermannsburgensis
+    conservation: UK
+  Pseudomys_higginsi:
+    common_name: Pseudomys_higginsi
+    conservation: UK
+  Pseudomys_johnsoni:
+    common_name: Pseudomys_johnsoni
+    conservation: UK
+  Pseudomys_laborifex:
+    common_name: Pseudomys_laborifex
+    conservation: UK
+  Pseudomys_nanus:
+    common_name: Pseudomys_nanus
+    conservation: UK
+  Pseudomys_novaehollandiae:
+    common_name: Pseudomys_novaehollandiae
+    conservation: UK
+  Pseudomys_occidentalis:
+    common_name: Pseudomys_occidentalis
+    conservation: UK
+  Pseudomys_oralis:
+    common_name: Pseudomys_oralis
+    conservation: UK
 ---
-
 # Pseudomys
 
 Genus containing 23 species.

@@ -1,91 +1,58 @@
 ---
-title: "Myosorex"
-description: "Genus containing 13 species."
-category: "taxonomy/genus"
-tags: ["myosorex", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 150083
-parent: "../breadcrumb.md"
+title: Myosorex
+description: Genus containing 13 species.
+category: taxonomy/genus
+tags: [myosorex, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 13
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Myosorex_babaulti.cs"
-    name: "Myosorex babaulti"
-    common_name: "Myosorex_babaulti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myosorex_blarina.cs"
-    name: "Myosorex blarina"
-    common_name: "Myosorex_blarina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myosorex_cafer.cs"
-    name: "Myosorex cafer"
-    common_name: "Myosorex_cafer"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myosorex_geata.cs"
-    name: "Myosorex geata"
-    common_name: "Myosorex_geata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myosorex_jejei.cs"
-    name: "Myosorex jejei"
-    common_name: "Myosorex_jejei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myosorex_kihaulei.cs"
-    name: "Myosorex kihaulei"
-    common_name: "Myosorex_kihaulei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myosorex_longicaudatus.cs"
-    name: "Myosorex longicaudatus"
-    common_name: "Myosorex_longicaudatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myosorex_meesteri.cs"
-    name: "Myosorex meesteri"
-    common_name: "Myosorex_meesteri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myosorex_sclateri.cs"
-    name: "Myosorex sclateri"
-    common_name: "Myosorex_sclateri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myosorex_sp_1_SWM_2013.cs"
-    name: "Myosorex sp. 1 SWM-2013"
-    common_name: "Myosorex_sp_1_SWM_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myosorex_sp_SSWM_2009a.cs"
-    name: "Myosorex sp. SSWM-2009a"
-    common_name: "Myosorex_sp_SSWM_2009a"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myosorex_varius.cs"
-    name: "Myosorex varius"
-    common_name: "Myosorex_varius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Myosorex_zinki.cs"
-    name: "Myosorex zinki"
-    common_name: "Myosorex_zinki"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Myosorex_babaulti:
+    common_name: Myosorex_babaulti
+    conservation: UK
+  Myosorex_blarina:
+    common_name: Myosorex_blarina
+    conservation: UK
+  Myosorex_cafer:
+    common_name: Myosorex_cafer
+    conservation: UK
+  Myosorex_geata:
+    common_name: Myosorex_geata
+    conservation: UK
+  Myosorex_jejei:
+    common_name: Myosorex_jejei
+    conservation: UK
+  Myosorex_kihaulei:
+    common_name: Myosorex_kihaulei
+    conservation: UK
+  Myosorex_longicaudatus:
+    common_name: Myosorex_longicaudatus
+    conservation: UK
+  Myosorex_meesteri:
+    common_name: Myosorex_meesteri
+    conservation: UK
+  Myosorex_sclateri:
+    common_name: Myosorex_sclateri
+    conservation: UK
+  Myosorex_sp_1_SWM_2013:
+    common_name: Myosorex_sp_1_SWM_2013
+    conservation: UK
+  Myosorex_sp_SSWM_2009a:
+    common_name: Myosorex_sp_SSWM_2009a
+    conservation: UK
+  Myosorex_varius:
+    common_name: Myosorex_varius
+    conservation: UK
+  Myosorex_zinki:
+    common_name: Myosorex_zinki
+    conservation: UK
 ---
-
 # Myosorex
 
 Genus containing 13 species.

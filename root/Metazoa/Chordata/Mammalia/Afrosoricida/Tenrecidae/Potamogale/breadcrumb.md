@@ -1,30 +1,21 @@
 ---
-title: "Potamogale"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["potamogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Echinops/breadcrumb.md", "../Geogale/breadcrumb.md", "../Hemicentetes/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 176118
-parent: "../breadcrumb.md"
+title: Potamogale
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [potamogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Echinops/breadcrumb.md, ../Geogale/breadcrumb.md, ../Hemicentetes/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Potamogale_velox.cs"
-    name: "Potamogale velox"
-    common_name: "Potamogale_velox"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Potamogale_velox:
+    common_name: Potamogale_velox
+    conservation: UK
 ---
-
 # Potamogale
 
 Genus containing 1 species.

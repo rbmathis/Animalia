@@ -1,101 +1,64 @@
 ---
-title: "Talpa"
-description: "Genus containing 15 species."
-category: "taxonomy/genus"
-tags: ["talpa", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alpiscaptulus/breadcrumb.md", "../Condylura/breadcrumb.md", "../Desmana/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9374
-parent: "../breadcrumb.md"
+title: Talpa
+description: Genus containing 15 species.
+category: taxonomy/genus
+tags: [talpa, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alpiscaptulus/breadcrumb.md, ../Condylura/breadcrumb.md, ../Desmana/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 15
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Talpa_altaica.cs"
-    name: "Talpa altaica"
-    common_name: "Talpa_altaica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Talpa_aquitania.cs"
-    name: "Talpa aquitania"
-    common_name: "Talpa_aquitania"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Talpa_caeca.cs"
-    name: "Talpa caeca"
-    common_name: "Talpa_caeca"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Talpa_caucasica.cs"
-    name: "Talpa caucasica"
-    common_name: "Talpa_caucasica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Talpa_davidiana.cs"
-    name: "Talpa davidiana"
-    common_name: "Talpa_davidiana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Talpa_europaea.cs"
-    name: "Talpa europaea"
-    common_name: "Talpa_europaea"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Talpa_hakkariensis.cs"
-    name: "Talpa hakkariensis"
-    common_name: "Talpa_hakkariensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Talpa_levantis.cs"
-    name: "Talpa levantis"
-    common_name: "Talpa_levantis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Talpa_martinorum.cs"
-    name: "Talpa martinorum"
-    common_name: "Talpa_martinorum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Talpa_occidentalis.cs"
-    name: "Talpa occidentalis"
-    common_name: "Talpa_occidentalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Talpa_ognevi.cs"
-    name: "Talpa ognevi"
-    common_name: "Talpa_ognevi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Talpa_romana.cs"
-    name: "Talpa romana"
-    common_name: "Talpa_romana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Talpa_sp_AB_2015.cs"
-    name: "Talpa sp. AB-2015"
-    common_name: "Talpa_sp_AB_2015"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Talpa_sp_BA_2017.cs"
-    name: "Talpa sp. BA-2017"
-    common_name: "Talpa_sp_BA_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Talpa_stankovici.cs"
-    name: "Talpa stankovici"
-    common_name: "Talpa_stankovici"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Talpa_altaica:
+    common_name: Talpa_altaica
+    conservation: UK
+  Talpa_aquitania:
+    common_name: Talpa_aquitania
+    conservation: UK
+  Talpa_caeca:
+    common_name: Talpa_caeca
+    conservation: UK
+  Talpa_caucasica:
+    common_name: Talpa_caucasica
+    conservation: UK
+  Talpa_davidiana:
+    common_name: Talpa_davidiana
+    conservation: UK
+  Talpa_europaea:
+    common_name: Talpa_europaea
+    conservation: UK
+  Talpa_hakkariensis:
+    common_name: Talpa_hakkariensis
+    conservation: UK
+  Talpa_levantis:
+    common_name: Talpa_levantis
+    conservation: UK
+  Talpa_martinorum:
+    common_name: Talpa_martinorum
+    conservation: UK
+  Talpa_occidentalis:
+    common_name: Talpa_occidentalis
+    conservation: UK
+  Talpa_ognevi:
+    common_name: Talpa_ognevi
+    conservation: UK
+  Talpa_romana:
+    common_name: Talpa_romana
+    conservation: UK
+  Talpa_sp_AB_2015:
+    common_name: Talpa_sp_AB_2015
+    conservation: UK
+  Talpa_sp_BA_2017:
+    common_name: Talpa_sp_BA_2017
+    conservation: UK
+  Talpa_stankovici:
+    common_name: Talpa_stankovici
+    conservation: UK
 ---
-
 # Talpa
 
 Genus containing 15 species.

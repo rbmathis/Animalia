@@ -1,30 +1,21 @@
 ---
-title: "Echinops"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["echinops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Geogale/breadcrumb.md", "../Hemicentetes/breadcrumb.md", "../Limnogale/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9370
-parent: "../breadcrumb.md"
+title: Echinops
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [echinops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Geogale/breadcrumb.md, ../Hemicentetes/breadcrumb.md, ../Limnogale/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Echinops_telfairi.cs"
-    name: "Echinops telfairi"
-    common_name: "Echinops_telfairi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Echinops_telfairi:
+    common_name: Echinops_telfairi
+    conservation: UK
 ---
-
 # Echinops
 
 Genus containing 1 species.

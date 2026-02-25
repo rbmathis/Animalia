@@ -1,126 +1,79 @@
 ---
-title: "Tupaia"
-description: "Genus containing 24 species."
-category: "taxonomy/genus"
-tags: ["tupaia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anathana/breadcrumb.md", "../Dendrogale/breadcrumb.md", "../Ptilocercus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9394
-parent: "../breadcrumb.md"
+title: Tupaia
+description: Genus containing 24 species.
+category: taxonomy/genus
+tags: [tupaia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anathana/breadcrumb.md, ../Dendrogale/breadcrumb.md, ../Ptilocercus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 24
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tupaia_belangeri.cs"
-    name: "Tupaia belangeri"
-    common_name: "Tupaia_belangeri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_chinensis.cs"
-    name: "Tupaia chinensis"
-    common_name: "Tupaia_chinensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_chrysogaster.cs"
-    name: "Tupaia chrysogaster"
-    common_name: "Tupaia_chrysogaster"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_dorsalis.cs"
-    name: "Tupaia dorsalis"
-    common_name: "Tupaia_dorsalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_glis.cs"
-    name: "Tupaia glis"
-    common_name: "Tupaia_glis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_gracilis.cs"
-    name: "Tupaia gracilis"
-    common_name: "Tupaia_gracilis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_javanica.cs"
-    name: "Tupaia javanica"
-    common_name: "Tupaia_javanica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_longipes.cs"
-    name: "Tupaia longipes"
-    common_name: "Tupaia_longipes"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_minor.cs"
-    name: "Tupaia minor"
-    common_name: "Tupaia_minor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_moellendorffi.cs"
-    name: "Tupaia moellendorffi"
-    common_name: "Tupaia_moellendorffi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_montana.cs"
-    name: "Tupaia montana"
-    common_name: "Tupaia_montana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_nicobarica.cs"
-    name: "Tupaia nicobarica"
-    common_name: "Tupaia_nicobarica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_palawanensis.cs"
-    name: "Tupaia palawanensis"
-    common_name: "Tupaia_palawanensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_picta.cs"
-    name: "Tupaia picta"
-    common_name: "Tupaia_picta"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_salatana.cs"
-    name: "Tupaia salatana"
-    common_name: "Tupaia_salatana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_sp.cs"
-    name: "Tupaia sp."
-    common_name: "Tupaia_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_sp_AVB_2011.cs"
-    name: "Tupaia sp. AVB-2011"
-    common_name: "Tupaia_sp_AVB_2011"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_sp_BOLDAAH4127.cs"
-    name: "Tupaia sp. BOLD:AAH4127"
-    common_name: "Tupaia_sp_BOLDAAH4127"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_sp_DH_2008.cs"
-    name: "Tupaia sp. DH-2008"
-    common_name: "Tupaia_sp_DH_2008"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tupaia_sp_FKN_2003.cs"
-    name: "Tupaia sp. FKN-2003"
-    common_name: "Tupaia_sp_FKN_2003"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tupaia_belangeri:
+    common_name: Tupaia_belangeri
+    conservation: UK
+  Tupaia_chinensis:
+    common_name: Tupaia_chinensis
+    conservation: UK
+  Tupaia_chrysogaster:
+    common_name: Tupaia_chrysogaster
+    conservation: UK
+  Tupaia_dorsalis:
+    common_name: Tupaia_dorsalis
+    conservation: UK
+  Tupaia_glis:
+    common_name: Tupaia_glis
+    conservation: UK
+  Tupaia_gracilis:
+    common_name: Tupaia_gracilis
+    conservation: UK
+  Tupaia_javanica:
+    common_name: Tupaia_javanica
+    conservation: UK
+  Tupaia_longipes:
+    common_name: Tupaia_longipes
+    conservation: UK
+  Tupaia_minor:
+    common_name: Tupaia_minor
+    conservation: UK
+  Tupaia_moellendorffi:
+    common_name: Tupaia_moellendorffi
+    conservation: UK
+  Tupaia_montana:
+    common_name: Tupaia_montana
+    conservation: UK
+  Tupaia_nicobarica:
+    common_name: Tupaia_nicobarica
+    conservation: UK
+  Tupaia_palawanensis:
+    common_name: Tupaia_palawanensis
+    conservation: UK
+  Tupaia_picta:
+    common_name: Tupaia_picta
+    conservation: UK
+  Tupaia_salatana:
+    common_name: Tupaia_salatana
+    conservation: UK
+  Tupaia_sp:
+    common_name: Tupaia_sp
+    conservation: UK
+  Tupaia_sp_AVB_2011:
+    common_name: Tupaia_sp_AVB_2011
+    conservation: UK
+  Tupaia_sp_BOLDAAH4127:
+    common_name: Tupaia_sp_BOLDAAH4127
+    conservation: UK
+  Tupaia_sp_DH_2008:
+    common_name: Tupaia_sp_DH_2008
+    conservation: UK
+  Tupaia_sp_FKN_2003:
+    common_name: Tupaia_sp_FKN_2003
+    conservation: UK
 ---
-
 # Tupaia
 
 Genus containing 24 species.

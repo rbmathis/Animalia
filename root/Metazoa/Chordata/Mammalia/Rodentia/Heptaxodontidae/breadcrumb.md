@@ -1,28 +1,19 @@
 ---
-title: "Heptaxodontidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["heptaxodontidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 2779816
-parent: "../breadcrumb.md"
+title: Heptaxodontidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [heptaxodontidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Elasmodontomys/breadcrumb.md"
-    name: "Elasmodontomys"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Elasmodontomys]
 ---
-
 # Heptaxodontidae
 
 Family containing 1 genera.

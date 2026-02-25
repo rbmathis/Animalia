@@ -1,35 +1,24 @@
 ---
-title: "Baeodon"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["baeodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3072824
-parent: "../breadcrumb.md"
+title: Baeodon
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [baeodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Baeodon_alleni.cs"
-    name: "Baeodon alleni"
-    common_name: "Baeodon_alleni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Baeodon_gracilis.cs"
-    name: "Baeodon gracilis"
-    common_name: "Baeodon_gracilis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Baeodon_alleni:
+    common_name: Baeodon_alleni
+    conservation: UK
+  Baeodon_gracilis:
+    common_name: Baeodon_gracilis
+    conservation: UK
 ---
-
 # Baeodon
 
 Genus containing 2 species.

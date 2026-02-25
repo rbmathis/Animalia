@@ -1,40 +1,27 @@
 ---
-title: "Ptenochirus"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["ptenochirus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 132906
-parent: "../breadcrumb.md"
+title: Ptenochirus
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [ptenochirus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ptenochirus_jagorii.cs"
-    name: "Ptenochirus jagorii"
-    common_name: "Ptenochirus_jagorii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ptenochirus_minor.cs"
-    name: "Ptenochirus minor"
-    common_name: "Ptenochirus_minor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ptenochirus_wetmorei.cs"
-    name: "Ptenochirus wetmorei"
-    common_name: "Ptenochirus_wetmorei"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ptenochirus_jagorii:
+    common_name: Ptenochirus_jagorii
+    conservation: UK
+  Ptenochirus_minor:
+    common_name: Ptenochirus_minor
+    conservation: UK
+  Ptenochirus_wetmorei:
+    common_name: Ptenochirus_wetmorei
+    conservation: UK
 ---
-
 # Ptenochirus
 
 Genus containing 3 species.

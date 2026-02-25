@@ -1,35 +1,24 @@
 ---
-title: "Neofelis"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["neofelis", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acinonyx/breadcrumb.md", "../Caracal/breadcrumb.md", "../Catopuma/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 61451
-parent: "../breadcrumb.md"
+title: Neofelis
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [neofelis, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acinonyx/breadcrumb.md, ../Caracal/breadcrumb.md, ../Catopuma/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Neofelis_diardi.cs"
-    name: "Neofelis diardi"
-    common_name: "Neofelis_diardi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neofelis_nebulosa.cs"
-    name: "Neofelis nebulosa"
-    common_name: "Neofelis_nebulosa"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Neofelis_diardi:
+    common_name: Neofelis_diardi
+    conservation: UK
+  Neofelis_nebulosa:
+    common_name: Neofelis_nebulosa
+    conservation: UK
 ---
-
 # Neofelis
 
 Genus containing 2 species.

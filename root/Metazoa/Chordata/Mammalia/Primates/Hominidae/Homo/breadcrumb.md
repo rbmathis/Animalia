@@ -1,46 +1,31 @@
 ---
-title: "Homo"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["homo", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Gorilla/breadcrumb.md", "../Hominidae_intergeneric_hybrids/breadcrumb.md", "../Pan/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9605
-parent: "../breadcrumb.md"
+title: Homo
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [homo, genus]
+status: Living
+updated: 2026-02-23
+related: [../Gorilla/breadcrumb.md, ../Hominidae_intergeneric_hybrids/breadcrumb.md, ../Pan/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Homo_heidelbergensis.cs"
-    name: "Homo heidelbergensis"
-    common_name: "Homo_heidelbergensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Homo_sapiens.cs"
-    name: "Homo sapiens"
-    common_name: "Homo_sapiens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Homo_sapiens_environmental_sample.cs"
-    name: "Homo sapiens environmental sample"
-    common_name: "Homo_sapiens_environmental_sample"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Homo_sp.cs"
-    name: "Homo sp."
-    common_name: "Homo_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Homo_heidelbergensis:
+    common_name: Homo_heidelbergensis
+    conservation: UK
+  Homo_sapiens:
+    common_name: Homo_sapiens
+    conservation: UK
+  Homo_sapiens_environmental_sample:
+    common_name: Homo_sapiens_environmental_sample
+    conservation: UK
+  Homo_sp:
+    common_name: Homo_sp
+    conservation: UK
 ---
-
 # Homo
 
 Genus containing 4 species.

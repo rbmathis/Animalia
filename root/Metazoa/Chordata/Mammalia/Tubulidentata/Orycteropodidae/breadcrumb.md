@@ -1,28 +1,19 @@
 ---
-title: "Orycteropodidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["orycteropodidae", "family"]
-status: "Living"
-updated: "2026-02-23"
+title: Orycteropodidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [orycteropodidae, family]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9816
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Orycteropus/breadcrumb.md"
-    name: "Orycteropus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Orycteropus]
 ---
-
 # Orycteropodidae
 
 Family containing 1 genera.

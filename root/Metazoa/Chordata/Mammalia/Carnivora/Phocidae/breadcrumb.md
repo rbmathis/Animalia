@@ -1,46 +1,19 @@
 ---
-title: "Phocidae"
-description: "Family containing 12 genera."
-category: "taxonomy/family"
-tags: ["phocidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ailuridae/breadcrumb.md", "../Canidae/breadcrumb.md", "../Eupleridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9709
-parent: "../breadcrumb.md"
+title: Phocidae
+description: Family containing 12 genera.
+category: taxonomy/family
+tags: [phocidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Ailuridae/breadcrumb.md, ../Canidae/breadcrumb.md, ../Eupleridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 12
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Cystophora/breadcrumb.md"
-    name: "Cystophora"
-  - path: "Erignathus/breadcrumb.md"
-    name: "Erignathus"
-  - path: "Halichoerus/breadcrumb.md"
-    name: "Halichoerus"
-  - path: "Hydrurga/breadcrumb.md"
-    name: "Hydrurga"
-  - path: "Leptonychotes/breadcrumb.md"
-    name: "Leptonychotes"
-  - path: "Lobodon/breadcrumb.md"
-    name: "Lobodon"
-  - path: "Mirounga/breadcrumb.md"
-    name: "Mirounga"
-  - path: "Monachus/breadcrumb.md"
-    name: "Monachus"
-  - path: "Neomonachus/breadcrumb.md"
-    name: "Neomonachus"
-  - path: "Ommatophoca/breadcrumb.md"
-    name: "Ommatophoca"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Cystophora, Erignathus, Halichoerus, Hydrurga, Leptonychotes, Lobodon, Mirounga, Monachus, Neomonachus, Ommatophoca]
 ---
-
 # Phocidae
 
 Family containing 12 genera.

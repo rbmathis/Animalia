@@ -1,31 +1,22 @@
 ---
-title: "Scotorepens"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["scotorepens", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 270779
-parent: "../breadcrumb.md"
+title: Scotorepens
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [scotorepens, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Scotorepens_sp_JMW_2004.cs"
-    name: "Scotorepens sp. JMW-2004"
-    common_name: "Scotorepens_sp_JMW_2004"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Scotorepens_sp_JMW_2004:
+    common_name: Scotorepens_sp_JMW_2004
+    conservation: UK
 ---
-
 # Scotorepens
 
 Genus containing 1 species.

@@ -1,38 +1,19 @@
 ---
-title: "Lorisidae"
-description: "Family containing 6 genera."
-category: "taxonomy/family"
-tags: ["lorisidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aotidae/breadcrumb.md", "../Atelidae/breadcrumb.md", "../Cebidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9461
-parent: "../breadcrumb.md"
+title: Lorisidae
+description: Family containing 6 genera.
+category: taxonomy/family
+tags: [lorisidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Aotidae/breadcrumb.md, ../Atelidae/breadcrumb.md, ../Cebidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 6
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Arctocebus/breadcrumb.md"
-    name: "Arctocebus"
-  - path: "Loris/breadcrumb.md"
-    name: "Loris"
-  - path: "Nycticebus/breadcrumb.md"
-    name: "Nycticebus"
-  - path: "Perodicticus/breadcrumb.md"
-    name: "Perodicticus"
-  - path: "unclassified_Lorisidae/breadcrumb.md"
-    name: "unclassified_Lorisidae"
-  - path: "Xanthonycticebus/breadcrumb.md"
-    name: "Xanthonycticebus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Arctocebus, Loris, Nycticebus, Perodicticus, unclassified_Lorisidae, Xanthonycticebus]
 ---
-
 # Lorisidae
 
 Family containing 6 genera.

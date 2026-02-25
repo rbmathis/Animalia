@@ -1,35 +1,24 @@
 ---
-title: "Echimys"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["echimys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Boromys/breadcrumb.md", "../Brotomys/breadcrumb.md", "../Callistomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 30620
-parent: "../breadcrumb.md"
+title: Echimys
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [echimys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Boromys/breadcrumb.md, ../Brotomys/breadcrumb.md, ../Callistomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Echimys_chrysurus.cs"
-    name: "Echimys chrysurus"
-    common_name: "Echimys_chrysurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Echimys_saturnus.cs"
-    name: "Echimys saturnus"
-    common_name: "Echimys_saturnus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Echimys_chrysurus:
+    common_name: Echimys_chrysurus
+    conservation: UK
+  Echimys_saturnus:
+    common_name: Echimys_saturnus
+    conservation: UK
 ---
-
 # Echimys
 
 Genus containing 2 species.

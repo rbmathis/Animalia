@@ -1,126 +1,79 @@
 ---
-title: "Neacomys"
-description: "Genus containing 41 species."
-category: "taxonomy/genus"
-tags: ["neacomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 37026
-parent: "../breadcrumb.md"
+title: Neacomys
+description: Genus containing 41 species.
+category: taxonomy/genus
+tags: [neacomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 41
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Neacomys_amoenus.cs"
-    name: "Neacomys amoenus"
-    common_name: "Neacomys_amoenus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_auriventer.cs"
-    name: "Neacomys auriventer"
-    common_name: "Neacomys_auriventer"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_cf_amoenus_Central_Andes_Amazonia.cs"
-    name: "Neacomys cf. amoenus 'Central Andes-Amazonia'"
-    common_name: "Neacomys_cf_amoenus_Central_Andes_Amazonia"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_cf_amoenus_Northern_Peru.cs"
-    name: "Neacomys cf. amoenus 'Northern Peru'"
-    common_name: "Neacomys_cf_amoenus_Northern_Peru"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_dubosti.cs"
-    name: "Neacomys dubosti"
-    common_name: "Neacomys_dubosti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_elieceri.cs"
-    name: "Neacomys elieceri"
-    common_name: "Neacomys_elieceri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_guianae.cs"
-    name: "Neacomys guianae"
-    common_name: "Neacomys_guianae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_marajoara.cs"
-    name: "Neacomys marajoara"
-    common_name: "Neacomys_marajoara"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_minutus.cs"
-    name: "Neacomys minutus"
-    common_name: "Neacomys_minutus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_minutus_complex_sp_downriver.cs"
-    name: "Neacomys minutus complex sp. 'downriver'"
-    common_name: "Neacomys_minutus_complex_sp_downriver"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_minutus_complex_sp_upriver.cs"
-    name: "Neacomys minutus complex sp. 'upriver'"
-    common_name: "Neacomys_minutus_complex_sp_upriver"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_paracou.cs"
-    name: "Neacomys paracou"
-    common_name: "Neacomys_paracou"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_rosalindae.cs"
-    name: "Neacomys rosalindae"
-    common_name: "Neacomys_rosalindae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_sp.cs"
-    name: "Neacomys sp."
-    common_name: "Neacomys_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_sp_clade_3.cs"
-    name: "Neacomys sp. 'clade 3'"
-    common_name: "Neacomys_sp_clade_3"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_sp_clade_6.cs"
-    name: "Neacomys sp. 'clade 6'"
-    common_name: "Neacomys_sp_clade_6"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_sp_clade_7.cs"
-    name: "Neacomys sp. 'clade 7'"
-    common_name: "Neacomys_sp_clade_7"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_sp_1_DVR_2017.cs"
-    name: "Neacomys sp. 1 DVR-2017"
-    common_name: "Neacomys_sp_1_DVR_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_sp_1_MN_2020.cs"
-    name: "Neacomys sp. 1 MN-2020"
-    common_name: "Neacomys_sp_1_MN_2020"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Neacomys_sp_2_MN_2020.cs"
-    name: "Neacomys sp. 2 MN-2020"
-    common_name: "Neacomys_sp_2_MN_2020"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Neacomys_amoenus:
+    common_name: Neacomys_amoenus
+    conservation: UK
+  Neacomys_auriventer:
+    common_name: Neacomys_auriventer
+    conservation: UK
+  Neacomys_cf_amoenus_Central_Andes_Amazonia:
+    common_name: Neacomys_cf_amoenus_Central_Andes_Amazonia
+    conservation: UK
+  Neacomys_cf_amoenus_Northern_Peru:
+    common_name: Neacomys_cf_amoenus_Northern_Peru
+    conservation: UK
+  Neacomys_dubosti:
+    common_name: Neacomys_dubosti
+    conservation: UK
+  Neacomys_elieceri:
+    common_name: Neacomys_elieceri
+    conservation: UK
+  Neacomys_guianae:
+    common_name: Neacomys_guianae
+    conservation: UK
+  Neacomys_marajoara:
+    common_name: Neacomys_marajoara
+    conservation: UK
+  Neacomys_minutus:
+    common_name: Neacomys_minutus
+    conservation: UK
+  Neacomys_minutus_complex_sp_downriver:
+    common_name: Neacomys_minutus_complex_sp_downriver
+    conservation: UK
+  Neacomys_minutus_complex_sp_upriver:
+    common_name: Neacomys_minutus_complex_sp_upriver
+    conservation: UK
+  Neacomys_paracou:
+    common_name: Neacomys_paracou
+    conservation: UK
+  Neacomys_rosalindae:
+    common_name: Neacomys_rosalindae
+    conservation: UK
+  Neacomys_sp:
+    common_name: Neacomys_sp
+    conservation: UK
+  Neacomys_sp_clade_3:
+    common_name: Neacomys_sp_clade_3
+    conservation: UK
+  Neacomys_sp_clade_6:
+    common_name: Neacomys_sp_clade_6
+    conservation: UK
+  Neacomys_sp_clade_7:
+    common_name: Neacomys_sp_clade_7
+    conservation: UK
+  Neacomys_sp_1_DVR_2017:
+    common_name: Neacomys_sp_1_DVR_2017
+    conservation: UK
+  Neacomys_sp_1_MN_2020:
+    common_name: Neacomys_sp_1_MN_2020
+    conservation: UK
+  Neacomys_sp_2_MN_2020:
+    common_name: Neacomys_sp_2_MN_2020
+    conservation: UK
 ---
-
 # Neacomys
 
 Genus containing 41 species.

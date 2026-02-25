@@ -1,35 +1,24 @@
 ---
-title: "Peroryctes"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["peroryctes", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Echymipera/breadcrumb.md", "../Microperoryctes/breadcrumb.md", "../Rhynchomeles/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 65627
-parent: "../breadcrumb.md"
+title: Peroryctes
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [peroryctes, genus]
+status: Living
+updated: 2026-02-23
+related: [../Echymipera/breadcrumb.md, ../Microperoryctes/breadcrumb.md, ../Rhynchomeles/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Peroryctes_broadbenti.cs"
-    name: "Peroryctes broadbenti"
-    common_name: "Peroryctes_broadbenti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peroryctes_raffrayana.cs"
-    name: "Peroryctes raffrayana"
-    common_name: "Peroryctes_raffrayana"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Peroryctes_broadbenti:
+    common_name: Peroryctes_broadbenti
+    conservation: UK
+  Peroryctes_raffrayana:
+    common_name: Peroryctes_raffrayana
+    conservation: UK
 ---
-
 # Peroryctes
 
 Genus containing 2 species.

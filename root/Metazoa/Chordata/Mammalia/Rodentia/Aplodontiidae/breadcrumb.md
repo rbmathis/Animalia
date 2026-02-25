@@ -1,28 +1,19 @@
 ---
-title: "Aplodontiidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["aplodontiidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Bathyergidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 51340
-parent: "../breadcrumb.md"
+title: Aplodontiidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [aplodontiidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Bathyergidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Aplodontia/breadcrumb.md"
-    name: "Aplodontia"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Aplodontia]
 ---
-
 # Aplodontiidae
 
 Family containing 1 genera.

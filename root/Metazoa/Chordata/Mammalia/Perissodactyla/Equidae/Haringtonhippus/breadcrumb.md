@@ -1,30 +1,21 @@
 ---
-title: "Haringtonhippus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["haringtonhippus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Equus/breadcrumb.md", "../Hippidion/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2055936
-parent: "../breadcrumb.md"
+title: Haringtonhippus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [haringtonhippus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Equus/breadcrumb.md, ../Hippidion/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Haringtonhippus_francisci.cs"
-    name: "Haringtonhippus francisci"
-    common_name: "Haringtonhippus_francisci"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Haringtonhippus_francisci:
+    common_name: Haringtonhippus_francisci
+    conservation: UK
 ---
-
 # Haringtonhippus
 
 Genus containing 1 species.

@@ -1,30 +1,21 @@
 ---
-title: "Macroderma"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["macroderma", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cardioderma/breadcrumb.md", "../Lavia/breadcrumb.md", "../Lyroderma/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9410
-parent: "../breadcrumb.md"
+title: Macroderma
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [macroderma, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cardioderma/breadcrumb.md, ../Lavia/breadcrumb.md, ../Lyroderma/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Macroderma_gigas.cs"
-    name: "Macroderma gigas"
-    common_name: "Macroderma_gigas"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Macroderma_gigas:
+    common_name: Macroderma_gigas
+    conservation: UK
 ---
-
 # Macroderma
 
 Genus containing 1 species.

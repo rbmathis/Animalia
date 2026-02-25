@@ -1,66 +1,43 @@
 ---
-title: "Peropteryx"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["peropteryx", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Balantiopteryx/breadcrumb.md", "../Centronycteris/breadcrumb.md", "../Coleura/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 249013
-parent: "../breadcrumb.md"
+title: Peropteryx
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [peropteryx, genus]
+status: Living
+updated: 2026-02-23
+related: [../Balantiopteryx/breadcrumb.md, ../Centronycteris/breadcrumb.md, ../Coleura/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Peropteryx_kappleri.cs"
-    name: "Peropteryx kappleri"
-    common_name: "Peropteryx_kappleri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peropteryx_leucoptera.cs"
-    name: "Peropteryx leucoptera"
-    common_name: "Peropteryx_leucoptera"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peropteryx_macrotis.cs"
-    name: "Peropteryx macrotis"
-    common_name: "Peropteryx_macrotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peropteryx_pallidoptera.cs"
-    name: "Peropteryx pallidoptera"
-    common_name: "Peropteryx_pallidoptera"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peropteryx_sp_BOLDAAI2457.cs"
-    name: "Peropteryx sp. BOLD:AAI2457"
-    common_name: "Peropteryx_sp_BOLDAAI2457"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peropteryx_sp_ROM_104396.cs"
-    name: "Peropteryx sp. ROM 104396"
-    common_name: "Peropteryx_sp_ROM_104396"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peropteryx_sp_RSV_2330.cs"
-    name: "Peropteryx sp. RSV 2330"
-    common_name: "Peropteryx_sp_RSV_2330"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Peropteryx_trinitatis.cs"
-    name: "Peropteryx trinitatis"
-    common_name: "Peropteryx_trinitatis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Peropteryx_kappleri:
+    common_name: Peropteryx_kappleri
+    conservation: UK
+  Peropteryx_leucoptera:
+    common_name: Peropteryx_leucoptera
+    conservation: UK
+  Peropteryx_macrotis:
+    common_name: Peropteryx_macrotis
+    conservation: UK
+  Peropteryx_pallidoptera:
+    common_name: Peropteryx_pallidoptera
+    conservation: UK
+  Peropteryx_sp_BOLDAAI2457:
+    common_name: Peropteryx_sp_BOLDAAI2457
+    conservation: UK
+  Peropteryx_sp_ROM_104396:
+    common_name: Peropteryx_sp_ROM_104396
+    conservation: UK
+  Peropteryx_sp_RSV_2330:
+    common_name: Peropteryx_sp_RSV_2330
+    conservation: UK
+  Peropteryx_trinitatis:
+    common_name: Peropteryx_trinitatis
+    conservation: UK
 ---
-
 # Peropteryx
 
 Genus containing 8 species.

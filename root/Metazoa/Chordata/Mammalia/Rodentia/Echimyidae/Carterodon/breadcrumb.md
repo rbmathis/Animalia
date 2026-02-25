@@ -1,30 +1,21 @@
 ---
-title: "Carterodon"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["carterodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Boromys/breadcrumb.md", "../Brotomys/breadcrumb.md", "../Callistomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1567512
-parent: "../breadcrumb.md"
+title: Carterodon
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [carterodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Boromys/breadcrumb.md, ../Brotomys/breadcrumb.md, ../Callistomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Carterodon_sulcidens.cs"
-    name: "Carterodon sulcidens"
-    common_name: "Carterodon_sulcidens"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Carterodon_sulcidens:
+    common_name: Carterodon_sulcidens
+    conservation: UK
 ---
-
 # Carterodon
 
 Genus containing 1 species.

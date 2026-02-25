@@ -1,46 +1,31 @@
 ---
-title: "Chionomys"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["chionomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 269648
-parent: "../breadcrumb.md"
+title: Chionomys
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [chionomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chionomys_gud.cs"
-    name: "Chionomys gud"
-    common_name: "Chionomys_gud"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chionomys_nivalis.cs"
-    name: "Chionomys nivalis"
-    common_name: "Chionomys_nivalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chionomys_roberti.cs"
-    name: "Chionomys roberti"
-    common_name: "Chionomys_roberti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chionomys_sp_l_AB_2021.cs"
-    name: "Chionomys sp. l AB-2021"
-    common_name: "Chionomys_sp_l_AB_2021"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chionomys_gud:
+    common_name: Chionomys_gud
+    conservation: UK
+  Chionomys_nivalis:
+    common_name: Chionomys_nivalis
+    conservation: UK
+  Chionomys_roberti:
+    common_name: Chionomys_roberti
+    conservation: UK
+  Chionomys_sp_l_AB_2021:
+    common_name: Chionomys_sp_l_AB_2021
+    conservation: UK
 ---
-
 # Chionomys
 
 Genus containing 4 species.

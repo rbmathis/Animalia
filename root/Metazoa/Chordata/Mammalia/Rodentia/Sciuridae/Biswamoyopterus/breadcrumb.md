@@ -1,30 +1,21 @@
 ---
-title: "Biswamoyopterus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["biswamoyopterus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2599450
-parent: "../breadcrumb.md"
+title: Biswamoyopterus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [biswamoyopterus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Biswamoyopterus_biswasi.cs"
-    name: "Biswamoyopterus biswasi"
-    common_name: "Biswamoyopterus_biswasi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Biswamoyopterus_biswasi:
+    common_name: Biswamoyopterus_biswasi
+    conservation: UK
 ---
-
 # Biswamoyopterus
 
 Genus containing 1 species.

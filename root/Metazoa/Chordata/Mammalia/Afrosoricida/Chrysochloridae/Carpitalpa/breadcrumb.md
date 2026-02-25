@@ -1,30 +1,21 @@
 ---
-title: "Carpitalpa"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["carpitalpa", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Amblysomus/breadcrumb.md", "../Calcochloris/breadcrumb.md", "../Chlorotalpa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 745244
-parent: "../breadcrumb.md"
+title: Carpitalpa
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [carpitalpa, genus]
+status: Living
+updated: 2026-02-23
+related: [../Amblysomus/breadcrumb.md, ../Calcochloris/breadcrumb.md, ../Chlorotalpa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Carpitalpa_arendsi.cs"
-    name: "Carpitalpa arendsi"
-    common_name: "Carpitalpa_arendsi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Carpitalpa_arendsi:
+    common_name: Carpitalpa_arendsi
+    conservation: UK
 ---
-
 # Carpitalpa
 
 Genus containing 1 species.

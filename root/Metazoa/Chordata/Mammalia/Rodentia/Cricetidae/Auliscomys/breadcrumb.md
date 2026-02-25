@@ -1,40 +1,27 @@
 ---
-title: "Auliscomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["auliscomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 29103
-parent: "../breadcrumb.md"
+title: Auliscomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [auliscomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Auliscomys_boliviensis.cs"
-    name: "Auliscomys boliviensis"
-    common_name: "Auliscomys_boliviensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Auliscomys_pictus.cs"
-    name: "Auliscomys pictus"
-    common_name: "Auliscomys_pictus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Auliscomys_sublimis.cs"
-    name: "Auliscomys sublimis"
-    common_name: "Auliscomys_sublimis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Auliscomys_boliviensis:
+    common_name: Auliscomys_boliviensis
+    conservation: UK
+  Auliscomys_pictus:
+    common_name: Auliscomys_pictus
+    conservation: UK
+  Auliscomys_sublimis:
+    common_name: Auliscomys_sublimis
+    conservation: UK
 ---
-
 # Auliscomys
 
 Genus containing 3 species.

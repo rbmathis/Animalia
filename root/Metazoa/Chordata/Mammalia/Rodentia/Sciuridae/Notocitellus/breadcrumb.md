@@ -1,35 +1,24 @@
 ---
-title: "Notocitellus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["notocitellus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1141636
-parent: "../breadcrumb.md"
+title: Notocitellus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [notocitellus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Notocitellus_adocetus.cs"
-    name: "Notocitellus adocetus"
-    common_name: "Notocitellus_adocetus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Notocitellus_annulatus.cs"
-    name: "Notocitellus annulatus"
-    common_name: "Notocitellus_annulatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Notocitellus_adocetus:
+    common_name: Notocitellus_adocetus
+    conservation: UK
+  Notocitellus_annulatus:
+    common_name: Notocitellus_annulatus
+    conservation: UK
 ---
-
 # Notocitellus
 
 Genus containing 2 species.

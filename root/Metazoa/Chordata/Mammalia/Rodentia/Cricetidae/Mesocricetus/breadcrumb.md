@@ -1,52 +1,35 @@
 ---
-title: "Mesocricetus"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["mesocricetus", "genus", "has-pets"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10035
-parent: "../breadcrumb.md"
+title: Mesocricetus
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [mesocricetus, genus, has-pets]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mesocricetus_auratus.cs"
-    name: "Mesocricetus auratus"
-    common_name: "Mesocricetus_auratus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mesocricetus_auratus:
+    common_name: Mesocricetus_auratus
+    conservation: UK
     pet: true
-  - file: "Mesocricetus_brandti.cs"
-    name: "Mesocricetus brandti"
-    common_name: "Mesocricetus_brandti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesocricetus_newtoni.cs"
-    name: "Mesocricetus newtoni"
-    common_name: "Mesocricetus_newtoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesocricetus_raddei.cs"
-    name: "Mesocricetus raddei"
-    common_name: "Mesocricetus_raddei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesocricetus_sp.cs"
-    name: "Mesocricetus sp."
-    common_name: "Mesocricetus_sp"
-    conservation: "Unknown"
-    enriched: false
+  Mesocricetus_brandti:
+    common_name: Mesocricetus_brandti
+    conservation: UK
+  Mesocricetus_newtoni:
+    common_name: Mesocricetus_newtoni
+    conservation: UK
+  Mesocricetus_raddei:
+    common_name: Mesocricetus_raddei
+    conservation: UK
+  Mesocricetus_sp:
+    common_name: Mesocricetus_sp
+    conservation: UK
 ---
-
 # Mesocricetus
 
 Genus containing 5 species.

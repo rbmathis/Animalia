@@ -1,30 +1,21 @@
 ---
-title: "Gymnobelideus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["gymnobelideus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dactylopsila/breadcrumb.md", "../Petaurus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 38617
-parent: "../breadcrumb.md"
+title: Gymnobelideus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [gymnobelideus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dactylopsila/breadcrumb.md, ../Petaurus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Gymnobelideus_leadbeateri.cs"
-    name: "Gymnobelideus leadbeateri"
-    common_name: "Gymnobelideus_leadbeateri"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Gymnobelideus_leadbeateri:
+    common_name: Gymnobelideus_leadbeateri
+    conservation: UK
 ---
-
 # Gymnobelideus
 
 Genus containing 1 species.

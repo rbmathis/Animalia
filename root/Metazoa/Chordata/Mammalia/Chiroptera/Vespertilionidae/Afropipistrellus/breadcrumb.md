@@ -1,35 +1,24 @@
 ---
-title: "Afropipistrellus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["afropipistrellus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Antrozous/breadcrumb.md", "../Arielulus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3685292
-parent: "../breadcrumb.md"
+title: Afropipistrellus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [afropipistrellus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Antrozous/breadcrumb.md, ../Arielulus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Afropipistrellus_eisentrauti.cs"
-    name: "Afropipistrellus eisentrauti"
-    common_name: "Afropipistrellus_eisentrauti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Afropipistrellus_happoldorum.cs"
-    name: "Afropipistrellus happoldorum"
-    common_name: "Afropipistrellus_happoldorum"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Afropipistrellus_eisentrauti:
+    common_name: Afropipistrellus_eisentrauti
+    conservation: UK
+  Afropipistrellus_happoldorum:
+    common_name: Afropipistrellus_happoldorum
+    conservation: UK
 ---
-
 # Afropipistrellus
 
 Genus containing 2 species.

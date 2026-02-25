@@ -1,30 +1,21 @@
 ---
-title: "Petrodromus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["petrodromus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Elephantulus/breadcrumb.md", "../Galegeeska/breadcrumb.md", "../Macroscelides/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 113271
-parent: "../breadcrumb.md"
+title: Petrodromus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [petrodromus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Elephantulus/breadcrumb.md, ../Galegeeska/breadcrumb.md, ../Macroscelides/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Petrodromus_tetradactylus.cs"
-    name: "Petrodromus tetradactylus"
-    common_name: "Petrodromus_tetradactylus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Petrodromus_tetradactylus:
+    common_name: Petrodromus_tetradactylus
+    conservation: UK
 ---
-
 # Petrodromus
 
 Genus containing 1 species.

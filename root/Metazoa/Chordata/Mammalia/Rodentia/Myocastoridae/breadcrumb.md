@@ -1,28 +1,19 @@
 ---
-title: "Myocastoridae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["myocastoridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 10155
-parent: "../breadcrumb.md"
+title: Myocastoridae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [myocastoridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Myocastor/breadcrumb.md"
-    name: "Myocastor"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Myocastor]
 ---
-
 # Myocastoridae
 
 Family containing 1 genera.

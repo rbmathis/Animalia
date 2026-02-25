@@ -1,30 +1,21 @@
 ---
-title: "Lasionycteris"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["lasionycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 27666
-parent: "../breadcrumb.md"
+title: Lasionycteris
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [lasionycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lasionycteris_noctivagans.cs"
-    name: "Lasionycteris noctivagans"
-    common_name: "Lasionycteris_noctivagans"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lasionycteris_noctivagans:
+    common_name: Lasionycteris_noctivagans
+    conservation: UK
 ---
-
 # Lasionycteris
 
 Genus containing 1 species.

@@ -1,46 +1,19 @@
 ---
-title: "Pteropodidae"
-description: "Family containing 46 genera."
-category: "taxonomy/family"
-tags: ["pteropodidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cistugidae/breadcrumb.md", "../Craseonycteridae/breadcrumb.md", "../Emballonuridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9398
-parent: "../breadcrumb.md"
+title: Pteropodidae
+description: Family containing 46 genera.
+category: taxonomy/family
+tags: [pteropodidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Cistugidae/breadcrumb.md, ../Craseonycteridae/breadcrumb.md, ../Emballonuridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 46
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Acerodon/breadcrumb.md"
-    name: "Acerodon"
-  - path: "Aethalops/breadcrumb.md"
-    name: "Aethalops"
-  - path: "Alionycteris/breadcrumb.md"
-    name: "Alionycteris"
-  - path: "Aproteles/breadcrumb.md"
-    name: "Aproteles"
-  - path: "Balionycteris/breadcrumb.md"
-    name: "Balionycteris"
-  - path: "Boneia/breadcrumb.md"
-    name: "Boneia"
-  - path: "Casinycteris/breadcrumb.md"
-    name: "Casinycteris"
-  - path: "Chironax/breadcrumb.md"
-    name: "Chironax"
-  - path: "Cynopterus/breadcrumb.md"
-    name: "Cynopterus"
-  - path: "Desmalopex/breadcrumb.md"
-    name: "Desmalopex"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Acerodon, Aethalops, Alionycteris, Aproteles, Balionycteris, Boneia, Casinycteris, Chironax, Cynopterus, Desmalopex]
 ---
-
 # Pteropodidae
 
 Family containing 46 genera.

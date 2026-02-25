@@ -1,30 +1,21 @@
 ---
-title: "Phocoenoides"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["phocoenoides", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Neophocaena/breadcrumb.md", "../Phocoena/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9743
-parent: "../breadcrumb.md"
+title: Phocoenoides
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [phocoenoides, genus]
+status: Living
+updated: 2026-02-23
+related: [../Neophocaena/breadcrumb.md, ../Phocoena/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Phocoenoides_dalli.cs"
-    name: "Phocoenoides dalli"
-    common_name: "Phocoenoides_dalli"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Phocoenoides_dalli:
+    common_name: Phocoenoides_dalli
+    conservation: UK
 ---
-
 # Phocoenoides
 
 Genus containing 1 species.

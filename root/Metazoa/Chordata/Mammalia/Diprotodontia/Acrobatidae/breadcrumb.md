@@ -1,30 +1,19 @@
 ---
-title: "Acrobatidae"
-description: "Family containing 2 genera."
-category: "taxonomy/family"
-tags: ["acrobatidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Burramyidae/breadcrumb.md", "../Macropodidae/breadcrumb.md", "../Petauridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 38612
-parent: "../breadcrumb.md"
+title: Acrobatidae
+description: Family containing 2 genera.
+category: taxonomy/family
+tags: [acrobatidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Burramyidae/breadcrumb.md, ../Macropodidae/breadcrumb.md, ../Petauridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Acrobates/breadcrumb.md"
-    name: "Acrobates"
-  - path: "Distoechurus/breadcrumb.md"
-    name: "Distoechurus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Acrobates, Distoechurus]
 ---
-
 # Acrobatidae
 
 Family containing 2 genera.

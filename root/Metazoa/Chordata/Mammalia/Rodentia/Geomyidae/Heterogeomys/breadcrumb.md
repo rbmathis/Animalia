@@ -1,60 +1,39 @@
 ---
-title: "Heterogeomys"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["heterogeomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cratogeomys/breadcrumb.md", "../Geomys/breadcrumb.md", "../Orthogeomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2964404
-parent: "../breadcrumb.md"
+title: Heterogeomys
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [heterogeomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cratogeomys/breadcrumb.md, ../Geomys/breadcrumb.md, ../Orthogeomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Heterogeomys_cavator.cs"
-    name: "Heterogeomys cavator"
-    common_name: "Heterogeomys_cavator"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Heterogeomys_cherriei.cs"
-    name: "Heterogeomys cherriei"
-    common_name: "Heterogeomys_cherriei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Heterogeomys_dariensis.cs"
-    name: "Heterogeomys dariensis"
-    common_name: "Heterogeomys_dariensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Heterogeomys_heterodus.cs"
-    name: "Heterogeomys heterodus"
-    common_name: "Heterogeomys_heterodus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Heterogeomys_hispidus.cs"
-    name: "Heterogeomys hispidus"
-    common_name: "Heterogeomys_hispidus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Heterogeomys_lanius.cs"
-    name: "Heterogeomys lanius"
-    common_name: "Heterogeomys_lanius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Heterogeomys_underwoodi.cs"
-    name: "Heterogeomys underwoodi"
-    common_name: "Heterogeomys_underwoodi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Heterogeomys_cavator:
+    common_name: Heterogeomys_cavator
+    conservation: UK
+  Heterogeomys_cherriei:
+    common_name: Heterogeomys_cherriei
+    conservation: UK
+  Heterogeomys_dariensis:
+    common_name: Heterogeomys_dariensis
+    conservation: UK
+  Heterogeomys_heterodus:
+    common_name: Heterogeomys_heterodus
+    conservation: UK
+  Heterogeomys_hispidus:
+    common_name: Heterogeomys_hispidus
+    conservation: UK
+  Heterogeomys_lanius:
+    common_name: Heterogeomys_lanius
+    conservation: UK
+  Heterogeomys_underwoodi:
+    common_name: Heterogeomys_underwoodi
+    conservation: UK
 ---
-
 # Heterogeomys
 
 Genus containing 7 species.

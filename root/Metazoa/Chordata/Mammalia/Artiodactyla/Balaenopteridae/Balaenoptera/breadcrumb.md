@@ -1,81 +1,52 @@
 ---
-title: "Balaenoptera"
-description: "Genus containing 11 species."
-category: "taxonomy/genus"
-tags: ["balaenoptera", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Megaptera/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9766
-parent: "../breadcrumb.md"
+title: Balaenoptera
+description: Genus containing 11 species.
+category: taxonomy/genus
+tags: [balaenoptera, genus]
+status: Living
+updated: 2026-02-23
+related: [../Megaptera/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 11
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Balaenoptera_acutorostrata.cs"
-    name: "Balaenoptera acutorostrata"
-    common_name: "Balaenoptera_acutorostrata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Balaenoptera_bonaerensis.cs"
-    name: "Balaenoptera bonaerensis"
-    common_name: "Balaenoptera_bonaerensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Balaenoptera_borealis.cs"
-    name: "Balaenoptera borealis"
-    common_name: "Balaenoptera_borealis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Balaenoptera_brydei.cs"
-    name: "Balaenoptera brydei"
-    common_name: "Balaenoptera_brydei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Balaenoptera_edeni.cs"
-    name: "Balaenoptera edeni"
-    common_name: "Balaenoptera_edeni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Balaenoptera_musculus.cs"
-    name: "Balaenoptera musculus"
-    common_name: "Balaenoptera_musculus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Balaenoptera_musculus_x_Balaenoptera_physalus.cs"
-    name: "Balaenoptera musculus x Balaenoptera physalus"
-    common_name: "Balaenoptera_musculus_x_Balaenoptera_physalus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Balaenoptera_omurai.cs"
-    name: "Balaenoptera omurai"
-    common_name: "Balaenoptera_omurai"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Balaenoptera_physalus.cs"
-    name: "Balaenoptera physalus"
-    common_name: "Balaenoptera_physalus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Balaenoptera_ricei.cs"
-    name: "Balaenoptera ricei"
-    common_name: "Balaenoptera_ricei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Balaenoptera_sp.cs"
-    name: "Balaenoptera sp."
-    common_name: "Balaenoptera_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Balaenoptera_acutorostrata:
+    common_name: Balaenoptera_acutorostrata
+    conservation: UK
+  Balaenoptera_bonaerensis:
+    common_name: Balaenoptera_bonaerensis
+    conservation: UK
+  Balaenoptera_borealis:
+    common_name: Balaenoptera_borealis
+    conservation: UK
+  Balaenoptera_brydei:
+    common_name: Balaenoptera_brydei
+    conservation: UK
+  Balaenoptera_edeni:
+    common_name: Balaenoptera_edeni
+    conservation: UK
+  Balaenoptera_musculus:
+    common_name: Balaenoptera_musculus
+    conservation: UK
+  Balaenoptera_musculus_x_Balaenoptera_physalus:
+    common_name: Balaenoptera_musculus_x_Balaenoptera_physalus
+    conservation: UK
+  Balaenoptera_omurai:
+    common_name: Balaenoptera_omurai
+    conservation: UK
+  Balaenoptera_physalus:
+    common_name: Balaenoptera_physalus
+    conservation: UK
+  Balaenoptera_ricei:
+    common_name: Balaenoptera_ricei
+    conservation: UK
+  Balaenoptera_sp:
+    common_name: Balaenoptera_sp
+    conservation: UK
 ---
-
 # Balaenoptera
 
 Genus containing 11 species.

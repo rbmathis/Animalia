@@ -1,38 +1,19 @@
 ---
-title: "Bathyergidae"
-description: "Family containing 6 genera."
-category: "taxonomy/family"
-tags: ["bathyergidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 10167
-parent: "../breadcrumb.md"
+title: Bathyergidae
+description: Family containing 6 genera.
+category: taxonomy/family
+tags: [bathyergidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 6
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Bathyergus/breadcrumb.md"
-    name: "Bathyergus"
-  - path: "Cryptomys/breadcrumb.md"
-    name: "Cryptomys"
-  - path: "Fukomys/breadcrumb.md"
-    name: "Fukomys"
-  - path: "Georychus/breadcrumb.md"
-    name: "Georychus"
-  - path: "Heliophobius/breadcrumb.md"
-    name: "Heliophobius"
-  - path: "Heterocephalus/breadcrumb.md"
-    name: "Heterocephalus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Bathyergus, Cryptomys, Fukomys, Georychus, Heliophobius, Heterocephalus]
 ---
-
 # Bathyergidae
 
 Family containing 6 genera.

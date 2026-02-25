@@ -1,30 +1,21 @@
 ---
-title: "Frateromys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["frateromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3049459
-parent: "../breadcrumb.md"
+title: Frateromys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [frateromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Frateromys_fratrorum.cs"
-    name: "Frateromys fratrorum"
-    common_name: "Frateromys_fratrorum"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Frateromys_fratrorum:
+    common_name: Frateromys_fratrorum
+    conservation: UK
 ---
-
 # Frateromys
 
 Genus containing 1 species.

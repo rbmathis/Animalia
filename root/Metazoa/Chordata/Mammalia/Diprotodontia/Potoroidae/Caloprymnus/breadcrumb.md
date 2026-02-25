@@ -1,30 +1,21 @@
 ---
-title: "Caloprymnus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["caloprymnus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aepyprymnus/breadcrumb.md", "../Bettongia/breadcrumb.md", "../Hypsiprymnodon/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 223566
-parent: "../breadcrumb.md"
+title: Caloprymnus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [caloprymnus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aepyprymnus/breadcrumb.md, ../Bettongia/breadcrumb.md, ../Hypsiprymnodon/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Caloprymnus_campestris.cs"
-    name: "Caloprymnus campestris"
-    common_name: "Caloprymnus_campestris"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Caloprymnus_campestris:
+    common_name: Caloprymnus_campestris
+    conservation: UK
 ---
-
 # Caloprymnus
 
 Genus containing 1 species.

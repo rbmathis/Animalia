@@ -1,30 +1,21 @@
 ---
-title: "Boneia"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["boneia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 270781
-parent: "../breadcrumb.md"
+title: Boneia
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [boneia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Boneia_bidens.cs"
-    name: "Boneia bidens"
-    common_name: "Boneia_bidens"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Boneia_bidens:
+    common_name: Boneia_bidens
+    conservation: UK
 ---
-
 # Boneia
 
 Genus containing 1 species.

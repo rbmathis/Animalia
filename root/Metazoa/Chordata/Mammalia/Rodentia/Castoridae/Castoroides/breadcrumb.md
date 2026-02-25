@@ -1,30 +1,21 @@
 ---
-title: "Castoroides"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["castoroides", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Castor/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2863006
-parent: "../breadcrumb.md"
+title: Castoroides
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [castoroides, genus]
+status: Living
+updated: 2026-02-23
+related: [../Castor/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Castoroides_ohioensis.cs"
-    name: "Castoroides ohioensis"
-    common_name: "Castoroides_ohioensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Castoroides_ohioensis:
+    common_name: Castoroides_ohioensis
+    conservation: UK
 ---
-
 # Castoroides
 
 Genus containing 1 species.

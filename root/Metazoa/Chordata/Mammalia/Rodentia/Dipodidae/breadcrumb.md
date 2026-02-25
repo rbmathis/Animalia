@@ -1,46 +1,19 @@
 ---
-title: "Dipodidae"
-description: "Family containing 20 genera."
-category: "taxonomy/family"
-tags: ["dipodidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 30648
-parent: "../breadcrumb.md"
+title: Dipodidae
+description: Family containing 20 genera.
+category: taxonomy/family
+tags: [dipodidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 20
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Allactaga/breadcrumb.md"
-    name: "Allactaga"
-  - path: "Allactodipus/breadcrumb.md"
-    name: "Allactodipus"
-  - path: "Cardiocranius/breadcrumb.md"
-    name: "Cardiocranius"
-  - path: "Chimaerodipus/breadcrumb.md"
-    name: "Chimaerodipus"
-  - path: "Dipus/breadcrumb.md"
-    name: "Dipus"
-  - path: "Eozapus/breadcrumb.md"
-    name: "Eozapus"
-  - path: "Eremodipus/breadcrumb.md"
-    name: "Eremodipus"
-  - path: "Euchoreutes/breadcrumb.md"
-    name: "Euchoreutes"
-  - path: "Jaculus/breadcrumb.md"
-    name: "Jaculus"
-  - path: "Napaeozapus/breadcrumb.md"
-    name: "Napaeozapus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Allactaga, Allactodipus, Cardiocranius, Chimaerodipus, Dipus, Eozapus, Eremodipus, Euchoreutes, Jaculus, Napaeozapus]
 ---
-
 # Dipodidae
 
 Family containing 20 genera.

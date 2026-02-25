@@ -1,35 +1,24 @@
 ---
-title: "Galegeeska"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["galegeeska", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Elephantulus/breadcrumb.md", "../Macroscelides/breadcrumb.md", "../Petrodromus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2819854
-parent: "../breadcrumb.md"
+title: Galegeeska
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [galegeeska, genus]
+status: Living
+updated: 2026-02-23
+related: [../Elephantulus/breadcrumb.md, ../Macroscelides/breadcrumb.md, ../Petrodromus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Galegeeska_revoilii.cs"
-    name: "Galegeeska revoilii"
-    common_name: "Galegeeska_revoilii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Galegeeska_rufescens.cs"
-    name: "Galegeeska rufescens"
-    common_name: "Galegeeska_rufescens"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Galegeeska_revoilii:
+    common_name: Galegeeska_revoilii
+    conservation: UK
+  Galegeeska_rufescens:
+    common_name: Galegeeska_rufescens
+    conservation: UK
 ---
-
 # Galegeeska
 
 Genus containing 2 species.

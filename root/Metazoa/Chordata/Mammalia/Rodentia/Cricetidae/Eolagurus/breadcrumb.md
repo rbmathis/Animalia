@@ -1,35 +1,24 @@
 ---
-title: "Eolagurus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["eolagurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 685890
-parent: "../breadcrumb.md"
+title: Eolagurus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [eolagurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Eolagurus_luteus.cs"
-    name: "Eolagurus luteus"
-    common_name: "Eolagurus_luteus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eolagurus_przewalskii.cs"
-    name: "Eolagurus przewalskii"
-    common_name: "Eolagurus_przewalskii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Eolagurus_luteus:
+    common_name: Eolagurus_luteus
+    conservation: UK
+  Eolagurus_przewalskii:
+    common_name: Eolagurus_przewalskii
+    conservation: UK
 ---
-
 # Eolagurus
 
 Genus containing 2 species.

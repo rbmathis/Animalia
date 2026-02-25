@@ -1,32 +1,19 @@
 ---
-title: "Tarsiidae"
-description: "Family containing 3 genera."
-category: "taxonomy/family"
-tags: ["tarsiidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aotidae/breadcrumb.md", "../Atelidae/breadcrumb.md", "../Cebidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9475
-parent: "../breadcrumb.md"
+title: Tarsiidae
+description: Family containing 3 genera.
+category: taxonomy/family
+tags: [tarsiidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Aotidae/breadcrumb.md, ../Atelidae/breadcrumb.md, ../Cebidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 3
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Carlito/breadcrumb.md"
-    name: "Carlito"
-  - path: "Cephalopachus/breadcrumb.md"
-    name: "Cephalopachus"
-  - path: "Tarsius/breadcrumb.md"
-    name: "Tarsius"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Carlito, Cephalopachus, Tarsius]
 ---
-
 # Tarsiidae
 
 Family containing 3 genera.

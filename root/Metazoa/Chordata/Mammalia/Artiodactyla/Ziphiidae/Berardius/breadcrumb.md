@@ -1,40 +1,27 @@
 ---
-title: "Berardius"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["berardius", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Hyperoodon/breadcrumb.md", "../Indopacetus/breadcrumb.md", "../Mesoplodon/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 48741
-parent: "../breadcrumb.md"
+title: Berardius
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [berardius, genus]
+status: Living
+updated: 2026-02-23
+related: [../Hyperoodon/breadcrumb.md, ../Indopacetus/breadcrumb.md, ../Mesoplodon/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Berardius_arnuxii.cs"
-    name: "Berardius arnuxii"
-    common_name: "Berardius_arnuxii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Berardius_bairdii.cs"
-    name: "Berardius bairdii"
-    common_name: "Berardius_bairdii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Berardius_minimus.cs"
-    name: "Berardius minimus"
-    common_name: "Berardius_minimus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Berardius_arnuxii:
+    common_name: Berardius_arnuxii
+    conservation: UK
+  Berardius_bairdii:
+    common_name: Berardius_bairdii
+    conservation: UK
+  Berardius_minimus:
+    common_name: Berardius_minimus
+    conservation: UK
 ---
-
 # Berardius
 
 Genus containing 3 species.

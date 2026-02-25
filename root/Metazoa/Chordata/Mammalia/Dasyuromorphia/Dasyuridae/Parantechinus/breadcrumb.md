@@ -1,30 +1,21 @@
 ---
-title: "Parantechinus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["parantechinus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antechinomys/breadcrumb.md", "../Antechinus/breadcrumb.md", "../Dasycercus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9290
-parent: "../breadcrumb.md"
+title: Parantechinus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [parantechinus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Antechinomys/breadcrumb.md, ../Antechinus/breadcrumb.md, ../Dasycercus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Parantechinus_apicalis.cs"
-    name: "Parantechinus apicalis"
-    common_name: "Parantechinus_apicalis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Parantechinus_apicalis:
+    common_name: Parantechinus_apicalis
+    conservation: UK
 ---
-
 # Parantechinus
 
 Genus containing 1 species.

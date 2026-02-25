@@ -1,46 +1,31 @@
 ---
-title: "Thryonomys"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["thryonomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Thryonomys
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [thryonomys, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10168
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Thryonomys_gregorianus.cs"
-    name: "Thryonomys gregorianus"
-    common_name: "Thryonomys_gregorianus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thryonomys_sp.cs"
-    name: "Thryonomys sp."
-    common_name: "Thryonomys_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thryonomys_sp_ANG0318.cs"
-    name: "Thryonomys sp. ANG0318"
-    common_name: "Thryonomys_sp_ANG0318"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thryonomys_swinderianus.cs"
-    name: "Thryonomys swinderianus"
-    common_name: "Thryonomys_swinderianus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Thryonomys_gregorianus:
+    common_name: Thryonomys_gregorianus
+    conservation: UK
+  Thryonomys_sp:
+    common_name: Thryonomys_sp
+    conservation: UK
+  Thryonomys_sp_ANG0318:
+    common_name: Thryonomys_sp_ANG0318
+    conservation: UK
+  Thryonomys_swinderianus:
+    common_name: Thryonomys_swinderianus
+    conservation: UK
 ---
-
 # Thryonomys
 
 Genus containing 4 species.

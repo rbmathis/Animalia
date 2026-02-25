@@ -1,41 +1,28 @@
 ---
-title: "Connochaetes"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["connochaetes", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9926
-parent: "../breadcrumb.md"
+title: Connochaetes
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [connochaetes, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Connochaetes_gnou.cs"
-    name: "Connochaetes gnou"
-    common_name: "Connochaetes_gnou"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Connochaetes_sp.cs"
-    name: "Connochaetes sp."
-    common_name: "Connochaetes_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Connochaetes_taurinus.cs"
-    name: "Connochaetes taurinus"
-    common_name: "Connochaetes_taurinus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Connochaetes_gnou:
+    common_name: Connochaetes_gnou
+    conservation: UK
+  Connochaetes_sp:
+    common_name: Connochaetes_sp
+    conservation: UK
+  Connochaetes_taurinus:
+    common_name: Connochaetes_taurinus
+    conservation: UK
 ---
-
 # Connochaetes
 
 Genus containing 3 species.

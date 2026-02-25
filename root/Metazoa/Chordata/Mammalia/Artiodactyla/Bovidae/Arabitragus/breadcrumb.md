@@ -1,30 +1,21 @@
 ---
-title: "Arabitragus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["arabitragus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2305161
-parent: "../breadcrumb.md"
+title: Arabitragus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [arabitragus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Arabitragus_jayakari.cs"
-    name: "Arabitragus jayakari"
-    common_name: "Arabitragus_jayakari"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Arabitragus_jayakari:
+    common_name: Arabitragus_jayakari
+    conservation: UK
 ---
-
 # Arabitragus
 
 Genus containing 1 species.

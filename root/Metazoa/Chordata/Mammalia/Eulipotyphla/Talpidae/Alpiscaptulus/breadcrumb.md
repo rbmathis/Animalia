@@ -1,31 +1,22 @@
 ---
-title: "Alpiscaptulus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["alpiscaptulus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Condylura/breadcrumb.md", "../Desmana/breadcrumb.md", "../Dymecodon/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2917337
-parent: "../breadcrumb.md"
+title: Alpiscaptulus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [alpiscaptulus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Condylura/breadcrumb.md, ../Desmana/breadcrumb.md, ../Dymecodon/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Alpiscaptulus_sp_h_CZ_2022.cs"
-    name: "Alpiscaptulus sp. h CZ-2022"
-    common_name: "Alpiscaptulus_sp_h_CZ_2022"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Alpiscaptulus_sp_h_CZ_2022:
+    common_name: Alpiscaptulus_sp_h_CZ_2022
+    conservation: UK
 ---
-
 # Alpiscaptulus
 
 Genus containing 1 species.

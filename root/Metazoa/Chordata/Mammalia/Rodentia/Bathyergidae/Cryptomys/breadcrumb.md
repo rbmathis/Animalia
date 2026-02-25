@@ -1,81 +1,52 @@
 ---
-title: "Cryptomys"
-description: "Genus containing 11 species."
-category: "taxonomy/genus"
-tags: ["cryptomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Bathyergus/breadcrumb.md", "../Fukomys/breadcrumb.md", "../Georychus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10173
-parent: "../breadcrumb.md"
+title: Cryptomys
+description: Genus containing 11 species.
+category: taxonomy/genus
+tags: [cryptomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Bathyergus/breadcrumb.md, ../Fukomys/breadcrumb.md, ../Georychus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 11
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cryptomys_anomalus.cs"
-    name: "Cryptomys anomalus"
-    common_name: "Cryptomys_anomalus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cryptomys_holosericeus.cs"
-    name: "Cryptomys holosericeus"
-    common_name: "Cryptomys_holosericeus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cryptomys_hottentotus.cs"
-    name: "Cryptomys hottentotus"
-    common_name: "Cryptomys_hottentotus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cryptomys_mahali.cs"
-    name: "Cryptomys mahali"
-    common_name: "Cryptomys_mahali"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cryptomys_nimrodi.cs"
-    name: "Cryptomys nimrodi"
-    common_name: "Cryptomys_nimrodi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cryptomys_pretoriae.cs"
-    name: "Cryptomys pretoriae"
-    common_name: "Cryptomys_pretoriae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cryptomys_sp.cs"
-    name: "Cryptomys sp."
-    common_name: "Cryptomys_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cryptomys_sp_H650.cs"
-    name: "Cryptomys sp. H650"
-    common_name: "Cryptomys_sp_H650"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cryptomys_sp_Livingstone.cs"
-    name: "Cryptomys sp. Livingstone"
-    common_name: "Cryptomys_sp_Livingstone"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cryptomys_sp_Sekute.cs"
-    name: "Cryptomys sp. Sekute"
-    common_name: "Cryptomys_sp_Sekute"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cryptomys_sp_Senanga.cs"
-    name: "Cryptomys sp. Senanga"
-    common_name: "Cryptomys_sp_Senanga"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cryptomys_anomalus:
+    common_name: Cryptomys_anomalus
+    conservation: UK
+  Cryptomys_holosericeus:
+    common_name: Cryptomys_holosericeus
+    conservation: UK
+  Cryptomys_hottentotus:
+    common_name: Cryptomys_hottentotus
+    conservation: UK
+  Cryptomys_mahali:
+    common_name: Cryptomys_mahali
+    conservation: UK
+  Cryptomys_nimrodi:
+    common_name: Cryptomys_nimrodi
+    conservation: UK
+  Cryptomys_pretoriae:
+    common_name: Cryptomys_pretoriae
+    conservation: UK
+  Cryptomys_sp:
+    common_name: Cryptomys_sp
+    conservation: UK
+  Cryptomys_sp_H650:
+    common_name: Cryptomys_sp_H650
+    conservation: UK
+  Cryptomys_sp_Livingstone:
+    common_name: Cryptomys_sp_Livingstone
+    conservation: UK
+  Cryptomys_sp_Sekute:
+    common_name: Cryptomys_sp_Sekute
+    conservation: UK
+  Cryptomys_sp_Senanga:
+    common_name: Cryptomys_sp_Senanga
+    conservation: UK
 ---
-
 # Cryptomys
 
 Genus containing 11 species.

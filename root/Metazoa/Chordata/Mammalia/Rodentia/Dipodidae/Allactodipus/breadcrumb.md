@@ -1,30 +1,21 @@
 ---
-title: "Allactodipus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["allactodipus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allactaga/breadcrumb.md", "../Cardiocranius/breadcrumb.md", "../Chimaerodipus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 35735
-parent: "../breadcrumb.md"
+title: Allactodipus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [allactodipus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allactaga/breadcrumb.md, ../Cardiocranius/breadcrumb.md, ../Chimaerodipus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Allactodipus_bobrinskii.cs"
-    name: "Allactodipus bobrinskii"
-    common_name: "Allactodipus_bobrinskii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Allactodipus_bobrinskii:
+    common_name: Allactodipus_bobrinskii
+    conservation: UK
 ---
-
 # Allactodipus
 
 Genus containing 1 species.

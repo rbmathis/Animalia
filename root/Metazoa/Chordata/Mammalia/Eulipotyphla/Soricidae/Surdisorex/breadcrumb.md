@@ -1,35 +1,24 @@
 ---
-title: "Surdisorex"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["surdisorex", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2094177
-parent: "../breadcrumb.md"
+title: Surdisorex
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [surdisorex, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Surdisorex_norae.cs"
-    name: "Surdisorex norae"
-    common_name: "Surdisorex_norae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Surdisorex_polulus.cs"
-    name: "Surdisorex polulus"
-    common_name: "Surdisorex_polulus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Surdisorex_norae:
+    common_name: Surdisorex_norae
+    conservation: UK
+  Surdisorex_polulus:
+    common_name: Surdisorex_polulus
+    conservation: UK
 ---
-
 # Surdisorex
 
 Genus containing 2 species.

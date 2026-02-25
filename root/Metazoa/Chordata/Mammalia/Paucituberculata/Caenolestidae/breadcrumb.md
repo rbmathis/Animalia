@@ -1,32 +1,19 @@
 ---
-title: "Caenolestidae"
-description: "Family containing 3 genera."
-category: "taxonomy/family"
-tags: ["caenolestidae", "family"]
-status: "Living"
-updated: "2026-02-23"
+title: Caenolestidae
+description: Family containing 3 genera.
+category: taxonomy/family
+tags: [caenolestidae, family]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 30659
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 3
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Caenolestes/breadcrumb.md"
-    name: "Caenolestes"
-  - path: "Lestoros/breadcrumb.md"
-    name: "Lestoros"
-  - path: "Rhyncholestes/breadcrumb.md"
-    name: "Rhyncholestes"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Caenolestes, Lestoros, Rhyncholestes]
 ---
-
 # Caenolestidae
 
 Family containing 3 genera.

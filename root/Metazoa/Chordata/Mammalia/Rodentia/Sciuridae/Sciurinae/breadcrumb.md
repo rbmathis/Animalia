@@ -1,23 +1,20 @@
 ---
-title: "Sciurinae"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["sciurinae", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-parent: "../breadcrumb.md"
+title: Sciurinae
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [sciurinae, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-species:
-  - file: "undetermined_Sciuridae_chipmunks.cs"
-    name: "undetermined Sciuridae 'chipmunks'"
-    common_name: "undetermined_Sciuridae_chipmunks"
-    conservation: "Unknown"
-    enriched: false
+species_data:
+  undetermined_Sciuridae_chipmunks:
+    common_name: undetermined_Sciuridae_chipmunks
+    conservation: UK
 ---
-
 # Sciurinae
 
 Genus containing 1 species.

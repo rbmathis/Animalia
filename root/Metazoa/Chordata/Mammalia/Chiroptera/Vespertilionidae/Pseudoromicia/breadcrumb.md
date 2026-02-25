@@ -1,86 +1,55 @@
 ---
-title: "Pseudoromicia"
-description: "Genus containing 12 species."
-category: "taxonomy/genus"
-tags: ["pseudoromicia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2778566
-parent: "../breadcrumb.md"
+title: Pseudoromicia
+description: Genus containing 12 species.
+category: taxonomy/genus
+tags: [pseudoromicia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 12
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pseudoromicia_brunnea.cs"
-    name: "Pseudoromicia brunnea"
-    common_name: "Pseudoromicia_brunnea"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudoromicia_cf_rendalli_SaSt_2013.cs"
-    name: "Pseudoromicia cf. rendalli SaSt-2013"
-    common_name: "Pseudoromicia_cf_rendalli_SaSt_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudoromicia_isabella.cs"
-    name: "Pseudoromicia isabella"
-    common_name: "Pseudoromicia_isabella"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudoromicia_kityoi.cs"
-    name: "Pseudoromicia kityoi"
-    common_name: "Pseudoromicia_kityoi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudoromicia_mbamminkom.cs"
-    name: "Pseudoromicia mbamminkom"
-    common_name: "Pseudoromicia_mbamminkom"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudoromicia_nyanza.cs"
-    name: "Pseudoromicia nyanza"
-    common_name: "Pseudoromicia_nyanza"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudoromicia_principis.cs"
-    name: "Pseudoromicia principis"
-    common_name: "Pseudoromicia_principis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudoromicia_rendalli.cs"
-    name: "Pseudoromicia rendalli"
-    common_name: "Pseudoromicia_rendalli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudoromicia_roseveari.cs"
-    name: "Pseudoromicia roseveari"
-    common_name: "Pseudoromicia_roseveari"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudoromicia_sp.cs"
-    name: "Pseudoromicia sp."
-    common_name: "Pseudoromicia_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudoromicia_sp_Tanzania.cs"
-    name: "Pseudoromicia sp. Tanzania"
-    common_name: "Pseudoromicia_sp_Tanzania"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudoromicia_tenuipinnis.cs"
-    name: "Pseudoromicia tenuipinnis"
-    common_name: "Pseudoromicia_tenuipinnis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pseudoromicia_brunnea:
+    common_name: Pseudoromicia_brunnea
+    conservation: UK
+  Pseudoromicia_cf_rendalli_SaSt_2013:
+    common_name: Pseudoromicia_cf_rendalli_SaSt_2013
+    conservation: UK
+  Pseudoromicia_isabella:
+    common_name: Pseudoromicia_isabella
+    conservation: UK
+  Pseudoromicia_kityoi:
+    common_name: Pseudoromicia_kityoi
+    conservation: UK
+  Pseudoromicia_mbamminkom:
+    common_name: Pseudoromicia_mbamminkom
+    conservation: UK
+  Pseudoromicia_nyanza:
+    common_name: Pseudoromicia_nyanza
+    conservation: UK
+  Pseudoromicia_principis:
+    common_name: Pseudoromicia_principis
+    conservation: UK
+  Pseudoromicia_rendalli:
+    common_name: Pseudoromicia_rendalli
+    conservation: UK
+  Pseudoromicia_roseveari:
+    common_name: Pseudoromicia_roseveari
+    conservation: UK
+  Pseudoromicia_sp:
+    common_name: Pseudoromicia_sp
+    conservation: UK
+  Pseudoromicia_sp_Tanzania:
+    common_name: Pseudoromicia_sp_Tanzania
+    conservation: UK
+  Pseudoromicia_tenuipinnis:
+    common_name: Pseudoromicia_tenuipinnis
+    conservation: UK
 ---
-
 # Pseudoromicia
 
 Genus containing 12 species.

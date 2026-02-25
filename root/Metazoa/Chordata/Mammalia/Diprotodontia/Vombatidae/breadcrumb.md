@@ -1,30 +1,19 @@
 ---
-title: "Vombatidae"
-description: "Family containing 2 genera."
-category: "taxonomy/family"
-tags: ["vombatidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acrobatidae/breadcrumb.md", "../Burramyidae/breadcrumb.md", "../Macropodidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9338
-parent: "../breadcrumb.md"
+title: Vombatidae
+description: Family containing 2 genera.
+category: taxonomy/family
+tags: [vombatidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Acrobatidae/breadcrumb.md, ../Burramyidae/breadcrumb.md, ../Macropodidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Lasiorhinus/breadcrumb.md"
-    name: "Lasiorhinus"
-  - path: "Vombatus/breadcrumb.md"
-    name: "Vombatus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Lasiorhinus, Vombatus]
 ---
-
 # Vombatidae
 
 Family containing 2 genera.

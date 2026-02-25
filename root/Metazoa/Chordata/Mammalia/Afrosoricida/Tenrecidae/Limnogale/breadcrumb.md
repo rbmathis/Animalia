@@ -1,30 +1,21 @@
 ---
-title: "Limnogale"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["limnogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Echinops/breadcrumb.md", "../Geogale/breadcrumb.md", "../Hemicentetes/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 319814
-parent: "../breadcrumb.md"
+title: Limnogale
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [limnogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Echinops/breadcrumb.md, ../Geogale/breadcrumb.md, ../Hemicentetes/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Limnogale_mergulus.cs"
-    name: "Limnogale mergulus"
-    common_name: "Limnogale_mergulus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Limnogale_mergulus:
+    common_name: Limnogale_mergulus
+    conservation: UK
 ---
-
 # Limnogale
 
 Genus containing 1 species.

@@ -1,50 +1,33 @@
 ---
-title: "Ammospermophilus"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["ammospermophilus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Atlantoxerus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 45485
-parent: "../breadcrumb.md"
+title: Ammospermophilus
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [ammospermophilus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Atlantoxerus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ammospermophilus_harrisii.cs"
-    name: "Ammospermophilus harrisii"
-    common_name: "Ammospermophilus_harrisii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ammospermophilus_insularis.cs"
-    name: "Ammospermophilus insularis"
-    common_name: "Ammospermophilus_insularis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ammospermophilus_interpres.cs"
-    name: "Ammospermophilus interpres"
-    common_name: "Ammospermophilus_interpres"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ammospermophilus_leucurus.cs"
-    name: "Ammospermophilus leucurus"
-    common_name: "Ammospermophilus_leucurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ammospermophilus_nelsoni.cs"
-    name: "Ammospermophilus nelsoni"
-    common_name: "Ammospermophilus_nelsoni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ammospermophilus_harrisii:
+    common_name: Ammospermophilus_harrisii
+    conservation: UK
+  Ammospermophilus_insularis:
+    common_name: Ammospermophilus_insularis
+    conservation: UK
+  Ammospermophilus_interpres:
+    common_name: Ammospermophilus_interpres
+    conservation: UK
+  Ammospermophilus_leucurus:
+    common_name: Ammospermophilus_leucurus
+    conservation: UK
+  Ammospermophilus_nelsoni:
+    common_name: Ammospermophilus_nelsoni
+    conservation: UK
 ---
-
 # Ammospermophilus
 
 Genus containing 5 species.

@@ -1,35 +1,24 @@
 ---
-title: "Brachyphylla"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["brachyphylla", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9420
-parent: "../breadcrumb.md"
+title: Brachyphylla
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [brachyphylla, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Brachyphylla_cavernarum.cs"
-    name: "Brachyphylla cavernarum"
-    common_name: "Brachyphylla_cavernarum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Brachyphylla_nana.cs"
-    name: "Brachyphylla nana"
-    common_name: "Brachyphylla_nana"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Brachyphylla_cavernarum:
+    common_name: Brachyphylla_cavernarum
+    conservation: UK
+  Brachyphylla_nana:
+    common_name: Brachyphylla_nana
+    conservation: UK
 ---
-
 # Brachyphylla
 
 Genus containing 2 species.

@@ -1,40 +1,27 @@
 ---
-title: "Lonchorhina"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["lonchorhina", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 148054
-parent: "../breadcrumb.md"
+title: Lonchorhina
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [lonchorhina, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lonchorhina_aurita.cs"
-    name: "Lonchorhina aurita"
-    common_name: "Lonchorhina_aurita"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lonchorhina_inusitata.cs"
-    name: "Lonchorhina inusitata"
-    common_name: "Lonchorhina_inusitata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lonchorhina_orinocensis.cs"
-    name: "Lonchorhina orinocensis"
-    common_name: "Lonchorhina_orinocensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lonchorhina_aurita:
+    common_name: Lonchorhina_aurita
+    conservation: UK
+  Lonchorhina_inusitata:
+    common_name: Lonchorhina_inusitata
+    conservation: UK
+  Lonchorhina_orinocensis:
+    common_name: Lonchorhina_orinocensis
+    conservation: UK
 ---
-
 # Lonchorhina
 
 Genus containing 3 species.

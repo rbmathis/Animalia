@@ -1,66 +1,43 @@
 ---
-title: "Cercocebus"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["cercocebus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allenopithecus/breadcrumb.md", "../Allochrocebus/breadcrumb.md", "../Cercopithecus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9529
-parent: "../breadcrumb.md"
+title: Cercocebus
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [cercocebus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allenopithecus/breadcrumb.md, ../Allochrocebus/breadcrumb.md, ../Cercopithecus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cercocebus_agilis.cs"
-    name: "Cercocebus agilis"
-    common_name: "Cercocebus_agilis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cercocebus_atys.cs"
-    name: "Cercocebus atys"
-    common_name: "Cercocebus_atys"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cercocebus_chrysogaster.cs"
-    name: "Cercocebus chrysogaster"
-    common_name: "Cercocebus_chrysogaster"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cercocebus_galeritus.cs"
-    name: "Cercocebus galeritus"
-    common_name: "Cercocebus_galeritus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cercocebus_lunulatus.cs"
-    name: "Cercocebus lunulatus"
-    common_name: "Cercocebus_lunulatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cercocebus_sp.cs"
-    name: "Cercocebus sp."
-    common_name: "Cercocebus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cercocebus_sp_Y45.cs"
-    name: "Cercocebus sp. Y45"
-    common_name: "Cercocebus_sp_Y45"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cercocebus_torquatus.cs"
-    name: "Cercocebus torquatus"
-    common_name: "Cercocebus_torquatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cercocebus_agilis:
+    common_name: Cercocebus_agilis
+    conservation: UK
+  Cercocebus_atys:
+    common_name: Cercocebus_atys
+    conservation: UK
+  Cercocebus_chrysogaster:
+    common_name: Cercocebus_chrysogaster
+    conservation: UK
+  Cercocebus_galeritus:
+    common_name: Cercocebus_galeritus
+    conservation: UK
+  Cercocebus_lunulatus:
+    common_name: Cercocebus_lunulatus
+    conservation: UK
+  Cercocebus_sp:
+    common_name: Cercocebus_sp
+    conservation: UK
+  Cercocebus_sp_Y45:
+    common_name: Cercocebus_sp_Y45
+    conservation: UK
+  Cercocebus_torquatus:
+    common_name: Cercocebus_torquatus
+    conservation: UK
 ---
-
 # Cercocebus
 
 Genus containing 8 species.

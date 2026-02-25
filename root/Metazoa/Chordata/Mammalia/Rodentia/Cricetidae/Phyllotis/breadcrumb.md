@@ -1,126 +1,79 @@
 ---
-title: "Phyllotis"
-description: "Genus containing 28 species."
-category: "taxonomy/genus"
-tags: ["phyllotis", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 56231
-parent: "../breadcrumb.md"
+title: Phyllotis
+description: Genus containing 28 species.
+category: taxonomy/genus
+tags: [phyllotis, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 28
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Phyllotis_alisosiensis.cs"
-    name: "Phyllotis alisosiensis"
-    common_name: "Phyllotis_alisosiensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_amicus.cs"
-    name: "Phyllotis amicus"
-    common_name: "Phyllotis_amicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_andium.cs"
-    name: "Phyllotis andium"
-    common_name: "Phyllotis_andium"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_anitae.cs"
-    name: "Phyllotis anitae"
-    common_name: "Phyllotis_anitae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_bonariensis.cs"
-    name: "Phyllotis bonariensis"
-    common_name: "Phyllotis_bonariensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_camiari.cs"
-    name: "Phyllotis camiari"
-    common_name: "Phyllotis_camiari"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_caprinus.cs"
-    name: "Phyllotis caprinus"
-    common_name: "Phyllotis_caprinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_darwinii.cs"
-    name: "Phyllotis darwinii"
-    common_name: "Phyllotis_darwinii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_definitus.cs"
-    name: "Phyllotis definitus"
-    common_name: "Phyllotis_definitus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_gerbillus.cs"
-    name: "Phyllotis gerbillus"
-    common_name: "Phyllotis_gerbillus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_haggardi.cs"
-    name: "Phyllotis haggardi"
-    common_name: "Phyllotis_haggardi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_limatus.cs"
-    name: "Phyllotis limatus"
-    common_name: "Phyllotis_limatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_magister.cs"
-    name: "Phyllotis magister"
-    common_name: "Phyllotis_magister"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_osgoodi.cs"
-    name: "Phyllotis osgoodi"
-    common_name: "Phyllotis_osgoodi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_osilae.cs"
-    name: "Phyllotis osilae"
-    common_name: "Phyllotis_osilae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_pearsoni.cs"
-    name: "Phyllotis pearsoni"
-    common_name: "Phyllotis_pearsoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_pehuenche.cs"
-    name: "Phyllotis pehuenche"
-    common_name: "Phyllotis_pehuenche"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_rupestris.cs"
-    name: "Phyllotis rupestris"
-    common_name: "Phyllotis_rupestris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_sp_1_AO_2021.cs"
-    name: "Phyllotis sp. 1 AO-2021"
-    common_name: "Phyllotis_sp_1_AO_2021"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phyllotis_sp_1_GDE_2013.cs"
-    name: "Phyllotis sp. 1 GDE-2013"
-    common_name: "Phyllotis_sp_1_GDE_2013"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Phyllotis_alisosiensis:
+    common_name: Phyllotis_alisosiensis
+    conservation: UK
+  Phyllotis_amicus:
+    common_name: Phyllotis_amicus
+    conservation: UK
+  Phyllotis_andium:
+    common_name: Phyllotis_andium
+    conservation: UK
+  Phyllotis_anitae:
+    common_name: Phyllotis_anitae
+    conservation: UK
+  Phyllotis_bonariensis:
+    common_name: Phyllotis_bonariensis
+    conservation: UK
+  Phyllotis_camiari:
+    common_name: Phyllotis_camiari
+    conservation: UK
+  Phyllotis_caprinus:
+    common_name: Phyllotis_caprinus
+    conservation: UK
+  Phyllotis_darwinii:
+    common_name: Phyllotis_darwinii
+    conservation: UK
+  Phyllotis_definitus:
+    common_name: Phyllotis_definitus
+    conservation: UK
+  Phyllotis_gerbillus:
+    common_name: Phyllotis_gerbillus
+    conservation: UK
+  Phyllotis_haggardi:
+    common_name: Phyllotis_haggardi
+    conservation: UK
+  Phyllotis_limatus:
+    common_name: Phyllotis_limatus
+    conservation: UK
+  Phyllotis_magister:
+    common_name: Phyllotis_magister
+    conservation: UK
+  Phyllotis_osgoodi:
+    common_name: Phyllotis_osgoodi
+    conservation: UK
+  Phyllotis_osilae:
+    common_name: Phyllotis_osilae
+    conservation: UK
+  Phyllotis_pearsoni:
+    common_name: Phyllotis_pearsoni
+    conservation: UK
+  Phyllotis_pehuenche:
+    common_name: Phyllotis_pehuenche
+    conservation: UK
+  Phyllotis_rupestris:
+    common_name: Phyllotis_rupestris
+    conservation: UK
+  Phyllotis_sp_1_AO_2021:
+    common_name: Phyllotis_sp_1_AO_2021
+    conservation: UK
+  Phyllotis_sp_1_GDE_2013:
+    common_name: Phyllotis_sp_1_GDE_2013
+    conservation: UK
 ---
-
 # Phyllotis
 
 Genus containing 28 species.

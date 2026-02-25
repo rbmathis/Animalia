@@ -1,35 +1,24 @@
 ---
-title: "Smutsia"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["smutsia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Manis/breadcrumb.md", "../Phataginus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2736677
-parent: "../breadcrumb.md"
+title: Smutsia
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [smutsia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Manis/breadcrumb.md, ../Phataginus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Smutsia_gigantea.cs"
-    name: "Smutsia gigantea"
-    common_name: "Smutsia_gigantea"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Smutsia_temminckii.cs"
-    name: "Smutsia temminckii"
-    common_name: "Smutsia_temminckii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Smutsia_gigantea:
+    common_name: Smutsia_gigantea
+    conservation: UK
+  Smutsia_temminckii:
+    common_name: Smutsia_temminckii
+    conservation: UK
 ---
-
 # Smutsia
 
 Genus containing 2 species.

@@ -1,45 +1,30 @@
 ---
-title: "Prosciurillus"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["prosciurillus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226566
-parent: "../breadcrumb.md"
+title: Prosciurillus
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [prosciurillus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Prosciurillus_abstrusus.cs"
-    name: "Prosciurillus abstrusus"
-    common_name: "Prosciurillus_abstrusus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Prosciurillus_leucomus.cs"
-    name: "Prosciurillus leucomus"
-    common_name: "Prosciurillus_leucomus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Prosciurillus_murinus.cs"
-    name: "Prosciurillus murinus"
-    common_name: "Prosciurillus_murinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Prosciurillus_weberi.cs"
-    name: "Prosciurillus weberi"
-    common_name: "Prosciurillus_weberi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Prosciurillus_abstrusus:
+    common_name: Prosciurillus_abstrusus
+    conservation: UK
+  Prosciurillus_leucomus:
+    common_name: Prosciurillus_leucomus
+    conservation: UK
+  Prosciurillus_murinus:
+    common_name: Prosciurillus_murinus
+    conservation: UK
+  Prosciurillus_weberi:
+    common_name: Prosciurillus_weberi
+    conservation: UK
 ---
-
 # Prosciurillus
 
 Genus containing 4 species.

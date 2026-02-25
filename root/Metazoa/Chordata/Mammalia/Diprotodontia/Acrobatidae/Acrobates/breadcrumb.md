@@ -1,35 +1,24 @@
 ---
-title: "Acrobates"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["acrobates", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Distoechurus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 190719
-parent: "../breadcrumb.md"
+title: Acrobates
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [acrobates, genus]
+status: Living
+updated: 2026-02-23
+related: [../Distoechurus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Acrobates_frontalis.cs"
-    name: "Acrobates frontalis"
-    common_name: "Acrobates_frontalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Acrobates_pygmaeus.cs"
-    name: "Acrobates pygmaeus"
-    common_name: "Acrobates_pygmaeus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Acrobates_frontalis:
+    common_name: Acrobates_frontalis
+    conservation: UK
+  Acrobates_pygmaeus:
+    common_name: Acrobates_pygmaeus
+    conservation: UK
 ---
-
 # Acrobates
 
 Genus containing 2 species.

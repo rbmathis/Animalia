@@ -1,28 +1,19 @@
 ---
-title: "Mammutidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["mammutidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Elephantidae/breadcrumb.md", "../Gomphotheriidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 3478730
-parent: "../breadcrumb.md"
+title: Mammutidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [mammutidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Elephantidae/breadcrumb.md, ../Gomphotheriidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Mammut/breadcrumb.md"
-    name: "Mammut"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Mammut]
 ---
-
 # Mammutidae
 
 Family containing 1 genera.

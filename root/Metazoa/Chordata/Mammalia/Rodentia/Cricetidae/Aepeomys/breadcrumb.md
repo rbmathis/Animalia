@@ -1,30 +1,21 @@
 ---
-title: "Aepeomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["aepeomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 329887
-parent: "../breadcrumb.md"
+title: Aepeomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [aepeomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Aepeomys_lugens.cs"
-    name: "Aepeomys lugens"
-    common_name: "Aepeomys_lugens"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Aepeomys_lugens:
+    common_name: Aepeomys_lugens
+    conservation: UK
 ---
-
 # Aepeomys
 
 Genus containing 1 species.

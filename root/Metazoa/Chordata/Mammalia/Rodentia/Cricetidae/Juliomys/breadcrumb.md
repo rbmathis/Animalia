@@ -1,86 +1,55 @@
 ---
-title: "Juliomys"
-description: "Genus containing 12 species."
-category: "taxonomy/genus"
-tags: ["juliomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 218788
-parent: "../breadcrumb.md"
+title: Juliomys
+description: Genus containing 12 species.
+category: taxonomy/genus
+tags: [juliomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 12
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Juliomys_ossitenuis.cs"
-    name: "Juliomys ossitenuis"
-    common_name: "Juliomys_ossitenuis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Juliomys_pictipes.cs"
-    name: "Juliomys pictipes"
-    common_name: "Juliomys_pictipes"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Juliomys_rimofrons.cs"
-    name: "Juliomys rimofrons"
-    common_name: "Juliomys_rimofrons"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Juliomys_sp_AB_187.cs"
-    name: "Juliomys sp. AB 187"
-    common_name: "Juliomys_sp_AB_187"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Juliomys_sp_AB_196.cs"
-    name: "Juliomys sp. AB 196"
-    common_name: "Juliomys_sp_AB_196"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Juliomys_sp_AB_258.cs"
-    name: "Juliomys sp. AB 258"
-    common_name: "Juliomys_sp_AB_258"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Juliomys_sp_CMARF_3528.cs"
-    name: "Juliomys sp. CMARF 3528"
-    common_name: "Juliomys_sp_CMARF_3528"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Juliomys_sp_MBML_2783.cs"
-    name: "Juliomys sp. MBML 2783"
-    common_name: "Juliomys_sp_MBML_2783"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Juliomys_sp_MN_69752.cs"
-    name: "Juliomys sp. MN 69752"
-    common_name: "Juliomys_sp_MN_69752"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Juliomys_sp_MZUSP_33170.cs"
-    name: "Juliomys sp. MZUSP 33170"
-    common_name: "Juliomys_sp_MZUSP_33170"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Juliomys_sp_UFMG_3173.cs"
-    name: "Juliomys sp. UFMG 3173"
-    common_name: "Juliomys_sp_UFMG_3173"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Juliomys_ximenezi.cs"
-    name: "Juliomys ximenezi"
-    common_name: "Juliomys_ximenezi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Juliomys_ossitenuis:
+    common_name: Juliomys_ossitenuis
+    conservation: UK
+  Juliomys_pictipes:
+    common_name: Juliomys_pictipes
+    conservation: UK
+  Juliomys_rimofrons:
+    common_name: Juliomys_rimofrons
+    conservation: UK
+  Juliomys_sp_AB_187:
+    common_name: Juliomys_sp_AB_187
+    conservation: UK
+  Juliomys_sp_AB_196:
+    common_name: Juliomys_sp_AB_196
+    conservation: UK
+  Juliomys_sp_AB_258:
+    common_name: Juliomys_sp_AB_258
+    conservation: UK
+  Juliomys_sp_CMARF_3528:
+    common_name: Juliomys_sp_CMARF_3528
+    conservation: UK
+  Juliomys_sp_MBML_2783:
+    common_name: Juliomys_sp_MBML_2783
+    conservation: UK
+  Juliomys_sp_MN_69752:
+    common_name: Juliomys_sp_MN_69752
+    conservation: UK
+  Juliomys_sp_MZUSP_33170:
+    common_name: Juliomys_sp_MZUSP_33170
+    conservation: UK
+  Juliomys_sp_UFMG_3173:
+    common_name: Juliomys_sp_UFMG_3173
+    conservation: UK
+  Juliomys_ximenezi:
+    common_name: Juliomys_ximenezi
+    conservation: UK
 ---
-
 # Juliomys
 
 Genus containing 12 species.

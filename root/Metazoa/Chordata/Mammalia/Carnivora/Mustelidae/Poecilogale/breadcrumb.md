@@ -1,30 +1,21 @@
 ---
-title: "Poecilogale"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["poecilogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aonyx/breadcrumb.md", "../Arctonyx/breadcrumb.md", "../Eira/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 311561
-parent: "../breadcrumb.md"
+title: Poecilogale
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [poecilogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aonyx/breadcrumb.md, ../Arctonyx/breadcrumb.md, ../Eira/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Poecilogale_albinucha.cs"
-    name: "Poecilogale albinucha"
-    common_name: "Poecilogale_albinucha"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Poecilogale_albinucha:
+    common_name: Poecilogale_albinucha
+    conservation: UK
 ---
-
 # Poecilogale
 
 Genus containing 1 species.

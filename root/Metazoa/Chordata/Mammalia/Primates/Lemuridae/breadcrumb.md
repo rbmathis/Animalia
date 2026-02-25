@@ -1,38 +1,19 @@
 ---
-title: "Lemuridae"
-description: "Family containing 6 genera."
-category: "taxonomy/family"
-tags: ["lemuridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aotidae/breadcrumb.md", "../Atelidae/breadcrumb.md", "../Cebidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9445
-parent: "../breadcrumb.md"
+title: Lemuridae
+description: Family containing 6 genera.
+category: taxonomy/family
+tags: [lemuridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Aotidae/breadcrumb.md, ../Atelidae/breadcrumb.md, ../Cebidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 6
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Eulemur/breadcrumb.md"
-    name: "Eulemur"
-  - path: "Hapalemur/breadcrumb.md"
-    name: "Hapalemur"
-  - path: "Lemur/breadcrumb.md"
-    name: "Lemur"
-  - path: "Pachylemur/breadcrumb.md"
-    name: "Pachylemur"
-  - path: "Prolemur/breadcrumb.md"
-    name: "Prolemur"
-  - path: "Varecia/breadcrumb.md"
-    name: "Varecia"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Eulemur, Hapalemur, Lemur, Pachylemur, Prolemur, Varecia]
 ---
-
 # Lemuridae
 
 Family containing 6 genera.

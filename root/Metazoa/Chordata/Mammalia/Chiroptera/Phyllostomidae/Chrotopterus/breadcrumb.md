@@ -1,30 +1,21 @@
 ---
-title: "Chrotopterus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["chrotopterus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 148075
-parent: "../breadcrumb.md"
+title: Chrotopterus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [chrotopterus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chrotopterus_auritus.cs"
-    name: "Chrotopterus auritus"
-    common_name: "Chrotopterus_auritus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chrotopterus_auritus:
+    common_name: Chrotopterus_auritus
+    conservation: UK
 ---
-
 # Chrotopterus
 
 Genus containing 1 species.

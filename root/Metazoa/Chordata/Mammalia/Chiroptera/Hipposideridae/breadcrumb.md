@@ -1,40 +1,19 @@
 ---
-title: "Hipposideridae"
-description: "Family containing 7 genera."
-category: "taxonomy/family"
-tags: ["hipposideridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cistugidae/breadcrumb.md", "../Craseonycteridae/breadcrumb.md", "../Emballonuridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 186994
-parent: "../breadcrumb.md"
+title: Hipposideridae
+description: Family containing 7 genera.
+category: taxonomy/family
+tags: [hipposideridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Cistugidae/breadcrumb.md, ../Craseonycteridae/breadcrumb.md, ../Emballonuridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 7
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Anthops/breadcrumb.md"
-    name: "Anthops"
-  - path: "Asellia/breadcrumb.md"
-    name: "Asellia"
-  - path: "Aselliscus/breadcrumb.md"
-    name: "Aselliscus"
-  - path: "Coelops/breadcrumb.md"
-    name: "Coelops"
-  - path: "Doryrhina/breadcrumb.md"
-    name: "Doryrhina"
-  - path: "Hipposideros/breadcrumb.md"
-    name: "Hipposideros"
-  - path: "Macronycteris/breadcrumb.md"
-    name: "Macronycteris"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Anthops, Asellia, Aselliscus, Coelops, Doryrhina, Hipposideros, Macronycteris]
 ---
-
 # Hipposideridae
 
 Family containing 7 genera.

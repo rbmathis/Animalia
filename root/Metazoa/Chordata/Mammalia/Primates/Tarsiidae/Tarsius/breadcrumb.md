@@ -1,81 +1,52 @@
 ---
-title: "Tarsius"
-description: "Genus containing 11 species."
-category: "taxonomy/genus"
-tags: ["tarsius", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Carlito/breadcrumb.md", "../Cephalopachus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9476
-parent: "../breadcrumb.md"
+title: Tarsius
+description: Genus containing 11 species.
+category: taxonomy/genus
+tags: [tarsius, genus]
+status: Living
+updated: 2026-02-23
+related: [../Carlito/breadcrumb.md, ../Cephalopachus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 11
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tarsius_dentatus.cs"
-    name: "Tarsius dentatus"
-    common_name: "Tarsius_dentatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tarsius_dentatus_x_lariang.cs"
-    name: "Tarsius dentatus x lariang"
-    common_name: "Tarsius_dentatus_x_lariang"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tarsius_fuscus.cs"
-    name: "Tarsius fuscus"
-    common_name: "Tarsius_fuscus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tarsius_lariang.cs"
-    name: "Tarsius lariang"
-    common_name: "Tarsius_lariang"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tarsius_pumilus.cs"
-    name: "Tarsius pumilus"
-    common_name: "Tarsius_pumilus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tarsius_sangirensis.cs"
-    name: "Tarsius sangirensis"
-    common_name: "Tarsius_sangirensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tarsius_sp.cs"
-    name: "Tarsius sp."
-    common_name: "Tarsius_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tarsius_sp_CD_2015.cs"
-    name: "Tarsius sp. CD-2015"
-    common_name: "Tarsius_sp_CD_2015"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tarsius_sp_FFA_2009a.cs"
-    name: "Tarsius sp. FFA-2009a"
-    common_name: "Tarsius_sp_FFA_2009a"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tarsius_tarsier.cs"
-    name: "Tarsius tarsier"
-    common_name: "Tarsius_tarsier"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tarsius_wallacei.cs"
-    name: "Tarsius wallacei"
-    common_name: "Tarsius_wallacei"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tarsius_dentatus:
+    common_name: Tarsius_dentatus
+    conservation: UK
+  Tarsius_dentatus_x_lariang:
+    common_name: Tarsius_dentatus_x_lariang
+    conservation: UK
+  Tarsius_fuscus:
+    common_name: Tarsius_fuscus
+    conservation: UK
+  Tarsius_lariang:
+    common_name: Tarsius_lariang
+    conservation: UK
+  Tarsius_pumilus:
+    common_name: Tarsius_pumilus
+    conservation: UK
+  Tarsius_sangirensis:
+    common_name: Tarsius_sangirensis
+    conservation: UK
+  Tarsius_sp:
+    common_name: Tarsius_sp
+    conservation: UK
+  Tarsius_sp_CD_2015:
+    common_name: Tarsius_sp_CD_2015
+    conservation: UK
+  Tarsius_sp_FFA_2009a:
+    common_name: Tarsius_sp_FFA_2009a
+    conservation: UK
+  Tarsius_tarsier:
+    common_name: Tarsius_tarsier
+    conservation: UK
+  Tarsius_wallacei:
+    common_name: Tarsius_wallacei
+    conservation: UK
 ---
-
 # Tarsius
 
 Genus containing 11 species.

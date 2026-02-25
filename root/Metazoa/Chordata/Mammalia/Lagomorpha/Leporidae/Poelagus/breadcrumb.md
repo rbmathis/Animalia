@@ -1,30 +1,21 @@
 ---
-title: "Poelagus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["poelagus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Brachylagus/breadcrumb.md", "../Bunolagus/breadcrumb.md", "../Caprolagus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 284438
-parent: "../breadcrumb.md"
+title: Poelagus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [poelagus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Brachylagus/breadcrumb.md, ../Bunolagus/breadcrumb.md, ../Caprolagus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Poelagus_marjorita.cs"
-    name: "Poelagus marjorita"
-    common_name: "Poelagus_marjorita"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Poelagus_marjorita:
+    common_name: Poelagus_marjorita
+    conservation: UK
 ---
-
 # Poelagus
 
 Genus containing 1 species.

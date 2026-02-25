@@ -1,46 +1,19 @@
 ---
-title: "Dasyuridae"
-description: "Family containing 17 genera."
-category: "taxonomy/family"
-tags: ["dasyuridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Myrmecobiidae/breadcrumb.md", "../Thylacinidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9277
-parent: "../breadcrumb.md"
+title: Dasyuridae
+description: Family containing 17 genera.
+category: taxonomy/family
+tags: [dasyuridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Myrmecobiidae/breadcrumb.md, ../Thylacinidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 17
 species_count: 1
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Antechinomys/breadcrumb.md"
-    name: "Antechinomys"
-  - path: "Antechinus/breadcrumb.md"
-    name: "Antechinus"
-  - path: "Dasycercus/breadcrumb.md"
-    name: "Dasycercus"
-  - path: "Dasykaluta/breadcrumb.md"
-    name: "Dasykaluta"
-  - path: "Dasyuroides/breadcrumb.md"
-    name: "Dasyuroides"
-  - path: "Dasyurus/breadcrumb.md"
-    name: "Dasyurus"
-  - path: "Murexia/breadcrumb.md"
-    name: "Murexia"
-  - path: "Myoictis/breadcrumb.md"
-    name: "Myoictis"
-  - path: "Neophascogale/breadcrumb.md"
-    name: "Neophascogale"
-  - path: "Ningaui/breadcrumb.md"
-    name: "Ningaui"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Antechinomys, Antechinus, Dasycercus, Dasykaluta, Dasyuroides, Dasyurus, Murexia, Myoictis, Neophascogale, Ningaui]
 ---
-
 # Dasyuridae
 
 Family containing 17 genera.

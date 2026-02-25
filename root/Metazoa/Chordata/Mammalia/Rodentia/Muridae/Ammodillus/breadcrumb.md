@@ -1,30 +1,21 @@
 ---
-title: "Ammodillus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["ammodillus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2993826
-parent: "../breadcrumb.md"
+title: Ammodillus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [ammodillus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ammodillus_imbellis.cs"
-    name: "Ammodillus imbellis"
-    common_name: "Ammodillus_imbellis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ammodillus_imbellis:
+    common_name: Ammodillus_imbellis
+    conservation: UK
 ---
-
 # Ammodillus
 
 Genus containing 1 species.

@@ -1,28 +1,19 @@
 ---
-title: "Noctilionidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["noctilionidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cistugidae/breadcrumb.md", "../Craseonycteridae/breadcrumb.md", "../Emballonuridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 94957
-parent: "../breadcrumb.md"
+title: Noctilionidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [noctilionidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Cistugidae/breadcrumb.md, ../Craseonycteridae/breadcrumb.md, ../Emballonuridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Noctilio/breadcrumb.md"
-    name: "Noctilio"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Noctilio]
 ---
-
 # Noctilionidae
 
 Family containing 1 genera.

@@ -1,30 +1,21 @@
 ---
-title: "Pseudorca"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["pseudorca", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cephalorhynchus/breadcrumb.md", "../Delphinus/breadcrumb.md", "../Feresa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 82173
-parent: "../breadcrumb.md"
+title: Pseudorca
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [pseudorca, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cephalorhynchus/breadcrumb.md, ../Delphinus/breadcrumb.md, ../Feresa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pseudorca_crassidens.cs"
-    name: "Pseudorca crassidens"
-    common_name: "Pseudorca_crassidens"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pseudorca_crassidens:
+    common_name: Pseudorca_crassidens
+    conservation: UK
 ---
-
 # Pseudorca
 
 Genus containing 1 species.

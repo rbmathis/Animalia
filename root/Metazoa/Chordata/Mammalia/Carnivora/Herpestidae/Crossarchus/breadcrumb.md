@@ -1,45 +1,30 @@
 ---
-title: "Crossarchus"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["crossarchus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atilax/breadcrumb.md", "../Bdeogale/breadcrumb.md", "../Cynictis/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 71110
-parent: "../breadcrumb.md"
+title: Crossarchus
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [crossarchus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atilax/breadcrumb.md, ../Bdeogale/breadcrumb.md, ../Cynictis/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Crossarchus_alexandri.cs"
-    name: "Crossarchus alexandri"
-    common_name: "Crossarchus_alexandri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crossarchus_ansorgei.cs"
-    name: "Crossarchus ansorgei"
-    common_name: "Crossarchus_ansorgei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crossarchus_obscurus.cs"
-    name: "Crossarchus obscurus"
-    common_name: "Crossarchus_obscurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crossarchus_platycephalus.cs"
-    name: "Crossarchus platycephalus"
-    common_name: "Crossarchus_platycephalus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Crossarchus_alexandri:
+    common_name: Crossarchus_alexandri
+    conservation: UK
+  Crossarchus_ansorgei:
+    common_name: Crossarchus_ansorgei
+    conservation: UK
+  Crossarchus_obscurus:
+    common_name: Crossarchus_obscurus
+    conservation: UK
+  Crossarchus_platycephalus:
+    common_name: Crossarchus_platycephalus
+    conservation: UK
 ---
-
 # Crossarchus
 
 Genus containing 4 species.

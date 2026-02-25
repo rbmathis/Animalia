@@ -1,45 +1,30 @@
 ---
-title: "Galerella"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["galerella", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atilax/breadcrumb.md", "../Bdeogale/breadcrumb.md", "../Crossarchus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 55051
-parent: "../breadcrumb.md"
+title: Galerella
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [galerella, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atilax/breadcrumb.md, ../Bdeogale/breadcrumb.md, ../Crossarchus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Galerella_nigrata.cs"
-    name: "Galerella nigrata"
-    common_name: "Galerella_nigrata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Galerella_nigrata_x_sanguinea.cs"
-    name: "Galerella nigrata x sanguinea"
-    common_name: "Galerella_nigrata_x_sanguinea"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Galerella_pulverulenta.cs"
-    name: "Galerella pulverulenta"
-    common_name: "Galerella_pulverulenta"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Galerella_sanguinea.cs"
-    name: "Galerella sanguinea"
-    common_name: "Galerella_sanguinea"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Galerella_nigrata:
+    common_name: Galerella_nigrata
+    conservation: UK
+  Galerella_nigrata_x_sanguinea:
+    common_name: Galerella_nigrata_x_sanguinea
+    conservation: UK
+  Galerella_pulverulenta:
+    common_name: Galerella_pulverulenta
+    conservation: UK
+  Galerella_sanguinea:
+    common_name: Galerella_sanguinea
+    conservation: UK
 ---
-
 # Galerella
 
 Genus containing 4 species.

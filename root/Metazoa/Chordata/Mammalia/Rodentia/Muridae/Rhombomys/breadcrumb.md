@@ -1,30 +1,21 @@
 ---
-title: "Rhombomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["rhombomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 186473
-parent: "../breadcrumb.md"
+title: Rhombomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [rhombomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rhombomys_opimus.cs"
-    name: "Rhombomys opimus"
-    common_name: "Rhombomys_opimus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rhombomys_opimus:
+    common_name: Rhombomys_opimus
+    conservation: UK
 ---
-
 # Rhombomys
 
 Genus containing 1 species.

@@ -1,80 +1,51 @@
 ---
-title: "Nomascus"
-description: "Genus containing 11 species."
-category: "taxonomy/genus"
-tags: ["nomascus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Hoolock/breadcrumb.md", "../Hylobates/breadcrumb.md", "../Symphalangus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 325165
-parent: "../breadcrumb.md"
+title: Nomascus
+description: Genus containing 11 species.
+category: taxonomy/genus
+tags: [nomascus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Hoolock/breadcrumb.md, ../Hylobates/breadcrumb.md, ../Symphalangus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 11
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Nomascus_annamensis.cs"
-    name: "Nomascus annamensis"
-    common_name: "Nomascus_annamensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nomascus_cf_leucogenys_SSH_2018.cs"
-    name: "Nomascus cf. leucogenys SSH-2018"
-    common_name: "Nomascus_cf_leucogenys_SSH_2018"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nomascus_concolor.cs"
-    name: "Nomascus concolor"
-    common_name: "Nomascus_concolor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nomascus_gabriellae.cs"
-    name: "Nomascus gabriellae"
-    common_name: "Nomascus_gabriellae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nomascus_gabriellae_x_Nomascus_siki.cs"
-    name: "Nomascus gabriellae x Nomascus siki"
-    common_name: "Nomascus_gabriellae_x_Nomascus_siki"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nomascus_hainanus.cs"
-    name: "Nomascus hainanus"
-    common_name: "Nomascus_hainanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nomascus_leucogenys.cs"
-    name: "Nomascus leucogenys"
-    common_name: "Nomascus_leucogenys"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nomascus_leucogenys_x_Nomascus_gabriellae.cs"
-    name: "Nomascus leucogenys x Nomascus gabriellae"
-    common_name: "Nomascus_leucogenys_x_Nomascus_gabriellae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nomascus_leucogenys_x_Nomascus_siki.cs"
-    name: "Nomascus leucogenys x Nomascus siki"
-    common_name: "Nomascus_leucogenys_x_Nomascus_siki"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nomascus_nasutus.cs"
-    name: "Nomascus nasutus"
-    common_name: "Nomascus_nasutus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nomascus_siki.cs"
-    name: "Nomascus siki"
-    common_name: "Nomascus_siki"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Nomascus_annamensis:
+    common_name: Nomascus_annamensis
+    conservation: UK
+  Nomascus_cf_leucogenys_SSH_2018:
+    common_name: Nomascus_cf_leucogenys_SSH_2018
+    conservation: UK
+  Nomascus_concolor:
+    common_name: Nomascus_concolor
+    conservation: UK
+  Nomascus_gabriellae:
+    common_name: Nomascus_gabriellae
+    conservation: UK
+  Nomascus_gabriellae_x_Nomascus_siki:
+    common_name: Nomascus_gabriellae_x_Nomascus_siki
+    conservation: UK
+  Nomascus_hainanus:
+    common_name: Nomascus_hainanus
+    conservation: UK
+  Nomascus_leucogenys:
+    common_name: Nomascus_leucogenys
+    conservation: UK
+  Nomascus_leucogenys_x_Nomascus_gabriellae:
+    common_name: Nomascus_leucogenys_x_Nomascus_gabriellae
+    conservation: UK
+  Nomascus_leucogenys_x_Nomascus_siki:
+    common_name: Nomascus_leucogenys_x_Nomascus_siki
+    conservation: UK
+  Nomascus_nasutus:
+    common_name: Nomascus_nasutus
+    conservation: UK
+  Nomascus_siki:
+    common_name: Nomascus_siki
+    conservation: UK
 ---
-
 # Nomascus
 
 Genus containing 11 species.

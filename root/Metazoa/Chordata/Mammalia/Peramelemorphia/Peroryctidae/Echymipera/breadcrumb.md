@@ -1,40 +1,27 @@
 ---
-title: "Echymipera"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["echymipera", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Microperoryctes/breadcrumb.md", "../Peroryctes/breadcrumb.md", "../Rhynchomeles/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 42732
-parent: "../breadcrumb.md"
+title: Echymipera
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [echymipera, genus]
+status: Living
+updated: 2026-02-23
+related: [../Microperoryctes/breadcrumb.md, ../Peroryctes/breadcrumb.md, ../Rhynchomeles/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Echymipera_clara.cs"
-    name: "Echymipera clara"
-    common_name: "Echymipera_clara"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Echymipera_kalubu.cs"
-    name: "Echymipera kalubu"
-    common_name: "Echymipera_kalubu"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Echymipera_rufescens.cs"
-    name: "Echymipera rufescens"
-    common_name: "Echymipera_rufescens"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Echymipera_clara:
+    common_name: Echymipera_clara
+    conservation: UK
+  Echymipera_kalubu:
+    common_name: Echymipera_kalubu
+    conservation: UK
+  Echymipera_rufescens:
+    common_name: Echymipera_rufescens
+    conservation: UK
 ---
-
 # Echymipera
 
 Genus containing 3 species.

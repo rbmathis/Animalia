@@ -1,30 +1,21 @@
 ---
-title: "Megalonyx"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["megalonyx", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acratocnus/breadcrumb.md", "../Choloepus/breadcrumb.md", "../Neocnus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2546667
-parent: "../breadcrumb.md"
+title: Megalonyx
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [megalonyx, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acratocnus/breadcrumb.md, ../Choloepus/breadcrumb.md, ../Neocnus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Megalonyx_jeffersonii.cs"
-    name: "Megalonyx jeffersonii"
-    common_name: "Megalonyx_jeffersonii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Megalonyx_jeffersonii:
+    common_name: Megalonyx_jeffersonii
+    conservation: UK
 ---
-
 # Megalonyx
 
 Genus containing 1 species.

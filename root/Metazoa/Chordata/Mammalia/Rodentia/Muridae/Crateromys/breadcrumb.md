@@ -1,40 +1,27 @@
 ---
-title: "Crateromys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["crateromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 349700
-parent: "../breadcrumb.md"
+title: Crateromys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [crateromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Crateromys_australis.cs"
-    name: "Crateromys australis"
-    common_name: "Crateromys_australis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crateromys_heaneyi.cs"
-    name: "Crateromys heaneyi"
-    common_name: "Crateromys_heaneyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Crateromys_schadenbergi.cs"
-    name: "Crateromys schadenbergi"
-    common_name: "Crateromys_schadenbergi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Crateromys_australis:
+    common_name: Crateromys_australis
+    conservation: UK
+  Crateromys_heaneyi:
+    common_name: Crateromys_heaneyi
+    conservation: UK
+  Crateromys_schadenbergi:
+    common_name: Crateromys_schadenbergi
+    conservation: UK
 ---
-
 # Crateromys
 
 Genus containing 3 species.

@@ -1,81 +1,52 @@
 ---
-title: "Callicebus"
-description: "Genus containing 11 species."
-category: "taxonomy/genus"
-tags: ["callicebus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cacajao/breadcrumb.md", "../Cheracebus/breadcrumb.md", "../Chiropotes/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9522
-parent: "../breadcrumb.md"
+title: Callicebus
+description: Genus containing 11 species.
+category: taxonomy/genus
+tags: [callicebus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cacajao/breadcrumb.md, ../Cheracebus/breadcrumb.md, ../Chiropotes/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 11
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Callicebus_caquetensis.cs"
-    name: "Callicebus caquetensis"
-    common_name: "Callicebus_caquetensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callicebus_coimbrai.cs"
-    name: "Callicebus coimbrai"
-    common_name: "Callicebus_coimbrai"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callicebus_dubius.cs"
-    name: "Callicebus dubius"
-    common_name: "Callicebus_dubius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callicebus_nigrifrons.cs"
-    name: "Callicebus nigrifrons"
-    common_name: "Callicebus_nigrifrons"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callicebus_ornatus.cs"
-    name: "Callicebus ornatus"
-    common_name: "Callicebus_ornatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callicebus_personatus.cs"
-    name: "Callicebus personatus"
-    common_name: "Callicebus_personatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callicebus_sp.cs"
-    name: "Callicebus sp."
-    common_name: "Callicebus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callicebus_sp_1_MH_2016.cs"
-    name: "Callicebus sp. 1 MH-2016"
-    common_name: "Callicebus_sp_1_MH_2016"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callicebus_sp_2_MH_2016.cs"
-    name: "Callicebus sp. 2 MH-2016"
-    common_name: "Callicebus_sp_2_MH_2016"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callicebus_sp_MAS_2011.cs"
-    name: "Callicebus sp. MAS-2011"
-    common_name: "Callicebus_sp_MAS_2011"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callicebus_sp_n_GD_2019.cs"
-    name: "Callicebus sp. n. GD-2019"
-    common_name: "Callicebus_sp_n_GD_2019"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Callicebus_caquetensis:
+    common_name: Callicebus_caquetensis
+    conservation: UK
+  Callicebus_coimbrai:
+    common_name: Callicebus_coimbrai
+    conservation: UK
+  Callicebus_dubius:
+    common_name: Callicebus_dubius
+    conservation: UK
+  Callicebus_nigrifrons:
+    common_name: Callicebus_nigrifrons
+    conservation: UK
+  Callicebus_ornatus:
+    common_name: Callicebus_ornatus
+    conservation: UK
+  Callicebus_personatus:
+    common_name: Callicebus_personatus
+    conservation: UK
+  Callicebus_sp:
+    common_name: Callicebus_sp
+    conservation: UK
+  Callicebus_sp_1_MH_2016:
+    common_name: Callicebus_sp_1_MH_2016
+    conservation: UK
+  Callicebus_sp_2_MH_2016:
+    common_name: Callicebus_sp_2_MH_2016
+    conservation: UK
+  Callicebus_sp_MAS_2011:
+    common_name: Callicebus_sp_MAS_2011
+    conservation: UK
+  Callicebus_sp_n_GD_2019:
+    common_name: Callicebus_sp_n_GD_2019
+    conservation: UK
 ---
-
 # Callicebus
 
 Genus containing 11 species.

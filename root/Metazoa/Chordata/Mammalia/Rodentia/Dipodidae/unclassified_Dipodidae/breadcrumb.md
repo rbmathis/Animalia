@@ -1,23 +1,20 @@
 ---
-title: "unclassified_Dipodidae"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["unclassified_dipodidae", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allactaga/breadcrumb.md", "../Allactodipus/breadcrumb.md", "../Cardiocranius/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-parent: "../breadcrumb.md"
+title: unclassified_Dipodidae
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [unclassified_dipodidae, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allactaga/breadcrumb.md, ../Allactodipus/breadcrumb.md, ../Cardiocranius/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-species:
-  - file: "Dipodidae_sp_ETBM022_11.cs"
-    name: "Dipodidae sp. ETBM022-11"
-    common_name: "Dipodidae_sp_ETBM022_11"
-    conservation: "Unknown"
-    enriched: false
+species_data:
+  Dipodidae_sp_ETBM022_11:
+    common_name: Dipodidae_sp_ETBM022_11
+    conservation: UK
 ---
-
 # unclassified_Dipodidae
 
 Genus containing 1 species.

@@ -1,55 +1,36 @@
 ---
-title: "Cheracebus"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["cheracebus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cacajao/breadcrumb.md", "../Callicebus/breadcrumb.md", "../Chiropotes/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1812102
-parent: "../breadcrumb.md"
+title: Cheracebus
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [cheracebus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cacajao/breadcrumb.md, ../Callicebus/breadcrumb.md, ../Chiropotes/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cheracebus_lucifer.cs"
-    name: "Cheracebus lucifer"
-    common_name: "Cheracebus_lucifer"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cheracebus_lugens.cs"
-    name: "Cheracebus lugens"
-    common_name: "Cheracebus_lugens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cheracebus_medemi.cs"
-    name: "Cheracebus medemi"
-    common_name: "Cheracebus_medemi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cheracebus_purinus.cs"
-    name: "Cheracebus purinus"
-    common_name: "Cheracebus_purinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cheracebus_regulus.cs"
-    name: "Cheracebus regulus"
-    common_name: "Cheracebus_regulus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cheracebus_torquatus.cs"
-    name: "Cheracebus torquatus"
-    common_name: "Cheracebus_torquatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cheracebus_lucifer:
+    common_name: Cheracebus_lucifer
+    conservation: UK
+  Cheracebus_lugens:
+    common_name: Cheracebus_lugens
+    conservation: UK
+  Cheracebus_medemi:
+    common_name: Cheracebus_medemi
+    conservation: UK
+  Cheracebus_purinus:
+    common_name: Cheracebus_purinus
+    conservation: UK
+  Cheracebus_regulus:
+    common_name: Cheracebus_regulus
+    conservation: UK
+  Cheracebus_torquatus:
+    common_name: Cheracebus_torquatus
+    conservation: UK
 ---
-
 # Cheracebus
 
 Genus containing 6 species.

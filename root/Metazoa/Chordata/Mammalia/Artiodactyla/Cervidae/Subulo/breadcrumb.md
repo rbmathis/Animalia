@@ -1,30 +1,21 @@
 ---
-title: "Subulo"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["subulo", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alces/breadcrumb.md", "../Axis/breadcrumb.md", "../Bisbalus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3042400
-parent: "../breadcrumb.md"
+title: Subulo
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [subulo, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alces/breadcrumb.md, ../Axis/breadcrumb.md, ../Bisbalus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Subulo_gouazoubira.cs"
-    name: "Subulo gouazoubira"
-    common_name: "Subulo_gouazoubira"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Subulo_gouazoubira:
+    common_name: Subulo_gouazoubira
+    conservation: UK
 ---
-
 # Subulo
 
 Genus containing 1 species.

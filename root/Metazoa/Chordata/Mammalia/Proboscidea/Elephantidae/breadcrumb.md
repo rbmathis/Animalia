@@ -1,34 +1,19 @@
 ---
-title: "Elephantidae"
-description: "Family containing 4 genera."
-category: "taxonomy/family"
-tags: ["elephantidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Gomphotheriidae/breadcrumb.md", "../Mammutidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9780
-parent: "../breadcrumb.md"
+title: Elephantidae
+description: Family containing 4 genera.
+category: taxonomy/family
+tags: [elephantidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Gomphotheriidae/breadcrumb.md, ../Mammutidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 4
 species_count: 1
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Elephas/breadcrumb.md"
-    name: "Elephas"
-  - path: "Loxodonta/breadcrumb.md"
-    name: "Loxodonta"
-  - path: "Mammuthus/breadcrumb.md"
-    name: "Mammuthus"
-  - path: "Palaeoloxodon/breadcrumb.md"
-    name: "Palaeoloxodon"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Elephas, Loxodonta, Mammuthus, Palaeoloxodon]
 ---
-
 # Elephantidae
 
 Family containing 4 genera.

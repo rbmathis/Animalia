@@ -1,31 +1,22 @@
 ---
-title: "Glyptodon"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["glyptodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cabassous/breadcrumb.md", "../Calyptophractus/breadcrumb.md", "../Chaetophractus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2546652
-parent: "../breadcrumb.md"
+title: Glyptodon
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [glyptodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cabassous/breadcrumb.md, ../Calyptophractus/breadcrumb.md, ../Chaetophractus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Glyptodon_sp_SLP_2019.cs"
-    name: "Glyptodon sp. SLP-2019"
-    common_name: "Glyptodon_sp_SLP_2019"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Glyptodon_sp_SLP_2019:
+    common_name: Glyptodon_sp_SLP_2019
+    conservation: UK
 ---
-
 # Glyptodon
 
 Genus containing 1 species.

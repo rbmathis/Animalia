@@ -1,35 +1,24 @@
 ---
-title: "Mammut"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["mammut", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Mammut
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [mammut, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 39051
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mammut_americanum.cs"
-    name: "Mammut americanum"
-    common_name: "Mammut_americanum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mammut_pacificus.cs"
-    name: "Mammut pacificus"
-    common_name: "Mammut_pacificus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mammut_americanum:
+    common_name: Mammut_americanum
+    conservation: UK
+  Mammut_pacificus:
+    common_name: Mammut_pacificus
+    conservation: UK
 ---
-
 # Mammut
 
 Genus containing 2 species.

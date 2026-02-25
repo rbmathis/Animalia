@@ -1,30 +1,21 @@
 ---
-title: "Mirzamys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["mirzamys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3148841
-parent: "../breadcrumb.md"
+title: Mirzamys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [mirzamys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mirzamys_louiseae.cs"
-    name: "Mirzamys louiseae"
-    common_name: "Mirzamys_louiseae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mirzamys_louiseae:
+    common_name: Mirzamys_louiseae
+    conservation: UK
 ---
-
 # Mirzamys
 
 Genus containing 1 species.

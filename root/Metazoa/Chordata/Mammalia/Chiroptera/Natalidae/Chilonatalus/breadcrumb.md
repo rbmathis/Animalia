@@ -1,35 +1,24 @@
 ---
-title: "Chilonatalus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["chilonatalus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Natalus/breadcrumb.md", "../Nyctiellus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 290567
-parent: "../breadcrumb.md"
+title: Chilonatalus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [chilonatalus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Natalus/breadcrumb.md, ../Nyctiellus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chilonatalus_micropus.cs"
-    name: "Chilonatalus micropus"
-    common_name: "Chilonatalus_micropus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chilonatalus_tumidifrons.cs"
-    name: "Chilonatalus tumidifrons"
-    common_name: "Chilonatalus_tumidifrons"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chilonatalus_micropus:
+    common_name: Chilonatalus_micropus
+    conservation: UK
+  Chilonatalus_tumidifrons:
+    common_name: Chilonatalus_tumidifrons
+    conservation: UK
 ---
-
 # Chilonatalus
 
 Genus containing 2 species.

@@ -1,30 +1,19 @@
 ---
-title: "Ochotonidae"
-description: "Family containing 2 genera."
-category: "taxonomy/family"
-tags: ["ochotonidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Leporidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9976
-parent: "../breadcrumb.md"
+title: Ochotonidae
+description: Family containing 2 genera.
+category: taxonomy/family
+tags: [ochotonidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Leporidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Ochotona/breadcrumb.md"
-    name: "Ochotona"
-  - path: "Prolagus/breadcrumb.md"
-    name: "Prolagus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Ochotona, Prolagus]
 ---
-
 # Ochotonidae
 
 Family containing 2 genera.

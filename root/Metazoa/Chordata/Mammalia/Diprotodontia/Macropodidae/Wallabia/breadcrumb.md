@@ -1,30 +1,21 @@
 ---
-title: "Wallabia"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["wallabia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dendrolagus/breadcrumb.md", "../Dorcopsis/breadcrumb.md", "../Dorcopsulus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9329
-parent: "../breadcrumb.md"
+title: Wallabia
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [wallabia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dendrolagus/breadcrumb.md, ../Dorcopsis/breadcrumb.md, ../Dorcopsulus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Wallabia_bicolor.cs"
-    name: "Wallabia bicolor"
-    common_name: "Wallabia_bicolor"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Wallabia_bicolor:
+    common_name: Wallabia_bicolor
+    conservation: UK
 ---
-
 # Wallabia
 
 Genus containing 1 species.

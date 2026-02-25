@@ -1,30 +1,19 @@
 ---
-title: "Rhinolophidae"
-description: "Family containing 2 genera."
-category: "taxonomy/family"
-tags: ["rhinolophidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cistugidae/breadcrumb.md", "../Craseonycteridae/breadcrumb.md", "../Emballonuridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 58055
-parent: "../breadcrumb.md"
+title: Rhinolophidae
+description: Family containing 2 genera.
+category: taxonomy/family
+tags: [rhinolophidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Cistugidae/breadcrumb.md, ../Craseonycteridae/breadcrumb.md, ../Emballonuridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Rhinolophus/breadcrumb.md"
-    name: "Rhinolophus"
-  - path: "unclassified_Rhinolophidae/breadcrumb.md"
-    name: "unclassified_Rhinolophidae"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Rhinolophus, unclassified_Rhinolophidae]
 ---
-
 # Rhinolophidae
 
 Family containing 2 genera.

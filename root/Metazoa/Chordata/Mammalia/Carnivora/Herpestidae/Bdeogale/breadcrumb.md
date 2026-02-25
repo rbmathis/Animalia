@@ -1,40 +1,27 @@
 ---
-title: "Bdeogale"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["bdeogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atilax/breadcrumb.md", "../Crossarchus/breadcrumb.md", "../Cynictis/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 326575
-parent: "../breadcrumb.md"
+title: Bdeogale
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [bdeogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atilax/breadcrumb.md, ../Crossarchus/breadcrumb.md, ../Cynictis/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Bdeogale_crassicauda.cs"
-    name: "Bdeogale crassicauda"
-    common_name: "Bdeogale_crassicauda"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bdeogale_jacksoni.cs"
-    name: "Bdeogale jacksoni"
-    common_name: "Bdeogale_jacksoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bdeogale_nigripes.cs"
-    name: "Bdeogale nigripes"
-    common_name: "Bdeogale_nigripes"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Bdeogale_crassicauda:
+    common_name: Bdeogale_crassicauda
+    conservation: UK
+  Bdeogale_jacksoni:
+    common_name: Bdeogale_jacksoni
+    conservation: UK
+  Bdeogale_nigripes:
+    common_name: Bdeogale_nigripes
+    conservation: UK
 ---
-
 # Bdeogale
 
 Genus containing 3 species.

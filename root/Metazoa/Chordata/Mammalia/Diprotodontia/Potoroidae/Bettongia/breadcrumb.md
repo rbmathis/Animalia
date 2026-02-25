@@ -1,50 +1,33 @@
 ---
-title: "Bettongia"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["bettongia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aepyprymnus/breadcrumb.md", "../Caloprymnus/breadcrumb.md", "../Hypsiprymnodon/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 65620
-parent: "../breadcrumb.md"
+title: Bettongia
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [bettongia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aepyprymnus/breadcrumb.md, ../Caloprymnus/breadcrumb.md, ../Hypsiprymnodon/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Bettongia_anhydra.cs"
-    name: "Bettongia anhydra"
-    common_name: "Bettongia_anhydra"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bettongia_gaimardi.cs"
-    name: "Bettongia gaimardi"
-    common_name: "Bettongia_gaimardi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bettongia_lesueur.cs"
-    name: "Bettongia lesueur"
-    common_name: "Bettongia_lesueur"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bettongia_penicillata.cs"
-    name: "Bettongia penicillata"
-    common_name: "Bettongia_penicillata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bettongia_tropica.cs"
-    name: "Bettongia tropica"
-    common_name: "Bettongia_tropica"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Bettongia_anhydra:
+    common_name: Bettongia_anhydra
+    conservation: UK
+  Bettongia_gaimardi:
+    common_name: Bettongia_gaimardi
+    conservation: UK
+  Bettongia_lesueur:
+    common_name: Bettongia_lesueur
+    conservation: UK
+  Bettongia_penicillata:
+    common_name: Bettongia_penicillata
+    conservation: UK
+  Bettongia_tropica:
+    common_name: Bettongia_tropica
+    conservation: UK
 ---
-
 # Bettongia
 
 Genus containing 5 species.

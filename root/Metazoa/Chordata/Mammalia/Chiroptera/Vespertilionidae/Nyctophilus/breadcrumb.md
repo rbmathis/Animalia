@@ -1,70 +1,45 @@
 ---
-title: "Nyctophilus"
-description: "Genus containing 9 species."
-category: "taxonomy/genus"
-tags: ["nyctophilus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 59470
-parent: "../breadcrumb.md"
+title: Nyctophilus
+description: Genus containing 9 species.
+category: taxonomy/genus
+tags: [nyctophilus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 9
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Nyctophilus_arnhemensis.cs"
-    name: "Nyctophilus arnhemensis"
-    common_name: "Nyctophilus_arnhemensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nyctophilus_bifax.cs"
-    name: "Nyctophilus bifax"
-    common_name: "Nyctophilus_bifax"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nyctophilus_corbeni.cs"
-    name: "Nyctophilus corbeni"
-    common_name: "Nyctophilus_corbeni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nyctophilus_daedalus.cs"
-    name: "Nyctophilus daedalus"
-    common_name: "Nyctophilus_daedalus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nyctophilus_geoffroyi.cs"
-    name: "Nyctophilus geoffroyi"
-    common_name: "Nyctophilus_geoffroyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nyctophilus_gouldi.cs"
-    name: "Nyctophilus gouldi"
-    common_name: "Nyctophilus_gouldi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nyctophilus_holtorum.cs"
-    name: "Nyctophilus holtorum"
-    common_name: "Nyctophilus_holtorum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nyctophilus_microdon.cs"
-    name: "Nyctophilus microdon"
-    common_name: "Nyctophilus_microdon"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nyctophilus_microtis.cs"
-    name: "Nyctophilus microtis"
-    common_name: "Nyctophilus_microtis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Nyctophilus_arnhemensis:
+    common_name: Nyctophilus_arnhemensis
+    conservation: UK
+  Nyctophilus_bifax:
+    common_name: Nyctophilus_bifax
+    conservation: UK
+  Nyctophilus_corbeni:
+    common_name: Nyctophilus_corbeni
+    conservation: UK
+  Nyctophilus_daedalus:
+    common_name: Nyctophilus_daedalus
+    conservation: UK
+  Nyctophilus_geoffroyi:
+    common_name: Nyctophilus_geoffroyi
+    conservation: UK
+  Nyctophilus_gouldi:
+    common_name: Nyctophilus_gouldi
+    conservation: UK
+  Nyctophilus_holtorum:
+    common_name: Nyctophilus_holtorum
+    conservation: UK
+  Nyctophilus_microdon:
+    common_name: Nyctophilus_microdon
+    conservation: UK
+  Nyctophilus_microtis:
+    common_name: Nyctophilus_microtis
+    conservation: UK
 ---
-
 # Nyctophilus
 
 Genus containing 9 species.

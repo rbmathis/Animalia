@@ -1,30 +1,21 @@
 ---
-title: "Crossogale"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["crossogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2747558
-parent: "../breadcrumb.md"
+title: Crossogale
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [crossogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Crossogale_hantu.cs"
-    name: "Crossogale hantu"
-    common_name: "Crossogale_hantu"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Crossogale_hantu:
+    common_name: Crossogale_hantu
+    conservation: UK
 ---
-
 # Crossogale
 
 Genus containing 1 species.

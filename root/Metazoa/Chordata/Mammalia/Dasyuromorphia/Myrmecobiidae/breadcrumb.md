@@ -1,28 +1,19 @@
 ---
-title: "Myrmecobiidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["myrmecobiidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dasyuridae/breadcrumb.md", "../Thylacinidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 55780
-parent: "../breadcrumb.md"
+title: Myrmecobiidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [myrmecobiidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Dasyuridae/breadcrumb.md, ../Thylacinidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Myrmecobius/breadcrumb.md"
-    name: "Myrmecobius"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Myrmecobius]
 ---
-
 # Myrmecobiidae
 
 Family containing 1 genera.

@@ -1,56 +1,37 @@
 ---
-title: "Conepatus"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["conepatus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Mephitis/breadcrumb.md", "../Mydaus/breadcrumb.md", "../Spilogale/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 30541
-parent: "../breadcrumb.md"
+title: Conepatus
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [conepatus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Mephitis/breadcrumb.md, ../Mydaus/breadcrumb.md, ../Spilogale/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Conepatus_chinga.cs"
-    name: "Conepatus chinga"
-    common_name: "Conepatus_chinga"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Conepatus_leuconotus.cs"
-    name: "Conepatus leuconotus"
-    common_name: "Conepatus_leuconotus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Conepatus_mesoleucus.cs"
-    name: "Conepatus mesoleucus"
-    common_name: "Conepatus_mesoleucus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Conepatus_semistriatus.cs"
-    name: "Conepatus semistriatus"
-    common_name: "Conepatus_semistriatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Conepatus_sp.cs"
-    name: "Conepatus sp."
-    common_name: "Conepatus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Conepatus_sp_UFSC_6038.cs"
-    name: "Conepatus sp. UFSC 6038"
-    common_name: "Conepatus_sp_UFSC_6038"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Conepatus_chinga:
+    common_name: Conepatus_chinga
+    conservation: UK
+  Conepatus_leuconotus:
+    common_name: Conepatus_leuconotus
+    conservation: UK
+  Conepatus_mesoleucus:
+    common_name: Conepatus_mesoleucus
+    conservation: UK
+  Conepatus_semistriatus:
+    common_name: Conepatus_semistriatus
+    conservation: UK
+  Conepatus_sp:
+    common_name: Conepatus_sp
+    conservation: UK
+  Conepatus_sp_UFSC_6038:
+    common_name: Conepatus_sp_UFSC_6038
+    conservation: UK
 ---
-
 # Conepatus
 
 Genus containing 6 species.

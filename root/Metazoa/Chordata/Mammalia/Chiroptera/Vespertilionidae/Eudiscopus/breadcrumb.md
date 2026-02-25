@@ -1,30 +1,21 @@
 ---
-title: "Eudiscopus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["eudiscopus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 633650
-parent: "../breadcrumb.md"
+title: Eudiscopus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [eudiscopus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Eudiscopus_denticulus.cs"
-    name: "Eudiscopus denticulus"
-    common_name: "Eudiscopus_denticulus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Eudiscopus_denticulus:
+    common_name: Eudiscopus_denticulus
+    conservation: UK
 ---
-
 # Eudiscopus
 
 Genus containing 1 species.

@@ -1,50 +1,33 @@
 ---
-title: "Phocoena"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["phocoena", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Neophocaena/breadcrumb.md", "../Phocoenoides/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9741
-parent: "../breadcrumb.md"
+title: Phocoena
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [phocoena, genus]
+status: Living
+updated: 2026-02-23
+related: [../Neophocaena/breadcrumb.md, ../Phocoenoides/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Phocoena_dioptrica.cs"
-    name: "Phocoena dioptrica"
-    common_name: "Phocoena_dioptrica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phocoena_phocoena.cs"
-    name: "Phocoena phocoena"
-    common_name: "Phocoena_phocoena"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phocoena_phocoena_x_Phocoenoides_dalli.cs"
-    name: "Phocoena phocoena x Phocoenoides dalli"
-    common_name: "Phocoena_phocoena_x_Phocoenoides_dalli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phocoena_sinus.cs"
-    name: "Phocoena sinus"
-    common_name: "Phocoena_sinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phocoena_spinipinnis.cs"
-    name: "Phocoena spinipinnis"
-    common_name: "Phocoena_spinipinnis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Phocoena_dioptrica:
+    common_name: Phocoena_dioptrica
+    conservation: UK
+  Phocoena_phocoena:
+    common_name: Phocoena_phocoena
+    conservation: UK
+  Phocoena_phocoena_x_Phocoenoides_dalli:
+    common_name: Phocoena_phocoena_x_Phocoenoides_dalli
+    conservation: UK
+  Phocoena_sinus:
+    common_name: Phocoena_sinus
+    conservation: UK
+  Phocoena_spinipinnis:
+    common_name: Phocoena_spinipinnis
+    conservation: UK
 ---
-
 # Phocoena
 
 Genus containing 5 species.

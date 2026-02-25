@@ -1,30 +1,21 @@
 ---
-title: "Cynictis"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["cynictis", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atilax/breadcrumb.md", "../Bdeogale/breadcrumb.md", "../Crossarchus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 41009
-parent: "../breadcrumb.md"
+title: Cynictis
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [cynictis, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atilax/breadcrumb.md, ../Bdeogale/breadcrumb.md, ../Crossarchus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cynictis_penicillata.cs"
-    name: "Cynictis penicillata"
-    common_name: "Cynictis_penicillata"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cynictis_penicillata:
+    common_name: Cynictis_penicillata
+    conservation: UK
 ---
-
 # Cynictis
 
 Genus containing 1 species.

@@ -1,126 +1,79 @@
 ---
-title: "Ateles"
-description: "Genus containing 24 species."
-category: "taxonomy/genus"
-tags: ["ateles", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alouatta/breadcrumb.md", "../Brachyteles/breadcrumb.md", "../Lagothrix/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9506
-parent: "../breadcrumb.md"
+title: Ateles
+description: Genus containing 24 species.
+category: taxonomy/genus
+tags: [ateles, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alouatta/breadcrumb.md, ../Brachyteles/breadcrumb.md, ../Lagothrix/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 24
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ateles_belzebuth.cs"
-    name: "Ateles belzebuth"
-    common_name: "Ateles_belzebuth"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_chamek.cs"
-    name: "Ateles chamek"
-    common_name: "Ateles_chamek"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_fusciceps.cs"
-    name: "Ateles fusciceps"
-    common_name: "Ateles_fusciceps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_geoffroyi.cs"
-    name: "Ateles geoffroyi"
-    common_name: "Ateles_geoffroyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_hybridus.cs"
-    name: "Ateles hybridus"
-    common_name: "Ateles_hybridus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_marginatus.cs"
-    name: "Ateles marginatus"
-    common_name: "Ateles_marginatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_paniscus.cs"
-    name: "Ateles paniscus"
-    common_name: "Ateles_paniscus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_paniscus_x_Ateles_fusciceps.cs"
-    name: "Ateles paniscus x Ateles fusciceps"
-    common_name: "Ateles_paniscus_x_Ateles_fusciceps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_sp.cs"
-    name: "Ateles sp."
-    common_name: "Ateles_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_sp_Ate_1.cs"
-    name: "Ateles sp. Ate-1"
-    common_name: "Ateles_sp_Ate_1"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_sp_Ate_2.cs"
-    name: "Ateles sp. Ate-2"
-    common_name: "Ateles_sp_Ate_2"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_sp_EG_2017.cs"
-    name: "Ateles sp. EG-2017"
-    common_name: "Ateles_sp_EG_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_sp_JPV_2004.cs"
-    name: "Ateles sp. JPV-2004"
-    common_name: "Ateles_sp_JPV_2004"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_sp_KO_2004.cs"
-    name: "Ateles sp. KO-2004"
-    common_name: "Ateles_sp_KO_2004"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_sp_haplotype_Abh10.cs"
-    name: "Ateles sp. haplotype Abh10"
-    common_name: "Ateles_sp_haplotype_Abh10"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_sp_haplotype_Abh11.cs"
-    name: "Ateles sp. haplotype Abh11"
-    common_name: "Ateles_sp_haplotype_Abh11"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_sp_haplotype_Abh19.cs"
-    name: "Ateles sp. haplotype Abh19"
-    common_name: "Ateles_sp_haplotype_Abh19"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_sp_haplotype_Abh9.cs"
-    name: "Ateles sp. haplotype Abh9"
-    common_name: "Ateles_sp_haplotype_Abh9"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_sp_haplotype_Afr19.cs"
-    name: "Ateles sp. haplotype Afr19"
-    common_name: "Ateles_sp_haplotype_Afr19"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ateles_sp_haplotype_Afr20.cs"
-    name: "Ateles sp. haplotype Afr20"
-    common_name: "Ateles_sp_haplotype_Afr20"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ateles_belzebuth:
+    common_name: Ateles_belzebuth
+    conservation: UK
+  Ateles_chamek:
+    common_name: Ateles_chamek
+    conservation: UK
+  Ateles_fusciceps:
+    common_name: Ateles_fusciceps
+    conservation: UK
+  Ateles_geoffroyi:
+    common_name: Ateles_geoffroyi
+    conservation: UK
+  Ateles_hybridus:
+    common_name: Ateles_hybridus
+    conservation: UK
+  Ateles_marginatus:
+    common_name: Ateles_marginatus
+    conservation: UK
+  Ateles_paniscus:
+    common_name: Ateles_paniscus
+    conservation: UK
+  Ateles_paniscus_x_Ateles_fusciceps:
+    common_name: Ateles_paniscus_x_Ateles_fusciceps
+    conservation: UK
+  Ateles_sp:
+    common_name: Ateles_sp
+    conservation: UK
+  Ateles_sp_Ate_1:
+    common_name: Ateles_sp_Ate_1
+    conservation: UK
+  Ateles_sp_Ate_2:
+    common_name: Ateles_sp_Ate_2
+    conservation: UK
+  Ateles_sp_EG_2017:
+    common_name: Ateles_sp_EG_2017
+    conservation: UK
+  Ateles_sp_JPV_2004:
+    common_name: Ateles_sp_JPV_2004
+    conservation: UK
+  Ateles_sp_KO_2004:
+    common_name: Ateles_sp_KO_2004
+    conservation: UK
+  Ateles_sp_haplotype_Abh10:
+    common_name: Ateles_sp_haplotype_Abh10
+    conservation: UK
+  Ateles_sp_haplotype_Abh11:
+    common_name: Ateles_sp_haplotype_Abh11
+    conservation: UK
+  Ateles_sp_haplotype_Abh19:
+    common_name: Ateles_sp_haplotype_Abh19
+    conservation: UK
+  Ateles_sp_haplotype_Abh9:
+    common_name: Ateles_sp_haplotype_Abh9
+    conservation: UK
+  Ateles_sp_haplotype_Afr19:
+    common_name: Ateles_sp_haplotype_Afr19
+    conservation: UK
+  Ateles_sp_haplotype_Afr20:
+    common_name: Ateles_sp_haplotype_Afr20
+    conservation: UK
 ---
-
 # Ateles
 
 Genus containing 24 species.

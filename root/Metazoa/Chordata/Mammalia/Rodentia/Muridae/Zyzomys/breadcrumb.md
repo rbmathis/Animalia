@@ -1,50 +1,33 @@
 ---
-title: "Zyzomys"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["zyzomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 337229
-parent: "../breadcrumb.md"
+title: Zyzomys
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [zyzomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Zyzomys_argurus.cs"
-    name: "Zyzomys argurus"
-    common_name: "Zyzomys_argurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Zyzomys_maini.cs"
-    name: "Zyzomys maini"
-    common_name: "Zyzomys_maini"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Zyzomys_palatalis.cs"
-    name: "Zyzomys palatalis"
-    common_name: "Zyzomys_palatalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Zyzomys_pedunculatus.cs"
-    name: "Zyzomys pedunculatus"
-    common_name: "Zyzomys_pedunculatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Zyzomys_woodwardi.cs"
-    name: "Zyzomys woodwardi"
-    common_name: "Zyzomys_woodwardi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Zyzomys_argurus:
+    common_name: Zyzomys_argurus
+    conservation: UK
+  Zyzomys_maini:
+    common_name: Zyzomys_maini
+    conservation: UK
+  Zyzomys_palatalis:
+    common_name: Zyzomys_palatalis
+    conservation: UK
+  Zyzomys_pedunculatus:
+    common_name: Zyzomys_pedunculatus
+    conservation: UK
+  Zyzomys_woodwardi:
+    common_name: Zyzomys_woodwardi
+    conservation: UK
 ---
-
 # Zyzomys
 
 Genus containing 5 species.

@@ -1,35 +1,24 @@
 ---
-title: "Megaloglossus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["megaloglossus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 58072
-parent: "../breadcrumb.md"
+title: Megaloglossus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [megaloglossus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Megaloglossus_azagnyi.cs"
-    name: "Megaloglossus azagnyi"
-    common_name: "Megaloglossus_azagnyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Megaloglossus_woermanni.cs"
-    name: "Megaloglossus woermanni"
-    common_name: "Megaloglossus_woermanni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Megaloglossus_azagnyi:
+    common_name: Megaloglossus_azagnyi
+    conservation: UK
+  Megaloglossus_woermanni:
+    common_name: Megaloglossus_woermanni
+    conservation: UK
 ---
-
 # Megaloglossus
 
 Genus containing 2 species.

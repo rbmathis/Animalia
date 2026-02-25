@@ -1,35 +1,24 @@
 ---
-title: "Orthogeomys"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["orthogeomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cratogeomys/breadcrumb.md", "../Geomys/breadcrumb.md", "../Heterogeomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 35661
-parent: "../breadcrumb.md"
+title: Orthogeomys
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [orthogeomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cratogeomys/breadcrumb.md, ../Geomys/breadcrumb.md, ../Heterogeomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Orthogeomys_cuniculus.cs"
-    name: "Orthogeomys cuniculus"
-    common_name: "Orthogeomys_cuniculus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Orthogeomys_grandis.cs"
-    name: "Orthogeomys grandis"
-    common_name: "Orthogeomys_grandis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Orthogeomys_cuniculus:
+    common_name: Orthogeomys_cuniculus
+    conservation: UK
+  Orthogeomys_grandis:
+    common_name: Orthogeomys_grandis
+    conservation: UK
 ---
-
 # Orthogeomys
 
 Genus containing 2 species.

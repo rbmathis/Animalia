@@ -1,30 +1,21 @@
 ---
-title: "Muscardinus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["muscardinus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dryomys/breadcrumb.md", "../Eliomys/breadcrumb.md", "../Glirulus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 39081
-parent: "../breadcrumb.md"
+title: Muscardinus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [muscardinus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dryomys/breadcrumb.md, ../Eliomys/breadcrumb.md, ../Glirulus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Muscardinus_avellanarius.cs"
-    name: "Muscardinus avellanarius"
-    common_name: "Muscardinus_avellanarius"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Muscardinus_avellanarius:
+    common_name: Muscardinus_avellanarius
+    conservation: UK
 ---
-
 # Muscardinus
 
 Genus containing 1 species.

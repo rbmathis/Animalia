@@ -1,126 +1,79 @@
 ---
-title: "Molossus"
-description: "Genus containing 32 species."
-category: "taxonomy/genus"
-tags: ["molossus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cheiromeles/breadcrumb.md", "../Cynomops/breadcrumb.md", "../Eumops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 27621
-parent: "../breadcrumb.md"
+title: Molossus
+description: Genus containing 32 species.
+category: taxonomy/genus
+tags: [molossus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cheiromeles/breadcrumb.md, ../Cynomops/breadcrumb.md, ../Eumops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 32
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Molossus_alvarezi.cs"
-    name: "Molossus alvarezi"
-    common_name: "Molossus_alvarezi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_ater.cs"
-    name: "Molossus ater"
-    common_name: "Molossus_ater"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_aztecus.cs"
-    name: "Molossus aztecus"
-    common_name: "Molossus_aztecus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_barnesi.cs"
-    name: "Molossus barnesi"
-    common_name: "Molossus_barnesi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_cf_coibensis.cs"
-    name: "Molossus cf. coibensis"
-    common_name: "Molossus_cf_coibensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_coibensis.cs"
-    name: "Molossus coibensis"
-    common_name: "Molossus_coibensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_currentium.cs"
-    name: "Molossus currentium"
-    common_name: "Molossus_currentium"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_fentoni.cs"
-    name: "Molossus fentoni"
-    common_name: "Molossus_fentoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_fluminensis.cs"
-    name: "Molossus fluminensis"
-    common_name: "Molossus_fluminensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_melini.cs"
-    name: "Molossus melini"
-    common_name: "Molossus_melini"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_milleri.cs"
-    name: "Molossus milleri"
-    common_name: "Molossus_milleri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_molossus.cs"
-    name: "Molossus molossus"
-    common_name: "Molossus_molossus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_nigricans.cs"
-    name: "Molossus nigricans"
-    common_name: "Molossus_nigricans"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_pretiosus.cs"
-    name: "Molossus pretiosus"
-    common_name: "Molossus_pretiosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_rufus.cs"
-    name: "Molossus rufus"
-    common_name: "Molossus_rufus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_sinaloae.cs"
-    name: "Molossus sinaloae"
-    common_name: "Molossus_sinaloae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_sp.cs"
-    name: "Molossus sp."
-    common_name: "Molossus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_sp_BOLDAAX4787.cs"
-    name: "Molossus sp. BOLD:AAX4787"
-    common_name: "Molossus_sp_BOLDAAX4787"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_sp_CRB2031.cs"
-    name: "Molossus sp. CRB2031"
-    common_name: "Molossus_sp_CRB2031"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Molossus_sp_Esperanza129.cs"
-    name: "Molossus sp. Esperanza129"
-    common_name: "Molossus_sp_Esperanza129"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Molossus_alvarezi:
+    common_name: Molossus_alvarezi
+    conservation: UK
+  Molossus_ater:
+    common_name: Molossus_ater
+    conservation: UK
+  Molossus_aztecus:
+    common_name: Molossus_aztecus
+    conservation: UK
+  Molossus_barnesi:
+    common_name: Molossus_barnesi
+    conservation: UK
+  Molossus_cf_coibensis:
+    common_name: Molossus_cf_coibensis
+    conservation: UK
+  Molossus_coibensis:
+    common_name: Molossus_coibensis
+    conservation: UK
+  Molossus_currentium:
+    common_name: Molossus_currentium
+    conservation: UK
+  Molossus_fentoni:
+    common_name: Molossus_fentoni
+    conservation: UK
+  Molossus_fluminensis:
+    common_name: Molossus_fluminensis
+    conservation: UK
+  Molossus_melini:
+    common_name: Molossus_melini
+    conservation: UK
+  Molossus_milleri:
+    common_name: Molossus_milleri
+    conservation: UK
+  Molossus_molossus:
+    common_name: Molossus_molossus
+    conservation: UK
+  Molossus_nigricans:
+    common_name: Molossus_nigricans
+    conservation: UK
+  Molossus_pretiosus:
+    common_name: Molossus_pretiosus
+    conservation: UK
+  Molossus_rufus:
+    common_name: Molossus_rufus
+    conservation: UK
+  Molossus_sinaloae:
+    common_name: Molossus_sinaloae
+    conservation: UK
+  Molossus_sp:
+    common_name: Molossus_sp
+    conservation: UK
+  Molossus_sp_BOLDAAX4787:
+    common_name: Molossus_sp_BOLDAAX4787
+    conservation: UK
+  Molossus_sp_CRB2031:
+    common_name: Molossus_sp_CRB2031
+    conservation: UK
+  Molossus_sp_Esperanza129:
+    common_name: Molossus_sp_Esperanza129
+    conservation: UK
 ---
-
 # Molossus
 
 Genus containing 32 species.

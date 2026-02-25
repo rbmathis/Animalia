@@ -1,38 +1,19 @@
 ---
-title: "Suidae"
-description: "Family containing 6 genera."
-category: "taxonomy/family"
-tags: ["suidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antilocapridae/breadcrumb.md", "../Balaenidae/breadcrumb.md", "../Balaenopteridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9821
-parent: "../breadcrumb.md"
+title: Suidae
+description: Family containing 6 genera.
+category: taxonomy/family
+tags: [suidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Antilocapridae/breadcrumb.md, ../Balaenidae/breadcrumb.md, ../Balaenopteridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 6
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Babyrousa/breadcrumb.md"
-    name: "Babyrousa"
-  - path: "Hylochoerus/breadcrumb.md"
-    name: "Hylochoerus"
-  - path: "Phacochoerus/breadcrumb.md"
-    name: "Phacochoerus"
-  - path: "Porcula/breadcrumb.md"
-    name: "Porcula"
-  - path: "Potamochoerus/breadcrumb.md"
-    name: "Potamochoerus"
-  - path: "Sus/breadcrumb.md"
-    name: "Sus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Babyrousa, Hylochoerus, Phacochoerus, Porcula, Potamochoerus, Sus]
 ---
-
 # Suidae
 
 Family containing 6 genera.

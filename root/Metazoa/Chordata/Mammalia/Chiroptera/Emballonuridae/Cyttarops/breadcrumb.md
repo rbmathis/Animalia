@@ -1,30 +1,21 @@
 ---
-title: "Cyttarops"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["cyttarops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Balantiopteryx/breadcrumb.md", "../Centronycteris/breadcrumb.md", "../Coleura/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 409019
-parent: "../breadcrumb.md"
+title: Cyttarops
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [cyttarops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Balantiopteryx/breadcrumb.md, ../Centronycteris/breadcrumb.md, ../Coleura/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cyttarops_alecto.cs"
-    name: "Cyttarops alecto"
-    common_name: "Cyttarops_alecto"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cyttarops_alecto:
+    common_name: Cyttarops_alecto
+    conservation: UK
 ---
-
 # Cyttarops
 
 Genus containing 1 species.

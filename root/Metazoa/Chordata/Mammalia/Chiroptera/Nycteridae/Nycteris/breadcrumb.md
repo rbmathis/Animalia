@@ -1,126 +1,79 @@
 ---
-title: "Nycteris"
-description: "Genus containing 30 species."
-category: "taxonomy/genus"
-tags: ["nycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Nycteris
+description: Genus containing 30 species.
+category: taxonomy/genus
+tags: [nycteris, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 59466
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 30
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Nycteris_arge.cs"
-    name: "Nycteris arge"
-    common_name: "Nycteris_arge"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_arge_complex_sp_1_TD_2019.cs"
-    name: "Nycteris arge complex sp. 1 TD-2019"
-    common_name: "Nycteris_arge_complex_sp_1_TD_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_arge_complex_sp_2_TD_2019.cs"
-    name: "Nycteris arge complex sp. 2 TD-2019"
-    common_name: "Nycteris_arge_complex_sp_2_TD_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_cf_hispidaaurita_TD_2019.cs"
-    name: "Nycteris cf. hispida/aurita TD-2019"
-    common_name: "Nycteris_cf_hispidaaurita_TD_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_cf_nana_DMR_2017.cs"
-    name: "Nycteris cf. nana DMR-2017"
-    common_name: "Nycteris_cf_nana_DMR_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_cf_thebaica_1_TD_2019.cs"
-    name: "Nycteris cf. thebaica 1 TD-2019"
-    common_name: "Nycteris_cf_thebaica_1_TD_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_cf_thebaica_2_TD_2019.cs"
-    name: "Nycteris cf. thebaica 2 TD-2019"
-    common_name: "Nycteris_cf_thebaica_2_TD_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_cf_thebaica_3_TD_2019.cs"
-    name: "Nycteris cf. thebaica 3 TD-2019"
-    common_name: "Nycteris_cf_thebaica_3_TD_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_grandis.cs"
-    name: "Nycteris grandis"
-    common_name: "Nycteris_grandis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_hispida.cs"
-    name: "Nycteris hispida"
-    common_name: "Nycteris_hispida"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_hispidaaurita_complex_sp_TD_2019.cs"
-    name: "Nycteris hispida/aurita complex sp. TD-2019"
-    common_name: "Nycteris_hispidaaurita_complex_sp_TD_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_javanica.cs"
-    name: "Nycteris javanica"
-    common_name: "Nycteris_javanica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_macrotis.cs"
-    name: "Nycteris macrotis"
-    common_name: "Nycteris_macrotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_macrotis_complex_sp_1_TD_2019.cs"
-    name: "Nycteris macrotis complex sp. 1 TD-2019"
-    common_name: "Nycteris_macrotis_complex_sp_1_TD_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_macrotis_complex_sp_2_TD_2019.cs"
-    name: "Nycteris macrotis complex sp. 2 TD-2019"
-    common_name: "Nycteris_macrotis_complex_sp_2_TD_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_macrotis_complex_sp_3_TD_2019.cs"
-    name: "Nycteris macrotis complex sp. 3 TD-2019"
-    common_name: "Nycteris_macrotis_complex_sp_3_TD_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_madagascariensis.cs"
-    name: "Nycteris madagascariensis"
-    common_name: "Nycteris_madagascariensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_major.cs"
-    name: "Nycteris major"
-    common_name: "Nycteris_major"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_nana_complex_sp_1_TD_2019.cs"
-    name: "Nycteris nana complex sp. 1 TD-2019"
-    common_name: "Nycteris_nana_complex_sp_1_TD_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nycteris_nana_complex_sp_2_TD_2019.cs"
-    name: "Nycteris nana complex sp. 2 TD-2019"
-    common_name: "Nycteris_nana_complex_sp_2_TD_2019"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Nycteris_arge:
+    common_name: Nycteris_arge
+    conservation: UK
+  Nycteris_arge_complex_sp_1_TD_2019:
+    common_name: Nycteris_arge_complex_sp_1_TD_2019
+    conservation: UK
+  Nycteris_arge_complex_sp_2_TD_2019:
+    common_name: Nycteris_arge_complex_sp_2_TD_2019
+    conservation: UK
+  Nycteris_cf_hispidaaurita_TD_2019:
+    common_name: Nycteris_cf_hispidaaurita_TD_2019
+    conservation: UK
+  Nycteris_cf_nana_DMR_2017:
+    common_name: Nycteris_cf_nana_DMR_2017
+    conservation: UK
+  Nycteris_cf_thebaica_1_TD_2019:
+    common_name: Nycteris_cf_thebaica_1_TD_2019
+    conservation: UK
+  Nycteris_cf_thebaica_2_TD_2019:
+    common_name: Nycteris_cf_thebaica_2_TD_2019
+    conservation: UK
+  Nycteris_cf_thebaica_3_TD_2019:
+    common_name: Nycteris_cf_thebaica_3_TD_2019
+    conservation: UK
+  Nycteris_grandis:
+    common_name: Nycteris_grandis
+    conservation: UK
+  Nycteris_hispida:
+    common_name: Nycteris_hispida
+    conservation: UK
+  Nycteris_hispidaaurita_complex_sp_TD_2019:
+    common_name: Nycteris_hispidaaurita_complex_sp_TD_2019
+    conservation: UK
+  Nycteris_javanica:
+    common_name: Nycteris_javanica
+    conservation: UK
+  Nycteris_macrotis:
+    common_name: Nycteris_macrotis
+    conservation: UK
+  Nycteris_macrotis_complex_sp_1_TD_2019:
+    common_name: Nycteris_macrotis_complex_sp_1_TD_2019
+    conservation: UK
+  Nycteris_macrotis_complex_sp_2_TD_2019:
+    common_name: Nycteris_macrotis_complex_sp_2_TD_2019
+    conservation: UK
+  Nycteris_macrotis_complex_sp_3_TD_2019:
+    common_name: Nycteris_macrotis_complex_sp_3_TD_2019
+    conservation: UK
+  Nycteris_madagascariensis:
+    common_name: Nycteris_madagascariensis
+    conservation: UK
+  Nycteris_major:
+    common_name: Nycteris_major
+    conservation: UK
+  Nycteris_nana_complex_sp_1_TD_2019:
+    common_name: Nycteris_nana_complex_sp_1_TD_2019
+    conservation: UK
+  Nycteris_nana_complex_sp_2_TD_2019:
+    common_name: Nycteris_nana_complex_sp_2_TD_2019
+    conservation: UK
 ---
-
 # Nycteris
 
 Genus containing 30 species.

@@ -1,65 +1,42 @@
 ---
-title: "Arctocephalus"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["arctocephalus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Callorhinus/breadcrumb.md", "../Eumetopias/breadcrumb.md", "../Neophoca/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 29083
-parent: "../breadcrumb.md"
+title: Arctocephalus
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [arctocephalus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Callorhinus/breadcrumb.md, ../Eumetopias/breadcrumb.md, ../Neophoca/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Arctocephalus_australis.cs"
-    name: "Arctocephalus australis"
-    common_name: "Arctocephalus_australis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Arctocephalus_forsteri.cs"
-    name: "Arctocephalus forsteri"
-    common_name: "Arctocephalus_forsteri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Arctocephalus_galapagoensis.cs"
-    name: "Arctocephalus galapagoensis"
-    common_name: "Arctocephalus_galapagoensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Arctocephalus_gazella.cs"
-    name: "Arctocephalus gazella"
-    common_name: "Arctocephalus_gazella"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Arctocephalus_philippii.cs"
-    name: "Arctocephalus philippii"
-    common_name: "Arctocephalus_philippii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Arctocephalus_pusillus.cs"
-    name: "Arctocephalus pusillus"
-    common_name: "Arctocephalus_pusillus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Arctocephalus_townsendi.cs"
-    name: "Arctocephalus townsendi"
-    common_name: "Arctocephalus_townsendi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Arctocephalus_tropicalis.cs"
-    name: "Arctocephalus tropicalis"
-    common_name: "Arctocephalus_tropicalis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Arctocephalus_australis:
+    common_name: Arctocephalus_australis
+    conservation: UK
+  Arctocephalus_forsteri:
+    common_name: Arctocephalus_forsteri
+    conservation: UK
+  Arctocephalus_galapagoensis:
+    common_name: Arctocephalus_galapagoensis
+    conservation: UK
+  Arctocephalus_gazella:
+    common_name: Arctocephalus_gazella
+    conservation: UK
+  Arctocephalus_philippii:
+    common_name: Arctocephalus_philippii
+    conservation: UK
+  Arctocephalus_pusillus:
+    common_name: Arctocephalus_pusillus
+    conservation: UK
+  Arctocephalus_townsendi:
+    common_name: Arctocephalus_townsendi
+    conservation: UK
+  Arctocephalus_tropicalis:
+    common_name: Arctocephalus_tropicalis
+    conservation: UK
 ---
-
 # Arctocephalus
 
 Genus containing 8 species.

@@ -1,35 +1,24 @@
 ---
-title: "Gorilla"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["gorilla", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Hominidae_intergeneric_hybrids/breadcrumb.md", "../Homo/breadcrumb.md", "../Pan/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9592
-parent: "../breadcrumb.md"
+title: Gorilla
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [gorilla, genus]
+status: Living
+updated: 2026-02-23
+related: [../Hominidae_intergeneric_hybrids/breadcrumb.md, ../Homo/breadcrumb.md, ../Pan/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Gorilla_beringei.cs"
-    name: "Gorilla beringei"
-    common_name: "Gorilla_beringei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gorilla_gorilla.cs"
-    name: "Gorilla gorilla"
-    common_name: "Gorilla_gorilla"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Gorilla_beringei:
+    common_name: Gorilla_beringei
+    conservation: UK
+  Gorilla_gorilla:
+    common_name: Gorilla_gorilla
+    conservation: UK
 ---
-
 # Gorilla
 
 Genus containing 2 species.

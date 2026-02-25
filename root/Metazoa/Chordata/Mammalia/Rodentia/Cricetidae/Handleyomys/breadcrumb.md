@@ -1,70 +1,45 @@
 ---
-title: "Handleyomys"
-description: "Genus containing 9 species."
-category: "taxonomy/genus"
-tags: ["handleyomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 218784
-parent: "../breadcrumb.md"
+title: Handleyomys
+description: Genus containing 9 species.
+category: taxonomy/genus
+tags: [handleyomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 9
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Handleyomys_alfaroi.cs"
-    name: "Handleyomys alfaroi"
-    common_name: "Handleyomys_alfaroi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Handleyomys_chapmani.cs"
-    name: "Handleyomys chapmani"
-    common_name: "Handleyomys_chapmani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Handleyomys_fuscatus.cs"
-    name: "Handleyomys fuscatus"
-    common_name: "Handleyomys_fuscatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Handleyomys_guerrerensis.cs"
-    name: "Handleyomys guerrerensis"
-    common_name: "Handleyomys_guerrerensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Handleyomys_intectus.cs"
-    name: "Handleyomys intectus"
-    common_name: "Handleyomys_intectus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Handleyomys_melanotis.cs"
-    name: "Handleyomys melanotis"
-    common_name: "Handleyomys_melanotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Handleyomys_rhabdops.cs"
-    name: "Handleyomys rhabdops"
-    common_name: "Handleyomys_rhabdops"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Handleyomys_rostratus.cs"
-    name: "Handleyomys rostratus"
-    common_name: "Handleyomys_rostratus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Handleyomys_saturatior.cs"
-    name: "Handleyomys saturatior"
-    common_name: "Handleyomys_saturatior"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Handleyomys_alfaroi:
+    common_name: Handleyomys_alfaroi
+    conservation: UK
+  Handleyomys_chapmani:
+    common_name: Handleyomys_chapmani
+    conservation: UK
+  Handleyomys_fuscatus:
+    common_name: Handleyomys_fuscatus
+    conservation: UK
+  Handleyomys_guerrerensis:
+    common_name: Handleyomys_guerrerensis
+    conservation: UK
+  Handleyomys_intectus:
+    common_name: Handleyomys_intectus
+    conservation: UK
+  Handleyomys_melanotis:
+    common_name: Handleyomys_melanotis
+    conservation: UK
+  Handleyomys_rhabdops:
+    common_name: Handleyomys_rhabdops
+    conservation: UK
+  Handleyomys_rostratus:
+    common_name: Handleyomys_rostratus
+    conservation: UK
+  Handleyomys_saturatior:
+    common_name: Handleyomys_saturatior
+    conservation: UK
 ---
-
 # Handleyomys
 
 Genus containing 9 species.

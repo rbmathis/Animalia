@@ -1,30 +1,21 @@
 ---
-title: "Chimaerodipus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["chimaerodipus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allactaga/breadcrumb.md", "../Allactodipus/breadcrumb.md", "../Cardiocranius/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2171714
-parent: "../breadcrumb.md"
+title: Chimaerodipus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [chimaerodipus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allactaga/breadcrumb.md, ../Allactodipus/breadcrumb.md, ../Cardiocranius/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chimaerodipus_auritus.cs"
-    name: "Chimaerodipus auritus"
-    common_name: "Chimaerodipus_auritus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chimaerodipus_auritus:
+    common_name: Chimaerodipus_auritus
+    conservation: UK
 ---
-
 # Chimaerodipus
 
 Genus containing 1 species.

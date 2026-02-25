@@ -1,41 +1,28 @@
 ---
-title: "Bathyergus"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["bathyergus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cryptomys/breadcrumb.md", "../Fukomys/breadcrumb.md", "../Georychus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10170
-parent: "../breadcrumb.md"
+title: Bathyergus
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [bathyergus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cryptomys/breadcrumb.md, ../Fukomys/breadcrumb.md, ../Georychus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Bathyergus_janetta.cs"
-    name: "Bathyergus janetta"
-    common_name: "Bathyergus_janetta"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bathyergus_sp_CAM_2005.cs"
-    name: "Bathyergus sp. CAM-2005"
-    common_name: "Bathyergus_sp_CAM_2005"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bathyergus_suillus.cs"
-    name: "Bathyergus suillus"
-    common_name: "Bathyergus_suillus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Bathyergus_janetta:
+    common_name: Bathyergus_janetta
+    conservation: UK
+  Bathyergus_sp_CAM_2005:
+    common_name: Bathyergus_sp_CAM_2005
+    conservation: UK
+  Bathyergus_suillus:
+    common_name: Bathyergus_suillus
+    conservation: UK
 ---
-
 # Bathyergus
 
 Genus containing 3 species.

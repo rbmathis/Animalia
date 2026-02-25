@@ -1,66 +1,43 @@
 ---
-title: "Taterillus"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["taterillus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 119566
-parent: "../breadcrumb.md"
+title: Taterillus
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [taterillus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Taterillus_arenarius.cs"
-    name: "Taterillus arenarius"
-    common_name: "Taterillus_arenarius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Taterillus_emini.cs"
-    name: "Taterillus emini"
-    common_name: "Taterillus_emini"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Taterillus_gracilis.cs"
-    name: "Taterillus gracilis"
-    common_name: "Taterillus_gracilis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Taterillus_harringtoni.cs"
-    name: "Taterillus harringtoni"
-    common_name: "Taterillus_harringtoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Taterillus_petteri.cs"
-    name: "Taterillus petteri"
-    common_name: "Taterillus_petteri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Taterillus_pygargus.cs"
-    name: "Taterillus pygargus"
-    common_name: "Taterillus_pygargus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Taterillus_sp_PC2002.cs"
-    name: "Taterillus sp. PC2002"
-    common_name: "Taterillus_sp_PC2002"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Taterillus_sp_R13090.cs"
-    name: "Taterillus sp. R13090"
-    common_name: "Taterillus_sp_R13090"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Taterillus_arenarius:
+    common_name: Taterillus_arenarius
+    conservation: UK
+  Taterillus_emini:
+    common_name: Taterillus_emini
+    conservation: UK
+  Taterillus_gracilis:
+    common_name: Taterillus_gracilis
+    conservation: UK
+  Taterillus_harringtoni:
+    common_name: Taterillus_harringtoni
+    conservation: UK
+  Taterillus_petteri:
+    common_name: Taterillus_petteri
+    conservation: UK
+  Taterillus_pygargus:
+    common_name: Taterillus_pygargus
+    conservation: UK
+  Taterillus_sp_PC2002:
+    common_name: Taterillus_sp_PC2002
+    conservation: UK
+  Taterillus_sp_R13090:
+    common_name: Taterillus_sp_R13090
+    conservation: UK
 ---
-
 # Taterillus
 
 Genus containing 8 species.

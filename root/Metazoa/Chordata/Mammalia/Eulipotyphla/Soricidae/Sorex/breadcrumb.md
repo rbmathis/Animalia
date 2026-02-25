@@ -1,126 +1,79 @@
 ---
-title: "Sorex"
-description: "Genus containing 77 species."
-category: "taxonomy/genus"
-tags: ["sorex", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9379
-parent: "../breadcrumb.md"
+title: Sorex
+description: Genus containing 77 species.
+category: taxonomy/genus
+tags: [sorex, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 77
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Sorex_albibarbis.cs"
-    name: "Sorex albibarbis"
-    common_name: "Sorex_albibarbis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_alpinus.cs"
-    name: "Sorex alpinus"
-    common_name: "Sorex_alpinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_antinorii.cs"
-    name: "Sorex antinorii"
-    common_name: "Sorex_antinorii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_araneus.cs"
-    name: "Sorex araneus"
-    common_name: "Sorex_araneus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_arcticus.cs"
-    name: "Sorex arcticus"
-    common_name: "Sorex_arcticus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_arizonae.cs"
-    name: "Sorex arizonae"
-    common_name: "Sorex_arizonae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_asper.cs"
-    name: "Sorex asper"
-    common_name: "Sorex_asper"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_bairdi.cs"
-    name: "Sorex bairdi"
-    common_name: "Sorex_bairdi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_bedfordiae.cs"
-    name: "Sorex bedfordiae"
-    common_name: "Sorex_bedfordiae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_bendirii.cs"
-    name: "Sorex bendirii"
-    common_name: "Sorex_bendirii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_buchariensis.cs"
-    name: "Sorex buchariensis"
-    common_name: "Sorex_buchariensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_caecutiens.cs"
-    name: "Sorex caecutiens"
-    common_name: "Sorex_caecutiens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_camtschatica.cs"
-    name: "Sorex camtschatica"
-    common_name: "Sorex_camtschatica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_cansulus.cs"
-    name: "Sorex cansulus"
-    common_name: "Sorex_cansulus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_chiapensis.cs"
-    name: "Sorex chiapensis"
-    common_name: "Sorex_chiapensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_cinereus.cs"
-    name: "Sorex cinereus"
-    common_name: "Sorex_cinereus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_coronatus.cs"
-    name: "Sorex coronatus"
-    common_name: "Sorex_coronatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_cylindricauda.cs"
-    name: "Sorex cylindricauda"
-    common_name: "Sorex_cylindricauda"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_daphaenodon.cs"
-    name: "Sorex daphaenodon"
-    common_name: "Sorex_daphaenodon"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sorex_dispar.cs"
-    name: "Sorex dispar"
-    common_name: "Sorex_dispar"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Sorex_albibarbis:
+    common_name: Sorex_albibarbis
+    conservation: UK
+  Sorex_alpinus:
+    common_name: Sorex_alpinus
+    conservation: UK
+  Sorex_antinorii:
+    common_name: Sorex_antinorii
+    conservation: UK
+  Sorex_araneus:
+    common_name: Sorex_araneus
+    conservation: UK
+  Sorex_arcticus:
+    common_name: Sorex_arcticus
+    conservation: UK
+  Sorex_arizonae:
+    common_name: Sorex_arizonae
+    conservation: UK
+  Sorex_asper:
+    common_name: Sorex_asper
+    conservation: UK
+  Sorex_bairdi:
+    common_name: Sorex_bairdi
+    conservation: UK
+  Sorex_bedfordiae:
+    common_name: Sorex_bedfordiae
+    conservation: UK
+  Sorex_bendirii:
+    common_name: Sorex_bendirii
+    conservation: UK
+  Sorex_buchariensis:
+    common_name: Sorex_buchariensis
+    conservation: UK
+  Sorex_caecutiens:
+    common_name: Sorex_caecutiens
+    conservation: UK
+  Sorex_camtschatica:
+    common_name: Sorex_camtschatica
+    conservation: UK
+  Sorex_cansulus:
+    common_name: Sorex_cansulus
+    conservation: UK
+  Sorex_chiapensis:
+    common_name: Sorex_chiapensis
+    conservation: UK
+  Sorex_cinereus:
+    common_name: Sorex_cinereus
+    conservation: UK
+  Sorex_coronatus:
+    common_name: Sorex_coronatus
+    conservation: UK
+  Sorex_cylindricauda:
+    common_name: Sorex_cylindricauda
+    conservation: UK
+  Sorex_daphaenodon:
+    common_name: Sorex_daphaenodon
+    conservation: UK
+  Sorex_dispar:
+    common_name: Sorex_dispar
+    conservation: UK
 ---
-
 # Sorex
 
 Genus containing 77 species.

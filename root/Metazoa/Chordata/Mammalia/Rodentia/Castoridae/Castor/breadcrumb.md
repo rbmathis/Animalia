@@ -1,35 +1,24 @@
 ---
-title: "Castor"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["castor", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Castoroides/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10184
-parent: "../breadcrumb.md"
+title: Castor
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [castor, genus]
+status: Living
+updated: 2026-02-23
+related: [../Castoroides/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Castor_canadensis.cs"
-    name: "Castor canadensis"
-    common_name: "Castor_canadensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Castor_fiber.cs"
-    name: "Castor fiber"
-    common_name: "Castor_fiber"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Castor_canadensis:
+    common_name: Castor_canadensis
+    conservation: UK
+  Castor_fiber:
+    common_name: Castor_fiber
+    conservation: UK
 ---
-
 # Castor
 
 Genus containing 2 species.

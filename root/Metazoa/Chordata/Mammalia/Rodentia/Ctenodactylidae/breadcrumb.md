@@ -1,34 +1,19 @@
 ---
-title: "Ctenodactylidae"
-description: "Family containing 4 genera."
-category: "taxonomy/family"
-tags: ["ctenodactylidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 10164
-parent: "../breadcrumb.md"
+title: Ctenodactylidae
+description: Family containing 4 genera.
+category: taxonomy/family
+tags: [ctenodactylidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 4
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Ctenodactylus/breadcrumb.md"
-    name: "Ctenodactylus"
-  - path: "Felovia/breadcrumb.md"
-    name: "Felovia"
-  - path: "Massoutiera/breadcrumb.md"
-    name: "Massoutiera"
-  - path: "Pectinator/breadcrumb.md"
-    name: "Pectinator"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Ctenodactylus, Felovia, Massoutiera, Pectinator]
 ---
-
 # Ctenodactylidae
 
 Family containing 4 genera.

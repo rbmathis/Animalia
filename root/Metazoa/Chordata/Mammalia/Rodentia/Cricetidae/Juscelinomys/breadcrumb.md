@@ -1,30 +1,21 @@
 ---
-title: "Juscelinomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["juscelinomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 106102
-parent: "../breadcrumb.md"
+title: Juscelinomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [juscelinomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Juscelinomys_huanchacae.cs"
-    name: "Juscelinomys huanchacae"
-    common_name: "Juscelinomys_huanchacae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Juscelinomys_huanchacae:
+    common_name: Juscelinomys_huanchacae
+    conservation: UK
 ---
-
 # Juscelinomys
 
 Genus containing 1 species.

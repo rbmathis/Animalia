@@ -1,45 +1,30 @@
 ---
-title: "Mesechinus"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["mesechinus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atelerix/breadcrumb.md", "../Echinosorex/breadcrumb.md", "../Erinaceus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 111451
-parent: "../breadcrumb.md"
+title: Mesechinus
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [mesechinus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atelerix/breadcrumb.md, ../Echinosorex/breadcrumb.md, ../Erinaceus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mesechinus_dauuricus.cs"
-    name: "Mesechinus dauuricus"
-    common_name: "Mesechinus_dauuricus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesechinus_hughi.cs"
-    name: "Mesechinus hughi"
-    common_name: "Mesechinus_hughi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesechinus_orientalis.cs"
-    name: "Mesechinus orientalis"
-    common_name: "Mesechinus_orientalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mesechinus_wangi.cs"
-    name: "Mesechinus wangi"
-    common_name: "Mesechinus_wangi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mesechinus_dauuricus:
+    common_name: Mesechinus_dauuricus
+    conservation: UK
+  Mesechinus_hughi:
+    common_name: Mesechinus_hughi
+    conservation: UK
+  Mesechinus_orientalis:
+    common_name: Mesechinus_orientalis
+    conservation: UK
+  Mesechinus_wangi:
+    common_name: Mesechinus_wangi
+    conservation: UK
 ---
-
 # Mesechinus
 
 Genus containing 4 species.

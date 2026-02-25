@@ -1,35 +1,24 @@
 ---
-title: "Cuniculus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["cuniculus", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Cuniculus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [cuniculus, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 723807
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cuniculus_paca.cs"
-    name: "Cuniculus paca"
-    common_name: "Cuniculus_paca"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cuniculus_taczanowskii.cs"
-    name: "Cuniculus taczanowskii"
-    common_name: "Cuniculus_taczanowskii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cuniculus_paca:
+    common_name: Cuniculus_paca
+    conservation: UK
+  Cuniculus_taczanowskii:
+    common_name: Cuniculus_taczanowskii
+    conservation: UK
 ---
-
 # Cuniculus
 
 Genus containing 2 species.

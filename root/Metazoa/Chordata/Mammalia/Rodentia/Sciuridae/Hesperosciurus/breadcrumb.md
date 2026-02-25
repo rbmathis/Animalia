@@ -1,30 +1,21 @@
 ---
-title: "Hesperosciurus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["hesperosciurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2895724
-parent: "../breadcrumb.md"
+title: Hesperosciurus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [hesperosciurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hesperosciurus_griseus.cs"
-    name: "Hesperosciurus griseus"
-    common_name: "Hesperosciurus_griseus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hesperosciurus_griseus:
+    common_name: Hesperosciurus_griseus
+    conservation: UK
 ---
-
 # Hesperosciurus
 
 Genus containing 1 species.

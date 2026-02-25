@@ -1,40 +1,27 @@
 ---
-title: "Aonyx"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["aonyx", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Arctonyx/breadcrumb.md", "../Eira/breadcrumb.md", "../Enhydra/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 76721
-parent: "../breadcrumb.md"
+title: Aonyx
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [aonyx, genus]
+status: Living
+updated: 2026-02-23
+related: [../Arctonyx/breadcrumb.md, ../Eira/breadcrumb.md, ../Enhydra/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Aonyx_capensis.cs"
-    name: "Aonyx capensis"
-    common_name: "Aonyx_capensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Aonyx_cinereus.cs"
-    name: "Aonyx cinereus"
-    common_name: "Aonyx_cinereus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Aonyx_congicus.cs"
-    name: "Aonyx congicus"
-    common_name: "Aonyx_congicus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Aonyx_capensis:
+    common_name: Aonyx_capensis
+    conservation: UK
+  Aonyx_cinereus:
+    common_name: Aonyx_cinereus
+    conservation: UK
+  Aonyx_congicus:
+    common_name: Aonyx_congicus
+    conservation: UK
 ---
-
 # Aonyx
 
 Genus containing 3 species.

@@ -1,50 +1,33 @@
 ---
-title: "Paradoxurus"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["paradoxurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Arctictis/breadcrumb.md", "../Arctogalidia/breadcrumb.md", "../Chrotogale/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 71116
-parent: "../breadcrumb.md"
+title: Paradoxurus
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [paradoxurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Arctictis/breadcrumb.md, ../Arctogalidia/breadcrumb.md, ../Chrotogale/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Paradoxurus_hermaphroditus.cs"
-    name: "Paradoxurus hermaphroditus"
-    common_name: "Paradoxurus_hermaphroditus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Paradoxurus_jerdoni.cs"
-    name: "Paradoxurus jerdoni"
-    common_name: "Paradoxurus_jerdoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Paradoxurus_montanus.cs"
-    name: "Paradoxurus montanus"
-    common_name: "Paradoxurus_montanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Paradoxurus_musangus.cs"
-    name: "Paradoxurus musangus"
-    common_name: "Paradoxurus_musangus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Paradoxurus_zeylonensis.cs"
-    name: "Paradoxurus zeylonensis"
-    common_name: "Paradoxurus_zeylonensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Paradoxurus_hermaphroditus:
+    common_name: Paradoxurus_hermaphroditus
+    conservation: UK
+  Paradoxurus_jerdoni:
+    common_name: Paradoxurus_jerdoni
+    conservation: UK
+  Paradoxurus_montanus:
+    common_name: Paradoxurus_montanus
+    conservation: UK
+  Paradoxurus_musangus:
+    common_name: Paradoxurus_musangus
+    conservation: UK
+  Paradoxurus_zeylonensis:
+    common_name: Paradoxurus_zeylonensis
+    conservation: UK
 ---
-
 # Paradoxurus
 
 Genus containing 5 species.

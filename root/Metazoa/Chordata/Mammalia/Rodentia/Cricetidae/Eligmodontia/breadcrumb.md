@@ -1,66 +1,43 @@
 ---
-title: "Eligmodontia"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["eligmodontia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 56220
-parent: "../breadcrumb.md"
+title: Eligmodontia
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [eligmodontia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Eligmodontia_bolsonensis.cs"
-    name: "Eligmodontia bolsonensis"
-    common_name: "Eligmodontia_bolsonensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eligmodontia_hirtipes.cs"
-    name: "Eligmodontia hirtipes"
-    common_name: "Eligmodontia_hirtipes"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eligmodontia_moreni.cs"
-    name: "Eligmodontia moreni"
-    common_name: "Eligmodontia_moreni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eligmodontia_morgani.cs"
-    name: "Eligmodontia morgani"
-    common_name: "Eligmodontia_morgani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eligmodontia_puerulus.cs"
-    name: "Eligmodontia puerulus"
-    common_name: "Eligmodontia_puerulus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eligmodontia_sp_1_JCM_2013.cs"
-    name: "Eligmodontia sp. 1 JCM-2013"
-    common_name: "Eligmodontia_sp_1_JCM_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eligmodontia_sp_AES_2011.cs"
-    name: "Eligmodontia sp. AES-2011"
-    common_name: "Eligmodontia_sp_AES_2011"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eligmodontia_typus.cs"
-    name: "Eligmodontia typus"
-    common_name: "Eligmodontia_typus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Eligmodontia_bolsonensis:
+    common_name: Eligmodontia_bolsonensis
+    conservation: UK
+  Eligmodontia_hirtipes:
+    common_name: Eligmodontia_hirtipes
+    conservation: UK
+  Eligmodontia_moreni:
+    common_name: Eligmodontia_moreni
+    conservation: UK
+  Eligmodontia_morgani:
+    common_name: Eligmodontia_morgani
+    conservation: UK
+  Eligmodontia_puerulus:
+    common_name: Eligmodontia_puerulus
+    conservation: UK
+  Eligmodontia_sp_1_JCM_2013:
+    common_name: Eligmodontia_sp_1_JCM_2013
+    conservation: UK
+  Eligmodontia_sp_AES_2011:
+    common_name: Eligmodontia_sp_AES_2011
+    conservation: UK
+  Eligmodontia_typus:
+    common_name: Eligmodontia_typus
+    conservation: UK
 ---
-
 # Eligmodontia
 
 Genus containing 8 species.

@@ -1,28 +1,19 @@
 ---
-title: "Moschidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["moschidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antilocapridae/breadcrumb.md", "../Balaenidae/breadcrumb.md", "../Balaenopteridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 30533
-parent: "../breadcrumb.md"
+title: Moschidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [moschidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Antilocapridae/breadcrumb.md, ../Balaenidae/breadcrumb.md, ../Balaenopteridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Moschus/breadcrumb.md"
-    name: "Moschus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Moschus]
 ---
-
 # Moschidae
 
 Family containing 1 genera.

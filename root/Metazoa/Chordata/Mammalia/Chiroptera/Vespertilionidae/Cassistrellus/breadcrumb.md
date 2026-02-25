@@ -1,35 +1,24 @@
 ---
-title: "Cassistrellus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["cassistrellus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2069572
-parent: "../breadcrumb.md"
+title: Cassistrellus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [cassistrellus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cassistrellus_dimissus.cs"
-    name: "Cassistrellus dimissus"
-    common_name: "Cassistrellus_dimissus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cassistrellus_yokdonensis.cs"
-    name: "Cassistrellus yokdonensis"
-    common_name: "Cassistrellus_yokdonensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cassistrellus_dimissus:
+    common_name: Cassistrellus_dimissus
+    conservation: UK
+  Cassistrellus_yokdonensis:
+    common_name: Cassistrellus_yokdonensis
+    conservation: UK
 ---
-
 # Cassistrellus
 
 Genus containing 2 species.

@@ -1,46 +1,19 @@
 ---
-title: "Bovidae"
-description: "Family containing 61 genera."
-category: "taxonomy/family"
-tags: ["bovidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antilocapridae/breadcrumb.md", "../Balaenidae/breadcrumb.md", "../Balaenopteridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9895
-parent: "../breadcrumb.md"
+title: Bovidae
+description: Family containing 61 genera.
+category: taxonomy/family
+tags: [bovidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Antilocapridae/breadcrumb.md, ../Balaenidae/breadcrumb.md, ../Balaenopteridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 61
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Addax/breadcrumb.md"
-    name: "Addax"
-  - path: "Aepyceros/breadcrumb.md"
-    name: "Aepyceros"
-  - path: "Alcelaphus/breadcrumb.md"
-    name: "Alcelaphus"
-  - path: "Ammotragus/breadcrumb.md"
-    name: "Ammotragus"
-  - path: "Antidorcas/breadcrumb.md"
-    name: "Antidorcas"
-  - path: "Antilope/breadcrumb.md"
-    name: "Antilope"
-  - path: "Arabitragus/breadcrumb.md"
-    name: "Arabitragus"
-  - path: "Beatragus/breadcrumb.md"
-    name: "Beatragus"
-  - path: "Bison/breadcrumb.md"
-    name: "Bison"
-  - path: "Bootherium/breadcrumb.md"
-    name: "Bootherium"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Addax, Aepyceros, Alcelaphus, Ammotragus, Antidorcas, Antilope, Arabitragus, Beatragus, Bison, Bootherium]
 ---
-
 # Bovidae
 
 Family containing 61 genera.

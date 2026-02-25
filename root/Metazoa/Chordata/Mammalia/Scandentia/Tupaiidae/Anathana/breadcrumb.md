@@ -1,30 +1,21 @@
 ---
-title: "Anathana"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["anathana", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dendrogale/breadcrumb.md", "../Ptilocercus/breadcrumb.md", "../Tupaia/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 320339
-parent: "../breadcrumb.md"
+title: Anathana
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [anathana, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dendrogale/breadcrumb.md, ../Ptilocercus/breadcrumb.md, ../Tupaia/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Anathana_ellioti.cs"
-    name: "Anathana ellioti"
-    common_name: "Anathana_ellioti"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Anathana_ellioti:
+    common_name: Anathana_ellioti
+    conservation: UK
 ---
-
 # Anathana
 
 Genus containing 1 species.

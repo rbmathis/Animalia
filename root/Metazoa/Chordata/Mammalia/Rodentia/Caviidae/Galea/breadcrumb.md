@@ -1,56 +1,37 @@
 ---
-title: "Galea"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["galea", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cavia/breadcrumb.md", "../Dolichotis/breadcrumb.md", "../Kerodon/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10145
-parent: "../breadcrumb.md"
+title: Galea
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [galea, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cavia/breadcrumb.md, ../Dolichotis/breadcrumb.md, ../Kerodon/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Galea_monasteriensis.cs"
-    name: "Galea monasteriensis"
-    common_name: "Galea_monasteriensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Galea_musteloides.cs"
-    name: "Galea musteloides"
-    common_name: "Galea_musteloides"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Galea_sp_CH_2002.cs"
-    name: "Galea sp. CH-2002"
-    common_name: "Galea_sp_CH_2002"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Galea_sp_CMIAO196.cs"
-    name: "Galea sp. CMIAO196"
-    common_name: "Galea_sp_CMIAO196"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Galea_sp_JLD_2009a.cs"
-    name: "Galea sp. JLD-2009a"
-    common_name: "Galea_sp_JLD_2009a"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Galea_spixii.cs"
-    name: "Galea spixii"
-    common_name: "Galea_spixii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Galea_monasteriensis:
+    common_name: Galea_monasteriensis
+    conservation: UK
+  Galea_musteloides:
+    common_name: Galea_musteloides
+    conservation: UK
+  Galea_sp_CH_2002:
+    common_name: Galea_sp_CH_2002
+    conservation: UK
+  Galea_sp_CMIAO196:
+    common_name: Galea_sp_CMIAO196
+    conservation: UK
+  Galea_sp_JLD_2009a:
+    common_name: Galea_sp_JLD_2009a
+    conservation: UK
+  Galea_spixii:
+    common_name: Galea_spixii
+    conservation: UK
 ---
-
 # Galea
 
 Genus containing 6 species.

@@ -1,40 +1,19 @@
 ---
-title: "Rhinocerotidae"
-description: "Family containing 7 genera."
-category: "taxonomy/family"
-tags: ["rhinocerotidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Equidae/breadcrumb.md", "../Tapiridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9803
-parent: "../breadcrumb.md"
+title: Rhinocerotidae
+description: Family containing 7 genera.
+category: taxonomy/family
+tags: [rhinocerotidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Equidae/breadcrumb.md, ../Tapiridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 7
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Ceratotherium/breadcrumb.md"
-    name: "Ceratotherium"
-  - path: "Coelodonta/breadcrumb.md"
-    name: "Coelodonta"
-  - path: "Dicerorhinus/breadcrumb.md"
-    name: "Dicerorhinus"
-  - path: "Diceros/breadcrumb.md"
-    name: "Diceros"
-  - path: "Elasmotherium/breadcrumb.md"
-    name: "Elasmotherium"
-  - path: "Rhinoceros/breadcrumb.md"
-    name: "Rhinoceros"
-  - path: "Stephanorhinus/breadcrumb.md"
-    name: "Stephanorhinus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Ceratotherium, Coelodonta, Dicerorhinus, Diceros, Elasmotherium, Rhinoceros, Stephanorhinus]
 ---
-
 # Rhinocerotidae
 
 Family containing 7 genera.

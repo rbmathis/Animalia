@@ -1,30 +1,21 @@
 ---
-title: "Bunolagus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["bunolagus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Brachylagus/breadcrumb.md", "../Caprolagus/breadcrumb.md", "../environmental_samples/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 48084
-parent: "../breadcrumb.md"
+title: Bunolagus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [bunolagus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Brachylagus/breadcrumb.md, ../Caprolagus/breadcrumb.md, ../environmental_samples/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Bunolagus_monticularis.cs"
-    name: "Bunolagus monticularis"
-    common_name: "Bunolagus_monticularis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Bunolagus_monticularis:
+    common_name: Bunolagus_monticularis
+    conservation: UK
 ---
-
 # Bunolagus
 
 Genus containing 1 species.

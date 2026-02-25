@@ -1,50 +1,33 @@
 ---
-title: "Chrotomys"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["chrotomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 237997
-parent: "../breadcrumb.md"
+title: Chrotomys
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [chrotomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chrotomys_gonzalesi.cs"
-    name: "Chrotomys gonzalesi"
-    common_name: "Chrotomys_gonzalesi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chrotomys_mindorensis.cs"
-    name: "Chrotomys mindorensis"
-    common_name: "Chrotomys_mindorensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chrotomys_sibuyanensis.cs"
-    name: "Chrotomys sibuyanensis"
-    common_name: "Chrotomys_sibuyanensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chrotomys_silaceus.cs"
-    name: "Chrotomys silaceus"
-    common_name: "Chrotomys_silaceus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chrotomys_whiteheadi.cs"
-    name: "Chrotomys whiteheadi"
-    common_name: "Chrotomys_whiteheadi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chrotomys_gonzalesi:
+    common_name: Chrotomys_gonzalesi
+    conservation: UK
+  Chrotomys_mindorensis:
+    common_name: Chrotomys_mindorensis
+    conservation: UK
+  Chrotomys_sibuyanensis:
+    common_name: Chrotomys_sibuyanensis
+    conservation: UK
+  Chrotomys_silaceus:
+    common_name: Chrotomys_silaceus
+    conservation: UK
+  Chrotomys_whiteheadi:
+    common_name: Chrotomys_whiteheadi
+    conservation: UK
 ---
-
 # Chrotomys
 
 Genus containing 5 species.

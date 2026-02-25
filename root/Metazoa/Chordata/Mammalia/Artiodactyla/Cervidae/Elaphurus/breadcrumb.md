@@ -1,30 +1,21 @@
 ---
-title: "Elaphurus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["elaphurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alces/breadcrumb.md", "../Axis/breadcrumb.md", "../Bisbalus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 43331
-parent: "../breadcrumb.md"
+title: Elaphurus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [elaphurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alces/breadcrumb.md, ../Axis/breadcrumb.md, ../Bisbalus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Elaphurus_davidianus.cs"
-    name: "Elaphurus davidianus"
-    common_name: "Elaphurus_davidianus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Elaphurus_davidianus:
+    common_name: Elaphurus_davidianus
+    conservation: UK
 ---
-
 # Elaphurus
 
 Genus containing 1 species.

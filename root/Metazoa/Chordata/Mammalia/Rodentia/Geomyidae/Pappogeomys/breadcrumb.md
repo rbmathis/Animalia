@@ -1,35 +1,24 @@
 ---
-title: "Pappogeomys"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["pappogeomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cratogeomys/breadcrumb.md", "../Geomys/breadcrumb.md", "../Heterogeomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 196629
-parent: "../breadcrumb.md"
+title: Pappogeomys
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [pappogeomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cratogeomys/breadcrumb.md, ../Geomys/breadcrumb.md, ../Heterogeomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pappogeomys_alcorni.cs"
-    name: "Pappogeomys alcorni"
-    common_name: "Pappogeomys_alcorni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pappogeomys_bulleri.cs"
-    name: "Pappogeomys bulleri"
-    common_name: "Pappogeomys_bulleri"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pappogeomys_alcorni:
+    common_name: Pappogeomys_alcorni
+    conservation: UK
+  Pappogeomys_bulleri:
+    common_name: Pappogeomys_bulleri
+    conservation: UK
 ---
-
 # Pappogeomys
 
 Genus containing 2 species.

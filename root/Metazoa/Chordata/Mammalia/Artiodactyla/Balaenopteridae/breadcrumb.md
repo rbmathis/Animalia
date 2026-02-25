@@ -1,30 +1,19 @@
 ---
-title: "Balaenopteridae"
-description: "Family containing 2 genera."
-category: "taxonomy/family"
-tags: ["balaenopteridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antilocapridae/breadcrumb.md", "../Balaenidae/breadcrumb.md", "../Bovidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9765
-parent: "../breadcrumb.md"
+title: Balaenopteridae
+description: Family containing 2 genera.
+category: taxonomy/family
+tags: [balaenopteridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Antilocapridae/breadcrumb.md, ../Balaenidae/breadcrumb.md, ../Bovidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 1
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Balaenoptera/breadcrumb.md"
-    name: "Balaenoptera"
-  - path: "Megaptera/breadcrumb.md"
-    name: "Megaptera"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Balaenoptera, Megaptera]
 ---
-
 # Balaenopteridae
 
 Family containing 2 genera.

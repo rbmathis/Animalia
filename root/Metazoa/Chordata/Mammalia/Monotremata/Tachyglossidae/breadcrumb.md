@@ -1,30 +1,19 @@
 ---
-title: "Tachyglossidae"
-description: "Family containing 2 genera."
-category: "taxonomy/family"
-tags: ["tachyglossidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ornithorhynchidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9259
-parent: "../breadcrumb.md"
+title: Tachyglossidae
+description: Family containing 2 genera.
+category: taxonomy/family
+tags: [tachyglossidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Ornithorhynchidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Tachyglossus/breadcrumb.md"
-    name: "Tachyglossus"
-  - path: "Zaglossus/breadcrumb.md"
-    name: "Zaglossus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Tachyglossus, Zaglossus]
 ---
-
 # Tachyglossidae
 
 Family containing 2 genera.

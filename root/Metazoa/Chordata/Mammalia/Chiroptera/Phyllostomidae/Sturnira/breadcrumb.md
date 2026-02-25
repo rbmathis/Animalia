@@ -1,126 +1,79 @@
 ---
-title: "Sturnira"
-description: "Genus containing 26 species."
-category: "taxonomy/genus"
-tags: ["sturnira", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 27659
-parent: "../breadcrumb.md"
+title: Sturnira
+description: Genus containing 26 species.
+category: taxonomy/genus
+tags: [sturnira, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 26
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Sturnira_adrianae.cs"
-    name: "Sturnira adrianae"
-    common_name: "Sturnira_adrianae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_angeli.cs"
-    name: "Sturnira angeli"
-    common_name: "Sturnira_angeli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_aratathomasi.cs"
-    name: "Sturnira aratathomasi"
-    common_name: "Sturnira_aratathomasi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_bakeri.cs"
-    name: "Sturnira bakeri"
-    common_name: "Sturnira_bakeri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_bidens.cs"
-    name: "Sturnira bidens"
-    common_name: "Sturnira_bidens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_bogotensis.cs"
-    name: "Sturnira bogotensis"
-    common_name: "Sturnira_bogotensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_burtonlimi.cs"
-    name: "Sturnira burtonlimi"
-    common_name: "Sturnira_burtonlimi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_erythromos.cs"
-    name: "Sturnira erythromos"
-    common_name: "Sturnira_erythromos"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_giannae.cs"
-    name: "Sturnira giannae"
-    common_name: "Sturnira_giannae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_hondurensis.cs"
-    name: "Sturnira hondurensis"
-    common_name: "Sturnira_hondurensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_koopmanhilli.cs"
-    name: "Sturnira koopmanhilli"
-    common_name: "Sturnira_koopmanhilli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_lilium.cs"
-    name: "Sturnira lilium"
-    common_name: "Sturnira_lilium"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_ludovici.cs"
-    name: "Sturnira ludovici"
-    common_name: "Sturnira_ludovici"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_luisi.cs"
-    name: "Sturnira luisi"
-    common_name: "Sturnira_luisi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_magna.cs"
-    name: "Sturnira magna"
-    common_name: "Sturnira_magna"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_mordax.cs"
-    name: "Sturnira mordax"
-    common_name: "Sturnira_mordax"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_nana.cs"
-    name: "Sturnira nana"
-    common_name: "Sturnira_nana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_oporaphilum.cs"
-    name: "Sturnira oporaphilum"
-    common_name: "Sturnira_oporaphilum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_parvidens.cs"
-    name: "Sturnira parvidens"
-    common_name: "Sturnira_parvidens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sturnira_perla.cs"
-    name: "Sturnira perla"
-    common_name: "Sturnira_perla"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Sturnira_adrianae:
+    common_name: Sturnira_adrianae
+    conservation: UK
+  Sturnira_angeli:
+    common_name: Sturnira_angeli
+    conservation: UK
+  Sturnira_aratathomasi:
+    common_name: Sturnira_aratathomasi
+    conservation: UK
+  Sturnira_bakeri:
+    common_name: Sturnira_bakeri
+    conservation: UK
+  Sturnira_bidens:
+    common_name: Sturnira_bidens
+    conservation: UK
+  Sturnira_bogotensis:
+    common_name: Sturnira_bogotensis
+    conservation: UK
+  Sturnira_burtonlimi:
+    common_name: Sturnira_burtonlimi
+    conservation: UK
+  Sturnira_erythromos:
+    common_name: Sturnira_erythromos
+    conservation: UK
+  Sturnira_giannae:
+    common_name: Sturnira_giannae
+    conservation: UK
+  Sturnira_hondurensis:
+    common_name: Sturnira_hondurensis
+    conservation: UK
+  Sturnira_koopmanhilli:
+    common_name: Sturnira_koopmanhilli
+    conservation: UK
+  Sturnira_lilium:
+    common_name: Sturnira_lilium
+    conservation: UK
+  Sturnira_ludovici:
+    common_name: Sturnira_ludovici
+    conservation: UK
+  Sturnira_luisi:
+    common_name: Sturnira_luisi
+    conservation: UK
+  Sturnira_magna:
+    common_name: Sturnira_magna
+    conservation: UK
+  Sturnira_mordax:
+    common_name: Sturnira_mordax
+    conservation: UK
+  Sturnira_nana:
+    common_name: Sturnira_nana
+    conservation: UK
+  Sturnira_oporaphilum:
+    common_name: Sturnira_oporaphilum
+    conservation: UK
+  Sturnira_parvidens:
+    common_name: Sturnira_parvidens
+    conservation: UK
+  Sturnira_perla:
+    common_name: Sturnira_perla
+    conservation: UK
 ---
-
 # Sturnira
 
 Genus containing 26 species.

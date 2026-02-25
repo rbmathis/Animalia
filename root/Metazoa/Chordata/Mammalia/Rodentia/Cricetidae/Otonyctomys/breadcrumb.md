@@ -1,30 +1,21 @@
 ---
-title: "Otonyctomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["otonyctomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1003294
-parent: "../breadcrumb.md"
+title: Otonyctomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [otonyctomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Otonyctomys_hatti.cs"
-    name: "Otonyctomys hatti"
-    common_name: "Otonyctomys_hatti"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Otonyctomys_hatti:
+    common_name: Otonyctomys_hatti
+    conservation: UK
 ---
-
 # Otonyctomys
 
 Genus containing 1 species.

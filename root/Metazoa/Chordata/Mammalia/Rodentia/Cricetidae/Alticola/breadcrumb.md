@@ -1,96 +1,61 @@
 ---
-title: "Alticola"
-description: "Genus containing 14 species."
-category: "taxonomy/genus"
-tags: ["alticola", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 98315
-parent: "../breadcrumb.md"
+title: Alticola
+description: Genus containing 14 species.
+category: taxonomy/genus
+tags: [alticola, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 14
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Alticola_albicauda.cs"
-    name: "Alticola albicauda"
-    common_name: "Alticola_albicauda"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alticola_argentatus.cs"
-    name: "Alticola argentatus"
-    common_name: "Alticola_argentatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alticola_barakshin.cs"
-    name: "Alticola barakshin"
-    common_name: "Alticola_barakshin"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alticola_lemminus.cs"
-    name: "Alticola lemminus"
-    common_name: "Alticola_lemminus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alticola_macrotis.cs"
-    name: "Alticola macrotis"
-    common_name: "Alticola_macrotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alticola_montosus.cs"
-    name: "Alticola montosus"
-    common_name: "Alticola_montosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alticola_olchonensis.cs"
-    name: "Alticola olchonensis"
-    common_name: "Alticola_olchonensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alticola_semicanus.cs"
-    name: "Alticola semicanus"
-    common_name: "Alticola_semicanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alticola_sp.cs"
-    name: "Alticola sp."
-    common_name: "Alticola_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alticola_sp_y_BP_2025.cs"
-    name: "Alticola sp. y BP-2025"
-    common_name: "Alticola_sp_y_BP_2025"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alticola_stoliczkanus.cs"
-    name: "Alticola stoliczkanus"
-    common_name: "Alticola_stoliczkanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alticola_stracheyi.cs"
-    name: "Alticola stracheyi"
-    common_name: "Alticola_stracheyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alticola_strelzovi.cs"
-    name: "Alticola strelzovi"
-    common_name: "Alticola_strelzovi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alticola_tuvinicus.cs"
-    name: "Alticola tuvinicus"
-    common_name: "Alticola_tuvinicus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Alticola_albicauda:
+    common_name: Alticola_albicauda
+    conservation: UK
+  Alticola_argentatus:
+    common_name: Alticola_argentatus
+    conservation: UK
+  Alticola_barakshin:
+    common_name: Alticola_barakshin
+    conservation: UK
+  Alticola_lemminus:
+    common_name: Alticola_lemminus
+    conservation: UK
+  Alticola_macrotis:
+    common_name: Alticola_macrotis
+    conservation: UK
+  Alticola_montosus:
+    common_name: Alticola_montosus
+    conservation: UK
+  Alticola_olchonensis:
+    common_name: Alticola_olchonensis
+    conservation: UK
+  Alticola_semicanus:
+    common_name: Alticola_semicanus
+    conservation: UK
+  Alticola_sp:
+    common_name: Alticola_sp
+    conservation: UK
+  Alticola_sp_y_BP_2025:
+    common_name: Alticola_sp_y_BP_2025
+    conservation: UK
+  Alticola_stoliczkanus:
+    common_name: Alticola_stoliczkanus
+    conservation: UK
+  Alticola_stracheyi:
+    common_name: Alticola_stracheyi
+    conservation: UK
+  Alticola_strelzovi:
+    common_name: Alticola_strelzovi
+    conservation: UK
+  Alticola_tuvinicus:
+    common_name: Alticola_tuvinicus
+    conservation: UK
 ---
-
 # Alticola
 
 Genus containing 14 species.

@@ -1,41 +1,28 @@
 ---
-title: "Dama"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["dama", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alces/breadcrumb.md", "../Axis/breadcrumb.md", "../Bisbalus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9867
-parent: "../breadcrumb.md"
+title: Dama
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [dama, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alces/breadcrumb.md, ../Axis/breadcrumb.md, ../Bisbalus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dama_dama.cs"
-    name: "Dama dama"
-    common_name: "Dama_dama"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dama_mesopotamica.cs"
-    name: "Dama mesopotamica"
-    common_name: "Dama_mesopotamica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dama_sp.cs"
-    name: "Dama sp."
-    common_name: "Dama_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dama_dama:
+    common_name: Dama_dama
+    conservation: UK
+  Dama_mesopotamica:
+    common_name: Dama_mesopotamica
+    conservation: UK
+  Dama_sp:
+    common_name: Dama_sp
+    conservation: UK
 ---
-
 # Dama
 
 Genus containing 3 species.

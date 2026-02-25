@@ -1,76 +1,49 @@
 ---
-title: "Mogera"
-description: "Genus containing 10 species."
-category: "taxonomy/genus"
-tags: ["mogera", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alpiscaptulus/breadcrumb.md", "../Condylura/breadcrumb.md", "../Desmana/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 62294
-parent: "../breadcrumb.md"
+title: Mogera
+description: Genus containing 10 species.
+category: taxonomy/genus
+tags: [mogera, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alpiscaptulus/breadcrumb.md, ../Condylura/breadcrumb.md, ../Desmana/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 10
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mogera_etigo.cs"
-    name: "Mogera etigo"
-    common_name: "Mogera_etigo"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mogera_hainana.cs"
-    name: "Mogera hainana"
-    common_name: "Mogera_hainana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mogera_imaizumii.cs"
-    name: "Mogera imaizumii"
-    common_name: "Mogera_imaizumii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mogera_insularis.cs"
-    name: "Mogera insularis"
-    common_name: "Mogera_insularis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mogera_kanoana.cs"
-    name: "Mogera kanoana"
-    common_name: "Mogera_kanoana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mogera_robusta.cs"
-    name: "Mogera robusta"
-    common_name: "Mogera_robusta"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mogera_sp_FH_2015.cs"
-    name: "Mogera sp. FH-2015"
-    common_name: "Mogera_sp_FH_2015"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mogera_sp_RZX_2022.cs"
-    name: "Mogera sp. RZX-2022"
-    common_name: "Mogera_sp_RZX_2022"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mogera_tokudae.cs"
-    name: "Mogera tokudae"
-    common_name: "Mogera_tokudae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mogera_wogura.cs"
-    name: "Mogera wogura"
-    common_name: "Mogera_wogura"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mogera_etigo:
+    common_name: Mogera_etigo
+    conservation: UK
+  Mogera_hainana:
+    common_name: Mogera_hainana
+    conservation: UK
+  Mogera_imaizumii:
+    common_name: Mogera_imaizumii
+    conservation: UK
+  Mogera_insularis:
+    common_name: Mogera_insularis
+    conservation: UK
+  Mogera_kanoana:
+    common_name: Mogera_kanoana
+    conservation: UK
+  Mogera_robusta:
+    common_name: Mogera_robusta
+    conservation: UK
+  Mogera_sp_FH_2015:
+    common_name: Mogera_sp_FH_2015
+    conservation: UK
+  Mogera_sp_RZX_2022:
+    common_name: Mogera_sp_RZX_2022
+    conservation: UK
+  Mogera_tokudae:
+    common_name: Mogera_tokudae
+    conservation: UK
+  Mogera_wogura:
+    common_name: Mogera_wogura
+    conservation: UK
 ---
-
 # Mogera
 
 Genus containing 10 species.

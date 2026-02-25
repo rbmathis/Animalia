@@ -1,61 +1,40 @@
 ---
-title: "Rhynchocyon"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["rhynchocyon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Elephantulus/breadcrumb.md", "../Galegeeska/breadcrumb.md", "../Macroscelides/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 151030
-parent: "../breadcrumb.md"
+title: Rhynchocyon
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [rhynchocyon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Elephantulus/breadcrumb.md, ../Galegeeska/breadcrumb.md, ../Macroscelides/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rhynchocyon_chrysopygus.cs"
-    name: "Rhynchocyon chrysopygus"
-    common_name: "Rhynchocyon_chrysopygus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhynchocyon_cirnei.cs"
-    name: "Rhynchocyon cirnei"
-    common_name: "Rhynchocyon_cirnei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhynchocyon_petersi.cs"
-    name: "Rhynchocyon petersi"
-    common_name: "Rhynchocyon_petersi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhynchocyon_sp_CJD_2003.cs"
-    name: "Rhynchocyon sp. CJD-2003"
-    common_name: "Rhynchocyon_sp_CJD_2003"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhynchocyon_sp_OM2001.cs"
-    name: "Rhynchocyon sp. OM2001"
-    common_name: "Rhynchocyon_sp_OM2001"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhynchocyon_stuhlmanni.cs"
-    name: "Rhynchocyon stuhlmanni"
-    common_name: "Rhynchocyon_stuhlmanni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhynchocyon_udzungwensis.cs"
-    name: "Rhynchocyon udzungwensis"
-    common_name: "Rhynchocyon_udzungwensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rhynchocyon_chrysopygus:
+    common_name: Rhynchocyon_chrysopygus
+    conservation: UK
+  Rhynchocyon_cirnei:
+    common_name: Rhynchocyon_cirnei
+    conservation: UK
+  Rhynchocyon_petersi:
+    common_name: Rhynchocyon_petersi
+    conservation: UK
+  Rhynchocyon_sp_CJD_2003:
+    common_name: Rhynchocyon_sp_CJD_2003
+    conservation: UK
+  Rhynchocyon_sp_OM2001:
+    common_name: Rhynchocyon_sp_OM2001
+    conservation: UK
+  Rhynchocyon_stuhlmanni:
+    common_name: Rhynchocyon_stuhlmanni
+    conservation: UK
+  Rhynchocyon_udzungwensis:
+    common_name: Rhynchocyon_udzungwensis
+    conservation: UK
 ---
-
 # Rhynchocyon
 
 Genus containing 7 species.

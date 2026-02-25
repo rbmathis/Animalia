@@ -1,30 +1,21 @@
 ---
-title: "Ametrida"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["ametrida", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md", "../Ariteus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 148022
-parent: "../breadcrumb.md"
+title: Ametrida
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [ametrida, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md, ../Ariteus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ametrida_centurio.cs"
-    name: "Ametrida centurio"
-    common_name: "Ametrida_centurio"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ametrida_centurio:
+    common_name: Ametrida_centurio
+    conservation: UK
 ---
-
 # Ametrida
 
 Genus containing 1 species.

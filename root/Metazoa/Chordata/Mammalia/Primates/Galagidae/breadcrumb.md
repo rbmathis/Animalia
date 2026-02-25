@@ -1,36 +1,19 @@
 ---
-title: "Galagidae"
-description: "Family containing 5 genera."
-category: "taxonomy/family"
-tags: ["galagidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aotidae/breadcrumb.md", "../Atelidae/breadcrumb.md", "../Cebidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 40297
-parent: "../breadcrumb.md"
+title: Galagidae
+description: Family containing 5 genera.
+category: taxonomy/family
+tags: [galagidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Aotidae/breadcrumb.md, ../Atelidae/breadcrumb.md, ../Cebidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 5
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Euoticus/breadcrumb.md"
-    name: "Euoticus"
-  - path: "Galago/breadcrumb.md"
-    name: "Galago"
-  - path: "Galagoides/breadcrumb.md"
-    name: "Galagoides"
-  - path: "Otolemur/breadcrumb.md"
-    name: "Otolemur"
-  - path: "Paragalago/breadcrumb.md"
-    name: "Paragalago"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Euoticus, Galago, Galagoides, Otolemur, Paragalago]
 ---
-
 # Galagidae
 
 Family containing 5 genera.

@@ -1,30 +1,21 @@
 ---
-title: "Xenothrix"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["xenothrix", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cacajao/breadcrumb.md", "../Callicebus/breadcrumb.md", "../Cheracebus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2490930
-parent: "../breadcrumb.md"
+title: Xenothrix
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [xenothrix, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cacajao/breadcrumb.md, ../Callicebus/breadcrumb.md, ../Cheracebus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Xenothrix_mcgregori.cs"
-    name: "Xenothrix mcgregori"
-    common_name: "Xenothrix_mcgregori"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Xenothrix_mcgregori:
+    common_name: Xenothrix_mcgregori
+    conservation: UK
 ---
-
 # Xenothrix
 
 Genus containing 1 species.

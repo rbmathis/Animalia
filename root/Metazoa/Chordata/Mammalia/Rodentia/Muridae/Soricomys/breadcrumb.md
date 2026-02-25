@@ -1,45 +1,30 @@
 ---
-title: "Soricomys"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["soricomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1932368
-parent: "../breadcrumb.md"
+title: Soricomys
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [soricomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Soricomys_kalinga.cs"
-    name: "Soricomys kalinga"
-    common_name: "Soricomys_kalinga"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Soricomys_leonardocoi.cs"
-    name: "Soricomys leonardocoi"
-    common_name: "Soricomys_leonardocoi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Soricomys_montanus.cs"
-    name: "Soricomys montanus"
-    common_name: "Soricomys_montanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Soricomys_musseri.cs"
-    name: "Soricomys musseri"
-    common_name: "Soricomys_musseri"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Soricomys_kalinga:
+    common_name: Soricomys_kalinga
+    conservation: UK
+  Soricomys_leonardocoi:
+    common_name: Soricomys_leonardocoi
+    conservation: UK
+  Soricomys_montanus:
+    common_name: Soricomys_montanus
+    conservation: UK
+  Soricomys_musseri:
+    common_name: Soricomys_musseri
+    conservation: UK
 ---
-
 # Soricomys
 
 Genus containing 4 species.

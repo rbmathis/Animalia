@@ -1,30 +1,21 @@
 ---
-title: "Aenocyon"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["aenocyon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Atelocynus/breadcrumb.md", "../Canidae_intergeneric_hybrids/breadcrumb.md", "../Canis/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3414997
-parent: "../breadcrumb.md"
+title: Aenocyon
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [aenocyon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Atelocynus/breadcrumb.md, ../Canidae_intergeneric_hybrids/breadcrumb.md, ../Canis/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Aenocyon_dirus.cs"
-    name: "Aenocyon dirus"
-    common_name: "Aenocyon_dirus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Aenocyon_dirus:
+    common_name: Aenocyon_dirus
+    conservation: UK
 ---
-
 # Aenocyon
 
 Genus containing 1 species.

@@ -1,51 +1,34 @@
 ---
-title: "Pogonomys"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["pogonomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 442599
-parent: "../breadcrumb.md"
+title: Pogonomys
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [pogonomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pogonomys_loriae.cs"
-    name: "Pogonomys loriae"
-    common_name: "Pogonomys_loriae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pogonomys_macrourus.cs"
-    name: "Pogonomys macrourus"
-    common_name: "Pogonomys_macrourus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pogonomys_mollipilosus.cs"
-    name: "Pogonomys mollipilosus"
-    common_name: "Pogonomys_mollipilosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pogonomys_sp_LMB_2011.cs"
-    name: "Pogonomys sp. LMB-2011"
-    common_name: "Pogonomys_sp_LMB_2011"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pogonomys_sylvestris.cs"
-    name: "Pogonomys sylvestris"
-    common_name: "Pogonomys_sylvestris"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pogonomys_loriae:
+    common_name: Pogonomys_loriae
+    conservation: UK
+  Pogonomys_macrourus:
+    common_name: Pogonomys_macrourus
+    conservation: UK
+  Pogonomys_mollipilosus:
+    common_name: Pogonomys_mollipilosus
+    conservation: UK
+  Pogonomys_sp_LMB_2011:
+    common_name: Pogonomys_sp_LMB_2011
+    conservation: UK
+  Pogonomys_sylvestris:
+    common_name: Pogonomys_sylvestris
+    conservation: UK
 ---
-
 # Pogonomys
 
 Genus containing 5 species.

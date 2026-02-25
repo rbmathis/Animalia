@@ -1,126 +1,79 @@
 ---
-title: "Pipistrellus"
-description: "Genus containing 74 species."
-category: "taxonomy/genus"
-tags: ["pipistrellus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 27671
-parent: "../breadcrumb.md"
+title: Pipistrellus
+description: Genus containing 74 species.
+category: taxonomy/genus
+tags: [pipistrellus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 74
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pipistrellus_abramus.cs"
-    name: "Pipistrellus abramus"
-    common_name: "Pipistrellus_abramus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_ceylonicus.cs"
-    name: "Pipistrellus ceylonicus"
-    common_name: "Pipistrellus_ceylonicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_cf_ceylonicus_MNR_2020.cs"
-    name: "Pipistrellus cf. ceylonicus MNR-2020"
-    common_name: "Pipistrellus_cf_ceylonicus_MNR_2020"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_cf_coromandra_CMF_2010.cs"
-    name: "Pipistrellus cf. coromandra CMF-2010"
-    common_name: "Pipistrellus_cf_coromandra_CMF_2010"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_cf_coromandra_RM_2019.cs"
-    name: "Pipistrellus cf. coromandra RM-2019"
-    common_name: "Pipistrellus_cf_coromandra_RM_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_cf_grandidieri_JA_2016a.cs"
-    name: "Pipistrellus cf. grandidieri JA-2016a"
-    common_name: "Pipistrellus_cf_grandidieri_JA_2016a"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_cf_javanicus.cs"
-    name: "Pipistrellus cf. javanicus"
-    common_name: "Pipistrellus_cf_javanicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_cf_kuhlii.cs"
-    name: "Pipistrellus cf. kuhlii"
-    common_name: "Pipistrellus_cf_kuhlii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_cf_pygmaeus.cs"
-    name: "Pipistrellus cf. pygmaeus"
-    common_name: "Pipistrellus_cf_pygmaeus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_cf_tenuis_BOLDAAB2554.cs"
-    name: "Pipistrellus cf. tenuis BOLD:AAB2554"
-    common_name: "Pipistrellus_cf_tenuis_BOLDAAB2554"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_coromandra.cs"
-    name: "Pipistrellus coromandra"
-    common_name: "Pipistrellus_coromandra"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_dhofarensis.cs"
-    name: "Pipistrellus dhofarensis"
-    common_name: "Pipistrellus_dhofarensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_endoi.cs"
-    name: "Pipistrellus endoi"
-    common_name: "Pipistrellus_endoi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_hanaki.cs"
-    name: "Pipistrellus hanaki"
-    common_name: "Pipistrellus_hanaki"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_hesperidus.cs"
-    name: "Pipistrellus hesperidus"
-    common_name: "Pipistrellus_hesperidus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_javanicus.cs"
-    name: "Pipistrellus javanicus"
-    common_name: "Pipistrellus_javanicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_javanicus_x_tenuis.cs"
-    name: "Pipistrellus javanicus x tenuis"
-    common_name: "Pipistrellus_javanicus_x_tenuis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_kuhlii.cs"
-    name: "Pipistrellus kuhlii"
-    common_name: "Pipistrellus_kuhlii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_maderensis.cs"
-    name: "Pipistrellus maderensis"
-    common_name: "Pipistrellus_maderensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pipistrellus_nanulus.cs"
-    name: "Pipistrellus nanulus"
-    common_name: "Pipistrellus_nanulus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pipistrellus_abramus:
+    common_name: Pipistrellus_abramus
+    conservation: UK
+  Pipistrellus_ceylonicus:
+    common_name: Pipistrellus_ceylonicus
+    conservation: UK
+  Pipistrellus_cf_ceylonicus_MNR_2020:
+    common_name: Pipistrellus_cf_ceylonicus_MNR_2020
+    conservation: UK
+  Pipistrellus_cf_coromandra_CMF_2010:
+    common_name: Pipistrellus_cf_coromandra_CMF_2010
+    conservation: UK
+  Pipistrellus_cf_coromandra_RM_2019:
+    common_name: Pipistrellus_cf_coromandra_RM_2019
+    conservation: UK
+  Pipistrellus_cf_grandidieri_JA_2016a:
+    common_name: Pipistrellus_cf_grandidieri_JA_2016a
+    conservation: UK
+  Pipistrellus_cf_javanicus:
+    common_name: Pipistrellus_cf_javanicus
+    conservation: UK
+  Pipistrellus_cf_kuhlii:
+    common_name: Pipistrellus_cf_kuhlii
+    conservation: UK
+  Pipistrellus_cf_pygmaeus:
+    common_name: Pipistrellus_cf_pygmaeus
+    conservation: UK
+  Pipistrellus_cf_tenuis_BOLDAAB2554:
+    common_name: Pipistrellus_cf_tenuis_BOLDAAB2554
+    conservation: UK
+  Pipistrellus_coromandra:
+    common_name: Pipistrellus_coromandra
+    conservation: UK
+  Pipistrellus_dhofarensis:
+    common_name: Pipistrellus_dhofarensis
+    conservation: UK
+  Pipistrellus_endoi:
+    common_name: Pipistrellus_endoi
+    conservation: UK
+  Pipistrellus_hanaki:
+    common_name: Pipistrellus_hanaki
+    conservation: UK
+  Pipistrellus_hesperidus:
+    common_name: Pipistrellus_hesperidus
+    conservation: UK
+  Pipistrellus_javanicus:
+    common_name: Pipistrellus_javanicus
+    conservation: UK
+  Pipistrellus_javanicus_x_tenuis:
+    common_name: Pipistrellus_javanicus_x_tenuis
+    conservation: UK
+  Pipistrellus_kuhlii:
+    common_name: Pipistrellus_kuhlii
+    conservation: UK
+  Pipistrellus_maderensis:
+    common_name: Pipistrellus_maderensis
+    conservation: UK
+  Pipistrellus_nanulus:
+    common_name: Pipistrellus_nanulus
+    conservation: UK
 ---
-
 # Pipistrellus
 
 Genus containing 74 species.

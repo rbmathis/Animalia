@@ -1,49 +1,20 @@
 ---
-title: "Cricetidae"
-description: "Family containing 156 genera."
-category: "taxonomy/family"
-tags: ["cricetidae", "family", "has-pets"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 337677
-parent: "../breadcrumb.md"
+title: Cricetidae
+description: Family containing 156 genera.
+category: taxonomy/family
+tags: [cricetidae, family, has-pets]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 156
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Abrawayaomys/breadcrumb.md"
-    name: "Abrawayaomys"
-  - path: "Abrothrix/breadcrumb.md"
-    name: "Abrothrix"
-  - path: "Aegialomys/breadcrumb.md"
-    name: "Aegialomys"
-  - path: "Aepeomys/breadcrumb.md"
-    name: "Aepeomys"
-  - path: "Akodon/breadcrumb.md"
-    name: "Akodon"
-  - path: "Alexandromys/breadcrumb.md"
-    name: "Alexandromys"
-  - path: "Allocricetulus/breadcrumb.md"
-    name: "Allocricetulus"
-  - path: "Alticola/breadcrumb.md"
-    name: "Alticola"
-  - path: "Amphinectomys/breadcrumb.md"
-    name: "Amphinectomys"
-  - path: "Andalgalomys/breadcrumb.md"
-    name: "Andalgalomys"pet_genera:
-  - name: "Mesocricetus"
-    path: "Mesocricetus/breadcrumb.md"
-
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Abrawayaomys, Abrothrix, Aegialomys, Aepeomys, Akodon, Alexandromys, Allocricetulus, Alticola, Amphinectomys, Andalgalomys]
+pet_genera: [Mesocricetus]
 ---
-
 # Cricetidae
 
 Family containing 156 genera.

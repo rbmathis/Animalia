@@ -1,96 +1,61 @@
 ---
-title: "Eliurus"
-description: "Genus containing 14 species."
-category: "taxonomy/genus"
-tags: ["eliurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Beamys/breadcrumb.md", "../Brachytarsomys/breadcrumb.md", "../Brachyuromys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 107273
-parent: "../breadcrumb.md"
+title: Eliurus
+description: Genus containing 14 species.
+category: taxonomy/genus
+tags: [eliurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Beamys/breadcrumb.md, ../Brachytarsomys/breadcrumb.md, ../Brachyuromys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 14
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Eliurus_antsingy.cs"
-    name: "Eliurus antsingy"
-    common_name: "Eliurus_antsingy"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eliurus_carletoni.cs"
-    name: "Eliurus carletoni"
-    common_name: "Eliurus_carletoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eliurus_ellermani.cs"
-    name: "Eliurus ellermani"
-    common_name: "Eliurus_ellermani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eliurus_grandidieri.cs"
-    name: "Eliurus grandidieri"
-    common_name: "Eliurus_grandidieri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eliurus_majori.cs"
-    name: "Eliurus majori"
-    common_name: "Eliurus_majori"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eliurus_minor.cs"
-    name: "Eliurus minor"
-    common_name: "Eliurus_minor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eliurus_myoxinus.cs"
-    name: "Eliurus myoxinus"
-    common_name: "Eliurus_myoxinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eliurus_sp.cs"
-    name: "Eliurus sp."
-    common_name: "Eliurus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eliurus_sp_1_JJS_2013.cs"
-    name: "Eliurus sp. 1 JJS-2013"
-    common_name: "Eliurus_sp_1_JJS_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eliurus_sp_2_JJS_2013.cs"
-    name: "Eliurus sp. 2 JJS-2013"
-    common_name: "Eliurus_sp_2_JJS_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eliurus_sp_C24.cs"
-    name: "Eliurus sp. C24"
-    common_name: "Eliurus_sp_C24"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eliurus_tanala.cs"
-    name: "Eliurus tanala"
-    common_name: "Eliurus_tanala"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eliurus_tsingimbato.cs"
-    name: "Eliurus tsingimbato"
-    common_name: "Eliurus_tsingimbato"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eliurus_webbi.cs"
-    name: "Eliurus webbi"
-    common_name: "Eliurus_webbi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Eliurus_antsingy:
+    common_name: Eliurus_antsingy
+    conservation: UK
+  Eliurus_carletoni:
+    common_name: Eliurus_carletoni
+    conservation: UK
+  Eliurus_ellermani:
+    common_name: Eliurus_ellermani
+    conservation: UK
+  Eliurus_grandidieri:
+    common_name: Eliurus_grandidieri
+    conservation: UK
+  Eliurus_majori:
+    common_name: Eliurus_majori
+    conservation: UK
+  Eliurus_minor:
+    common_name: Eliurus_minor
+    conservation: UK
+  Eliurus_myoxinus:
+    common_name: Eliurus_myoxinus
+    conservation: UK
+  Eliurus_sp:
+    common_name: Eliurus_sp
+    conservation: UK
+  Eliurus_sp_1_JJS_2013:
+    common_name: Eliurus_sp_1_JJS_2013
+    conservation: UK
+  Eliurus_sp_2_JJS_2013:
+    common_name: Eliurus_sp_2_JJS_2013
+    conservation: UK
+  Eliurus_sp_C24:
+    common_name: Eliurus_sp_C24
+    conservation: UK
+  Eliurus_tanala:
+    common_name: Eliurus_tanala
+    conservation: UK
+  Eliurus_tsingimbato:
+    common_name: Eliurus_tsingimbato
+    conservation: UK
+  Eliurus_webbi:
+    common_name: Eliurus_webbi
+    conservation: UK
 ---
-
 # Eliurus
 
 Genus containing 14 species.

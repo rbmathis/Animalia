@@ -1,126 +1,79 @@
 ---
-title: "Monodelphis"
-description: "Genus containing 33 species."
-category: "taxonomy/genus"
-tags: ["monodelphis", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Caluromys/breadcrumb.md", "../Caluromysiops/breadcrumb.md", "../Chacodelphys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 13615
-parent: "../breadcrumb.md"
+title: Monodelphis
+description: Genus containing 33 species.
+category: taxonomy/genus
+tags: [monodelphis, genus]
+status: Living
+updated: 2026-02-23
+related: [../Caluromys/breadcrumb.md, ../Caluromysiops/breadcrumb.md, ../Chacodelphys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 33
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Monodelphis_adusta.cs"
-    name: "Monodelphis adusta"
-    common_name: "Monodelphis_adusta"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_americana.cs"
-    name: "Monodelphis americana"
-    common_name: "Monodelphis_americana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_arlindoi.cs"
-    name: "Monodelphis arlindoi"
-    common_name: "Monodelphis_arlindoi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_brevicaudata.cs"
-    name: "Monodelphis brevicaudata"
-    common_name: "Monodelphis_brevicaudata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_dimidiata.cs"
-    name: "Monodelphis dimidiata"
-    common_name: "Monodelphis_dimidiata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_domestica.cs"
-    name: "Monodelphis domestica"
-    common_name: "Monodelphis_domestica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_emiliae.cs"
-    name: "Monodelphis emiliae"
-    common_name: "Monodelphis_emiliae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_gardneri.cs"
-    name: "Monodelphis gardneri"
-    common_name: "Monodelphis_gardneri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_glirina.cs"
-    name: "Monodelphis glirina"
-    common_name: "Monodelphis_glirina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_handleyi.cs"
-    name: "Monodelphis handleyi"
-    common_name: "Monodelphis_handleyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_iheringi.cs"
-    name: "Monodelphis iheringi"
-    common_name: "Monodelphis_iheringi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_kunsi.cs"
-    name: "Monodelphis kunsi"
-    common_name: "Monodelphis_kunsi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_osgoodi.cs"
-    name: "Monodelphis osgoodi"
-    common_name: "Monodelphis_osgoodi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_palliolata.cs"
-    name: "Monodelphis palliolata"
-    common_name: "Monodelphis_palliolata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_peruviana.cs"
-    name: "Monodelphis peruviana"
-    common_name: "Monodelphis_peruviana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_pinocchio.cs"
-    name: "Monodelphis pinocchio"
-    common_name: "Monodelphis_pinocchio"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_reigi.cs"
-    name: "Monodelphis reigi"
-    common_name: "Monodelphis_reigi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_ronaldi.cs"
-    name: "Monodelphis ronaldi"
-    common_name: "Monodelphis_ronaldi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_sanctaerosae.cs"
-    name: "Monodelphis sanctaerosae"
-    common_name: "Monodelphis_sanctaerosae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monodelphis_scalops.cs"
-    name: "Monodelphis scalops"
-    common_name: "Monodelphis_scalops"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Monodelphis_adusta:
+    common_name: Monodelphis_adusta
+    conservation: UK
+  Monodelphis_americana:
+    common_name: Monodelphis_americana
+    conservation: UK
+  Monodelphis_arlindoi:
+    common_name: Monodelphis_arlindoi
+    conservation: UK
+  Monodelphis_brevicaudata:
+    common_name: Monodelphis_brevicaudata
+    conservation: UK
+  Monodelphis_dimidiata:
+    common_name: Monodelphis_dimidiata
+    conservation: UK
+  Monodelphis_domestica:
+    common_name: Monodelphis_domestica
+    conservation: UK
+  Monodelphis_emiliae:
+    common_name: Monodelphis_emiliae
+    conservation: UK
+  Monodelphis_gardneri:
+    common_name: Monodelphis_gardneri
+    conservation: UK
+  Monodelphis_glirina:
+    common_name: Monodelphis_glirina
+    conservation: UK
+  Monodelphis_handleyi:
+    common_name: Monodelphis_handleyi
+    conservation: UK
+  Monodelphis_iheringi:
+    common_name: Monodelphis_iheringi
+    conservation: UK
+  Monodelphis_kunsi:
+    common_name: Monodelphis_kunsi
+    conservation: UK
+  Monodelphis_osgoodi:
+    common_name: Monodelphis_osgoodi
+    conservation: UK
+  Monodelphis_palliolata:
+    common_name: Monodelphis_palliolata
+    conservation: UK
+  Monodelphis_peruviana:
+    common_name: Monodelphis_peruviana
+    conservation: UK
+  Monodelphis_pinocchio:
+    common_name: Monodelphis_pinocchio
+    conservation: UK
+  Monodelphis_reigi:
+    common_name: Monodelphis_reigi
+    conservation: UK
+  Monodelphis_ronaldi:
+    common_name: Monodelphis_ronaldi
+    conservation: UK
+  Monodelphis_sanctaerosae:
+    common_name: Monodelphis_sanctaerosae
+    conservation: UK
+  Monodelphis_scalops:
+    common_name: Monodelphis_scalops
+    conservation: UK
 ---
-
 # Monodelphis
 
 Genus containing 33 species.

@@ -1,40 +1,27 @@
 ---
-title: "Eubalaena"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["eubalaena", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Balaena/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 27605
-parent: "../breadcrumb.md"
+title: Eubalaena
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [eubalaena, genus]
+status: Living
+updated: 2026-02-23
+related: [../Balaena/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Eubalaena_australis.cs"
-    name: "Eubalaena australis"
-    common_name: "Eubalaena_australis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eubalaena_glacialis.cs"
-    name: "Eubalaena glacialis"
-    common_name: "Eubalaena_glacialis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eubalaena_japonica.cs"
-    name: "Eubalaena japonica"
-    common_name: "Eubalaena_japonica"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Eubalaena_australis:
+    common_name: Eubalaena_australis
+    conservation: UK
+  Eubalaena_glacialis:
+    common_name: Eubalaena_glacialis
+    conservation: UK
+  Eubalaena_japonica:
+    common_name: Eubalaena_japonica
+    conservation: UK
 ---
-
 # Eubalaena
 
 Genus containing 3 species.

@@ -1,23 +1,20 @@
 ---
-title: "unclassified_Odocoileinae"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["unclassified_odocoileinae", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alces/breadcrumb.md", "../Axis/breadcrumb.md", "../Bisbalus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-parent: "../breadcrumb.md"
+title: unclassified_Odocoileinae
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [unclassified_odocoileinae, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alces/breadcrumb.md, ../Axis/breadcrumb.md, ../Bisbalus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-species:
-  - file: "Odocoileinae_gen_n_sp_c_GDE_2024.cs"
-    name: "Odocoileinae gen. n. sp. c GDE-2024"
-    common_name: "Odocoileinae_gen_n_sp_c_GDE_2024"
-    conservation: "Unknown"
-    enriched: false
+species_data:
+  Odocoileinae_gen_n_sp_c_GDE_2024:
+    common_name: Odocoileinae_gen_n_sp_c_GDE_2024
+    conservation: UK
 ---
-
 # unclassified_Odocoileinae
 
 Genus containing 1 species.

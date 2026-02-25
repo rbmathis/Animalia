@@ -1,30 +1,21 @@
 ---
-title: "Tonkinomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["tonkinomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1305944
-parent: "../breadcrumb.md"
+title: Tonkinomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [tonkinomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tonkinomys_daovantieni.cs"
-    name: "Tonkinomys daovantieni"
-    common_name: "Tonkinomys_daovantieni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tonkinomys_daovantieni:
+    common_name: Tonkinomys_daovantieni
+    conservation: UK
 ---
-
 # Tonkinomys
 
 Genus containing 1 species.

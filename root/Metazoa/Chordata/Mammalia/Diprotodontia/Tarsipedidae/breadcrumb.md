@@ -1,28 +1,19 @@
 ---
-title: "Tarsipedidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["tarsipedidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acrobatidae/breadcrumb.md", "../Burramyidae/breadcrumb.md", "../Macropodidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 38630
-parent: "../breadcrumb.md"
+title: Tarsipedidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [tarsipedidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Acrobatidae/breadcrumb.md, ../Burramyidae/breadcrumb.md, ../Macropodidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Tarsipes/breadcrumb.md"
-    name: "Tarsipes"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Tarsipes]
 ---
-
 # Tarsipedidae
 
 Family containing 1 genera.

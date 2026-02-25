@@ -79,12 +79,12 @@ Each taxonomic rank contains:
 public class Canis_lupus : Canis
 {
     public const bool IsEnriched = true;  // false = stub, true = has real data
-    
+
     // Stub species (IsEnriched = false) have only:
     public string SpeciesName => "Canis lupus";
     public string CommonName => "Grey Wolf";
     public int TaxId => 16693;
-    
+
     // Enriched species (IsEnriched = true) add:
     public string ConservationStatus => "Least Concern";
     public double AverageLifespanYears => 13.0;
@@ -388,9 +388,105 @@ root/
 
 ---
 
+## � Lean Breadcrumb Schema (v2)
+
+**Principle**: Store only non-derivable data. File names, paths, and species names can be derived from the filesystem.
+
+### Species Data (Genus Level)
+
+**Old verbose format:**
+```yaml
+species:
+  - file: "Canis_lupus.cs"
+    name: "Canis lupus"
+    common_name: "timber wolf"
+    conservation: "Least Concern"
+    enriched: true
+    pet: true
+```
+
+**New lean format:**
+```yaml
+species_data:
+  Canis_lupus:                    # Key = file stem (derivable: + ".cs" for file)
+    common_name: "timber wolf"    # Non-derivable
+    conservation: "LC"            # IUCN code (shorter)
+    pet: true                     # Only present if true
+  Canis_aureus:
+    common_name: "Golden Jackal"
+    conservation: "LC"
+```
+
+**Removed fields:**
+| Field | Reason |
+|-------|--------|
+| `file` | Derivable: `{key}.cs` |
+| `name` | Derivable: `{key}` with `_` → ` ` |
+| `enriched` | Read from `.cs` file if needed, or omit |
+
+### Genera List (Family Level)
+
+**Old verbose format:**
+```yaml
+genera:
+  - path: "Canis/breadcrumb.md"
+    name: "Canis"
+  - path: "Vulpes/breadcrumb.md"
+    name: "Vulpes"
+```
+
+**New lean format:**
+```yaml
+genera: ["Aenocyon", "Atelocynus", "Canis", "Vulpes"]  # Path = {name}/breadcrumb.md
+```
+
+### Pet Data (Preserved)
+
+Pet data is **retained** in all formats:
+
+```yaml
+# Genus level
+species_data:
+  Canis_lupus:
+    common_name: "timber wolf"
+    conservation: "LC"
+    pet: true                     # ← Preserved
+
+# Family level
+pet_genera: ["Canis", "Felis"]    # ← Lean format
+
+# Order+ level
+pet_families: ["Canidae", "Felidae"]
+```
+
+### IUCN Code Mapping
+
+| Full Name | Code |
+|-----------|------|
+| Least Concern | LC |
+| Near Threatened | NT |
+| Vulnerable | VU |
+| Endangered | EN |
+| Critically Endangered | CR |
+| Extinct in Wild | EW |
+| Extinct | EX |
+| Data Deficient | DD |
+| Unknown | UK |
+
+### Derivation Rules
+
+| Target | Derivation |
+|--------|------------|
+| Species file | `{species_key}.cs` |
+| Species name | `{species_key}` with `_` → ` ` |
+| Genus path | `{genus_name}/breadcrumb.md` |
+| Genus interface | `I{genus_name}.cs` |
+
+---
+
 ## 📝 Document Metadata
 
-- **Version**: 1.0
-- **Last Updated**: 2026-02-23
+- **Version**: 2.0
+- **Last Updated**: 2026-02-24
 - **Audience**: Developers, AI assistants (Copilot CLI, IDE tools)
 - **Purpose**: Navigation guide for 161K+ file codebase

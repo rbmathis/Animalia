@@ -1,30 +1,21 @@
 ---
-title: "Sommeromys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["sommeromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1795470
-parent: "../breadcrumb.md"
+title: Sommeromys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [sommeromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Sommeromys_macrorhinos.cs"
-    name: "Sommeromys macrorhinos"
-    common_name: "Sommeromys_macrorhinos"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Sommeromys_macrorhinos:
+    common_name: Sommeromys_macrorhinos
+    conservation: UK
 ---
-
 # Sommeromys
 
 Genus containing 1 species.

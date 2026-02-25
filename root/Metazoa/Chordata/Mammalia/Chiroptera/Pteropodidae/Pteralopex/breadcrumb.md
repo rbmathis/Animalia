@@ -1,35 +1,24 @@
 ---
-title: "Pteralopex"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["pteralopex", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 58080
-parent: "../breadcrumb.md"
+title: Pteralopex
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [pteralopex, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pteralopex_atrata.cs"
-    name: "Pteralopex atrata"
-    common_name: "Pteralopex_atrata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteralopex_taki.cs"
-    name: "Pteralopex taki"
-    common_name: "Pteralopex_taki"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pteralopex_atrata:
+    common_name: Pteralopex_atrata
+    conservation: UK
+  Pteralopex_taki:
+    common_name: Pteralopex_taki
+    conservation: UK
 ---
-
 # Pteralopex
 
 Genus containing 2 species.

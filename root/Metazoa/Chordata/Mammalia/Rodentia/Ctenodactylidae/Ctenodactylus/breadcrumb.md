@@ -1,35 +1,24 @@
 ---
-title: "Ctenodactylus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["ctenodactylus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Felovia/breadcrumb.md", "../Massoutiera/breadcrumb.md", "../Pectinator/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10165
-parent: "../breadcrumb.md"
+title: Ctenodactylus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [ctenodactylus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Felovia/breadcrumb.md, ../Massoutiera/breadcrumb.md, ../Pectinator/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ctenodactylus_gundi.cs"
-    name: "Ctenodactylus gundi"
-    common_name: "Ctenodactylus_gundi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ctenodactylus_vali.cs"
-    name: "Ctenodactylus vali"
-    common_name: "Ctenodactylus_vali"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ctenodactylus_gundi:
+    common_name: Ctenodactylus_gundi
+    conservation: UK
+  Ctenodactylus_vali:
+    common_name: Ctenodactylus_vali
+    conservation: UK
 ---
-
 # Ctenodactylus
 
 Genus containing 2 species.

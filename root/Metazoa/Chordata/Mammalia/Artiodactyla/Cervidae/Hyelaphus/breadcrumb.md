@@ -1,30 +1,21 @@
 ---
-title: "Hyelaphus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["hyelaphus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alces/breadcrumb.md", "../Axis/breadcrumb.md", "../Bisbalus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2494277
-parent: "../breadcrumb.md"
+title: Hyelaphus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [hyelaphus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alces/breadcrumb.md, ../Axis/breadcrumb.md, ../Bisbalus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hyelaphus_porcinus.cs"
-    name: "Hyelaphus porcinus"
-    common_name: "Hyelaphus_porcinus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hyelaphus_porcinus:
+    common_name: Hyelaphus_porcinus
+    conservation: UK
 ---
-
 # Hyelaphus
 
 Genus containing 1 species.

@@ -1,30 +1,21 @@
 ---
-title: "Eremitalpa"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["eremitalpa", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Amblysomus/breadcrumb.md", "../Calcochloris/breadcrumb.md", "../Carpitalpa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 481706
-parent: "../breadcrumb.md"
+title: Eremitalpa
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [eremitalpa, genus]
+status: Living
+updated: 2026-02-23
+related: [../Amblysomus/breadcrumb.md, ../Calcochloris/breadcrumb.md, ../Carpitalpa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Eremitalpa_granti.cs"
-    name: "Eremitalpa granti"
-    common_name: "Eremitalpa_granti"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Eremitalpa_granti:
+    common_name: Eremitalpa_granti
+    conservation: UK
 ---
-
 # Eremitalpa
 
 Genus containing 1 species.

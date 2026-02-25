@@ -1,66 +1,43 @@
 ---
-title: "Lagothrix"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["lagothrix", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alouatta/breadcrumb.md", "../Ateles/breadcrumb.md", "../Brachyteles/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9518
-parent: "../breadcrumb.md"
+title: Lagothrix
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [lagothrix, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alouatta/breadcrumb.md, ../Ateles/breadcrumb.md, ../Brachyteles/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lagothrix_cana.cs"
-    name: "Lagothrix cana"
-    common_name: "Lagothrix_cana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagothrix_flavicauda.cs"
-    name: "Lagothrix flavicauda"
-    common_name: "Lagothrix_flavicauda"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagothrix_lagotricha.cs"
-    name: "Lagothrix lagotricha"
-    common_name: "Lagothrix_lagotricha"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagothrix_lugens.cs"
-    name: "Lagothrix lugens"
-    common_name: "Lagothrix_lugens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagothrix_poeppigii.cs"
-    name: "Lagothrix poeppigii"
-    common_name: "Lagothrix_poeppigii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagothrix_sp_CCS_2009a.cs"
-    name: "Lagothrix sp. CCS-2009a"
-    common_name: "Lagothrix_sp_CCS_2009a"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagothrix_sp_EG_2017.cs"
-    name: "Lagothrix sp. EG-2017"
-    common_name: "Lagothrix_sp_EG_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lagothrix_tschudii.cs"
-    name: "Lagothrix tschudii"
-    common_name: "Lagothrix_tschudii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lagothrix_cana:
+    common_name: Lagothrix_cana
+    conservation: UK
+  Lagothrix_flavicauda:
+    common_name: Lagothrix_flavicauda
+    conservation: UK
+  Lagothrix_lagotricha:
+    common_name: Lagothrix_lagotricha
+    conservation: UK
+  Lagothrix_lugens:
+    common_name: Lagothrix_lugens
+    conservation: UK
+  Lagothrix_poeppigii:
+    common_name: Lagothrix_poeppigii
+    conservation: UK
+  Lagothrix_sp_CCS_2009a:
+    common_name: Lagothrix_sp_CCS_2009a
+    conservation: UK
+  Lagothrix_sp_EG_2017:
+    common_name: Lagothrix_sp_EG_2017
+    conservation: UK
+  Lagothrix_tschudii:
+    common_name: Lagothrix_tschudii
+    conservation: UK
 ---
-
 # Lagothrix
 
 Genus containing 8 species.

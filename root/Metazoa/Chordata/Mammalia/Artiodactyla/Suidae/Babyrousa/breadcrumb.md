@@ -1,35 +1,24 @@
 ---
-title: "Babyrousa"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["babyrousa", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Hylochoerus/breadcrumb.md", "../Phacochoerus/breadcrumb.md", "../Porcula/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 41805
-parent: "../breadcrumb.md"
+title: Babyrousa
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [babyrousa, genus]
+status: Living
+updated: 2026-02-23
+related: [../Hylochoerus/breadcrumb.md, ../Phacochoerus/breadcrumb.md, ../Porcula/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Babyrousa_babyrussa.cs"
-    name: "Babyrousa babyrussa"
-    common_name: "Babyrousa_babyrussa"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Babyrousa_celebensis.cs"
-    name: "Babyrousa celebensis"
-    common_name: "Babyrousa_celebensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Babyrousa_babyrussa:
+    common_name: Babyrousa_babyrussa
+    conservation: UK
+  Babyrousa_celebensis:
+    common_name: Babyrousa_celebensis
+    conservation: UK
 ---
-
 # Babyrousa
 
 Genus containing 2 species.

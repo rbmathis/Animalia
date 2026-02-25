@@ -1,30 +1,21 @@
 ---
-title: "Pipanacoctomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["pipanacoctomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aconaemys/breadcrumb.md", "../Octodon/breadcrumb.md", "../Octomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 227729
-parent: "../breadcrumb.md"
+title: Pipanacoctomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [pipanacoctomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aconaemys/breadcrumb.md, ../Octodon/breadcrumb.md, ../Octomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pipanacoctomys_aureus.cs"
-    name: "Pipanacoctomys aureus"
-    common_name: "Pipanacoctomys_aureus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pipanacoctomys_aureus:
+    common_name: Pipanacoctomys_aureus
+    conservation: UK
 ---
-
 # Pipanacoctomys
 
 Genus containing 1 species.

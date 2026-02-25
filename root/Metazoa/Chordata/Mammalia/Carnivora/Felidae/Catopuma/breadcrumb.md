@@ -1,35 +1,24 @@
 ---
-title: "Catopuma"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["catopuma", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acinonyx/breadcrumb.md", "../Caracal/breadcrumb.md", "../Felidae_incertae_sedis/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 61453
-parent: "../breadcrumb.md"
+title: Catopuma
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [catopuma, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acinonyx/breadcrumb.md, ../Caracal/breadcrumb.md, ../Felidae_incertae_sedis/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Catopuma_badia.cs"
-    name: "Catopuma badia"
-    common_name: "Catopuma_badia"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Catopuma_temminckii.cs"
-    name: "Catopuma temminckii"
-    common_name: "Catopuma_temminckii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Catopuma_badia:
+    common_name: Catopuma_badia
+    conservation: UK
+  Catopuma_temminckii:
+    common_name: Catopuma_temminckii
+    conservation: UK
 ---
-
 # Catopuma
 
 Genus containing 2 species.

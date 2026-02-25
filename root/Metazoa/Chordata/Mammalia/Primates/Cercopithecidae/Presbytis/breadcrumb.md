@@ -1,96 +1,61 @@
 ---
-title: "Presbytis"
-description: "Genus containing 14 species."
-category: "taxonomy/genus"
-tags: ["presbytis", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allenopithecus/breadcrumb.md", "../Allochrocebus/breadcrumb.md", "../Cercocebus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9573
-parent: "../breadcrumb.md"
+title: Presbytis
+description: Genus containing 14 species.
+category: taxonomy/genus
+tags: [presbytis, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allenopithecus/breadcrumb.md, ../Allochrocebus/breadcrumb.md, ../Cercocebus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 14
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Presbytis_bicolor.cs"
-    name: "Presbytis bicolor"
-    common_name: "Presbytis_bicolor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Presbytis_chrysomelas.cs"
-    name: "Presbytis chrysomelas"
-    common_name: "Presbytis_chrysomelas"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Presbytis_comata.cs"
-    name: "Presbytis comata"
-    common_name: "Presbytis_comata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Presbytis_femoralis.cs"
-    name: "Presbytis femoralis"
-    common_name: "Presbytis_femoralis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Presbytis_frontata.cs"
-    name: "Presbytis frontata"
-    common_name: "Presbytis_frontata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Presbytis_hosei.cs"
-    name: "Presbytis hosei"
-    common_name: "Presbytis_hosei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Presbytis_melalophos.cs"
-    name: "Presbytis melalophos"
-    common_name: "Presbytis_melalophos"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Presbytis_potenziani.cs"
-    name: "Presbytis potenziani"
-    common_name: "Presbytis_potenziani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Presbytis_rubicunda.cs"
-    name: "Presbytis rubicunda"
-    common_name: "Presbytis_rubicunda"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Presbytis_senex.cs"
-    name: "Presbytis senex"
-    common_name: "Presbytis_senex"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Presbytis_siberu.cs"
-    name: "Presbytis siberu"
-    common_name: "Presbytis_siberu"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Presbytis_sp_Pres2.cs"
-    name: "Presbytis sp. Pres2"
-    common_name: "Presbytis_sp_Pres2"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Presbytis_sumatrana.cs"
-    name: "Presbytis sumatrana"
-    common_name: "Presbytis_sumatrana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Presbytis_thomasi.cs"
-    name: "Presbytis thomasi"
-    common_name: "Presbytis_thomasi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Presbytis_bicolor:
+    common_name: Presbytis_bicolor
+    conservation: UK
+  Presbytis_chrysomelas:
+    common_name: Presbytis_chrysomelas
+    conservation: UK
+  Presbytis_comata:
+    common_name: Presbytis_comata
+    conservation: UK
+  Presbytis_femoralis:
+    common_name: Presbytis_femoralis
+    conservation: UK
+  Presbytis_frontata:
+    common_name: Presbytis_frontata
+    conservation: UK
+  Presbytis_hosei:
+    common_name: Presbytis_hosei
+    conservation: UK
+  Presbytis_melalophos:
+    common_name: Presbytis_melalophos
+    conservation: UK
+  Presbytis_potenziani:
+    common_name: Presbytis_potenziani
+    conservation: UK
+  Presbytis_rubicunda:
+    common_name: Presbytis_rubicunda
+    conservation: UK
+  Presbytis_senex:
+    common_name: Presbytis_senex
+    conservation: UK
+  Presbytis_siberu:
+    common_name: Presbytis_siberu
+    conservation: UK
+  Presbytis_sp_Pres2:
+    common_name: Presbytis_sp_Pres2
+    conservation: UK
+  Presbytis_sumatrana:
+    common_name: Presbytis_sumatrana
+    conservation: UK
+  Presbytis_thomasi:
+    common_name: Presbytis_thomasi
+    conservation: UK
 ---
-
 # Presbytis
 
 Genus containing 14 species.

@@ -1,50 +1,33 @@
 ---
-title: "Pseudochirulus"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["pseudochirulus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Hemibelideus/breadcrumb.md", "../Petauroides/breadcrumb.md", "../Pseudocheirus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 596259
-parent: "../breadcrumb.md"
+title: Pseudochirulus
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [pseudochirulus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Hemibelideus/breadcrumb.md, ../Petauroides/breadcrumb.md, ../Pseudocheirus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pseudochirulus_canescens.cs"
-    name: "Pseudochirulus canescens"
-    common_name: "Pseudochirulus_canescens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudochirulus_caroli.cs"
-    name: "Pseudochirulus caroli"
-    common_name: "Pseudochirulus_caroli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudochirulus_forbesi.cs"
-    name: "Pseudochirulus forbesi"
-    common_name: "Pseudochirulus_forbesi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudochirulus_herbertensis.cs"
-    name: "Pseudochirulus herbertensis"
-    common_name: "Pseudochirulus_herbertensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudochirulus_mayeri.cs"
-    name: "Pseudochirulus mayeri"
-    common_name: "Pseudochirulus_mayeri"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pseudochirulus_canescens:
+    common_name: Pseudochirulus_canescens
+    conservation: UK
+  Pseudochirulus_caroli:
+    common_name: Pseudochirulus_caroli
+    conservation: UK
+  Pseudochirulus_forbesi:
+    common_name: Pseudochirulus_forbesi
+    conservation: UK
+  Pseudochirulus_herbertensis:
+    common_name: Pseudochirulus_herbertensis
+    conservation: UK
+  Pseudochirulus_mayeri:
+    common_name: Pseudochirulus_mayeri
+    conservation: UK
 ---
-
 # Pseudochirulus
 
 Genus containing 5 species.

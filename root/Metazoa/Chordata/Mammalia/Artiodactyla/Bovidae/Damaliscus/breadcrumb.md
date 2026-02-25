@@ -1,35 +1,24 @@
 ---
-title: "Damaliscus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["damaliscus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9928
-parent: "../breadcrumb.md"
+title: Damaliscus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [damaliscus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Damaliscus_lunatus.cs"
-    name: "Damaliscus lunatus"
-    common_name: "Damaliscus_lunatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Damaliscus_pygargus.cs"
-    name: "Damaliscus pygargus"
-    common_name: "Damaliscus_pygargus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Damaliscus_lunatus:
+    common_name: Damaliscus_lunatus
+    conservation: UK
+  Damaliscus_pygargus:
+    common_name: Damaliscus_pygargus
+    conservation: UK
 ---
-
 # Damaliscus
 
 Genus containing 2 species.

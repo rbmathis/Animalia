@@ -1,41 +1,28 @@
 ---
-title: "Dephomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["dephomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1001552
-parent: "../breadcrumb.md"
+title: Dephomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [dephomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dephomys_defua.cs"
-    name: "Dephomys defua"
-    common_name: "Dephomys_defua"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dephomys_sp_USNM_584603.cs"
-    name: "Dephomys sp. USNM 584603"
-    common_name: "Dephomys_sp_USNM_584603"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Dephomys_sp_USNM_584604.cs"
-    name: "Dephomys sp. USNM 584604"
-    common_name: "Dephomys_sp_USNM_584604"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dephomys_defua:
+    common_name: Dephomys_defua
+    conservation: UK
+  Dephomys_sp_USNM_584603:
+    common_name: Dephomys_sp_USNM_584603
+    conservation: UK
+  Dephomys_sp_USNM_584604:
+    common_name: Dephomys_sp_USNM_584604
+    conservation: UK
 ---
-
 # Dephomys
 
 Genus containing 3 species.

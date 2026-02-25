@@ -1,30 +1,19 @@
 ---
-title: "Dugongidae"
-description: "Family containing 2 genera."
-category: "taxonomy/family"
-tags: ["dugongidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Trichechidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 29135
-parent: "../breadcrumb.md"
+title: Dugongidae
+description: Family containing 2 genera.
+category: taxonomy/family
+tags: [dugongidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Trichechidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Dugong/breadcrumb.md"
-    name: "Dugong"
-  - path: "Hydrodamalis/breadcrumb.md"
-    name: "Hydrodamalis"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Dugong, Hydrodamalis]
 ---
-
 # Dugongidae
 
 Family containing 2 genera.

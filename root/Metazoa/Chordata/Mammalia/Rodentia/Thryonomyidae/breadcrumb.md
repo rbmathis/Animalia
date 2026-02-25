@@ -1,30 +1,19 @@
 ---
-title: "Thryonomyidae"
-description: "Family containing 2 genera."
-category: "taxonomy/family"
-tags: ["thryonomyidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 74488
-parent: "../breadcrumb.md"
+title: Thryonomyidae
+description: Family containing 2 genera.
+category: taxonomy/family
+tags: [thryonomyidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Thryonomys/breadcrumb.md"
-    name: "Thryonomys"
-  - path: "unclassified_Thryonomyidae/breadcrumb.md"
-    name: "unclassified_Thryonomyidae"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Thryonomys, unclassified_Thryonomyidae]
 ---
-
 # Thryonomyidae
 
 Family containing 2 genera.

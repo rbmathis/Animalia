@@ -1,71 +1,46 @@
 ---
-title: "Martes"
-description: "Genus containing 9 species."
-category: "taxonomy/genus"
-tags: ["martes", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aonyx/breadcrumb.md", "../Arctonyx/breadcrumb.md", "../Eira/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9658
-parent: "../breadcrumb.md"
+title: Martes
+description: Genus containing 9 species.
+category: taxonomy/genus
+tags: [martes, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aonyx/breadcrumb.md, ../Arctonyx/breadcrumb.md, ../Eira/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 9
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Martes_americana.cs"
-    name: "Martes americana"
-    common_name: "Martes_americana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Martes_flavigula.cs"
-    name: "Martes flavigula"
-    common_name: "Martes_flavigula"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Martes_foina.cs"
-    name: "Martes foina"
-    common_name: "Martes_foina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Martes_martes.cs"
-    name: "Martes martes"
-    common_name: "Martes_martes"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Martes_martes_x_zibellina.cs"
-    name: "Martes martes x zibellina"
-    common_name: "Martes_martes_x_zibellina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Martes_melampus.cs"
-    name: "Martes melampus"
-    common_name: "Martes_melampus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Martes_sp_OK_00510.cs"
-    name: "Martes sp. OK-00510"
-    common_name: "Martes_sp_OK_00510"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Martes_sp_OK_17100.cs"
-    name: "Martes sp. OK-17100"
-    common_name: "Martes_sp_OK_17100"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Martes_zibellina.cs"
-    name: "Martes zibellina"
-    common_name: "Martes_zibellina"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Martes_americana:
+    common_name: Martes_americana
+    conservation: UK
+  Martes_flavigula:
+    common_name: Martes_flavigula
+    conservation: UK
+  Martes_foina:
+    common_name: Martes_foina
+    conservation: UK
+  Martes_martes:
+    common_name: Martes_martes
+    conservation: UK
+  Martes_martes_x_zibellina:
+    common_name: Martes_martes_x_zibellina
+    conservation: UK
+  Martes_melampus:
+    common_name: Martes_melampus
+    conservation: UK
+  Martes_sp_OK_00510:
+    common_name: Martes_sp_OK_00510
+    conservation: UK
+  Martes_sp_OK_17100:
+    common_name: Martes_sp_OK_17100
+    conservation: UK
+  Martes_zibellina:
+    common_name: Martes_zibellina
+    conservation: UK
 ---
-
 # Martes
 
 Genus containing 9 species.

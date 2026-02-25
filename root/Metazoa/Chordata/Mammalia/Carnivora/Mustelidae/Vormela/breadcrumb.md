@@ -1,30 +1,21 @@
 ---
-title: "Vormela"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["vormela", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aonyx/breadcrumb.md", "../Arctonyx/breadcrumb.md", "../Eira/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 300626
-parent: "../breadcrumb.md"
+title: Vormela
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [vormela, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aonyx/breadcrumb.md, ../Arctonyx/breadcrumb.md, ../Eira/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Vormela_peregusna.cs"
-    name: "Vormela peregusna"
-    common_name: "Vormela_peregusna"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Vormela_peregusna:
+    common_name: Vormela_peregusna
+    conservation: UK
 ---
-
 # Vormela
 
 Genus containing 1 species.

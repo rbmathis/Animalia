@@ -1,111 +1,70 @@
 ---
-title: "Thylamys"
-description: "Genus containing 17 species."
-category: "taxonomy/genus"
-tags: ["thylamys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Caluromys/breadcrumb.md", "../Caluromysiops/breadcrumb.md", "../Chacodelphys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 91501
-parent: "../breadcrumb.md"
+title: Thylamys
+description: Genus containing 17 species.
+category: taxonomy/genus
+tags: [thylamys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Caluromys/breadcrumb.md, ../Caluromysiops/breadcrumb.md, ../Chacodelphys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 17
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Thylamys_cinderella.cs"
-    name: "Thylamys cinderella"
-    common_name: "Thylamys_cinderella"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_citellus.cs"
-    name: "Thylamys citellus"
-    common_name: "Thylamys_citellus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_elegans.cs"
-    name: "Thylamys elegans"
-    common_name: "Thylamys_elegans"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_karimii.cs"
-    name: "Thylamys karimii"
-    common_name: "Thylamys_karimii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_macrura.cs"
-    name: "Thylamys macrura"
-    common_name: "Thylamys_macrura"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_pallidior.cs"
-    name: "Thylamys pallidior"
-    common_name: "Thylamys_pallidior"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_pulchellus.cs"
-    name: "Thylamys pulchellus"
-    common_name: "Thylamys_pulchellus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_pusillus.cs"
-    name: "Thylamys pusillus"
-    common_name: "Thylamys_pusillus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_sp_MVZ116614.cs"
-    name: "Thylamys sp. MVZ116614"
-    common_name: "Thylamys_sp_MVZ116614"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_sp_MVZ119913.cs"
-    name: "Thylamys sp. MVZ119913"
-    common_name: "Thylamys_sp_MVZ119913"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_sp_MVZ137585.cs"
-    name: "Thylamys sp. MVZ137585"
-    common_name: "Thylamys_sp_MVZ137585"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_sp_MVZ137896.cs"
-    name: "Thylamys sp. MVZ137896"
-    common_name: "Thylamys_sp_MVZ137896"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_sp_REP_2014.cs"
-    name: "Thylamys sp. REP-2014"
-    common_name: "Thylamys_sp_REP_2014"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_sponsorius.cs"
-    name: "Thylamys sponsorius"
-    common_name: "Thylamys_sponsorius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_tatei.cs"
-    name: "Thylamys tatei"
-    common_name: "Thylamys_tatei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_velutinus.cs"
-    name: "Thylamys velutinus"
-    common_name: "Thylamys_velutinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thylamys_venustus.cs"
-    name: "Thylamys venustus"
-    common_name: "Thylamys_venustus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Thylamys_cinderella:
+    common_name: Thylamys_cinderella
+    conservation: UK
+  Thylamys_citellus:
+    common_name: Thylamys_citellus
+    conservation: UK
+  Thylamys_elegans:
+    common_name: Thylamys_elegans
+    conservation: UK
+  Thylamys_karimii:
+    common_name: Thylamys_karimii
+    conservation: UK
+  Thylamys_macrura:
+    common_name: Thylamys_macrura
+    conservation: UK
+  Thylamys_pallidior:
+    common_name: Thylamys_pallidior
+    conservation: UK
+  Thylamys_pulchellus:
+    common_name: Thylamys_pulchellus
+    conservation: UK
+  Thylamys_pusillus:
+    common_name: Thylamys_pusillus
+    conservation: UK
+  Thylamys_sp_MVZ116614:
+    common_name: Thylamys_sp_MVZ116614
+    conservation: UK
+  Thylamys_sp_MVZ119913:
+    common_name: Thylamys_sp_MVZ119913
+    conservation: UK
+  Thylamys_sp_MVZ137585:
+    common_name: Thylamys_sp_MVZ137585
+    conservation: UK
+  Thylamys_sp_MVZ137896:
+    common_name: Thylamys_sp_MVZ137896
+    conservation: UK
+  Thylamys_sp_REP_2014:
+    common_name: Thylamys_sp_REP_2014
+    conservation: UK
+  Thylamys_sponsorius:
+    common_name: Thylamys_sponsorius
+    conservation: UK
+  Thylamys_tatei:
+    common_name: Thylamys_tatei
+    conservation: UK
+  Thylamys_velutinus:
+    common_name: Thylamys_velutinus
+    conservation: UK
+  Thylamys_venustus:
+    common_name: Thylamys_venustus
+    conservation: UK
 ---
-
 # Thylamys
 
 Genus containing 17 species.

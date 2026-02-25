@@ -1,30 +1,21 @@
 ---
-title: "Hadropithecus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["hadropithecus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Archaeolemur/breadcrumb.md", "../Avahi/breadcrumb.md", "../Indri/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 523824
-parent: "../breadcrumb.md"
+title: Hadropithecus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [hadropithecus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Archaeolemur/breadcrumb.md, ../Avahi/breadcrumb.md, ../Indri/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hadropithecus_stenognathus.cs"
-    name: "Hadropithecus stenognathus"
-    common_name: "Hadropithecus_stenognathus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hadropithecus_stenognathus:
+    common_name: Hadropithecus_stenognathus
+    conservation: UK
 ---
-
 # Hadropithecus
 
 Genus containing 1 species.

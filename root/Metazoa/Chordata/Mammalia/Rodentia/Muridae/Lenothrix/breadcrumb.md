@@ -1,30 +1,21 @@
 ---
-title: "Lenothrix"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["lenothrix", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2021986
-parent: "../breadcrumb.md"
+title: Lenothrix
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [lenothrix, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lenothrix_cana.cs"
-    name: "Lenothrix cana"
-    common_name: "Lenothrix_cana"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lenothrix_cana:
+    common_name: Lenothrix_cana
+    conservation: UK
 ---
-
 # Lenothrix
 
 Genus containing 1 species.

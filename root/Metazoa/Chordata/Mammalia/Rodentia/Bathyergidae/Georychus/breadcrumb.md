@@ -1,30 +1,21 @@
 ---
-title: "Georychus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["georychus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Bathyergus/breadcrumb.md", "../Cryptomys/breadcrumb.md", "../Fukomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10176
-parent: "../breadcrumb.md"
+title: Georychus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [georychus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Bathyergus/breadcrumb.md, ../Cryptomys/breadcrumb.md, ../Fukomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Georychus_capensis.cs"
-    name: "Georychus capensis"
-    common_name: "Georychus_capensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Georychus_capensis:
+    common_name: Georychus_capensis
+    conservation: UK
 ---
-
 # Georychus
 
 Genus containing 1 species.

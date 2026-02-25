@@ -1,30 +1,21 @@
 ---
-title: "Massoutiera"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["massoutiera", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ctenodactylus/breadcrumb.md", "../Felovia/breadcrumb.md", "../Pectinator/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 92482
-parent: "../breadcrumb.md"
+title: Massoutiera
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [massoutiera, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ctenodactylus/breadcrumb.md, ../Felovia/breadcrumb.md, ../Pectinator/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Massoutiera_mzabi.cs"
-    name: "Massoutiera mzabi"
-    common_name: "Massoutiera_mzabi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Massoutiera_mzabi:
+    common_name: Massoutiera_mzabi
+    conservation: UK
 ---
-
 # Massoutiera
 
 Genus containing 1 species.

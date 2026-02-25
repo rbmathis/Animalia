@@ -1,56 +1,37 @@
 ---
-title: "Giraffa"
-description: "Genus containing 6 species."
-category: "taxonomy/genus"
-tags: ["giraffa", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Okapia/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9893
-parent: "../breadcrumb.md"
+title: Giraffa
+description: Genus containing 6 species.
+category: taxonomy/genus
+tags: [giraffa, genus]
+status: Living
+updated: 2026-02-23
+related: [../Okapia/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 6
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Giraffa_camelopardalis.cs"
-    name: "Giraffa camelopardalis"
-    common_name: "Giraffa_camelopardalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Giraffa_environmental_sample.cs"
-    name: "Giraffa environmental sample"
-    common_name: "Giraffa_environmental_sample"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Giraffa_giraffa.cs"
-    name: "Giraffa giraffa"
-    common_name: "Giraffa_giraffa"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Giraffa_reticulata.cs"
-    name: "Giraffa reticulata"
-    common_name: "Giraffa_reticulata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Giraffa_sp.cs"
-    name: "Giraffa sp."
-    common_name: "Giraffa_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Giraffa_tippelskirchi.cs"
-    name: "Giraffa tippelskirchi"
-    common_name: "Giraffa_tippelskirchi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Giraffa_camelopardalis:
+    common_name: Giraffa_camelopardalis
+    conservation: UK
+  Giraffa_environmental_sample:
+    common_name: Giraffa_environmental_sample
+    conservation: UK
+  Giraffa_giraffa:
+    common_name: Giraffa_giraffa
+    conservation: UK
+  Giraffa_reticulata:
+    common_name: Giraffa_reticulata
+    conservation: UK
+  Giraffa_sp:
+    common_name: Giraffa_sp
+    conservation: UK
+  Giraffa_tippelskirchi:
+    common_name: Giraffa_tippelskirchi
+    conservation: UK
 ---
-
 # Giraffa
 
 Genus containing 6 species.

@@ -1,35 +1,24 @@
 ---
-title: "Prionodon"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["prionodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Arctictis/breadcrumb.md", "../Arctogalidia/breadcrumb.md", "../Chrotogale/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 94193
-parent: "../breadcrumb.md"
+title: Prionodon
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [prionodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Arctictis/breadcrumb.md, ../Arctogalidia/breadcrumb.md, ../Chrotogale/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Prionodon_linsang.cs"
-    name: "Prionodon linsang"
-    common_name: "Prionodon_linsang"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Prionodon_pardicolor.cs"
-    name: "Prionodon pardicolor"
-    common_name: "Prionodon_pardicolor"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Prionodon_linsang:
+    common_name: Prionodon_linsang
+    conservation: UK
+  Prionodon_pardicolor:
+    common_name: Prionodon_pardicolor
+    conservation: UK
 ---
-
 # Prionodon
 
 Genus containing 2 species.

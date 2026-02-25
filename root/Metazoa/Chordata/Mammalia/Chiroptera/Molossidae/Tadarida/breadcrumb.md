@@ -1,66 +1,43 @@
 ---
-title: "Tadarida"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["tadarida", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cheiromeles/breadcrumb.md", "../Cynomops/breadcrumb.md", "../Eumops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9437
-parent: "../breadcrumb.md"
+title: Tadarida
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [tadarida, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cheiromeles/breadcrumb.md, ../Cynomops/breadcrumb.md, ../Eumops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tadarida_aegyptiaca.cs"
-    name: "Tadarida aegyptiaca"
-    common_name: "Tadarida_aegyptiaca"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tadarida_australis.cs"
-    name: "Tadarida australis"
-    common_name: "Tadarida_australis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tadarida_brasiliensis.cs"
-    name: "Tadarida brasiliensis"
-    common_name: "Tadarida_brasiliensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tadarida_fulminans.cs"
-    name: "Tadarida fulminans"
-    common_name: "Tadarida_fulminans"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tadarida_insignis.cs"
-    name: "Tadarida insignis"
-    common_name: "Tadarida_insignis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tadarida_latouchei.cs"
-    name: "Tadarida latouchei"
-    common_name: "Tadarida_latouchei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tadarida_sp_7070.cs"
-    name: "Tadarida sp. 7070"
-    common_name: "Tadarida_sp_7070"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tadarida_teniotis.cs"
-    name: "Tadarida teniotis"
-    common_name: "Tadarida_teniotis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tadarida_aegyptiaca:
+    common_name: Tadarida_aegyptiaca
+    conservation: UK
+  Tadarida_australis:
+    common_name: Tadarida_australis
+    conservation: UK
+  Tadarida_brasiliensis:
+    common_name: Tadarida_brasiliensis
+    conservation: UK
+  Tadarida_fulminans:
+    common_name: Tadarida_fulminans
+    conservation: UK
+  Tadarida_insignis:
+    common_name: Tadarida_insignis
+    conservation: UK
+  Tadarida_latouchei:
+    common_name: Tadarida_latouchei
+    conservation: UK
+  Tadarida_sp_7070:
+    common_name: Tadarida_sp_7070
+    conservation: UK
+  Tadarida_teniotis:
+    common_name: Tadarida_teniotis
+    conservation: UK
 ---
-
 # Tadarida
 
 Genus containing 8 species.

@@ -1,86 +1,55 @@
 ---
-title: "Chlorocebus"
-description: "Genus containing 12 species."
-category: "taxonomy/genus"
-tags: ["chlorocebus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allenopithecus/breadcrumb.md", "../Allochrocebus/breadcrumb.md", "../Cercocebus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 392815
-parent: "../breadcrumb.md"
+title: Chlorocebus
+description: Genus containing 12 species.
+category: taxonomy/genus
+tags: [chlorocebus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allenopithecus/breadcrumb.md, ../Allochrocebus/breadcrumb.md, ../Cercocebus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 12
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chlorocebus_aethiops.cs"
-    name: "Chlorocebus aethiops"
-    common_name: "Chlorocebus_aethiops"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chlorocebus_aethiops_x_Chlorocebus_pygerythrus.cs"
-    name: "Chlorocebus aethiops x Chlorocebus pygerythrus"
-    common_name: "Chlorocebus_aethiops_x_Chlorocebus_pygerythrus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chlorocebus_aethiops_x_djamdjamensis.cs"
-    name: "Chlorocebus aethiops x djamdjamensis"
-    common_name: "Chlorocebus_aethiops_x_djamdjamensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chlorocebus_cynosuros.cs"
-    name: "Chlorocebus cynosuros"
-    common_name: "Chlorocebus_cynosuros"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chlorocebus_djamdjamensis.cs"
-    name: "Chlorocebus djamdjamensis"
-    common_name: "Chlorocebus_djamdjamensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chlorocebus_dryas.cs"
-    name: "Chlorocebus dryas"
-    common_name: "Chlorocebus_dryas"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chlorocebus_pygerythrus.cs"
-    name: "Chlorocebus pygerythrus"
-    common_name: "Chlorocebus_pygerythrus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chlorocebus_sabaeus.cs"
-    name: "Chlorocebus sabaeus"
-    common_name: "Chlorocebus_sabaeus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chlorocebus_sp_LDS_2018.cs"
-    name: "Chlorocebus sp. LDS-2018"
-    common_name: "Chlorocebus_sp_LDS_2018"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chlorocebus_sp_MAS_2011.cs"
-    name: "Chlorocebus sp. MAS-2011"
-    common_name: "Chlorocebus_sp_MAS_2011"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chlorocebus_sp_TH_2013.cs"
-    name: "Chlorocebus sp. TH-2013"
-    common_name: "Chlorocebus_sp_TH_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Chlorocebus_tantalus.cs"
-    name: "Chlorocebus tantalus"
-    common_name: "Chlorocebus_tantalus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chlorocebus_aethiops:
+    common_name: Chlorocebus_aethiops
+    conservation: UK
+  Chlorocebus_aethiops_x_Chlorocebus_pygerythrus:
+    common_name: Chlorocebus_aethiops_x_Chlorocebus_pygerythrus
+    conservation: UK
+  Chlorocebus_aethiops_x_djamdjamensis:
+    common_name: Chlorocebus_aethiops_x_djamdjamensis
+    conservation: UK
+  Chlorocebus_cynosuros:
+    common_name: Chlorocebus_cynosuros
+    conservation: UK
+  Chlorocebus_djamdjamensis:
+    common_name: Chlorocebus_djamdjamensis
+    conservation: UK
+  Chlorocebus_dryas:
+    common_name: Chlorocebus_dryas
+    conservation: UK
+  Chlorocebus_pygerythrus:
+    common_name: Chlorocebus_pygerythrus
+    conservation: UK
+  Chlorocebus_sabaeus:
+    common_name: Chlorocebus_sabaeus
+    conservation: UK
+  Chlorocebus_sp_LDS_2018:
+    common_name: Chlorocebus_sp_LDS_2018
+    conservation: UK
+  Chlorocebus_sp_MAS_2011:
+    common_name: Chlorocebus_sp_MAS_2011
+    conservation: UK
+  Chlorocebus_sp_TH_2013:
+    common_name: Chlorocebus_sp_TH_2013
+    conservation: UK
+  Chlorocebus_tantalus:
+    common_name: Chlorocebus_tantalus
+    conservation: UK
 ---
-
 # Chlorocebus
 
 Genus containing 12 species.

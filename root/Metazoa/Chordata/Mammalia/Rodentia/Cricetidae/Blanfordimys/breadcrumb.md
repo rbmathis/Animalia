@@ -1,30 +1,21 @@
 ---
-title: "Blanfordimys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["blanfordimys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 399228
-parent: "../breadcrumb.md"
+title: Blanfordimys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [blanfordimys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Blanfordimys_bucharensis.cs"
-    name: "Blanfordimys bucharensis"
-    common_name: "Blanfordimys_bucharensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Blanfordimys_bucharensis:
+    common_name: Blanfordimys_bucharensis
+    conservation: UK
 ---
-
 # Blanfordimys
 
 Genus containing 1 species.

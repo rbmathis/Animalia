@@ -1,41 +1,28 @@
 ---
-title: "Callimico"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["callimico", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Callithrix/breadcrumb.md", "../Cebuella/breadcrumb.md", "../Cebus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9494
-parent: "../breadcrumb.md"
+title: Callimico
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [callimico, genus]
+status: Living
+updated: 2026-02-23
+related: [../Callithrix/breadcrumb.md, ../Cebuella/breadcrumb.md, ../Cebus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Callimico_goeldii.cs"
-    name: "Callimico goeldii"
-    common_name: "Callimico_goeldii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callimico_sp.cs"
-    name: "Callimico sp."
-    common_name: "Callimico_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Callimico_sp_MAS_2011.cs"
-    name: "Callimico sp. MAS-2011"
-    common_name: "Callimico_sp_MAS_2011"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Callimico_goeldii:
+    common_name: Callimico_goeldii
+    conservation: UK
+  Callimico_sp:
+    common_name: Callimico_sp
+    conservation: UK
+  Callimico_sp_MAS_2011:
+    common_name: Callimico_sp_MAS_2011
+    conservation: UK
 ---
-
 # Callimico
 
 Genus containing 3 species.

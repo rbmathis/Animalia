@@ -1,30 +1,21 @@
 ---
-title: "Ziphius"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["ziphius", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Berardius/breadcrumb.md", "../Hyperoodon/breadcrumb.md", "../Indopacetus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9759
-parent: "../breadcrumb.md"
+title: Ziphius
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [ziphius, genus]
+status: Living
+updated: 2026-02-23
+related: [../Berardius/breadcrumb.md, ../Hyperoodon/breadcrumb.md, ../Indopacetus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ziphius_cavirostris.cs"
-    name: "Ziphius cavirostris"
-    common_name: "Ziphius_cavirostris"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ziphius_cavirostris:
+    common_name: Ziphius_cavirostris
+    conservation: UK
 ---
-
 # Ziphius
 
 Genus containing 1 species.

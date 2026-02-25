@@ -1,46 +1,31 @@
 ---
-title: "Millardia"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["millardia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 121582
-parent: "../breadcrumb.md"
+title: Millardia
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [millardia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Millardia_kathleenae.cs"
-    name: "Millardia kathleenae"
-    common_name: "Millardia_kathleenae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Millardia_kondana.cs"
-    name: "Millardia kondana"
-    common_name: "Millardia_kondana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Millardia_meltada.cs"
-    name: "Millardia meltada"
-    common_name: "Millardia_meltada"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Millardia_sp_AA_2019.cs"
-    name: "Millardia sp. AA-2019"
-    common_name: "Millardia_sp_AA_2019"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Millardia_kathleenae:
+    common_name: Millardia_kathleenae
+    conservation: UK
+  Millardia_kondana:
+    common_name: Millardia_kondana
+    conservation: UK
+  Millardia_meltada:
+    common_name: Millardia_meltada
+    conservation: UK
+  Millardia_sp_AA_2019:
+    common_name: Millardia_sp_AA_2019
+    conservation: UK
 ---
-
 # Millardia
 
 Genus containing 4 species.

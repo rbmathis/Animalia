@@ -1,30 +1,19 @@
 ---
-title: "Mormoopidae"
-description: "Family containing 2 genera."
-category: "taxonomy/family"
-tags: ["mormoopidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cistugidae/breadcrumb.md", "../Craseonycteridae/breadcrumb.md", "../Emballonuridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 59445
-parent: "../breadcrumb.md"
+title: Mormoopidae
+description: Family containing 2 genera.
+category: taxonomy/family
+tags: [mormoopidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Cistugidae/breadcrumb.md, ../Craseonycteridae/breadcrumb.md, ../Emballonuridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Mormoops/breadcrumb.md"
-    name: "Mormoops"
-  - path: "Pteronotus/breadcrumb.md"
-    name: "Pteronotus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Mormoops, Pteronotus]
 ---
-
 # Mormoopidae
 
 Family containing 2 genera.

@@ -1,126 +1,79 @@
 ---
-title: "Sousa"
-description: "Genus containing 33 species."
-category: "taxonomy/genus"
-tags: ["sousa", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cephalorhynchus/breadcrumb.md", "../Delphinus/breadcrumb.md", "../Feresa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 103599
-parent: "../breadcrumb.md"
+title: Sousa
+description: Genus containing 33 species.
+category: taxonomy/genus
+tags: [sousa, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cephalorhynchus/breadcrumb.md, ../Delphinus/breadcrumb.md, ../Feresa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 33
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Sousa_chinensis.cs"
-    name: "Sousa chinensis"
-    common_name: "Sousa_chinensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_plumbea.cs"
-    name: "Sousa plumbea"
-    common_name: "Sousa_plumbea"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sahulensis.cs"
-    name: "Sousa sahulensis"
-    common_name: "Sousa_sahulensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_AU001.cs"
-    name: "Sousa sp. AU001"
-    common_name: "Sousa_sp_AU001"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_AU002.cs"
-    name: "Sousa sp. AU002"
-    common_name: "Sousa_sp_AU002"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_AU003.cs"
-    name: "Sousa sp. AU003"
-    common_name: "Sousa_sp_AU003"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_AU004.cs"
-    name: "Sousa sp. AU004"
-    common_name: "Sousa_sp_AU004"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_AU005.cs"
-    name: "Sousa sp. AU005"
-    common_name: "Sousa_sp_AU005"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_AUS1.cs"
-    name: "Sousa sp. AUS1"
-    common_name: "Sousa_sp_AUS1"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_AUS2.cs"
-    name: "Sousa sp. AUS2"
-    common_name: "Sousa_sp_AUS2"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_AUS3.cs"
-    name: "Sousa sp. AUS3"
-    common_name: "Sousa_sp_AUS3"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_AUS4.cs"
-    name: "Sousa sp. AUS4"
-    common_name: "Sousa_sp_AUS4"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_AUS5.cs"
-    name: "Sousa sp. AUS5"
-    common_name: "Sousa_sp_AUS5"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_CHF_2011.cs"
-    name: "Sousa sp. CHF-2011"
-    common_name: "Sousa_sp_CHF_2011"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_HK015.cs"
-    name: "Sousa sp. HK015"
-    common_name: "Sousa_sp_HK015"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_HK016.cs"
-    name: "Sousa sp. HK016"
-    common_name: "Sousa_sp_HK016"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_HK017.cs"
-    name: "Sousa sp. HK017"
-    common_name: "Sousa_sp_HK017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_HK020.cs"
-    name: "Sousa sp. HK020"
-    common_name: "Sousa_sp_HK020"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_HK1.cs"
-    name: "Sousa sp. HK1"
-    common_name: "Sousa_sp_HK1"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sousa_sp_HK2.cs"
-    name: "Sousa sp. HK2"
-    common_name: "Sousa_sp_HK2"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Sousa_chinensis:
+    common_name: Sousa_chinensis
+    conservation: UK
+  Sousa_plumbea:
+    common_name: Sousa_plumbea
+    conservation: UK
+  Sousa_sahulensis:
+    common_name: Sousa_sahulensis
+    conservation: UK
+  Sousa_sp_AU001:
+    common_name: Sousa_sp_AU001
+    conservation: UK
+  Sousa_sp_AU002:
+    common_name: Sousa_sp_AU002
+    conservation: UK
+  Sousa_sp_AU003:
+    common_name: Sousa_sp_AU003
+    conservation: UK
+  Sousa_sp_AU004:
+    common_name: Sousa_sp_AU004
+    conservation: UK
+  Sousa_sp_AU005:
+    common_name: Sousa_sp_AU005
+    conservation: UK
+  Sousa_sp_AUS1:
+    common_name: Sousa_sp_AUS1
+    conservation: UK
+  Sousa_sp_AUS2:
+    common_name: Sousa_sp_AUS2
+    conservation: UK
+  Sousa_sp_AUS3:
+    common_name: Sousa_sp_AUS3
+    conservation: UK
+  Sousa_sp_AUS4:
+    common_name: Sousa_sp_AUS4
+    conservation: UK
+  Sousa_sp_AUS5:
+    common_name: Sousa_sp_AUS5
+    conservation: UK
+  Sousa_sp_CHF_2011:
+    common_name: Sousa_sp_CHF_2011
+    conservation: UK
+  Sousa_sp_HK015:
+    common_name: Sousa_sp_HK015
+    conservation: UK
+  Sousa_sp_HK016:
+    common_name: Sousa_sp_HK016
+    conservation: UK
+  Sousa_sp_HK017:
+    common_name: Sousa_sp_HK017
+    conservation: UK
+  Sousa_sp_HK020:
+    common_name: Sousa_sp_HK020
+    conservation: UK
+  Sousa_sp_HK1:
+    common_name: Sousa_sp_HK1
+    conservation: UK
+  Sousa_sp_HK2:
+    common_name: Sousa_sp_HK2
+    conservation: UK
 ---
-
 # Sousa
 
 Genus containing 33 species.

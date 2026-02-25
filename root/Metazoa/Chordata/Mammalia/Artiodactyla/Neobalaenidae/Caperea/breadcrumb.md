@@ -1,30 +1,21 @@
 ---
-title: "Caperea"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["caperea", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Caperea
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [caperea, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 27603
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Caperea_marginata.cs"
-    name: "Caperea marginata"
-    common_name: "Caperea_marginata"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Caperea_marginata:
+    common_name: Caperea_marginata
+    conservation: UK
 ---
-
 # Caperea
 
 Genus containing 1 species.

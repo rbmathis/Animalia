@@ -1,35 +1,24 @@
 ---
-title: "Limnomys"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["limnomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 349705
-parent: "../breadcrumb.md"
+title: Limnomys
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [limnomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Limnomys_bryophilus.cs"
-    name: "Limnomys bryophilus"
-    common_name: "Limnomys_bryophilus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Limnomys_sibuanus.cs"
-    name: "Limnomys sibuanus"
-    common_name: "Limnomys_sibuanus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Limnomys_bryophilus:
+    common_name: Limnomys_bryophilus
+    conservation: UK
+  Limnomys_sibuanus:
+    common_name: Limnomys_sibuanus
+    conservation: UK
 ---
-
 # Limnomys
 
 Genus containing 2 species.

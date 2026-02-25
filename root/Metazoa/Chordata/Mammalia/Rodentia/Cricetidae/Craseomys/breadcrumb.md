@@ -1,40 +1,27 @@
 ---
-title: "Craseomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["craseomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2929753
-parent: "../breadcrumb.md"
+title: Craseomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [craseomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Craseomys_andersoni.cs"
-    name: "Craseomys andersoni"
-    common_name: "Craseomys_andersoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Craseomys_rex.cs"
-    name: "Craseomys rex"
-    common_name: "Craseomys_rex"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Craseomys_smithii.cs"
-    name: "Craseomys smithii"
-    common_name: "Craseomys_smithii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Craseomys_andersoni:
+    common_name: Craseomys_andersoni
+    conservation: UK
+  Craseomys_rex:
+    common_name: Craseomys_rex
+    conservation: UK
+  Craseomys_smithii:
+    common_name: Craseomys_smithii
+    conservation: UK
 ---
-
 # Craseomys
 
 Genus containing 3 species.

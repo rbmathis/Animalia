@@ -1,30 +1,21 @@
 ---
-title: "Pelea"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["pelea", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 59551
-parent: "../breadcrumb.md"
+title: Pelea
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [pelea, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pelea_capreolus.cs"
-    name: "Pelea capreolus"
-    common_name: "Pelea_capreolus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pelea_capreolus:
+    common_name: Pelea_capreolus
+    conservation: UK
 ---
-
 # Pelea
 
 Genus containing 1 species.

@@ -1,61 +1,40 @@
 ---
-title: "Amblysomus"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["amblysomus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Calcochloris/breadcrumb.md", "../Carpitalpa/breadcrumb.md", "../Chlorotalpa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9390
-parent: "../breadcrumb.md"
+title: Amblysomus
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [amblysomus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Calcochloris/breadcrumb.md, ../Carpitalpa/breadcrumb.md, ../Chlorotalpa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Amblysomus_corriae.cs"
-    name: "Amblysomus corriae"
-    common_name: "Amblysomus_corriae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Amblysomus_hottentotus.cs"
-    name: "Amblysomus hottentotus"
-    common_name: "Amblysomus_hottentotus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Amblysomus_marleyi.cs"
-    name: "Amblysomus marleyi"
-    common_name: "Amblysomus_marleyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Amblysomus_robustus.cs"
-    name: "Amblysomus robustus"
-    common_name: "Amblysomus_robustus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Amblysomus_septentrionalis.cs"
-    name: "Amblysomus septentrionalis"
-    common_name: "Amblysomus_septentrionalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Amblysomus_sp_NF.cs"
-    name: "Amblysomus sp. NF"
-    common_name: "Amblysomus_sp_NF"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Amblysomus_sp_UM.cs"
-    name: "Amblysomus sp. UM"
-    common_name: "Amblysomus_sp_UM"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Amblysomus_corriae:
+    common_name: Amblysomus_corriae
+    conservation: UK
+  Amblysomus_hottentotus:
+    common_name: Amblysomus_hottentotus
+    conservation: UK
+  Amblysomus_marleyi:
+    common_name: Amblysomus_marleyi
+    conservation: UK
+  Amblysomus_robustus:
+    common_name: Amblysomus_robustus
+    conservation: UK
+  Amblysomus_septentrionalis:
+    common_name: Amblysomus_septentrionalis
+    conservation: UK
+  Amblysomus_sp_NF:
+    common_name: Amblysomus_sp_NF
+    conservation: UK
+  Amblysomus_sp_UM:
+    common_name: Amblysomus_sp_UM
+    conservation: UK
 ---
-
 # Amblysomus
 
 Genus containing 7 species.

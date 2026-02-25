@@ -1,31 +1,22 @@
 ---
-title: "Neoplatymops"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["neoplatymops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cheiromeles/breadcrumb.md", "../Cynomops/breadcrumb.md", "../Eumops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3111555
-parent: "../breadcrumb.md"
+title: Neoplatymops
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [neoplatymops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cheiromeles/breadcrumb.md, ../Cynomops/breadcrumb.md, ../Eumops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Neoplatymops_sp.cs"
-    name: "Neoplatymops sp."
-    common_name: "Neoplatymops_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Neoplatymops_sp:
+    common_name: Neoplatymops_sp
+    conservation: UK
 ---
-
 # Neoplatymops
 
 Genus containing 1 species.

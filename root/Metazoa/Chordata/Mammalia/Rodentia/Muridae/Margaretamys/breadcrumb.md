@@ -1,45 +1,30 @@
 ---
-title: "Margaretamys"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["margaretamys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1392619
-parent: "../breadcrumb.md"
+title: Margaretamys
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [margaretamys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Margaretamys_beccarii.cs"
-    name: "Margaretamys beccarii"
-    common_name: "Margaretamys_beccarii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Margaretamys_christinae.cs"
-    name: "Margaretamys christinae"
-    common_name: "Margaretamys_christinae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Margaretamys_elegans.cs"
-    name: "Margaretamys elegans"
-    common_name: "Margaretamys_elegans"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Margaretamys_parvus.cs"
-    name: "Margaretamys parvus"
-    common_name: "Margaretamys_parvus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Margaretamys_beccarii:
+    common_name: Margaretamys_beccarii
+    conservation: UK
+  Margaretamys_christinae:
+    common_name: Margaretamys_christinae
+    conservation: UK
+  Margaretamys_elegans:
+    common_name: Margaretamys_elegans
+    conservation: UK
+  Margaretamys_parvus:
+    common_name: Margaretamys_parvus
+    conservation: UK
 ---
-
 # Margaretamys
 
 Genus containing 4 species.

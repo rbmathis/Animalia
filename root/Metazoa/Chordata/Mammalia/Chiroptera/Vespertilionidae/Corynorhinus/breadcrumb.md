@@ -1,40 +1,27 @@
 ---
-title: "Corynorhinus"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["corynorhinus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 233861
-parent: "../breadcrumb.md"
+title: Corynorhinus
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [corynorhinus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Corynorhinus_mexicanus.cs"
-    name: "Corynorhinus mexicanus"
-    common_name: "Corynorhinus_mexicanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Corynorhinus_rafinesquii.cs"
-    name: "Corynorhinus rafinesquii"
-    common_name: "Corynorhinus_rafinesquii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Corynorhinus_townsendii.cs"
-    name: "Corynorhinus townsendii"
-    common_name: "Corynorhinus_townsendii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Corynorhinus_mexicanus:
+    common_name: Corynorhinus_mexicanus
+    conservation: UK
+  Corynorhinus_rafinesquii:
+    common_name: Corynorhinus_rafinesquii
+    conservation: UK
+  Corynorhinus_townsendii:
+    common_name: Corynorhinus_townsendii
+    conservation: UK
 ---
-
 # Corynorhinus
 
 Genus containing 3 species.

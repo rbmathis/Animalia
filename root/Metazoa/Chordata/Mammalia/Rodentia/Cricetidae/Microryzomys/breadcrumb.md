@@ -1,41 +1,28 @@
 ---
-title: "Microryzomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["microryzomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 37024
-parent: "../breadcrumb.md"
+title: Microryzomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [microryzomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Microryzomys_altissimus.cs"
-    name: "Microryzomys altissimus"
-    common_name: "Microryzomys_altissimus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Microryzomys_minutus.cs"
-    name: "Microryzomys minutus"
-    common_name: "Microryzomys_minutus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Microryzomys_sp.cs"
-    name: "Microryzomys sp."
-    common_name: "Microryzomys_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Microryzomys_altissimus:
+    common_name: Microryzomys_altissimus
+    conservation: UK
+  Microryzomys_minutus:
+    common_name: Microryzomys_minutus
+    conservation: UK
+  Microryzomys_sp:
+    common_name: Microryzomys_sp
+    conservation: UK
 ---
-
 # Microryzomys
 
 Genus containing 3 species.

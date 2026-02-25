@@ -1,46 +1,31 @@
 ---
-title: "Vandeleuria"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["vandeleuria", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 491877
-parent: "../breadcrumb.md"
+title: Vandeleuria
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [vandeleuria, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Vandeleuria_nolthenii.cs"
-    name: "Vandeleuria nolthenii"
-    common_name: "Vandeleuria_nolthenii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vandeleuria_oleracea.cs"
-    name: "Vandeleuria oleracea"
-    common_name: "Vandeleuria_oleracea"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vandeleuria_sp.cs"
-    name: "Vandeleuria sp."
-    common_name: "Vandeleuria_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vandeleuria_sp_KCR_2008.cs"
-    name: "Vandeleuria sp. KCR-2008"
-    common_name: "Vandeleuria_sp_KCR_2008"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Vandeleuria_nolthenii:
+    common_name: Vandeleuria_nolthenii
+    conservation: UK
+  Vandeleuria_oleracea:
+    common_name: Vandeleuria_oleracea
+    conservation: UK
+  Vandeleuria_sp:
+    common_name: Vandeleuria_sp
+    conservation: UK
+  Vandeleuria_sp_KCR_2008:
+    common_name: Vandeleuria_sp_KCR_2008
+    conservation: UK
 ---
-
 # Vandeleuria
 
 Genus containing 4 species.

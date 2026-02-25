@@ -1,30 +1,21 @@
 ---
-title: "Mastacomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["mastacomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 337223
-parent: "../breadcrumb.md"
+title: Mastacomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [mastacomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mastacomys_fuscus.cs"
-    name: "Mastacomys fuscus"
-    common_name: "Mastacomys_fuscus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mastacomys_fuscus:
+    common_name: Mastacomys_fuscus
+    conservation: UK
 ---
-
 # Mastacomys
 
 Genus containing 1 species.

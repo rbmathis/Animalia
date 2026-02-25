@@ -1,30 +1,21 @@
 ---
-title: "Huetia"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["huetia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Amblysomus/breadcrumb.md", "../Calcochloris/breadcrumb.md", "../Carpitalpa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 746122
-parent: "../breadcrumb.md"
+title: Huetia
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [huetia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Amblysomus/breadcrumb.md, ../Calcochloris/breadcrumb.md, ../Carpitalpa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Huetia_leucorhinus.cs"
-    name: "Huetia leucorhinus"
-    common_name: "Huetia_leucorhinus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Huetia_leucorhinus:
+    common_name: Huetia_leucorhinus
+    conservation: UK
 ---
-
 # Huetia
 
 Genus containing 1 species.

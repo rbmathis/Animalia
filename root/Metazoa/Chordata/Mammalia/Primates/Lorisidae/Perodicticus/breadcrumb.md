@@ -1,30 +1,21 @@
 ---
-title: "Perodicticus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["perodicticus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Arctocebus/breadcrumb.md", "../Loris/breadcrumb.md", "../Nycticebus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9471
-parent: "../breadcrumb.md"
+title: Perodicticus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [perodicticus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Arctocebus/breadcrumb.md, ../Loris/breadcrumb.md, ../Nycticebus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Perodicticus_potto.cs"
-    name: "Perodicticus potto"
-    common_name: "Perodicticus_potto"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Perodicticus_potto:
+    common_name: Perodicticus_potto
+    conservation: UK
 ---
-
 # Perodicticus
 
 Genus containing 1 species.

@@ -1,81 +1,52 @@
 ---
-title: "Rousettus"
-description: "Genus containing 11 species."
-category: "taxonomy/genus"
-tags: ["rousettus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9406
-parent: "../breadcrumb.md"
+title: Rousettus
+description: Genus containing 11 species.
+category: taxonomy/genus
+tags: [rousettus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 11
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rousettus_aegyptiacus.cs"
-    name: "Rousettus aegyptiacus"
-    common_name: "Rousettus_aegyptiacus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rousettus_amplexicaudatus.cs"
-    name: "Rousettus amplexicaudatus"
-    common_name: "Rousettus_amplexicaudatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rousettus_celebensis.cs"
-    name: "Rousettus celebensis"
-    common_name: "Rousettus_celebensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rousettus_leschenaultii.cs"
-    name: "Rousettus leschenaultii"
-    common_name: "Rousettus_leschenaultii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rousettus_linduensis.cs"
-    name: "Rousettus linduensis"
-    common_name: "Rousettus_linduensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rousettus_madagascariensis.cs"
-    name: "Rousettus madagascariensis"
-    common_name: "Rousettus_madagascariensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rousettus_obliviosus.cs"
-    name: "Rousettus obliviosus"
-    common_name: "Rousettus_obliviosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rousettus_sp.cs"
-    name: "Rousettus sp."
-    common_name: "Rousettus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rousettus_sp_FCA_2016a.cs"
-    name: "Rousettus sp. FCA-2016a"
-    common_name: "Rousettus_sp_FCA_2016a"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rousettus_sp_YPZ_2012.cs"
-    name: "Rousettus sp. YPZ-2012"
-    common_name: "Rousettus_sp_YPZ_2012"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rousettus_spinalatus.cs"
-    name: "Rousettus spinalatus"
-    common_name: "Rousettus_spinalatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rousettus_aegyptiacus:
+    common_name: Rousettus_aegyptiacus
+    conservation: UK
+  Rousettus_amplexicaudatus:
+    common_name: Rousettus_amplexicaudatus
+    conservation: UK
+  Rousettus_celebensis:
+    common_name: Rousettus_celebensis
+    conservation: UK
+  Rousettus_leschenaultii:
+    common_name: Rousettus_leschenaultii
+    conservation: UK
+  Rousettus_linduensis:
+    common_name: Rousettus_linduensis
+    conservation: UK
+  Rousettus_madagascariensis:
+    common_name: Rousettus_madagascariensis
+    conservation: UK
+  Rousettus_obliviosus:
+    common_name: Rousettus_obliviosus
+    conservation: UK
+  Rousettus_sp:
+    common_name: Rousettus_sp
+    conservation: UK
+  Rousettus_sp_FCA_2016a:
+    common_name: Rousettus_sp_FCA_2016a
+    conservation: UK
+  Rousettus_sp_YPZ_2012:
+    common_name: Rousettus_sp_YPZ_2012
+    conservation: UK
+  Rousettus_spinalatus:
+    common_name: Rousettus_spinalatus
+    conservation: UK
 ---
-
 # Rousettus
 
 Genus containing 11 species.

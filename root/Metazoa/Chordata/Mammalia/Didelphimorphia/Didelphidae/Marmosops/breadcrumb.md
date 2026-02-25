@@ -1,126 +1,79 @@
 ---
-title: "Marmosops"
-description: "Genus containing 23 species."
-category: "taxonomy/genus"
-tags: ["marmosops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Caluromys/breadcrumb.md", "../Caluromysiops/breadcrumb.md", "../Chacodelphys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 42721
-parent: "../breadcrumb.md"
+title: Marmosops
+description: Genus containing 23 species.
+category: taxonomy/genus
+tags: [marmosops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Caluromys/breadcrumb.md, ../Caluromysiops/breadcrumb.md, ../Chacodelphys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 23
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Marmosops_bishopi.cs"
-    name: "Marmosops bishopi"
-    common_name: "Marmosops_bishopi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_carri.cs"
-    name: "Marmosops carri"
-    common_name: "Marmosops_carri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_caucae.cs"
-    name: "Marmosops caucae"
-    common_name: "Marmosops_caucae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_creightoni.cs"
-    name: "Marmosops creightoni"
-    common_name: "Marmosops_creightoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_dorothea.cs"
-    name: "Marmosops dorothea"
-    common_name: "Marmosops_dorothea"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_fuscatus.cs"
-    name: "Marmosops fuscatus"
-    common_name: "Marmosops_fuscatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_handleyi.cs"
-    name: "Marmosops handleyi"
-    common_name: "Marmosops_handleyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_impavidus.cs"
-    name: "Marmosops impavidus"
-    common_name: "Marmosops_impavidus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_incanus.cs"
-    name: "Marmosops incanus"
-    common_name: "Marmosops_incanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_invictus.cs"
-    name: "Marmosops invictus"
-    common_name: "Marmosops_invictus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_juninensis.cs"
-    name: "Marmosops juninensis"
-    common_name: "Marmosops_juninensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_marina.cs"
-    name: "Marmosops marina"
-    common_name: "Marmosops_marina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_neblina.cs"
-    name: "Marmosops neblina"
-    common_name: "Marmosops_neblina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_noctivagus.cs"
-    name: "Marmosops noctivagus"
-    common_name: "Marmosops_noctivagus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_ocellatus.cs"
-    name: "Marmosops ocellatus"
-    common_name: "Marmosops_ocellatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_ojastii.cs"
-    name: "Marmosops ojastii"
-    common_name: "Marmosops_ojastii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_pakaraimae.cs"
-    name: "Marmosops pakaraimae"
-    common_name: "Marmosops_pakaraimae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_parvidens.cs"
-    name: "Marmosops parvidens"
-    common_name: "Marmosops_parvidens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_paulensis.cs"
-    name: "Marmosops paulensis"
-    common_name: "Marmosops_paulensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmosops_pinheiroi.cs"
-    name: "Marmosops pinheiroi"
-    common_name: "Marmosops_pinheiroi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Marmosops_bishopi:
+    common_name: Marmosops_bishopi
+    conservation: UK
+  Marmosops_carri:
+    common_name: Marmosops_carri
+    conservation: UK
+  Marmosops_caucae:
+    common_name: Marmosops_caucae
+    conservation: UK
+  Marmosops_creightoni:
+    common_name: Marmosops_creightoni
+    conservation: UK
+  Marmosops_dorothea:
+    common_name: Marmosops_dorothea
+    conservation: UK
+  Marmosops_fuscatus:
+    common_name: Marmosops_fuscatus
+    conservation: UK
+  Marmosops_handleyi:
+    common_name: Marmosops_handleyi
+    conservation: UK
+  Marmosops_impavidus:
+    common_name: Marmosops_impavidus
+    conservation: UK
+  Marmosops_incanus:
+    common_name: Marmosops_incanus
+    conservation: UK
+  Marmosops_invictus:
+    common_name: Marmosops_invictus
+    conservation: UK
+  Marmosops_juninensis:
+    common_name: Marmosops_juninensis
+    conservation: UK
+  Marmosops_marina:
+    common_name: Marmosops_marina
+    conservation: UK
+  Marmosops_neblina:
+    common_name: Marmosops_neblina
+    conservation: UK
+  Marmosops_noctivagus:
+    common_name: Marmosops_noctivagus
+    conservation: UK
+  Marmosops_ocellatus:
+    common_name: Marmosops_ocellatus
+    conservation: UK
+  Marmosops_ojastii:
+    common_name: Marmosops_ojastii
+    conservation: UK
+  Marmosops_pakaraimae:
+    common_name: Marmosops_pakaraimae
+    conservation: UK
+  Marmosops_parvidens:
+    common_name: Marmosops_parvidens
+    conservation: UK
+  Marmosops_paulensis:
+    common_name: Marmosops_paulensis
+    conservation: UK
+  Marmosops_pinheiroi:
+    common_name: Marmosops_pinheiroi
+    conservation: UK
 ---
-
 # Marmosops
 
 Genus containing 23 species.

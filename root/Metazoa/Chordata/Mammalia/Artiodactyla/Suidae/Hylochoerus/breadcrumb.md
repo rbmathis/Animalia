@@ -1,30 +1,21 @@
 ---
-title: "Hylochoerus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["hylochoerus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Babyrousa/breadcrumb.md", "../Phacochoerus/breadcrumb.md", "../Porcula/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 673353
-parent: "../breadcrumb.md"
+title: Hylochoerus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [hylochoerus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Babyrousa/breadcrumb.md, ../Phacochoerus/breadcrumb.md, ../Porcula/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hylochoerus_meinertzhageni.cs"
-    name: "Hylochoerus meinertzhageni"
-    common_name: "Hylochoerus_meinertzhageni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hylochoerus_meinertzhageni:
+    common_name: Hylochoerus_meinertzhageni
+    conservation: UK
 ---
-
 # Hylochoerus
 
 Genus containing 1 species.

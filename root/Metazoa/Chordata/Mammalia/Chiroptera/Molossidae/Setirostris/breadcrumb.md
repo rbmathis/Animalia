@@ -1,30 +1,21 @@
 ---
-title: "Setirostris"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["setirostris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cheiromeles/breadcrumb.md", "../Cynomops/breadcrumb.md", "../Eumops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3371055
-parent: "../breadcrumb.md"
+title: Setirostris
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [setirostris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cheiromeles/breadcrumb.md, ../Cynomops/breadcrumb.md, ../Eumops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Setirostris_eleryi.cs"
-    name: "Setirostris eleryi"
-    common_name: "Setirostris_eleryi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Setirostris_eleryi:
+    common_name: Setirostris_eleryi
+    conservation: UK
 ---
-
 # Setirostris
 
 Genus containing 1 species.

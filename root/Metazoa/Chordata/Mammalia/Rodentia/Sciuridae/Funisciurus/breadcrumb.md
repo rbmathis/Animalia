@@ -1,126 +1,79 @@
 ---
-title: "Funisciurus"
-description: "Genus containing 26 species."
-category: "taxonomy/genus"
-tags: ["funisciurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226679
-parent: "../breadcrumb.md"
+title: Funisciurus
+description: Genus containing 26 species.
+category: taxonomy/genus
+tags: [funisciurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 26
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Funisciurus_anerythrus.cs"
-    name: "Funisciurus anerythrus"
-    common_name: "Funisciurus_anerythrus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_carruthersi.cs"
-    name: "Funisciurus carruthersi"
-    common_name: "Funisciurus_carruthersi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_lemniscatus.cs"
-    name: "Funisciurus lemniscatus"
-    common_name: "Funisciurus_lemniscatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_leucogenys.cs"
-    name: "Funisciurus leucogenys"
-    common_name: "Funisciurus_leucogenys"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_pyrropus.cs"
-    name: "Funisciurus pyrropus"
-    common_name: "Funisciurus_pyrropus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_sp.cs"
-    name: "Funisciurus sp."
-    common_name: "Funisciurus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_sp_DRC1016.cs"
-    name: "Funisciurus sp. DRC1016"
-    common_name: "Funisciurus_sp_DRC1016"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_sp_DRC1096.cs"
-    name: "Funisciurus sp. DRC1096"
-    common_name: "Funisciurus_sp_DRC1096"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_sp_DRC1097.cs"
-    name: "Funisciurus sp. DRC1097"
-    common_name: "Funisciurus_sp_DRC1097"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_sp_DRC1098.cs"
-    name: "Funisciurus sp. DRC1098"
-    common_name: "Funisciurus_sp_DRC1098"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_sp_DRC1109.cs"
-    name: "Funisciurus sp. DRC1109"
-    common_name: "Funisciurus_sp_DRC1109"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_sp_DRC1110.cs"
-    name: "Funisciurus sp. DRC1110"
-    common_name: "Funisciurus_sp_DRC1110"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_sp_DRC844.cs"
-    name: "Funisciurus sp. DRC844"
-    common_name: "Funisciurus_sp_DRC844"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_sp_DRC993.cs"
-    name: "Funisciurus sp. DRC993"
-    common_name: "Funisciurus_sp_DRC993"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_sp_DRC995.cs"
-    name: "Funisciurus sp. DRC995"
-    common_name: "Funisciurus_sp_DRC995"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_sp_LIK194.cs"
-    name: "Funisciurus sp. LIK194"
-    common_name: "Funisciurus_sp_LIK194"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_sp_LIK280.cs"
-    name: "Funisciurus sp. LIK280"
-    common_name: "Funisciurus_sp_LIK280"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_sp_rope_squirrel_11.cs"
-    name: "Funisciurus sp. rope_squirrel_11"
-    common_name: "Funisciurus_sp_rope_squirrel_11"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_sp_rope_squirrel_12.cs"
-    name: "Funisciurus sp. rope_squirrel_12"
-    common_name: "Funisciurus_sp_rope_squirrel_12"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funisciurus_sp_rope_squirrel_13.cs"
-    name: "Funisciurus sp. rope_squirrel_13"
-    common_name: "Funisciurus_sp_rope_squirrel_13"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Funisciurus_anerythrus:
+    common_name: Funisciurus_anerythrus
+    conservation: UK
+  Funisciurus_carruthersi:
+    common_name: Funisciurus_carruthersi
+    conservation: UK
+  Funisciurus_lemniscatus:
+    common_name: Funisciurus_lemniscatus
+    conservation: UK
+  Funisciurus_leucogenys:
+    common_name: Funisciurus_leucogenys
+    conservation: UK
+  Funisciurus_pyrropus:
+    common_name: Funisciurus_pyrropus
+    conservation: UK
+  Funisciurus_sp:
+    common_name: Funisciurus_sp
+    conservation: UK
+  Funisciurus_sp_DRC1016:
+    common_name: Funisciurus_sp_DRC1016
+    conservation: UK
+  Funisciurus_sp_DRC1096:
+    common_name: Funisciurus_sp_DRC1096
+    conservation: UK
+  Funisciurus_sp_DRC1097:
+    common_name: Funisciurus_sp_DRC1097
+    conservation: UK
+  Funisciurus_sp_DRC1098:
+    common_name: Funisciurus_sp_DRC1098
+    conservation: UK
+  Funisciurus_sp_DRC1109:
+    common_name: Funisciurus_sp_DRC1109
+    conservation: UK
+  Funisciurus_sp_DRC1110:
+    common_name: Funisciurus_sp_DRC1110
+    conservation: UK
+  Funisciurus_sp_DRC844:
+    common_name: Funisciurus_sp_DRC844
+    conservation: UK
+  Funisciurus_sp_DRC993:
+    common_name: Funisciurus_sp_DRC993
+    conservation: UK
+  Funisciurus_sp_DRC995:
+    common_name: Funisciurus_sp_DRC995
+    conservation: UK
+  Funisciurus_sp_LIK194:
+    common_name: Funisciurus_sp_LIK194
+    conservation: UK
+  Funisciurus_sp_LIK280:
+    common_name: Funisciurus_sp_LIK280
+    conservation: UK
+  Funisciurus_sp_rope_squirrel_11:
+    common_name: Funisciurus_sp_rope_squirrel_11
+    conservation: UK
+  Funisciurus_sp_rope_squirrel_12:
+    common_name: Funisciurus_sp_rope_squirrel_12
+    conservation: UK
+  Funisciurus_sp_rope_squirrel_13:
+    common_name: Funisciurus_sp_rope_squirrel_13
+    conservation: UK
 ---
-
 # Funisciurus
 
 Genus containing 26 species.

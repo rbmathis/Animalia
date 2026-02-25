@@ -1,28 +1,19 @@
 ---
-title: "Petromuridae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["petromuridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 99599
-parent: "../breadcrumb.md"
+title: Petromuridae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [petromuridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Petromus/breadcrumb.md"
-    name: "Petromus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Petromus]
 ---
-
 # Petromuridae
 
 Family containing 1 genera.

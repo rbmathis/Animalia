@@ -1,45 +1,30 @@
 ---
-title: "Musseromys"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["musseromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2219201
-parent: "../breadcrumb.md"
+title: Musseromys
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [musseromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Musseromys_anacuao.cs"
-    name: "Musseromys anacuao"
-    common_name: "Musseromys_anacuao"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Musseromys_beneficus.cs"
-    name: "Musseromys beneficus"
-    common_name: "Musseromys_beneficus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Musseromys_gulantang.cs"
-    name: "Musseromys gulantang"
-    common_name: "Musseromys_gulantang"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Musseromys_inopinatus.cs"
-    name: "Musseromys inopinatus"
-    common_name: "Musseromys_inopinatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Musseromys_anacuao:
+    common_name: Musseromys_anacuao
+    conservation: UK
+  Musseromys_beneficus:
+    common_name: Musseromys_beneficus
+    conservation: UK
+  Musseromys_gulantang:
+    common_name: Musseromys_gulantang
+    conservation: UK
+  Musseromys_inopinatus:
+    common_name: Musseromys_inopinatus
+    conservation: UK
 ---
-
 # Musseromys
 
 Genus containing 4 species.

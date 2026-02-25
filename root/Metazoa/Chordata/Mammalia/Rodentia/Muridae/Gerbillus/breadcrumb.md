@@ -1,126 +1,79 @@
 ---
-title: "Gerbillus"
-description: "Genus containing 27 species."
-category: "taxonomy/genus"
-tags: ["gerbillus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10186
-parent: "../breadcrumb.md"
+title: Gerbillus
+description: Genus containing 27 species.
+category: taxonomy/genus
+tags: [gerbillus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 27
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Gerbillus_amoenus.cs"
-    name: "Gerbillus amoenus"
-    common_name: "Gerbillus_amoenus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_andersoni.cs"
-    name: "Gerbillus andersoni"
-    common_name: "Gerbillus_andersoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_cheesmani.cs"
-    name: "Gerbillus cheesmani"
-    common_name: "Gerbillus_cheesmani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_floweri.cs"
-    name: "Gerbillus floweri"
-    common_name: "Gerbillus_floweri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_gerbillus.cs"
-    name: "Gerbillus gerbillus"
-    common_name: "Gerbillus_gerbillus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_henleyi.cs"
-    name: "Gerbillus henleyi"
-    common_name: "Gerbillus_henleyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_hesperinus.cs"
-    name: "Gerbillus hesperinus"
-    common_name: "Gerbillus_hesperinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_hoogstrali.cs"
-    name: "Gerbillus hoogstrali"
-    common_name: "Gerbillus_hoogstrali"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_latastei.cs"
-    name: "Gerbillus latastei"
-    common_name: "Gerbillus_latastei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_mesopotamiae.cs"
-    name: "Gerbillus mesopotamiae"
-    common_name: "Gerbillus_mesopotamiae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_nancillus.cs"
-    name: "Gerbillus nancillus"
-    common_name: "Gerbillus_nancillus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_nanus.cs"
-    name: "Gerbillus nanus"
-    common_name: "Gerbillus_nanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_nigeriae.cs"
-    name: "Gerbillus nigeriae"
-    common_name: "Gerbillus_nigeriae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_occiduus.cs"
-    name: "Gerbillus occiduus"
-    common_name: "Gerbillus_occiduus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_perpallidus.cs"
-    name: "Gerbillus perpallidus"
-    common_name: "Gerbillus_perpallidus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_poecilops.cs"
-    name: "Gerbillus poecilops"
-    common_name: "Gerbillus_poecilops"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_pusillus.cs"
-    name: "Gerbillus pusillus"
-    common_name: "Gerbillus_pusillus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_pyramidum.cs"
-    name: "Gerbillus pyramidum"
-    common_name: "Gerbillus_pyramidum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_sp.cs"
-    name: "Gerbillus sp."
-    common_name: "Gerbillus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Gerbillus_sp_1_LG.cs"
-    name: "Gerbillus sp. 1 LG"
-    common_name: "Gerbillus_sp_1_LG"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Gerbillus_amoenus:
+    common_name: Gerbillus_amoenus
+    conservation: UK
+  Gerbillus_andersoni:
+    common_name: Gerbillus_andersoni
+    conservation: UK
+  Gerbillus_cheesmani:
+    common_name: Gerbillus_cheesmani
+    conservation: UK
+  Gerbillus_floweri:
+    common_name: Gerbillus_floweri
+    conservation: UK
+  Gerbillus_gerbillus:
+    common_name: Gerbillus_gerbillus
+    conservation: UK
+  Gerbillus_henleyi:
+    common_name: Gerbillus_henleyi
+    conservation: UK
+  Gerbillus_hesperinus:
+    common_name: Gerbillus_hesperinus
+    conservation: UK
+  Gerbillus_hoogstrali:
+    common_name: Gerbillus_hoogstrali
+    conservation: UK
+  Gerbillus_latastei:
+    common_name: Gerbillus_latastei
+    conservation: UK
+  Gerbillus_mesopotamiae:
+    common_name: Gerbillus_mesopotamiae
+    conservation: UK
+  Gerbillus_nancillus:
+    common_name: Gerbillus_nancillus
+    conservation: UK
+  Gerbillus_nanus:
+    common_name: Gerbillus_nanus
+    conservation: UK
+  Gerbillus_nigeriae:
+    common_name: Gerbillus_nigeriae
+    conservation: UK
+  Gerbillus_occiduus:
+    common_name: Gerbillus_occiduus
+    conservation: UK
+  Gerbillus_perpallidus:
+    common_name: Gerbillus_perpallidus
+    conservation: UK
+  Gerbillus_poecilops:
+    common_name: Gerbillus_poecilops
+    conservation: UK
+  Gerbillus_pusillus:
+    common_name: Gerbillus_pusillus
+    conservation: UK
+  Gerbillus_pyramidum:
+    common_name: Gerbillus_pyramidum
+    conservation: UK
+  Gerbillus_sp:
+    common_name: Gerbillus_sp
+    conservation: UK
+  Gerbillus_sp_1_LG:
+    common_name: Gerbillus_sp_1_LG
+    conservation: UK
 ---
-
 # Gerbillus
 
 Genus containing 27 species.

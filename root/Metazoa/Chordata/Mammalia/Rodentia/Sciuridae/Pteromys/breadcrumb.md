@@ -1,35 +1,24 @@
 ---
-title: "Pteromys"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["pteromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 55151
-parent: "../breadcrumb.md"
+title: Pteromys
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [pteromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pteromys_momonga.cs"
-    name: "Pteromys momonga"
-    common_name: "Pteromys_momonga"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteromys_volans.cs"
-    name: "Pteromys volans"
-    common_name: "Pteromys_volans"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pteromys_momonga:
+    common_name: Pteromys_momonga
+    conservation: UK
+  Pteromys_volans:
+    common_name: Pteromys_volans
+    conservation: UK
 ---
-
 # Pteromys
 
 Genus containing 2 species.

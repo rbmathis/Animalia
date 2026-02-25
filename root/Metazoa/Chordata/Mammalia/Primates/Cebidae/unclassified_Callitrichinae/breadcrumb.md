@@ -1,23 +1,20 @@
 ---
-title: "unclassified_Callitrichinae"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["unclassified_callitrichinae", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Callimico/breadcrumb.md", "../Callithrix/breadcrumb.md", "../Cebuella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-parent: "../breadcrumb.md"
+title: unclassified_Callitrichinae
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [unclassified_callitrichinae, genus]
+status: Living
+updated: 2026-02-23
+related: [../Callimico/breadcrumb.md, ../Callithrix/breadcrumb.md, ../Cebuella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-species:
-  - file: "Callitrichinae_sp.cs"
-    name: "Callitrichinae sp."
-    common_name: "Callitrichinae_sp"
-    conservation: "Unknown"
-    enriched: false
+species_data:
+  Callitrichinae_sp:
+    common_name: Callitrichinae_sp
+    conservation: UK
 ---
-
 # unclassified_Callitrichinae
 
 Genus containing 1 species.

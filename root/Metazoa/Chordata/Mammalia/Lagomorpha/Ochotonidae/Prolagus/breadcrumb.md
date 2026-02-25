@@ -1,30 +1,21 @@
 ---
-title: "Prolagus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["prolagus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ochotona/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3016545
-parent: "../breadcrumb.md"
+title: Prolagus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [prolagus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ochotona/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Prolagus_sardus.cs"
-    name: "Prolagus sardus"
-    common_name: "Prolagus_sardus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Prolagus_sardus:
+    common_name: Prolagus_sardus
+    conservation: UK
 ---
-
 # Prolagus
 
 Genus containing 1 species.

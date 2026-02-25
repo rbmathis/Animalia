@@ -1,30 +1,21 @@
 ---
-title: "Chrotogale"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["chrotogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Arctictis/breadcrumb.md", "../Arctogalidia/breadcrumb.md", "../Civettictis/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 94183
-parent: "../breadcrumb.md"
+title: Chrotogale
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [chrotogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Arctictis/breadcrumb.md, ../Arctogalidia/breadcrumb.md, ../Civettictis/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Chrotogale_owstoni.cs"
-    name: "Chrotogale owstoni"
-    common_name: "Chrotogale_owstoni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Chrotogale_owstoni:
+    common_name: Chrotogale_owstoni
+    conservation: UK
 ---
-
 # Chrotogale
 
 Genus containing 1 species.

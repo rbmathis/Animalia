@@ -1,85 +1,54 @@
 ---
-title: "Alexandromys"
-description: "Genus containing 12 species."
-category: "taxonomy/genus"
-tags: ["alexandromys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2162899
-parent: "../breadcrumb.md"
+title: Alexandromys
+description: Genus containing 12 species.
+category: taxonomy/genus
+tags: [alexandromys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 12
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Alexandromys_evoronensis.cs"
-    name: "Alexandromys evoronensis"
-    common_name: "Alexandromys_evoronensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alexandromys_fortis.cs"
-    name: "Alexandromys fortis"
-    common_name: "Alexandromys_fortis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alexandromys_kikuchii.cs"
-    name: "Alexandromys kikuchii"
-    common_name: "Alexandromys_kikuchii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alexandromys_limnophilus.cs"
-    name: "Alexandromys limnophilus"
-    common_name: "Alexandromys_limnophilus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alexandromys_maximowiczii.cs"
-    name: "Alexandromys maximowiczii"
-    common_name: "Alexandromys_maximowiczii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alexandromys_middendorffii.cs"
-    name: "Alexandromys middendorffii"
-    common_name: "Alexandromys_middendorffii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alexandromys_mongolicus.cs"
-    name: "Alexandromys mongolicus"
-    common_name: "Alexandromys_mongolicus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alexandromys_montebelli.cs"
-    name: "Alexandromys montebelli"
-    common_name: "Alexandromys_montebelli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alexandromys_mujanensis.cs"
-    name: "Alexandromys mujanensis"
-    common_name: "Alexandromys_mujanensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alexandromys_oeconomus.cs"
-    name: "Alexandromys oeconomus"
-    common_name: "Alexandromys_oeconomus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alexandromys_sachalinensis.cs"
-    name: "Alexandromys sachalinensis"
-    common_name: "Alexandromys_sachalinensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alexandromys_shantaricus.cs"
-    name: "Alexandromys shantaricus"
-    common_name: "Alexandromys_shantaricus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Alexandromys_evoronensis:
+    common_name: Alexandromys_evoronensis
+    conservation: UK
+  Alexandromys_fortis:
+    common_name: Alexandromys_fortis
+    conservation: UK
+  Alexandromys_kikuchii:
+    common_name: Alexandromys_kikuchii
+    conservation: UK
+  Alexandromys_limnophilus:
+    common_name: Alexandromys_limnophilus
+    conservation: UK
+  Alexandromys_maximowiczii:
+    common_name: Alexandromys_maximowiczii
+    conservation: UK
+  Alexandromys_middendorffii:
+    common_name: Alexandromys_middendorffii
+    conservation: UK
+  Alexandromys_mongolicus:
+    common_name: Alexandromys_mongolicus
+    conservation: UK
+  Alexandromys_montebelli:
+    common_name: Alexandromys_montebelli
+    conservation: UK
+  Alexandromys_mujanensis:
+    common_name: Alexandromys_mujanensis
+    conservation: UK
+  Alexandromys_oeconomus:
+    common_name: Alexandromys_oeconomus
+    conservation: UK
+  Alexandromys_sachalinensis:
+    common_name: Alexandromys_sachalinensis
+    conservation: UK
+  Alexandromys_shantaricus:
+    common_name: Alexandromys_shantaricus
+    conservation: UK
 ---
-
 # Alexandromys
 
 Genus containing 12 species.

@@ -1,30 +1,21 @@
 ---
-title: "Podoxymys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["podoxymys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1604869
-parent: "../breadcrumb.md"
+title: Podoxymys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [podoxymys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Podoxymys_roraimae.cs"
-    name: "Podoxymys roraimae"
-    common_name: "Podoxymys_roraimae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Podoxymys_roraimae:
+    common_name: Podoxymys_roraimae
+    conservation: UK
 ---
-
 # Podoxymys
 
 Genus containing 1 species.

@@ -1,30 +1,21 @@
 ---
-title: "Dicerorhinus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["dicerorhinus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ceratotherium/breadcrumb.md", "../Coelodonta/breadcrumb.md", "../Diceros/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 89631
-parent: "../breadcrumb.md"
+title: Dicerorhinus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [dicerorhinus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ceratotherium/breadcrumb.md, ../Coelodonta/breadcrumb.md, ../Diceros/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dicerorhinus_sumatrensis.cs"
-    name: "Dicerorhinus sumatrensis"
-    common_name: "Dicerorhinus_sumatrensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dicerorhinus_sumatrensis:
+    common_name: Dicerorhinus_sumatrensis
+    conservation: UK
 ---
-
 # Dicerorhinus
 
 Genus containing 1 species.

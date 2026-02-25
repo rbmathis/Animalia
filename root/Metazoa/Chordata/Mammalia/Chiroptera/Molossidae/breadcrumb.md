@@ -1,46 +1,19 @@
 ---
-title: "Molossidae"
-description: "Family containing 18 genera."
-category: "taxonomy/family"
-tags: ["molossidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cistugidae/breadcrumb.md", "../Craseonycteridae/breadcrumb.md", "../Emballonuridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9436
-parent: "../breadcrumb.md"
+title: Molossidae
+description: Family containing 18 genera.
+category: taxonomy/family
+tags: [molossidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Cistugidae/breadcrumb.md, ../Craseonycteridae/breadcrumb.md, ../Emballonuridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 18
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Cheiromeles/breadcrumb.md"
-    name: "Cheiromeles"
-  - path: "Cynomops/breadcrumb.md"
-    name: "Cynomops"
-  - path: "Eumops/breadcrumb.md"
-    name: "Eumops"
-  - path: "Micronomus/breadcrumb.md"
-    name: "Micronomus"
-  - path: "Molossops/breadcrumb.md"
-    name: "Molossops"
-  - path: "Molossus/breadcrumb.md"
-    name: "Molossus"
-  - path: "Mops/breadcrumb.md"
-    name: "Mops"
-  - path: "Mormopterus/breadcrumb.md"
-    name: "Mormopterus"
-  - path: "Myopterus/breadcrumb.md"
-    name: "Myopterus"
-  - path: "Neoplatymops/breadcrumb.md"
-    name: "Neoplatymops"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Cheiromeles, Cynomops, Eumops, Micronomus, Molossops, Molossus, Mops, Mormopterus, Myopterus, Neoplatymops]
 ---
-
 # Molossidae
 
 Family containing 18 genera.

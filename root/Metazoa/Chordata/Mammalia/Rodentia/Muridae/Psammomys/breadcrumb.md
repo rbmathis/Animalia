@@ -1,35 +1,24 @@
 ---
-title: "Psammomys"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["psammomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 48138
-parent: "../breadcrumb.md"
+title: Psammomys
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [psammomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Psammomys_obesus.cs"
-    name: "Psammomys obesus"
-    common_name: "Psammomys_obesus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Psammomys_vexillaris.cs"
-    name: "Psammomys vexillaris"
-    common_name: "Psammomys_vexillaris"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Psammomys_obesus:
+    common_name: Psammomys_obesus
+    conservation: UK
+  Psammomys_vexillaris:
+    common_name: Psammomys_vexillaris
+    conservation: UK
 ---
-
 # Psammomys
 
 Genus containing 2 species.

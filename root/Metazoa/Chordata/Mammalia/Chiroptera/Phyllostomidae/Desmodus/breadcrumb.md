@@ -1,30 +1,21 @@
 ---
-title: "Desmodus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["desmodus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9429
-parent: "../breadcrumb.md"
+title: Desmodus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [desmodus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Desmodus_rotundus.cs"
-    name: "Desmodus rotundus"
-    common_name: "Desmodus_rotundus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Desmodus_rotundus:
+    common_name: Desmodus_rotundus
+    conservation: UK
 ---
-
 # Desmodus
 
 Genus containing 1 species.

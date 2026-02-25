@@ -1,30 +1,21 @@
 ---
-title: "Otocolobus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["otocolobus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acinonyx/breadcrumb.md", "../Caracal/breadcrumb.md", "../Catopuma/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 61407
-parent: "../breadcrumb.md"
+title: Otocolobus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [otocolobus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acinonyx/breadcrumb.md, ../Caracal/breadcrumb.md, ../Catopuma/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Otocolobus_manul.cs"
-    name: "Otocolobus manul"
-    common_name: "Otocolobus_manul"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Otocolobus_manul:
+    common_name: Otocolobus_manul
+    conservation: UK
 ---
-
 # Otocolobus
 
 Genus containing 1 species.

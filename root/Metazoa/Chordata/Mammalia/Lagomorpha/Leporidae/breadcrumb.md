@@ -1,49 +1,20 @@
 ---
-title: "Leporidae"
-description: "Family containing 13 genera."
-category: "taxonomy/family"
-tags: ["leporidae", "family", "has-pets"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ochotonidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9979
-parent: "../breadcrumb.md"
+title: Leporidae
+description: Family containing 13 genera.
+category: taxonomy/family
+tags: [leporidae, family, has-pets]
+status: Living
+updated: 2026-02-23
+related: [../Ochotonidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 13
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Brachylagus/breadcrumb.md"
-    name: "Brachylagus"
-  - path: "Bunolagus/breadcrumb.md"
-    name: "Bunolagus"
-  - path: "Caprolagus/breadcrumb.md"
-    name: "Caprolagus"
-  - path: "environmental_samples/breadcrumb.md"
-    name: "environmental_samples"
-  - path: "Lepus/breadcrumb.md"
-    name: "Lepus"
-  - path: "Nesolagus/breadcrumb.md"
-    name: "Nesolagus"
-  - path: "Oryctolagus/breadcrumb.md"
-    name: "Oryctolagus"
-  - path: "Pentalagus/breadcrumb.md"
-    name: "Pentalagus"
-  - path: "Poelagus/breadcrumb.md"
-    name: "Poelagus"
-  - path: "Pronolagus/breadcrumb.md"
-    name: "Pronolagus"pet_genera:
-  - name: "Oryctolagus"
-    path: "Oryctolagus/breadcrumb.md"
-
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Brachylagus, Bunolagus, Caprolagus, environmental_samples, Lepus, Nesolagus, Oryctolagus, Pentalagus, Poelagus, Pronolagus]
+pet_genera: [Oryctolagus]
 ---
-
 # Leporidae
 
 Family containing 13 genera.

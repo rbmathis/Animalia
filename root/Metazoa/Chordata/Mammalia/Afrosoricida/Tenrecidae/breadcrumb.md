@@ -1,46 +1,19 @@
 ---
-title: "Tenrecidae"
-description: "Family containing 11 genera."
-category: "taxonomy/family"
-tags: ["tenrecidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Chrysochloridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9369
-parent: "../breadcrumb.md"
+title: Tenrecidae
+description: Family containing 11 genera.
+category: taxonomy/family
+tags: [tenrecidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Chrysochloridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 11
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Echinops/breadcrumb.md"
-    name: "Echinops"
-  - path: "Geogale/breadcrumb.md"
-    name: "Geogale"
-  - path: "Hemicentetes/breadcrumb.md"
-    name: "Hemicentetes"
-  - path: "Limnogale/breadcrumb.md"
-    name: "Limnogale"
-  - path: "Microgale/breadcrumb.md"
-    name: "Microgale"
-  - path: "Micropotamogale/breadcrumb.md"
-    name: "Micropotamogale"
-  - path: "Nesogale/breadcrumb.md"
-    name: "Nesogale"
-  - path: "Oryzorictes/breadcrumb.md"
-    name: "Oryzorictes"
-  - path: "Potamogale/breadcrumb.md"
-    name: "Potamogale"
-  - path: "Setifer/breadcrumb.md"
-    name: "Setifer"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Echinops, Geogale, Hemicentetes, Limnogale, Microgale, Micropotamogale, Nesogale, Oryzorictes, Potamogale, Setifer]
 ---
-
 # Tenrecidae
 
 Family containing 11 genera.

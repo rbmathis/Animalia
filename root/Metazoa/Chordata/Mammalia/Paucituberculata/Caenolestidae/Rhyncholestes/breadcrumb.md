@@ -1,30 +1,21 @@
 ---
-title: "Rhyncholestes"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["rhyncholestes", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Caenolestes/breadcrumb.md", "../Lestoros/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 33558
-parent: "../breadcrumb.md"
+title: Rhyncholestes
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [rhyncholestes, genus]
+status: Living
+updated: 2026-02-23
+related: [../Caenolestes/breadcrumb.md, ../Lestoros/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rhyncholestes_raphanurus.cs"
-    name: "Rhyncholestes raphanurus"
-    common_name: "Rhyncholestes_raphanurus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rhyncholestes_raphanurus:
+    common_name: Rhyncholestes_raphanurus
+    conservation: UK
 ---
-
 # Rhyncholestes
 
 Genus containing 1 species.

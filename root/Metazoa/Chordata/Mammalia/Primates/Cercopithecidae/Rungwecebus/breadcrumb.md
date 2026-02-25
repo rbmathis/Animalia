@@ -1,30 +1,21 @@
 ---
-title: "Rungwecebus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["rungwecebus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allenopithecus/breadcrumb.md", "../Allochrocebus/breadcrumb.md", "../Cercocebus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 371038
-parent: "../breadcrumb.md"
+title: Rungwecebus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [rungwecebus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allenopithecus/breadcrumb.md, ../Allochrocebus/breadcrumb.md, ../Cercocebus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rungwecebus_kipunji.cs"
-    name: "Rungwecebus kipunji"
-    common_name: "Rungwecebus_kipunji"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rungwecebus_kipunji:
+    common_name: Rungwecebus_kipunji
+    conservation: UK
 ---
-
 # Rungwecebus
 
 Genus containing 1 species.

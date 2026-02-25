@@ -1,23 +1,20 @@
 ---
-title: "unclassified_Cebidae"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["unclassified_cebidae", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Callimico/breadcrumb.md", "../Callithrix/breadcrumb.md", "../Cebuella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-parent: "../breadcrumb.md"
+title: unclassified_Cebidae
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [unclassified_cebidae, genus]
+status: Living
+updated: 2026-02-23
+related: [../Callimico/breadcrumb.md, ../Callithrix/breadcrumb.md, ../Cebuella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-species:
-  - file: "Aotinae_gen_sp.cs"
-    name: "Aotinae gen. sp."
-    common_name: "Aotinae_gen_sp"
-    conservation: "Unknown"
-    enriched: false
+species_data:
+  Aotinae_gen_sp:
+    common_name: Aotinae_gen_sp
+    conservation: UK
 ---
-
 # unclassified_Cebidae
 
 Genus containing 1 species.

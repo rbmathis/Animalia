@@ -1,46 +1,19 @@
 ---
-title: "Muridae"
-description: "Family containing 158 genera."
-category: "taxonomy/family"
-tags: ["muridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 10066
-parent: "../breadcrumb.md"
+title: Muridae
+description: Family containing 158 genera.
+category: taxonomy/family
+tags: [muridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 158
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Abeomelomys/breadcrumb.md"
-    name: "Abeomelomys"
-  - path: "Acomys/breadcrumb.md"
-    name: "Acomys"
-  - path: "Aethomys/breadcrumb.md"
-    name: "Aethomys"
-  - path: "Ammodillus/breadcrumb.md"
-    name: "Ammodillus"
-  - path: "Anisomys/breadcrumb.md"
-    name: "Anisomys"
-  - path: "Anonymomys/breadcrumb.md"
-    name: "Anonymomys"
-  - path: "Apodemus/breadcrumb.md"
-    name: "Apodemus"
-  - path: "Apomys/breadcrumb.md"
-    name: "Apomys"
-  - path: "Archboldomys/breadcrumb.md"
-    name: "Archboldomys"
-  - path: "Arvicanthis/breadcrumb.md"
-    name: "Arvicanthis"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Abeomelomys, Acomys, Aethomys, Ammodillus, Anisomys, Anonymomys, Apodemus, Apomys, Archboldomys, Arvicanthis]
 ---
-
 # Muridae
 
 Family containing 158 genera.

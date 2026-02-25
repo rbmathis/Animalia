@@ -1,50 +1,33 @@
 ---
-title: "Rhynchomys"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["rhynchomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 237999
-parent: "../breadcrumb.md"
+title: Rhynchomys
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [rhynchomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rhynchomys_banahao.cs"
-    name: "Rhynchomys banahao"
-    common_name: "Rhynchomys_banahao"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhynchomys_isarogensis.cs"
-    name: "Rhynchomys isarogensis"
-    common_name: "Rhynchomys_isarogensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhynchomys_labo.cs"
-    name: "Rhynchomys labo"
-    common_name: "Rhynchomys_labo"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhynchomys_soricoides.cs"
-    name: "Rhynchomys soricoides"
-    common_name: "Rhynchomys_soricoides"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhynchomys_tapulao.cs"
-    name: "Rhynchomys tapulao"
-    common_name: "Rhynchomys_tapulao"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rhynchomys_banahao:
+    common_name: Rhynchomys_banahao
+    conservation: UK
+  Rhynchomys_isarogensis:
+    common_name: Rhynchomys_isarogensis
+    conservation: UK
+  Rhynchomys_labo:
+    common_name: Rhynchomys_labo
+    conservation: UK
+  Rhynchomys_soricoides:
+    common_name: Rhynchomys_soricoides
+    conservation: UK
+  Rhynchomys_tapulao:
+    common_name: Rhynchomys_tapulao
+    conservation: UK
 ---
-
 # Rhynchomys
 
 Genus containing 5 species.

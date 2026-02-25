@@ -1,126 +1,79 @@
 ---
-title: "Oecomys"
-description: "Genus containing 47 species."
-category: "taxonomy/genus"
-tags: ["oecomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 48010
-parent: "../breadcrumb.md"
+title: Oecomys
+description: Genus containing 47 species.
+category: taxonomy/genus
+tags: [oecomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 47
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Oecomys_aff_roberti_RGR_2014.cs"
-    name: "Oecomys aff. roberti RGR-2014"
-    common_name: "Oecomys_aff_roberti_RGR_2014"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_auyantepui.cs"
-    name: "Oecomys auyantepui"
-    common_name: "Oecomys_auyantepui"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_bicolor.cs"
-    name: "Oecomys bicolor"
-    common_name: "Oecomys_bicolor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_catherinae.cs"
-    name: "Oecomys catherinae"
-    common_name: "Oecomys_catherinae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_cf_Roberti_RGR_2015.cs"
-    name: "Oecomys cf. Roberti RGR-2015"
-    common_name: "Oecomys_cf_Roberti_RGR_2015"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_cf_bicolor_RGR_2015.cs"
-    name: "Oecomys cf. bicolor RGR-2015"
-    common_name: "Oecomys_cf_bicolor_RGR_2015"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_cf_mamorae.cs"
-    name: "Oecomys cf. mamorae"
-    common_name: "Oecomys_cf_mamorae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_cf_rex_AK_2017.cs"
-    name: "Oecomys cf. rex AK-2017"
-    common_name: "Oecomys_cf_rex_AK_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_cf_rex_BOLDAAD7215.cs"
-    name: "Oecomys cf. rex BOLD:AAD7215"
-    common_name: "Oecomys_cf_rex_BOLDAAD7215"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_cleberi.cs"
-    name: "Oecomys cleberi"
-    common_name: "Oecomys_cleberi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_concolor.cs"
-    name: "Oecomys concolor"
-    common_name: "Oecomys_concolor"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_flavicans.cs"
-    name: "Oecomys flavicans"
-    common_name: "Oecomys_flavicans"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_franciscorum.cs"
-    name: "Oecomys franciscorum"
-    common_name: "Oecomys_franciscorum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_mamorae.cs"
-    name: "Oecomys mamorae"
-    common_name: "Oecomys_mamorae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_matogrossensis.cs"
-    name: "Oecomys matogrossensis"
-    common_name: "Oecomys_matogrossensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_osgoodi.cs"
-    name: "Oecomys osgoodi"
-    common_name: "Oecomys_osgoodi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_paricola.cs"
-    name: "Oecomys paricola"
-    common_name: "Oecomys_paricola"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_phaeotis.cs"
-    name: "Oecomys phaeotis"
-    common_name: "Oecomys_phaeotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_rex.cs"
-    name: "Oecomys rex"
-    common_name: "Oecomys_rex"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Oecomys_roberti.cs"
-    name: "Oecomys roberti"
-    common_name: "Oecomys_roberti"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Oecomys_aff_roberti_RGR_2014:
+    common_name: Oecomys_aff_roberti_RGR_2014
+    conservation: UK
+  Oecomys_auyantepui:
+    common_name: Oecomys_auyantepui
+    conservation: UK
+  Oecomys_bicolor:
+    common_name: Oecomys_bicolor
+    conservation: UK
+  Oecomys_catherinae:
+    common_name: Oecomys_catherinae
+    conservation: UK
+  Oecomys_cf_Roberti_RGR_2015:
+    common_name: Oecomys_cf_Roberti_RGR_2015
+    conservation: UK
+  Oecomys_cf_bicolor_RGR_2015:
+    common_name: Oecomys_cf_bicolor_RGR_2015
+    conservation: UK
+  Oecomys_cf_mamorae:
+    common_name: Oecomys_cf_mamorae
+    conservation: UK
+  Oecomys_cf_rex_AK_2017:
+    common_name: Oecomys_cf_rex_AK_2017
+    conservation: UK
+  Oecomys_cf_rex_BOLDAAD7215:
+    common_name: Oecomys_cf_rex_BOLDAAD7215
+    conservation: UK
+  Oecomys_cleberi:
+    common_name: Oecomys_cleberi
+    conservation: UK
+  Oecomys_concolor:
+    common_name: Oecomys_concolor
+    conservation: UK
+  Oecomys_flavicans:
+    common_name: Oecomys_flavicans
+    conservation: UK
+  Oecomys_franciscorum:
+    common_name: Oecomys_franciscorum
+    conservation: UK
+  Oecomys_mamorae:
+    common_name: Oecomys_mamorae
+    conservation: UK
+  Oecomys_matogrossensis:
+    common_name: Oecomys_matogrossensis
+    conservation: UK
+  Oecomys_osgoodi:
+    common_name: Oecomys_osgoodi
+    conservation: UK
+  Oecomys_paricola:
+    common_name: Oecomys_paricola
+    conservation: UK
+  Oecomys_phaeotis:
+    common_name: Oecomys_phaeotis
+    conservation: UK
+  Oecomys_rex:
+    common_name: Oecomys_rex
+    conservation: UK
+  Oecomys_roberti:
+    common_name: Oecomys_roberti
+    conservation: UK
 ---
-
 # Oecomys
 
 Genus containing 47 species.

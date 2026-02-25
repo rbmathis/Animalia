@@ -1,30 +1,21 @@
 ---
-title: "Glironia"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["glironia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Caluromys/breadcrumb.md", "../Caluromysiops/breadcrumb.md", "../Chacodelphys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 42714
-parent: "../breadcrumb.md"
+title: Glironia
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [glironia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Caluromys/breadcrumb.md, ../Caluromysiops/breadcrumb.md, ../Chacodelphys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Glironia_venusta.cs"
-    name: "Glironia venusta"
-    common_name: "Glironia_venusta"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Glironia_venusta:
+    common_name: Glironia_venusta
+    conservation: UK
 ---
-
 # Glironia
 
 Genus containing 1 species.

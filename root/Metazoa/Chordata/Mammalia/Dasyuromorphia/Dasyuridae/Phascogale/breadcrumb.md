@@ -1,40 +1,27 @@
 ---
-title: "Phascogale"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["phascogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antechinomys/breadcrumb.md", "../Antechinus/breadcrumb.md", "../Dasycercus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9292
-parent: "../breadcrumb.md"
+title: Phascogale
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [phascogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Antechinomys/breadcrumb.md, ../Antechinus/breadcrumb.md, ../Dasycercus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Phascogale_calura.cs"
-    name: "Phascogale calura"
-    common_name: "Phascogale_calura"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phascogale_pirata.cs"
-    name: "Phascogale pirata"
-    common_name: "Phascogale_pirata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phascogale_tapoatafa.cs"
-    name: "Phascogale tapoatafa"
-    common_name: "Phascogale_tapoatafa"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Phascogale_calura:
+    common_name: Phascogale_calura
+    conservation: UK
+  Phascogale_pirata:
+    common_name: Phascogale_pirata
+    conservation: UK
+  Phascogale_tapoatafa:
+    common_name: Phascogale_tapoatafa
+    conservation: UK
 ---
-
 # Phascogale
 
 Genus containing 3 species.

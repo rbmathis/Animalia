@@ -1,41 +1,28 @@
 ---
-title: "Petinomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["petinomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 100946
-parent: "../breadcrumb.md"
+title: Petinomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [petinomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Petinomys_fuscocapillus.cs"
-    name: "Petinomys fuscocapillus"
-    common_name: "Petinomys_fuscocapillus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petinomys_setosus.cs"
-    name: "Petinomys setosus"
-    common_name: "Petinomys_setosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petinomys_sp_ES_2022.cs"
-    name: "Petinomys sp. ES-2022"
-    common_name: "Petinomys_sp_ES_2022"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Petinomys_fuscocapillus:
+    common_name: Petinomys_fuscocapillus
+    conservation: UK
+  Petinomys_setosus:
+    common_name: Petinomys_setosus
+    conservation: UK
+  Petinomys_sp_ES_2022:
+    common_name: Petinomys_sp_ES_2022
+    conservation: UK
 ---
-
 # Petinomys
 
 Genus containing 3 species.

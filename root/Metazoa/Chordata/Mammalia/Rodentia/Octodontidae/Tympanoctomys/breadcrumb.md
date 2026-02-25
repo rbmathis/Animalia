@@ -1,40 +1,27 @@
 ---
-title: "Tympanoctomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["tympanoctomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aconaemys/breadcrumb.md", "../Octodon/breadcrumb.md", "../Octomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 61881
-parent: "../breadcrumb.md"
+title: Tympanoctomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [tympanoctomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aconaemys/breadcrumb.md, ../Octodon/breadcrumb.md, ../Octomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Tympanoctomys_barrerae.cs"
-    name: "Tympanoctomys barrerae"
-    common_name: "Tympanoctomys_barrerae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tympanoctomys_kirchnerorum.cs"
-    name: "Tympanoctomys kirchnerorum"
-    common_name: "Tympanoctomys_kirchnerorum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Tympanoctomys_loschalchalerosorum.cs"
-    name: "Tympanoctomys loschalchalerosorum"
-    common_name: "Tympanoctomys_loschalchalerosorum"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Tympanoctomys_barrerae:
+    common_name: Tympanoctomys_barrerae
+    conservation: UK
+  Tympanoctomys_kirchnerorum:
+    common_name: Tympanoctomys_kirchnerorum
+    conservation: UK
+  Tympanoctomys_loschalchalerosorum:
+    common_name: Tympanoctomys_loschalchalerosorum
+    conservation: UK
 ---
-
 # Tympanoctomys
 
 Genus containing 3 species.

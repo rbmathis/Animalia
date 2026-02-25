@@ -1,86 +1,55 @@
 ---
-title: "Octodon"
-description: "Genus containing 12 species."
-category: "taxonomy/genus"
-tags: ["octodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aconaemys/breadcrumb.md", "../Octomys/breadcrumb.md", "../Pipanacoctomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10159
-parent: "../breadcrumb.md"
+title: Octodon
+description: Genus containing 12 species.
+category: taxonomy/genus
+tags: [octodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aconaemys/breadcrumb.md, ../Octomys/breadcrumb.md, ../Pipanacoctomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 12
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Octodon_bridgesi_complex_sp_Coastal.cs"
-    name: "Octodon bridgesi complex sp. Coastal"
-    common_name: "Octodon_bridgesi_complex_sp_Coastal"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Octodon_bridgesii.cs"
-    name: "Octodon bridgesii"
-    common_name: "Octodon_bridgesii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Octodon_degus.cs"
-    name: "Octodon degus"
-    common_name: "Octodon_degus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Octodon_lunatus.cs"
-    name: "Octodon lunatus"
-    common_name: "Octodon_lunatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Octodon_pacificus.cs"
-    name: "Octodon pacificus"
-    common_name: "Octodon_pacificus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Octodon_ricardojeda.cs"
-    name: "Octodon ricardojeda"
-    common_name: "Octodon_ricardojeda"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Octodon_ricardojeda_complex_sp_Malalcahuello.cs"
-    name: "Octodon ricardojeda complex sp. Malalcahuello"
-    common_name: "Octodon_ricardojeda_complex_sp_Malalcahuello"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Octodon_ricardojeda_complex_sp_ss_Argentina.cs"
-    name: "Octodon ricardojeda complex sp. s.s. Argentina"
-    common_name: "Octodon_ricardojeda_complex_sp_ss_Argentina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Octodon_sp.cs"
-    name: "Octodon sp."
-    common_name: "Octodon_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Octodon_sp_Andean.cs"
-    name: "Octodon sp. Andean"
-    common_name: "Octodon_sp_Andean"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Octodon_sp_MVZ_184961.cs"
-    name: "Octodon sp. MVZ 184961"
-    common_name: "Octodon_sp_MVZ_184961"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Octodon_sp_MVZ_184962.cs"
-    name: "Octodon sp. MVZ 184962"
-    common_name: "Octodon_sp_MVZ_184962"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Octodon_bridgesi_complex_sp_Coastal:
+    common_name: Octodon_bridgesi_complex_sp_Coastal
+    conservation: UK
+  Octodon_bridgesii:
+    common_name: Octodon_bridgesii
+    conservation: UK
+  Octodon_degus:
+    common_name: Octodon_degus
+    conservation: UK
+  Octodon_lunatus:
+    common_name: Octodon_lunatus
+    conservation: UK
+  Octodon_pacificus:
+    common_name: Octodon_pacificus
+    conservation: UK
+  Octodon_ricardojeda:
+    common_name: Octodon_ricardojeda
+    conservation: UK
+  Octodon_ricardojeda_complex_sp_Malalcahuello:
+    common_name: Octodon_ricardojeda_complex_sp_Malalcahuello
+    conservation: UK
+  Octodon_ricardojeda_complex_sp_ss_Argentina:
+    common_name: Octodon_ricardojeda_complex_sp_ss_Argentina
+    conservation: UK
+  Octodon_sp:
+    common_name: Octodon_sp
+    conservation: UK
+  Octodon_sp_Andean:
+    common_name: Octodon_sp_Andean
+    conservation: UK
+  Octodon_sp_MVZ_184961:
+    common_name: Octodon_sp_MVZ_184961
+    conservation: UK
+  Octodon_sp_MVZ_184962:
+    common_name: Octodon_sp_MVZ_184962
+    conservation: UK
 ---
-
 # Octodon
 
 Genus containing 12 species.

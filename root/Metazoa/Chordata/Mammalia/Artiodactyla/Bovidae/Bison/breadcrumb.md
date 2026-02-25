@@ -1,61 +1,40 @@
 ---
-title: "Bison"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["bison", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9900
-parent: "../breadcrumb.md"
+title: Bison
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [bison, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Bison_antiquus.cs"
-    name: "Bison antiquus"
-    common_name: "Bison_antiquus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bison_bison.cs"
-    name: "Bison bison"
-    common_name: "Bison_bison"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bison_bonasus.cs"
-    name: "Bison bonasus"
-    common_name: "Bison_bonasus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bison_priscus.cs"
-    name: "Bison priscus"
-    common_name: "Bison_priscus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bison_schoetensacki.cs"
-    name: "Bison schoetensacki"
-    common_name: "Bison_schoetensacki"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bison_sp_BBS_2002.cs"
-    name: "Bison sp. BBS-2002"
-    common_name: "Bison_sp_BBS_2002"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Bison_sp_CRS_DY_42.cs"
-    name: "Bison sp. CRS-DY-42"
-    common_name: "Bison_sp_CRS_DY_42"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Bison_antiquus:
+    common_name: Bison_antiquus
+    conservation: UK
+  Bison_bison:
+    common_name: Bison_bison
+    conservation: UK
+  Bison_bonasus:
+    common_name: Bison_bonasus
+    conservation: UK
+  Bison_priscus:
+    common_name: Bison_priscus
+    conservation: UK
+  Bison_schoetensacki:
+    common_name: Bison_schoetensacki
+    conservation: UK
+  Bison_sp_BBS_2002:
+    common_name: Bison_sp_BBS_2002
+    conservation: UK
+  Bison_sp_CRS_DY_42:
+    common_name: Bison_sp_CRS_DY_42
+    conservation: UK
 ---
-
 # Bison
 
 Genus containing 7 species.

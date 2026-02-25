@@ -1,30 +1,21 @@
 ---
-title: "Phocarctos"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["phocarctos", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Arctocephalus/breadcrumb.md", "../Callorhinus/breadcrumb.md", "../Eumetopias/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 34887
-parent: "../breadcrumb.md"
+title: Phocarctos
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [phocarctos, genus]
+status: Living
+updated: 2026-02-23
+related: [../Arctocephalus/breadcrumb.md, ../Callorhinus/breadcrumb.md, ../Eumetopias/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Phocarctos_hookeri.cs"
-    name: "Phocarctos hookeri"
-    common_name: "Phocarctos_hookeri"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Phocarctos_hookeri:
+    common_name: Phocarctos_hookeri
+    conservation: UK
 ---
-
 # Phocarctos
 
 Genus containing 1 species.

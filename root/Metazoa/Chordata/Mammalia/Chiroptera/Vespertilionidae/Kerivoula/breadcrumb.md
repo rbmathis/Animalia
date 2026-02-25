@@ -1,126 +1,79 @@
 ---
-title: "Kerivoula"
-description: "Genus containing 26 species."
-category: "taxonomy/genus"
-tags: ["kerivoula", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 59454
-parent: "../breadcrumb.md"
+title: Kerivoula
+description: Genus containing 26 species.
+category: taxonomy/genus
+tags: [kerivoula, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 26
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Kerivoula_argentata.cs"
-    name: "Kerivoula argentata"
-    common_name: "Kerivoula_argentata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_cf_hardwickii_CMF_2010.cs"
-    name: "Kerivoula cf. hardwickii CMF-2010"
-    common_name: "Kerivoula_cf_hardwickii_CMF_2010"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_cf_lenis_CMF_2010.cs"
-    name: "Kerivoula cf. lenis CMF-2010"
-    common_name: "Kerivoula_cf_lenis_CMF_2010"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_cf_papillosa.cs"
-    name: "Kerivoula cf. papillosa"
-    common_name: "Kerivoula_cf_papillosa"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_cuprosa.cs"
-    name: "Kerivoula cuprosa"
-    common_name: "Kerivoula_cuprosa"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_depressa.cs"
-    name: "Kerivoula depressa"
-    common_name: "Kerivoula_depressa"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_dongduongana.cs"
-    name: "Kerivoula dongduongana"
-    common_name: "Kerivoula_dongduongana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_furva.cs"
-    name: "Kerivoula furva"
-    common_name: "Kerivoula_furva"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_hardwickii.cs"
-    name: "Kerivoula hardwickii"
-    common_name: "Kerivoula_hardwickii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_intermedia.cs"
-    name: "Kerivoula intermedia"
-    common_name: "Kerivoula_intermedia"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_kachinensis.cs"
-    name: "Kerivoula kachinensis"
-    common_name: "Kerivoula_kachinensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_krauensis.cs"
-    name: "Kerivoula krauensis"
-    common_name: "Kerivoula_krauensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_lanosa.cs"
-    name: "Kerivoula lanosa"
-    common_name: "Kerivoula_lanosa"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_lenis.cs"
-    name: "Kerivoula lenis"
-    common_name: "Kerivoula_lenis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_minuta.cs"
-    name: "Kerivoula minuta"
-    common_name: "Kerivoula_minuta"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_papillosa.cs"
-    name: "Kerivoula papillosa"
-    common_name: "Kerivoula_papillosa"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_pellucida.cs"
-    name: "Kerivoula pellucida"
-    common_name: "Kerivoula_pellucida"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_phalaena.cs"
-    name: "Kerivoula phalaena"
-    common_name: "Kerivoula_phalaena"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_picta.cs"
-    name: "Kerivoula picta"
-    common_name: "Kerivoula_picta"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kerivoula_smithii.cs"
-    name: "Kerivoula smithii"
-    common_name: "Kerivoula_smithii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Kerivoula_argentata:
+    common_name: Kerivoula_argentata
+    conservation: UK
+  Kerivoula_cf_hardwickii_CMF_2010:
+    common_name: Kerivoula_cf_hardwickii_CMF_2010
+    conservation: UK
+  Kerivoula_cf_lenis_CMF_2010:
+    common_name: Kerivoula_cf_lenis_CMF_2010
+    conservation: UK
+  Kerivoula_cf_papillosa:
+    common_name: Kerivoula_cf_papillosa
+    conservation: UK
+  Kerivoula_cuprosa:
+    common_name: Kerivoula_cuprosa
+    conservation: UK
+  Kerivoula_depressa:
+    common_name: Kerivoula_depressa
+    conservation: UK
+  Kerivoula_dongduongana:
+    common_name: Kerivoula_dongduongana
+    conservation: UK
+  Kerivoula_furva:
+    common_name: Kerivoula_furva
+    conservation: UK
+  Kerivoula_hardwickii:
+    common_name: Kerivoula_hardwickii
+    conservation: UK
+  Kerivoula_intermedia:
+    common_name: Kerivoula_intermedia
+    conservation: UK
+  Kerivoula_kachinensis:
+    common_name: Kerivoula_kachinensis
+    conservation: UK
+  Kerivoula_krauensis:
+    common_name: Kerivoula_krauensis
+    conservation: UK
+  Kerivoula_lanosa:
+    common_name: Kerivoula_lanosa
+    conservation: UK
+  Kerivoula_lenis:
+    common_name: Kerivoula_lenis
+    conservation: UK
+  Kerivoula_minuta:
+    common_name: Kerivoula_minuta
+    conservation: UK
+  Kerivoula_papillosa:
+    common_name: Kerivoula_papillosa
+    conservation: UK
+  Kerivoula_pellucida:
+    common_name: Kerivoula_pellucida
+    conservation: UK
+  Kerivoula_phalaena:
+    common_name: Kerivoula_phalaena
+    conservation: UK
+  Kerivoula_picta:
+    common_name: Kerivoula_picta
+    conservation: UK
+  Kerivoula_smithii:
+    common_name: Kerivoula_smithii
+    conservation: UK
 ---
-
 # Kerivoula
 
 Genus containing 26 species.

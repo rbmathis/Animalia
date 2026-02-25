@@ -1,30 +1,19 @@
 ---
-title: "Solenodontidae"
-description: "Family containing 2 genera."
-category: "taxonomy/family"
-tags: ["solenodontidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Erinaceidae/breadcrumb.md", "../Soricidae/breadcrumb.md", "../Talpidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 79803
-parent: "../breadcrumb.md"
+title: Solenodontidae
+description: Family containing 2 genera.
+category: taxonomy/family
+tags: [solenodontidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Erinaceidae/breadcrumb.md, ../Soricidae/breadcrumb.md, ../Talpidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Atopogale/breadcrumb.md"
-    name: "Atopogale"
-  - path: "Solenodon/breadcrumb.md"
-    name: "Solenodon"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Atopogale, Solenodon]
 ---
-
 # Solenodontidae
 
 Family containing 2 genera.

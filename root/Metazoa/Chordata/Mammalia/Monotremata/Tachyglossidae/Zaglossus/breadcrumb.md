@@ -1,40 +1,27 @@
 ---
-title: "Zaglossus"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["zaglossus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Tachyglossus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 33542
-parent: "../breadcrumb.md"
+title: Zaglossus
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [zaglossus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Tachyglossus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Zaglossus_attenboroughi.cs"
-    name: "Zaglossus attenboroughi"
-    common_name: "Zaglossus_attenboroughi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Zaglossus_bartoni.cs"
-    name: "Zaglossus bartoni"
-    common_name: "Zaglossus_bartoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Zaglossus_bruijni.cs"
-    name: "Zaglossus bruijni"
-    common_name: "Zaglossus_bruijni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Zaglossus_attenboroughi:
+    common_name: Zaglossus_attenboroughi
+    conservation: UK
+  Zaglossus_bartoni:
+    common_name: Zaglossus_bartoni
+    conservation: UK
+  Zaglossus_bruijni:
+    common_name: Zaglossus_bruijni
+    conservation: UK
 ---
-
 # Zaglossus
 
 Genus containing 3 species.

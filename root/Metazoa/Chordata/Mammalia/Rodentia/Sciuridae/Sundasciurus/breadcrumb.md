@@ -1,116 +1,73 @@
 ---
-title: "Sundasciurus"
-description: "Genus containing 18 species."
-category: "taxonomy/genus"
-tags: ["sundasciurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226574
-parent: "../breadcrumb.md"
+title: Sundasciurus
+description: Genus containing 18 species.
+category: taxonomy/genus
+tags: [sundasciurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 18
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Sundasciurus_altitudinis.cs"
-    name: "Sundasciurus altitudinis"
-    common_name: "Sundasciurus_altitudinis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_brookei.cs"
-    name: "Sundasciurus brookei"
-    common_name: "Sundasciurus_brookei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_fraterculus.cs"
-    name: "Sundasciurus fraterculus"
-    common_name: "Sundasciurus_fraterculus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_hippurus.cs"
-    name: "Sundasciurus hippurus"
-    common_name: "Sundasciurus_hippurus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_hoogstraali.cs"
-    name: "Sundasciurus hoogstraali"
-    common_name: "Sundasciurus_hoogstraali"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_jentinki.cs"
-    name: "Sundasciurus jentinki"
-    common_name: "Sundasciurus_jentinki"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_juvencus.cs"
-    name: "Sundasciurus juvencus"
-    common_name: "Sundasciurus_juvencus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_lowii.cs"
-    name: "Sundasciurus lowii"
-    common_name: "Sundasciurus_lowii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_mindanensis.cs"
-    name: "Sundasciurus mindanensis"
-    common_name: "Sundasciurus_mindanensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_moellendorffi.cs"
-    name: "Sundasciurus moellendorffi"
-    common_name: "Sundasciurus_moellendorffi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_philippinensis.cs"
-    name: "Sundasciurus philippinensis"
-    common_name: "Sundasciurus_philippinensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_rabori.cs"
-    name: "Sundasciurus rabori"
-    common_name: "Sundasciurus_rabori"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_robinsoni.cs"
-    name: "Sundasciurus robinsoni"
-    common_name: "Sundasciurus_robinsoni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_samarensis.cs"
-    name: "Sundasciurus samarensis"
-    common_name: "Sundasciurus_samarensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_sp_FPF_2017.cs"
-    name: "Sundasciurus sp. FPF-2017"
-    common_name: "Sundasciurus_sp_FPF_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_steerii.cs"
-    name: "Sundasciurus steerii"
-    common_name: "Sundasciurus_steerii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_tahan.cs"
-    name: "Sundasciurus tahan"
-    common_name: "Sundasciurus_tahan"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundasciurus_tenuis.cs"
-    name: "Sundasciurus tenuis"
-    common_name: "Sundasciurus_tenuis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Sundasciurus_altitudinis:
+    common_name: Sundasciurus_altitudinis
+    conservation: UK
+  Sundasciurus_brookei:
+    common_name: Sundasciurus_brookei
+    conservation: UK
+  Sundasciurus_fraterculus:
+    common_name: Sundasciurus_fraterculus
+    conservation: UK
+  Sundasciurus_hippurus:
+    common_name: Sundasciurus_hippurus
+    conservation: UK
+  Sundasciurus_hoogstraali:
+    common_name: Sundasciurus_hoogstraali
+    conservation: UK
+  Sundasciurus_jentinki:
+    common_name: Sundasciurus_jentinki
+    conservation: UK
+  Sundasciurus_juvencus:
+    common_name: Sundasciurus_juvencus
+    conservation: UK
+  Sundasciurus_lowii:
+    common_name: Sundasciurus_lowii
+    conservation: UK
+  Sundasciurus_mindanensis:
+    common_name: Sundasciurus_mindanensis
+    conservation: UK
+  Sundasciurus_moellendorffi:
+    common_name: Sundasciurus_moellendorffi
+    conservation: UK
+  Sundasciurus_philippinensis:
+    common_name: Sundasciurus_philippinensis
+    conservation: UK
+  Sundasciurus_rabori:
+    common_name: Sundasciurus_rabori
+    conservation: UK
+  Sundasciurus_robinsoni:
+    common_name: Sundasciurus_robinsoni
+    conservation: UK
+  Sundasciurus_samarensis:
+    common_name: Sundasciurus_samarensis
+    conservation: UK
+  Sundasciurus_sp_FPF_2017:
+    common_name: Sundasciurus_sp_FPF_2017
+    conservation: UK
+  Sundasciurus_steerii:
+    common_name: Sundasciurus_steerii
+    conservation: UK
+  Sundasciurus_tahan:
+    common_name: Sundasciurus_tahan
+    conservation: UK
+  Sundasciurus_tenuis:
+    common_name: Sundasciurus_tenuis
+    conservation: UK
 ---
-
 # Sundasciurus
 
 Genus containing 18 species.

@@ -1,126 +1,79 @@
 ---
-title: "Miniopterus"
-description: "Genus containing 73 species."
-category: "taxonomy/genus"
-tags: ["miniopterus", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Miniopterus
+description: Genus containing 73 species.
+category: taxonomy/genus
+tags: [miniopterus, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9432
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 73
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Miniopterus_aelleni.cs"
-    name: "Miniopterus aelleni"
-    common_name: "Miniopterus_aelleni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_africanus.cs"
-    name: "Miniopterus africanus"
-    common_name: "Miniopterus_africanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_ambohitrensis.cs"
-    name: "Miniopterus ambohitrensis"
-    common_name: "Miniopterus_ambohitrensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_australis.cs"
-    name: "Miniopterus australis"
-    common_name: "Miniopterus_australis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_brachytragos.cs"
-    name: "Miniopterus brachytragos"
-    common_name: "Miniopterus_brachytragos"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_cf_aelleni_A.cs"
-    name: "Miniopterus cf. aelleni A"
-    common_name: "Miniopterus_cf_aelleni_A"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_cf_aelleni_B.cs"
-    name: "Miniopterus cf. aelleni B"
-    common_name: "Miniopterus_cf_aelleni_B"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_cf_arenarius_VG_2013.cs"
-    name: "Miniopterus cf. arenarius VG-2013"
-    common_name: "Miniopterus_cf_arenarius_VG_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_egeri.cs"
-    name: "Miniopterus egeri"
-    common_name: "Miniopterus_egeri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_fraterculus.cs"
-    name: "Miniopterus fraterculus"
-    common_name: "Miniopterus_fraterculus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_fuliginosus.cs"
-    name: "Miniopterus fuliginosus"
-    common_name: "Miniopterus_fuliginosus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_fuscus.cs"
-    name: "Miniopterus fuscus"
-    common_name: "Miniopterus_fuscus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_gleni.cs"
-    name: "Miniopterus gleni"
-    common_name: "Miniopterus_gleni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_griffithsi.cs"
-    name: "Miniopterus griffithsi"
-    common_name: "Miniopterus_griffithsi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_griveaudi.cs"
-    name: "Miniopterus griveaudi"
-    common_name: "Miniopterus_griveaudi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_inflatus.cs"
-    name: "Miniopterus inflatus"
-    common_name: "Miniopterus_inflatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_macrocneme.cs"
-    name: "Miniopterus macrocneme"
-    common_name: "Miniopterus_macrocneme"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_maghrebensis.cs"
-    name: "Miniopterus maghrebensis"
-    common_name: "Miniopterus_maghrebensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_magnater.cs"
-    name: "Miniopterus magnater"
-    common_name: "Miniopterus_magnater"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miniopterus_mahafaliensis.cs"
-    name: "Miniopterus mahafaliensis"
-    common_name: "Miniopterus_mahafaliensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Miniopterus_aelleni:
+    common_name: Miniopterus_aelleni
+    conservation: UK
+  Miniopterus_africanus:
+    common_name: Miniopterus_africanus
+    conservation: UK
+  Miniopterus_ambohitrensis:
+    common_name: Miniopterus_ambohitrensis
+    conservation: UK
+  Miniopterus_australis:
+    common_name: Miniopterus_australis
+    conservation: UK
+  Miniopterus_brachytragos:
+    common_name: Miniopterus_brachytragos
+    conservation: UK
+  Miniopterus_cf_aelleni_A:
+    common_name: Miniopterus_cf_aelleni_A
+    conservation: UK
+  Miniopterus_cf_aelleni_B:
+    common_name: Miniopterus_cf_aelleni_B
+    conservation: UK
+  Miniopterus_cf_arenarius_VG_2013:
+    common_name: Miniopterus_cf_arenarius_VG_2013
+    conservation: UK
+  Miniopterus_egeri:
+    common_name: Miniopterus_egeri
+    conservation: UK
+  Miniopterus_fraterculus:
+    common_name: Miniopterus_fraterculus
+    conservation: UK
+  Miniopterus_fuliginosus:
+    common_name: Miniopterus_fuliginosus
+    conservation: UK
+  Miniopterus_fuscus:
+    common_name: Miniopterus_fuscus
+    conservation: UK
+  Miniopterus_gleni:
+    common_name: Miniopterus_gleni
+    conservation: UK
+  Miniopterus_griffithsi:
+    common_name: Miniopterus_griffithsi
+    conservation: UK
+  Miniopterus_griveaudi:
+    common_name: Miniopterus_griveaudi
+    conservation: UK
+  Miniopterus_inflatus:
+    common_name: Miniopterus_inflatus
+    conservation: UK
+  Miniopterus_macrocneme:
+    common_name: Miniopterus_macrocneme
+    conservation: UK
+  Miniopterus_maghrebensis:
+    common_name: Miniopterus_maghrebensis
+    conservation: UK
+  Miniopterus_magnater:
+    common_name: Miniopterus_magnater
+    conservation: UK
+  Miniopterus_mahafaliensis:
+    common_name: Miniopterus_mahafaliensis
+    conservation: UK
 ---
-
 # Miniopterus
 
 Genus containing 73 species.

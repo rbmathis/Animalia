@@ -1,30 +1,21 @@
 ---
-title: "Lagostomus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["lagostomus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Chinchilla/breadcrumb.md", "../Lagidium/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10153
-parent: "../breadcrumb.md"
+title: Lagostomus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [lagostomus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Chinchilla/breadcrumb.md, ../Lagidium/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lagostomus_maximus.cs"
-    name: "Lagostomus maximus"
-    common_name: "Lagostomus_maximus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lagostomus_maximus:
+    common_name: Lagostomus_maximus
+    conservation: UK
 ---
-
 # Lagostomus
 
 Genus containing 1 species.

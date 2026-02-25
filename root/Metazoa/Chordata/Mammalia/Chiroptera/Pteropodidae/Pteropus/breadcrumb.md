@@ -1,126 +1,79 @@
 ---
-title: "Pteropus"
-description: "Genus containing 59 species."
-category: "taxonomy/genus"
-tags: ["pteropus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9401
-parent: "../breadcrumb.md"
+title: Pteropus
+description: Genus containing 59 species.
+category: taxonomy/genus
+tags: [pteropus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 59
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pteropus_admiralitatum.cs"
-    name: "Pteropus admiralitatum"
-    common_name: "Pteropus_admiralitatum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_aldabrensis.cs"
-    name: "Pteropus aldabrensis"
-    common_name: "Pteropus_aldabrensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_alecto.cs"
-    name: "Pteropus alecto"
-    common_name: "Pteropus_alecto"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_anetianus.cs"
-    name: "Pteropus anetianus"
-    common_name: "Pteropus_anetianus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_caniceps.cs"
-    name: "Pteropus caniceps"
-    common_name: "Pteropus_caniceps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_capistratus.cs"
-    name: "Pteropus capistratus"
-    common_name: "Pteropus_capistratus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_chrysoproctus.cs"
-    name: "Pteropus chrysoproctus"
-    common_name: "Pteropus_chrysoproctus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_cognatus.cs"
-    name: "Pteropus cognatus"
-    common_name: "Pteropus_cognatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_conspicillatus.cs"
-    name: "Pteropus conspicillatus"
-    common_name: "Pteropus_conspicillatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_dasymallus.cs"
-    name: "Pteropus dasymallus"
-    common_name: "Pteropus_dasymallus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_faunulus.cs"
-    name: "Pteropus faunulus"
-    common_name: "Pteropus_faunulus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_fundatus.cs"
-    name: "Pteropus fundatus"
-    common_name: "Pteropus_fundatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_gilliardi.cs"
-    name: "Pteropus gilliardi"
-    common_name: "Pteropus_gilliardi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_griseus.cs"
-    name: "Pteropus griseus"
-    common_name: "Pteropus_griseus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_hypomelanus.cs"
-    name: "Pteropus hypomelanus"
-    common_name: "Pteropus_hypomelanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_livingstonii.cs"
-    name: "Pteropus livingstonii"
-    common_name: "Pteropus_livingstonii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_lombocensis.cs"
-    name: "Pteropus lombocensis"
-    common_name: "Pteropus_lombocensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_lylei.cs"
-    name: "Pteropus lylei"
-    common_name: "Pteropus_lylei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_macrotis.cs"
-    name: "Pteropus macrotis"
-    common_name: "Pteropus_macrotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pteropus_mahaganus.cs"
-    name: "Pteropus mahaganus"
-    common_name: "Pteropus_mahaganus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pteropus_admiralitatum:
+    common_name: Pteropus_admiralitatum
+    conservation: UK
+  Pteropus_aldabrensis:
+    common_name: Pteropus_aldabrensis
+    conservation: UK
+  Pteropus_alecto:
+    common_name: Pteropus_alecto
+    conservation: UK
+  Pteropus_anetianus:
+    common_name: Pteropus_anetianus
+    conservation: UK
+  Pteropus_caniceps:
+    common_name: Pteropus_caniceps
+    conservation: UK
+  Pteropus_capistratus:
+    common_name: Pteropus_capistratus
+    conservation: UK
+  Pteropus_chrysoproctus:
+    common_name: Pteropus_chrysoproctus
+    conservation: UK
+  Pteropus_cognatus:
+    common_name: Pteropus_cognatus
+    conservation: UK
+  Pteropus_conspicillatus:
+    common_name: Pteropus_conspicillatus
+    conservation: UK
+  Pteropus_dasymallus:
+    common_name: Pteropus_dasymallus
+    conservation: UK
+  Pteropus_faunulus:
+    common_name: Pteropus_faunulus
+    conservation: UK
+  Pteropus_fundatus:
+    common_name: Pteropus_fundatus
+    conservation: UK
+  Pteropus_gilliardi:
+    common_name: Pteropus_gilliardi
+    conservation: UK
+  Pteropus_griseus:
+    common_name: Pteropus_griseus
+    conservation: UK
+  Pteropus_hypomelanus:
+    common_name: Pteropus_hypomelanus
+    conservation: UK
+  Pteropus_livingstonii:
+    common_name: Pteropus_livingstonii
+    conservation: UK
+  Pteropus_lombocensis:
+    common_name: Pteropus_lombocensis
+    conservation: UK
+  Pteropus_lylei:
+    common_name: Pteropus_lylei
+    conservation: UK
+  Pteropus_macrotis:
+    common_name: Pteropus_macrotis
+    conservation: UK
+  Pteropus_mahaganus:
+    common_name: Pteropus_mahaganus
+    conservation: UK
 ---
-
 # Pteropus
 
 Genus containing 59 species.

@@ -1,61 +1,40 @@
 ---
-title: "Holochilus"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["holochilus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 79919
-parent: "../breadcrumb.md"
+title: Holochilus
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [holochilus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Holochilus_brasiliensis.cs"
-    name: "Holochilus brasiliensis"
-    common_name: "Holochilus_brasiliensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Holochilus_chacarius.cs"
-    name: "Holochilus chacarius"
-    common_name: "Holochilus_chacarius"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Holochilus_nanus.cs"
-    name: "Holochilus nanus"
-    common_name: "Holochilus_nanus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Holochilus_sciureus.cs"
-    name: "Holochilus sciureus"
-    common_name: "Holochilus_sciureus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Holochilus_sp_2_GDE_2015.cs"
-    name: "Holochilus sp. 2 GDE-2015"
-    common_name: "Holochilus_sp_2_GDE_2015"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Holochilus_sp_TK53509.cs"
-    name: "Holochilus sp. TK53509"
-    common_name: "Holochilus_sp_TK53509"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Holochilus_vulpinus.cs"
-    name: "Holochilus vulpinus"
-    common_name: "Holochilus_vulpinus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Holochilus_brasiliensis:
+    common_name: Holochilus_brasiliensis
+    conservation: UK
+  Holochilus_chacarius:
+    common_name: Holochilus_chacarius
+    conservation: UK
+  Holochilus_nanus:
+    common_name: Holochilus_nanus
+    conservation: UK
+  Holochilus_sciureus:
+    common_name: Holochilus_sciureus
+    conservation: UK
+  Holochilus_sp_2_GDE_2015:
+    common_name: Holochilus_sp_2_GDE_2015
+    conservation: UK
+  Holochilus_sp_TK53509:
+    common_name: Holochilus_sp_TK53509
+    conservation: UK
+  Holochilus_vulpinus:
+    common_name: Holochilus_vulpinus
+    conservation: UK
 ---
-
 # Holochilus
 
 Genus containing 7 species.

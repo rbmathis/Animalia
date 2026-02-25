@@ -1,35 +1,24 @@
 ---
-title: "Echiothrix"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["echiothrix", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1638929
-parent: "../breadcrumb.md"
+title: Echiothrix
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [echiothrix, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Echiothrix_centrosa.cs"
-    name: "Echiothrix centrosa"
-    common_name: "Echiothrix_centrosa"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Echiothrix_leucura.cs"
-    name: "Echiothrix leucura"
-    common_name: "Echiothrix_leucura"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Echiothrix_centrosa:
+    common_name: Echiothrix_centrosa
+    conservation: UK
+  Echiothrix_leucura:
+    common_name: Echiothrix_leucura
+    conservation: UK
 ---
-
 # Echiothrix
 
 Genus containing 2 species.

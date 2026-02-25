@@ -1,30 +1,19 @@
 ---
-title: "Abrocomidae"
-description: "Family containing 2 genera."
-category: "taxonomy/family"
-tags: ["abrocomidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md", "../Bathyergidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 108853
-parent: "../breadcrumb.md"
+title: Abrocomidae
+description: Family containing 2 genera.
+category: taxonomy/family
+tags: [abrocomidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md, ../Bathyergidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Abrocoma/breadcrumb.md"
-    name: "Abrocoma"
-  - path: "Cuscomys/breadcrumb.md"
-    name: "Cuscomys"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Abrocoma, Cuscomys]
 ---
-
 # Abrocomidae
 
 Family containing 2 genera.

@@ -1,36 +1,19 @@
 ---
-title: "Megadermatidae"
-description: "Family containing 5 genera."
-category: "taxonomy/family"
-tags: ["megadermatidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cistugidae/breadcrumb.md", "../Craseonycteridae/breadcrumb.md", "../Emballonuridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9409
-parent: "../breadcrumb.md"
+title: Megadermatidae
+description: Family containing 5 genera.
+category: taxonomy/family
+tags: [megadermatidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Cistugidae/breadcrumb.md, ../Craseonycteridae/breadcrumb.md, ../Emballonuridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 5
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Cardioderma/breadcrumb.md"
-    name: "Cardioderma"
-  - path: "Lavia/breadcrumb.md"
-    name: "Lavia"
-  - path: "Lyroderma/breadcrumb.md"
-    name: "Lyroderma"
-  - path: "Macroderma/breadcrumb.md"
-    name: "Macroderma"
-  - path: "Megaderma/breadcrumb.md"
-    name: "Megaderma"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Cardioderma, Lavia, Lyroderma, Macroderma, Megaderma]
 ---
-
 # Megadermatidae
 
 Family containing 5 genera.

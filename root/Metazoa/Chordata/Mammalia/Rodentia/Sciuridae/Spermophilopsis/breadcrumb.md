@@ -1,30 +1,21 @@
 ---
-title: "Spermophilopsis"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["spermophilopsis", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 99870
-parent: "../breadcrumb.md"
+title: Spermophilopsis
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [spermophilopsis, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Spermophilopsis_leptodactylus.cs"
-    name: "Spermophilopsis leptodactylus"
-    common_name: "Spermophilopsis_leptodactylus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Spermophilopsis_leptodactylus:
+    common_name: Spermophilopsis_leptodactylus
+    conservation: UK
 ---
-
 # Spermophilopsis
 
 Genus containing 1 species.

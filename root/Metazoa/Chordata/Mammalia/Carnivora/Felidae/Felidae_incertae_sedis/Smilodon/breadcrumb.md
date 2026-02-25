@@ -1,35 +1,24 @@
 ---
-title: "Smilodon"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["smilodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Homotherium/breadcrumb.md", "../Miracinonyx/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 13265
-parent: "../breadcrumb.md"
+title: Smilodon
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [smilodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Homotherium/breadcrumb.md, ../Miracinonyx/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Smilodon_fatalis.cs"
-    name: "Smilodon fatalis"
-    common_name: "Smilodon_fatalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Smilodon_populator.cs"
-    name: "Smilodon populator"
-    common_name: "Smilodon_populator"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Smilodon_fatalis:
+    common_name: Smilodon_fatalis
+    conservation: UK
+  Smilodon_populator:
+    common_name: Smilodon_populator
+    conservation: UK
 ---
-
 # Smilodon
 
 Genus containing 2 species.

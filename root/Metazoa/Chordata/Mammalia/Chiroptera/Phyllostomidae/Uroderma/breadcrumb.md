@@ -1,40 +1,27 @@
 ---
-title: "Uroderma"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["uroderma", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 27662
-parent: "../breadcrumb.md"
+title: Uroderma
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [uroderma, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Uroderma_bilobatum.cs"
-    name: "Uroderma bilobatum"
-    common_name: "Uroderma_bilobatum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Uroderma_convexum.cs"
-    name: "Uroderma convexum"
-    common_name: "Uroderma_convexum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Uroderma_magnirostrum.cs"
-    name: "Uroderma magnirostrum"
-    common_name: "Uroderma_magnirostrum"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Uroderma_bilobatum:
+    common_name: Uroderma_bilobatum
+    conservation: UK
+  Uroderma_convexum:
+    common_name: Uroderma_convexum
+    conservation: UK
+  Uroderma_magnirostrum:
+    common_name: Uroderma_magnirostrum
+    conservation: UK
 ---
-
 # Uroderma
 
 Genus containing 3 species.

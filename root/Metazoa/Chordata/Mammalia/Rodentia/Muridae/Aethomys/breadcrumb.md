@@ -1,91 +1,58 @@
 ---
-title: "Aethomys"
-description: "Genus containing 13 species."
-category: "taxonomy/genus"
-tags: ["aethomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Ammodillus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 61151
-parent: "../breadcrumb.md"
+title: Aethomys
+description: Genus containing 13 species.
+category: taxonomy/genus
+tags: [aethomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Ammodillus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 13
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Aethomys_bocagei.cs"
-    name: "Aethomys bocagei"
-    common_name: "Aethomys_bocagei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Aethomys_cf_silindensis_MOZ183.cs"
-    name: "Aethomys cf. silindensis MOZ183"
-    common_name: "Aethomys_cf_silindensis_MOZ183"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Aethomys_chrysophilus.cs"
-    name: "Aethomys chrysophilus"
-    common_name: "Aethomys_chrysophilus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Aethomys_hindei.cs"
-    name: "Aethomys hindei"
-    common_name: "Aethomys_hindei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Aethomys_ineptus.cs"
-    name: "Aethomys ineptus"
-    common_name: "Aethomys_ineptus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Aethomys_kaiseri.cs"
-    name: "Aethomys kaiseri"
-    common_name: "Aethomys_kaiseri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Aethomys_nyikae.cs"
-    name: "Aethomys nyikae"
-    common_name: "Aethomys_nyikae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Aethomys_silindensis.cs"
-    name: "Aethomys silindensis"
-    common_name: "Aethomys_silindensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Aethomys_sp.cs"
-    name: "Aethomys sp."
-    common_name: "Aethomys_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Aethomys_sp_AD131.cs"
-    name: "Aethomys sp. AD131"
-    common_name: "Aethomys_sp_AD131"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Aethomys_sp_AD256.cs"
-    name: "Aethomys sp. AD256"
-    common_name: "Aethomys_sp_AD256"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Aethomys_sp_DPL_2017.cs"
-    name: "Aethomys sp. DPL-2017"
-    common_name: "Aethomys_sp_DPL_2017"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Aethomys_stannarius.cs"
-    name: "Aethomys stannarius"
-    common_name: "Aethomys_stannarius"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Aethomys_bocagei:
+    common_name: Aethomys_bocagei
+    conservation: UK
+  Aethomys_cf_silindensis_MOZ183:
+    common_name: Aethomys_cf_silindensis_MOZ183
+    conservation: UK
+  Aethomys_chrysophilus:
+    common_name: Aethomys_chrysophilus
+    conservation: UK
+  Aethomys_hindei:
+    common_name: Aethomys_hindei
+    conservation: UK
+  Aethomys_ineptus:
+    common_name: Aethomys_ineptus
+    conservation: UK
+  Aethomys_kaiseri:
+    common_name: Aethomys_kaiseri
+    conservation: UK
+  Aethomys_nyikae:
+    common_name: Aethomys_nyikae
+    conservation: UK
+  Aethomys_silindensis:
+    common_name: Aethomys_silindensis
+    conservation: UK
+  Aethomys_sp:
+    common_name: Aethomys_sp
+    conservation: UK
+  Aethomys_sp_AD131:
+    common_name: Aethomys_sp_AD131
+    conservation: UK
+  Aethomys_sp_AD256:
+    common_name: Aethomys_sp_AD256
+    conservation: UK
+  Aethomys_sp_DPL_2017:
+    common_name: Aethomys_sp_DPL_2017
+    conservation: UK
+  Aethomys_stannarius:
+    common_name: Aethomys_stannarius
+    conservation: UK
 ---
-
 # Aethomys
 
 Genus containing 13 species.

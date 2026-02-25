@@ -1,35 +1,24 @@
 ---
-title: "Reithrodon"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["reithrodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 56233
-parent: "../breadcrumb.md"
+title: Reithrodon
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [reithrodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Reithrodon_auritus.cs"
-    name: "Reithrodon auritus"
-    common_name: "Reithrodon_auritus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Reithrodon_typicus.cs"
-    name: "Reithrodon typicus"
-    common_name: "Reithrodon_typicus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Reithrodon_auritus:
+    common_name: Reithrodon_auritus
+    conservation: UK
+  Reithrodon_typicus:
+    common_name: Reithrodon_typicus
+    conservation: UK
 ---
-
 # Reithrodon
 
 Genus containing 2 species.

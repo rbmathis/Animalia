@@ -1,41 +1,28 @@
 ---
-title: "Parascaptor"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["parascaptor", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alpiscaptulus/breadcrumb.md", "../Condylura/breadcrumb.md", "../Desmana/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1300118
-parent: "../breadcrumb.md"
+title: Parascaptor
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [parascaptor, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alpiscaptulus/breadcrumb.md, ../Condylura/breadcrumb.md, ../Desmana/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Parascaptor_leucura.cs"
-    name: "Parascaptor leucura"
-    common_name: "Parascaptor_leucura"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Parascaptor_sp_KH_2016.cs"
-    name: "Parascaptor sp. KH-2016"
-    common_name: "Parascaptor_sp_KH_2016"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Parascaptor_sp_TE_2021.cs"
-    name: "Parascaptor sp. TE-2021"
-    common_name: "Parascaptor_sp_TE_2021"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Parascaptor_leucura:
+    common_name: Parascaptor_leucura
+    conservation: UK
+  Parascaptor_sp_KH_2016:
+    common_name: Parascaptor_sp_KH_2016
+    conservation: UK
+  Parascaptor_sp_TE_2021:
+    common_name: Parascaptor_sp_TE_2021
+    conservation: UK
 ---
-
 # Parascaptor
 
 Genus containing 3 species.

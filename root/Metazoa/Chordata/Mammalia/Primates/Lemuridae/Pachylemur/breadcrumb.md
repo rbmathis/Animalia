@@ -1,30 +1,21 @@
 ---
-title: "Pachylemur"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["pachylemur", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Eulemur/breadcrumb.md", "../Hapalemur/breadcrumb.md", "../Lemur/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1513474
-parent: "../breadcrumb.md"
+title: Pachylemur
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [pachylemur, genus]
+status: Living
+updated: 2026-02-23
+related: [../Eulemur/breadcrumb.md, ../Hapalemur/breadcrumb.md, ../Lemur/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pachylemur_jullyi.cs"
-    name: "Pachylemur jullyi"
-    common_name: "Pachylemur_jullyi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pachylemur_jullyi:
+    common_name: Pachylemur_jullyi
+    conservation: UK
 ---
-
 # Pachylemur
 
 Genus containing 1 species.

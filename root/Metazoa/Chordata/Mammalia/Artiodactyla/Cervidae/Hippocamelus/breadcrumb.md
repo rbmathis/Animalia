@@ -1,35 +1,24 @@
 ---
-title: "Hippocamelus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["hippocamelus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alces/breadcrumb.md", "../Axis/breadcrumb.md", "../Bisbalus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 371034
-parent: "../breadcrumb.md"
+title: Hippocamelus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [hippocamelus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alces/breadcrumb.md, ../Axis/breadcrumb.md, ../Bisbalus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hippocamelus_antisensis.cs"
-    name: "Hippocamelus antisensis"
-    common_name: "Hippocamelus_antisensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hippocamelus_bisulcus.cs"
-    name: "Hippocamelus bisulcus"
-    common_name: "Hippocamelus_bisulcus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hippocamelus_antisensis:
+    common_name: Hippocamelus_antisensis
+    conservation: UK
+  Hippocamelus_bisulcus:
+    common_name: Hippocamelus_bisulcus
+    conservation: UK
 ---
-
 # Hippocamelus
 
 Genus containing 2 species.

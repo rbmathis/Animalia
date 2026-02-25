@@ -1,66 +1,43 @@
 ---
-title: "Stenella"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["stenella", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cephalorhynchus/breadcrumb.md", "../Delphinus/breadcrumb.md", "../Feresa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9734
-parent: "../breadcrumb.md"
+title: Stenella
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [stenella, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cephalorhynchus/breadcrumb.md, ../Delphinus/breadcrumb.md, ../Feresa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Stenella_attenuata.cs"
-    name: "Stenella attenuata"
-    common_name: "Stenella_attenuata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Stenella_clymene.cs"
-    name: "Stenella clymene"
-    common_name: "Stenella_clymene"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Stenella_coeruleoalba.cs"
-    name: "Stenella coeruleoalba"
-    common_name: "Stenella_coeruleoalba"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Stenella_frontalis.cs"
-    name: "Stenella frontalis"
-    common_name: "Stenella_frontalis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Stenella_longirostris.cs"
-    name: "Stenella longirostris"
-    common_name: "Stenella_longirostris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Stenella_plagiodon.cs"
-    name: "Stenella plagiodon"
-    common_name: "Stenella_plagiodon"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Stenella_sp_STC2.cs"
-    name: "Stenella sp. STC2"
-    common_name: "Stenella_sp_STC2"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Stenella_sp_STC3.cs"
-    name: "Stenella sp. STC3"
-    common_name: "Stenella_sp_STC3"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Stenella_attenuata:
+    common_name: Stenella_attenuata
+    conservation: UK
+  Stenella_clymene:
+    common_name: Stenella_clymene
+    conservation: UK
+  Stenella_coeruleoalba:
+    common_name: Stenella_coeruleoalba
+    conservation: UK
+  Stenella_frontalis:
+    common_name: Stenella_frontalis
+    conservation: UK
+  Stenella_longirostris:
+    common_name: Stenella_longirostris
+    conservation: UK
+  Stenella_plagiodon:
+    common_name: Stenella_plagiodon
+    conservation: UK
+  Stenella_sp_STC2:
+    common_name: Stenella_sp_STC2
+    conservation: UK
+  Stenella_sp_STC3:
+    common_name: Stenella_sp_STC3
+    conservation: UK
 ---
-
 # Stenella
 
 Genus containing 8 species.

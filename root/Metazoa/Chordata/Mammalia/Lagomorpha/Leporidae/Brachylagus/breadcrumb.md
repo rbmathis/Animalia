@@ -1,30 +1,21 @@
 ---
-title: "Brachylagus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["brachylagus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Bunolagus/breadcrumb.md", "../Caprolagus/breadcrumb.md", "../environmental_samples/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 48082
-parent: "../breadcrumb.md"
+title: Brachylagus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [brachylagus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Bunolagus/breadcrumb.md, ../Caprolagus/breadcrumb.md, ../environmental_samples/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Brachylagus_idahoensis.cs"
-    name: "Brachylagus idahoensis"
-    common_name: "Brachylagus_idahoensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Brachylagus_idahoensis:
+    common_name: Brachylagus_idahoensis
+    conservation: UK
 ---
-
 # Brachylagus
 
 Genus containing 1 species.

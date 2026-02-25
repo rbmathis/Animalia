@@ -1,30 +1,21 @@
 ---
-title: "Hydrurga"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["hydrurga", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cystophora/breadcrumb.md", "../Erignathus/breadcrumb.md", "../Halichoerus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 29085
-parent: "../breadcrumb.md"
+title: Hydrurga
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [hydrurga, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cystophora/breadcrumb.md, ../Erignathus/breadcrumb.md, ../Halichoerus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hydrurga_leptonyx.cs"
-    name: "Hydrurga leptonyx"
-    common_name: "Hydrurga_leptonyx"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hydrurga_leptonyx:
+    common_name: Hydrurga_leptonyx
+    conservation: UK
 ---
-
 # Hydrurga
 
 Genus containing 1 species.

@@ -1,30 +1,21 @@
 ---
-title: "Aeretes"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["aeretes", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md", "../Atlantoxerus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226694
-parent: "../breadcrumb.md"
+title: Aeretes
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [aeretes, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md, ../Atlantoxerus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Aeretes_melanopterus.cs"
-    name: "Aeretes melanopterus"
-    common_name: "Aeretes_melanopterus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Aeretes_melanopterus:
+    common_name: Aeretes_melanopterus
+    conservation: UK
 ---
-
 # Aeretes
 
 Genus containing 1 species.

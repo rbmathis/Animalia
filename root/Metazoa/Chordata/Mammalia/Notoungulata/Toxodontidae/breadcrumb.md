@@ -1,28 +1,19 @@
 ---
-title: "Toxodontidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["toxodontidae", "family"]
-status: "Living"
-updated: "2026-02-23"
+title: Toxodontidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [toxodontidae, family]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 1563123
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Toxodon/breadcrumb.md"
-    name: "Toxodon"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Toxodon]
 ---
-
 # Toxodontidae
 
 Family containing 1 genera.

@@ -1,30 +1,21 @@
 ---
-title: "Scotozous"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["scotozous", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2830903
-parent: "../breadcrumb.md"
+title: Scotozous
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [scotozous, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Scotozous_dormeri.cs"
-    name: "Scotozous dormeri"
-    common_name: "Scotozous_dormeri"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Scotozous_dormeri:
+    common_name: Scotozous_dormeri
+    conservation: UK
 ---
-
 # Scotozous
 
 Genus containing 1 species.

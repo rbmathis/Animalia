@@ -1,36 +1,19 @@
 ---
-title: "Cheirogaleidae"
-description: "Family containing 5 genera."
-category: "taxonomy/family"
-tags: ["cheirogaleidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aotidae/breadcrumb.md", "../Atelidae/breadcrumb.md", "../Cebidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 30615
-parent: "../breadcrumb.md"
+title: Cheirogaleidae
+description: Family containing 5 genera.
+category: taxonomy/family
+tags: [cheirogaleidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Aotidae/breadcrumb.md, ../Atelidae/breadcrumb.md, ../Cebidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 5
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Allocebus/breadcrumb.md"
-    name: "Allocebus"
-  - path: "Cheirogaleus/breadcrumb.md"
-    name: "Cheirogaleus"
-  - path: "Microcebus/breadcrumb.md"
-    name: "Microcebus"
-  - path: "Mirza/breadcrumb.md"
-    name: "Mirza"
-  - path: "Phaner/breadcrumb.md"
-    name: "Phaner"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Allocebus, Cheirogaleus, Microcebus, Mirza, Phaner]
 ---
-
 # Cheirogaleidae
 
 Family containing 5 genera.

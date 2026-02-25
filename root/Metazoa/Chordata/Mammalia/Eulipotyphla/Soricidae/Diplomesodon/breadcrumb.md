@@ -1,36 +1,25 @@
 ---
-title: "Diplomesodon"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["diplomesodon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 458328
-parent: "../breadcrumb.md"
+title: Diplomesodon
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [diplomesodon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Diplomesodon_pulchellum.cs"
-    name: "Diplomesodon pulchellum"
-    common_name: "Diplomesodon_pulchellum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Diplomesodon_sp.cs"
-    name: "Diplomesodon sp."
-    common_name: "Diplomesodon_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Diplomesodon_pulchellum:
+    common_name: Diplomesodon_pulchellum
+    conservation: UK
+  Diplomesodon_sp:
+    common_name: Diplomesodon_sp
+    conservation: UK
 ---
-
 # Diplomesodon
 
 Genus containing 2 species.

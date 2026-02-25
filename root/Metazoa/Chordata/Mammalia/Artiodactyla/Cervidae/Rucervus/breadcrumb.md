@@ -1,40 +1,27 @@
 ---
-title: "Rucervus"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["rucervus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alces/breadcrumb.md", "../Axis/breadcrumb.md", "../Bisbalus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1088089
-parent: "../breadcrumb.md"
+title: Rucervus
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [rucervus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alces/breadcrumb.md, ../Axis/breadcrumb.md, ../Bisbalus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rucervus_duvaucelii.cs"
-    name: "Rucervus duvaucelii"
-    common_name: "Rucervus_duvaucelii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rucervus_eldii.cs"
-    name: "Rucervus eldii"
-    common_name: "Rucervus_eldii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rucervus_schomburgki.cs"
-    name: "Rucervus schomburgki"
-    common_name: "Rucervus_schomburgki"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rucervus_duvaucelii:
+    common_name: Rucervus_duvaucelii
+    conservation: UK
+  Rucervus_eldii:
+    common_name: Rucervus_eldii
+    conservation: UK
+  Rucervus_schomburgki:
+    common_name: Rucervus_schomburgki
+    conservation: UK
 ---
-
 # Rucervus
 
 Genus containing 3 species.

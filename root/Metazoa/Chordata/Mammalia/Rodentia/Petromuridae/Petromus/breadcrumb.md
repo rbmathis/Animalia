@@ -1,30 +1,21 @@
 ---
-title: "Petromus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["petromus", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Petromus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [petromus, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10182
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Petromus_typicus.cs"
-    name: "Petromus typicus"
-    common_name: "Petromus_typicus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Petromus_typicus:
+    common_name: Petromus_typicus
+    conservation: UK
 ---
-
 # Petromus
 
 Genus containing 1 species.

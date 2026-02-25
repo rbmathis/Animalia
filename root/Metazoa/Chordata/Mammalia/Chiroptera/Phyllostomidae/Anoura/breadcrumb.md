@@ -1,76 +1,49 @@
 ---
-title: "Anoura"
-description: "Genus containing 10 species."
-category: "taxonomy/genus"
-tags: ["anoura", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Ardops/breadcrumb.md", "../Ariteus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 27641
-parent: "../breadcrumb.md"
+title: Anoura
+description: Genus containing 10 species.
+category: taxonomy/genus
+tags: [anoura, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Ardops/breadcrumb.md, ../Ariteus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 10
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Anoura_aequatoris.cs"
-    name: "Anoura aequatoris"
-    common_name: "Anoura_aequatoris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Anoura_cadenai.cs"
-    name: "Anoura cadenai"
-    common_name: "Anoura_cadenai"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Anoura_caudifer.cs"
-    name: "Anoura caudifer"
-    common_name: "Anoura_caudifer"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Anoura_cultrata.cs"
-    name: "Anoura cultrata"
-    common_name: "Anoura_cultrata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Anoura_fistulata.cs"
-    name: "Anoura fistulata"
-    common_name: "Anoura_fistulata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Anoura_geoffroyi.cs"
-    name: "Anoura geoffroyi"
-    common_name: "Anoura_geoffroyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Anoura_latidens.cs"
-    name: "Anoura latidens"
-    common_name: "Anoura_latidens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Anoura_luismanueli.cs"
-    name: "Anoura luismanueli"
-    common_name: "Anoura_luismanueli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Anoura_peruana.cs"
-    name: "Anoura peruana"
-    common_name: "Anoura_peruana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Anoura_sp_A_CCA_2019.cs"
-    name: "Anoura sp. A CCA-2019"
-    common_name: "Anoura_sp_A_CCA_2019"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Anoura_aequatoris:
+    common_name: Anoura_aequatoris
+    conservation: UK
+  Anoura_cadenai:
+    common_name: Anoura_cadenai
+    conservation: UK
+  Anoura_caudifer:
+    common_name: Anoura_caudifer
+    conservation: UK
+  Anoura_cultrata:
+    common_name: Anoura_cultrata
+    conservation: UK
+  Anoura_fistulata:
+    common_name: Anoura_fistulata
+    conservation: UK
+  Anoura_geoffroyi:
+    common_name: Anoura_geoffroyi
+    conservation: UK
+  Anoura_latidens:
+    common_name: Anoura_latidens
+    conservation: UK
+  Anoura_luismanueli:
+    common_name: Anoura_luismanueli
+    conservation: UK
+  Anoura_peruana:
+    common_name: Anoura_peruana
+    conservation: UK
+  Anoura_sp_A_CCA_2019:
+    common_name: Anoura_sp_A_CCA_2019
+    conservation: UK
 ---
-
 # Anoura
 
 Genus containing 10 species.

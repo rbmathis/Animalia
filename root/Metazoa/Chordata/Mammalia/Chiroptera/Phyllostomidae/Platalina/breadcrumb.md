@@ -1,30 +1,21 @@
 ---
-title: "Platalina"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["platalina", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 148085
-parent: "../breadcrumb.md"
+title: Platalina
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [platalina, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Platalina_genovensium.cs"
-    name: "Platalina genovensium"
-    common_name: "Platalina_genovensium"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Platalina_genovensium:
+    common_name: Platalina_genovensium
+    conservation: UK
 ---
-
 # Platalina
 
 Genus containing 1 species.

@@ -1,30 +1,21 @@
 ---
-title: "Monachus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["monachus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cystophora/breadcrumb.md", "../Erignathus/breadcrumb.md", "../Halichoerus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 29087
-parent: "../breadcrumb.md"
+title: Monachus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [monachus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cystophora/breadcrumb.md, ../Erignathus/breadcrumb.md, ../Halichoerus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Monachus_monachus.cs"
-    name: "Monachus monachus"
-    common_name: "Monachus_monachus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Monachus_monachus:
+    common_name: Monachus_monachus
+    conservation: UK
 ---
-
 # Monachus
 
 Genus containing 1 species.

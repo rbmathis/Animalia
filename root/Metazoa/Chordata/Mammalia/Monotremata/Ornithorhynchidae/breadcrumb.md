@@ -1,28 +1,19 @@
 ---
-title: "Ornithorhynchidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["ornithorhynchidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Tachyglossidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9256
-parent: "../breadcrumb.md"
+title: Ornithorhynchidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [ornithorhynchidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Tachyglossidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Ornithorhynchus/breadcrumb.md"
-    name: "Ornithorhynchus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Ornithorhynchus]
 ---
-
 # Ornithorhynchidae
 
 Family containing 1 genera.

@@ -1,46 +1,19 @@
 ---
-title: "Vespertilionidae"
-description: "Family containing 60 genera."
-category: "taxonomy/family"
-tags: ["vespertilionidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cistugidae/breadcrumb.md", "../Craseonycteridae/breadcrumb.md", "../Emballonuridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9431
-parent: "../breadcrumb.md"
+title: Vespertilionidae
+description: Family containing 60 genera.
+category: taxonomy/family
+tags: [vespertilionidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Cistugidae/breadcrumb.md, ../Craseonycteridae/breadcrumb.md, ../Emballonuridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 60
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Afronycteris/breadcrumb.md"
-    name: "Afronycteris"
-  - path: "Afropipistrellus/breadcrumb.md"
-    name: "Afropipistrellus"
-  - path: "Antrozous/breadcrumb.md"
-    name: "Antrozous"
-  - path: "Arielulus/breadcrumb.md"
-    name: "Arielulus"
-  - path: "Baeodon/breadcrumb.md"
-    name: "Baeodon"
-  - path: "Barbastella/breadcrumb.md"
-    name: "Barbastella"
-  - path: "Bauerus/breadcrumb.md"
-    name: "Bauerus"
-  - path: "Cassistrellus/breadcrumb.md"
-    name: "Cassistrellus"
-  - path: "Chalinolobus/breadcrumb.md"
-    name: "Chalinolobus"
-  - path: "Cnephaeus/breadcrumb.md"
-    name: "Cnephaeus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Afronycteris, Afropipistrellus, Antrozous, Arielulus, Baeodon, Barbastella, Bauerus, Cassistrellus, Chalinolobus, Cnephaeus]
 ---
-
 # Vespertilionidae
 
 Family containing 60 genera.

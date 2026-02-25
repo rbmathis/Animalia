@@ -1,46 +1,31 @@
 ---
-title: "Macroglossus"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["macroglossus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 29075
-parent: "../breadcrumb.md"
+title: Macroglossus
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [macroglossus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Macroglossus_minimus.cs"
-    name: "Macroglossus minimus"
-    common_name: "Macroglossus_minimus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macroglossus_sobrinus.cs"
-    name: "Macroglossus sobrinus"
-    common_name: "Macroglossus_sobrinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macroglossus_sp_TK_20305.cs"
-    name: "Macroglossus sp. TK 20305"
-    common_name: "Macroglossus_sp_TK_20305"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Macroglossus_sp_TK20306.cs"
-    name: "Macroglossus sp. TK20306"
-    common_name: "Macroglossus_sp_TK20306"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Macroglossus_minimus:
+    common_name: Macroglossus_minimus
+    conservation: UK
+  Macroglossus_sobrinus:
+    common_name: Macroglossus_sobrinus
+    conservation: UK
+  Macroglossus_sp_TK_20305:
+    common_name: Macroglossus_sp_TK_20305
+    conservation: UK
+  Macroglossus_sp_TK20306:
+    common_name: Macroglossus_sp_TK20306
+    conservation: UK
 ---
-
 # Macroglossus
 
 Genus containing 4 species.

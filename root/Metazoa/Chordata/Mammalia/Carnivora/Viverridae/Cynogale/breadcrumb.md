@@ -1,30 +1,21 @@
 ---
-title: "Cynogale"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["cynogale", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Arctictis/breadcrumb.md", "../Arctogalidia/breadcrumb.md", "../Chrotogale/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 395838
-parent: "../breadcrumb.md"
+title: Cynogale
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [cynogale, genus]
+status: Living
+updated: 2026-02-23
+related: [../Arctictis/breadcrumb.md, ../Arctogalidia/breadcrumb.md, ../Chrotogale/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cynogale_bennetti.cs"
-    name: "Cynogale bennetti"
-    common_name: "Cynogale_bennetti"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cynogale_bennetti:
+    common_name: Cynogale_bennetti
+    conservation: UK
 ---
-
 # Cynogale
 
 Genus containing 1 species.

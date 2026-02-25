@@ -1,126 +1,79 @@
 ---
-title: "Plecotus"
-description: "Genus containing 29 species."
-category: "taxonomy/genus"
-tags: ["plecotus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 27673
-parent: "../breadcrumb.md"
+title: Plecotus
+description: Genus containing 29 species.
+category: taxonomy/genus
+tags: [plecotus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 29
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Plecotus_auritus.cs"
-    name: "Plecotus auritus"
-    common_name: "Plecotus_auritus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_austriacus.cs"
-    name: "Plecotus austriacus"
-    common_name: "Plecotus_austriacus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_balensis.cs"
-    name: "Plecotus balensis"
-    common_name: "Plecotus_balensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_cf_kolombatovici.cs"
-    name: "Plecotus cf. kolombatovici"
-    common_name: "Plecotus_cf_kolombatovici"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_cf_kozlovi.cs"
-    name: "Plecotus cf. kozlovi"
-    common_name: "Plecotus_cf_kozlovi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_christii.cs"
-    name: "Plecotus christii"
-    common_name: "Plecotus_christii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_gaisleri.cs"
-    name: "Plecotus gaisleri"
-    common_name: "Plecotus_gaisleri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_gobiensis.cs"
-    name: "Plecotus gobiensis"
-    common_name: "Plecotus_gobiensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_homochrous.cs"
-    name: "Plecotus homochrous"
-    common_name: "Plecotus_homochrous"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_kolombatovici.cs"
-    name: "Plecotus kolombatovici"
-    common_name: "Plecotus_kolombatovici"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_kozlovi.cs"
-    name: "Plecotus kozlovi"
-    common_name: "Plecotus_kozlovi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_macrobullaris.cs"
-    name: "Plecotus macrobullaris"
-    common_name: "Plecotus_macrobullaris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_ognevi.cs"
-    name: "Plecotus ognevi"
-    common_name: "Plecotus_ognevi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_sacrimontis.cs"
-    name: "Plecotus sacrimontis"
-    common_name: "Plecotus_sacrimontis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_sardus.cs"
-    name: "Plecotus sardus"
-    common_name: "Plecotus_sardus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_sp.cs"
-    name: "Plecotus sp."
-    common_name: "Plecotus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_sp_JJJ_2003.cs"
-    name: "Plecotus sp. JJJ-2003"
-    common_name: "Plecotus_sp_JJJ_2003"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_sp_MIBZPL00262.cs"
-    name: "Plecotus sp. MIBZPL00262"
-    common_name: "Plecotus_sp_MIBZPL00262"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_sp_MIBZPL00265.cs"
-    name: "Plecotus sp. MIBZPL00265"
-    common_name: "Plecotus_sp_MIBZPL00265"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Plecotus_sp_MIBZPL00268.cs"
-    name: "Plecotus sp. MIBZPL00268"
-    common_name: "Plecotus_sp_MIBZPL00268"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Plecotus_auritus:
+    common_name: Plecotus_auritus
+    conservation: UK
+  Plecotus_austriacus:
+    common_name: Plecotus_austriacus
+    conservation: UK
+  Plecotus_balensis:
+    common_name: Plecotus_balensis
+    conservation: UK
+  Plecotus_cf_kolombatovici:
+    common_name: Plecotus_cf_kolombatovici
+    conservation: UK
+  Plecotus_cf_kozlovi:
+    common_name: Plecotus_cf_kozlovi
+    conservation: UK
+  Plecotus_christii:
+    common_name: Plecotus_christii
+    conservation: UK
+  Plecotus_gaisleri:
+    common_name: Plecotus_gaisleri
+    conservation: UK
+  Plecotus_gobiensis:
+    common_name: Plecotus_gobiensis
+    conservation: UK
+  Plecotus_homochrous:
+    common_name: Plecotus_homochrous
+    conservation: UK
+  Plecotus_kolombatovici:
+    common_name: Plecotus_kolombatovici
+    conservation: UK
+  Plecotus_kozlovi:
+    common_name: Plecotus_kozlovi
+    conservation: UK
+  Plecotus_macrobullaris:
+    common_name: Plecotus_macrobullaris
+    conservation: UK
+  Plecotus_ognevi:
+    common_name: Plecotus_ognevi
+    conservation: UK
+  Plecotus_sacrimontis:
+    common_name: Plecotus_sacrimontis
+    conservation: UK
+  Plecotus_sardus:
+    common_name: Plecotus_sardus
+    conservation: UK
+  Plecotus_sp:
+    common_name: Plecotus_sp
+    conservation: UK
+  Plecotus_sp_JJJ_2003:
+    common_name: Plecotus_sp_JJJ_2003
+    conservation: UK
+  Plecotus_sp_MIBZPL00262:
+    common_name: Plecotus_sp_MIBZPL00262
+    conservation: UK
+  Plecotus_sp_MIBZPL00265:
+    common_name: Plecotus_sp_MIBZPL00265
+    conservation: UK
+  Plecotus_sp_MIBZPL00268:
+    common_name: Plecotus_sp_MIBZPL00268
+    conservation: UK
 ---
-
 # Plecotus
 
 Genus containing 29 species.

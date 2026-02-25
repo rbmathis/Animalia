@@ -1,30 +1,21 @@
 ---
-title: "Desmodillus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["desmodillus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 298895
-parent: "../breadcrumb.md"
+title: Desmodillus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [desmodillus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Desmodillus_auricularis.cs"
-    name: "Desmodillus auricularis"
-    common_name: "Desmodillus_auricularis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Desmodillus_auricularis:
+    common_name: Desmodillus_auricularis
+    conservation: UK
 ---
-
 # Desmodillus
 
 Genus containing 1 species.

@@ -1,30 +1,21 @@
 ---
-title: "Burramys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["burramys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cercartetus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 38599
-parent: "../breadcrumb.md"
+title: Burramys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [burramys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cercartetus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Burramys_parvus.cs"
-    name: "Burramys parvus"
-    common_name: "Burramys_parvus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Burramys_parvus:
+    common_name: Burramys_parvus
+    conservation: UK
 ---
-
 # Burramys
 
 Genus containing 1 species.

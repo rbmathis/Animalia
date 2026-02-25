@@ -1,50 +1,33 @@
 ---
-title: "Pseudochirops"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["pseudochirops", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Hemibelideus/breadcrumb.md", "../Petauroides/breadcrumb.md", "../Pseudocheirus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 37890
-parent: "../breadcrumb.md"
+title: Pseudochirops
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [pseudochirops, genus]
+status: Living
+updated: 2026-02-23
+related: [../Hemibelideus/breadcrumb.md, ../Petauroides/breadcrumb.md, ../Pseudocheirus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Pseudochirops_albertisii.cs"
-    name: "Pseudochirops albertisii"
-    common_name: "Pseudochirops_albertisii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudochirops_archeri.cs"
-    name: "Pseudochirops archeri"
-    common_name: "Pseudochirops_archeri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudochirops_corinnae.cs"
-    name: "Pseudochirops corinnae"
-    common_name: "Pseudochirops_corinnae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudochirops_cupreus.cs"
-    name: "Pseudochirops cupreus"
-    common_name: "Pseudochirops_cupreus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Pseudochirops_dahlii.cs"
-    name: "Pseudochirops dahlii"
-    common_name: "Pseudochirops_dahlii"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Pseudochirops_albertisii:
+    common_name: Pseudochirops_albertisii
+    conservation: UK
+  Pseudochirops_archeri:
+    common_name: Pseudochirops_archeri
+    conservation: UK
+  Pseudochirops_corinnae:
+    common_name: Pseudochirops_corinnae
+    conservation: UK
+  Pseudochirops_cupreus:
+    common_name: Pseudochirops_cupreus
+    conservation: UK
+  Pseudochirops_dahlii:
+    common_name: Pseudochirops_dahlii
+    conservation: UK
 ---
-
 # Pseudochirops
 
 Genus containing 5 species.

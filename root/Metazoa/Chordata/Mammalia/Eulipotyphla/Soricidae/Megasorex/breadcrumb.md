@@ -1,30 +1,21 @@
 ---
-title: "Megasorex"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["megasorex", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 268774
-parent: "../breadcrumb.md"
+title: Megasorex
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [megasorex, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Megasorex_gigas.cs"
-    name: "Megasorex gigas"
-    common_name: "Megasorex_gigas"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Megasorex_gigas:
+    common_name: Megasorex_gigas
+    conservation: UK
 ---
-
 # Megasorex
 
 Genus containing 1 species.

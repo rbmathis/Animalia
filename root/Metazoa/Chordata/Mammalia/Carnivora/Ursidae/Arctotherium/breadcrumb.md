@@ -1,31 +1,22 @@
 ---
-title: "Arctotherium"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["arctotherium", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ailuropoda/breadcrumb.md", "../Arctodus/breadcrumb.md", "../Helarctos/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1825729
-parent: "../breadcrumb.md"
+title: Arctotherium
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [arctotherium, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ailuropoda/breadcrumb.md, ../Arctodus/breadcrumb.md, ../Helarctos/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Arctotherium_sp.cs"
-    name: "Arctotherium sp."
-    common_name: "Arctotherium_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Arctotherium_sp:
+    common_name: Arctotherium_sp
+    conservation: UK
 ---
-
 # Arctotherium
 
 Genus containing 1 species.

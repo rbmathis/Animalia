@@ -1,30 +1,21 @@
 ---
-title: "Dasykaluta"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["dasykaluta", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antechinomys/breadcrumb.md", "../Antechinus/breadcrumb.md", "../Dasycercus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9286
-parent: "../breadcrumb.md"
+title: Dasykaluta
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [dasykaluta, genus]
+status: Living
+updated: 2026-02-23
+related: [../Antechinomys/breadcrumb.md, ../Antechinus/breadcrumb.md, ../Dasycercus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dasykaluta_rosamondae.cs"
-    name: "Dasykaluta rosamondae"
-    common_name: "Dasykaluta_rosamondae"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dasykaluta_rosamondae:
+    common_name: Dasykaluta_rosamondae
+    conservation: UK
 ---
-
 # Dasykaluta
 
 Genus containing 1 species.

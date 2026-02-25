@@ -1,41 +1,28 @@
 ---
-title: "Kunsia"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["kunsia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 89120
-parent: "../breadcrumb.md"
+title: Kunsia
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [kunsia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Kunsia_sp_ULB_2015a.cs"
-    name: "Kunsia sp. ULB-2015a"
-    common_name: "Kunsia_sp_ULB_2015a"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kunsia_sp_ULB_2015b.cs"
-    name: "Kunsia sp. ULB-2015b"
-    common_name: "Kunsia_sp_ULB_2015b"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kunsia_tomentosus.cs"
-    name: "Kunsia tomentosus"
-    common_name: "Kunsia_tomentosus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Kunsia_sp_ULB_2015a:
+    common_name: Kunsia_sp_ULB_2015a
+    conservation: UK
+  Kunsia_sp_ULB_2015b:
+    common_name: Kunsia_sp_ULB_2015b
+    conservation: UK
+  Kunsia_tomentosus:
+    common_name: Kunsia_tomentosus
+    conservation: UK
 ---
-
 # Kunsia
 
 Genus containing 3 species.

@@ -1,46 +1,31 @@
 ---
-title: "Lama"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["lama", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Camelops/breadcrumb.md", "../Camelus/breadcrumb.md", "../Vicugna/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9839
-parent: "../breadcrumb.md"
+title: Lama
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [lama, genus]
+status: Living
+updated: 2026-02-23
+related: [../Camelops/breadcrumb.md, ../Camelus/breadcrumb.md, ../Vicugna/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Lama_glama.cs"
-    name: "Lama glama"
-    common_name: "Lama_glama"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lama_glama_x_Lama_guanicoe.cs"
-    name: "Lama glama x Lama guanicoe"
-    common_name: "Lama_glama_x_Lama_guanicoe"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lama_guanicoe.cs"
-    name: "Lama guanicoe"
-    common_name: "Lama_guanicoe"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Lama_sp.cs"
-    name: "Lama sp."
-    common_name: "Lama_sp"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Lama_glama:
+    common_name: Lama_glama
+    conservation: UK
+  Lama_glama_x_Lama_guanicoe:
+    common_name: Lama_glama_x_Lama_guanicoe
+    conservation: UK
+  Lama_guanicoe:
+    common_name: Lama_guanicoe
+    conservation: UK
+  Lama_sp:
+    common_name: Lama_sp
+    conservation: UK
 ---
-
 # Lama
 
 Genus containing 4 species.

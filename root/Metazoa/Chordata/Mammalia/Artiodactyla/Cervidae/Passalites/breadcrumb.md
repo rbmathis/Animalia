@@ -1,30 +1,21 @@
 ---
-title: "Passalites"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["passalites", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Alces/breadcrumb.md", "../Axis/breadcrumb.md", "../Bisbalus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3060158
-parent: "../breadcrumb.md"
+title: Passalites
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [passalites, genus]
+status: Living
+updated: 2026-02-23
+related: [../Alces/breadcrumb.md, ../Axis/breadcrumb.md, ../Bisbalus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Passalites_nemorivagus.cs"
-    name: "Passalites nemorivagus"
-    common_name: "Passalites_nemorivagus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Passalites_nemorivagus:
+    common_name: Passalites_nemorivagus
+    conservation: UK
 ---
-
 # Passalites
 
 Genus containing 1 species.

@@ -1,30 +1,21 @@
 ---
-title: "Cephalophula"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["cephalophula", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3033999
-parent: "../breadcrumb.md"
+title: Cephalophula
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [cephalophula, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cephalophula_zebra.cs"
-    name: "Cephalophula zebra"
-    common_name: "Cephalophula_zebra"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cephalophula_zebra:
+    common_name: Cephalophula_zebra
+    conservation: UK
 ---
-
 # Cephalophula
 
 Genus containing 1 species.

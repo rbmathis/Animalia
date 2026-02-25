@@ -1,35 +1,24 @@
 ---
-title: "Phataginus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["phataginus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Manis/breadcrumb.md", "../Smutsia/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2736678
-parent: "../breadcrumb.md"
+title: Phataginus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [phataginus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Manis/breadcrumb.md, ../Smutsia/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Phataginus_tetradactyla.cs"
-    name: "Phataginus tetradactyla"
-    common_name: "Phataginus_tetradactyla"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Phataginus_tricuspis.cs"
-    name: "Phataginus tricuspis"
-    common_name: "Phataginus_tricuspis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Phataginus_tetradactyla:
+    common_name: Phataginus_tetradactyla
+    conservation: UK
+  Phataginus_tricuspis:
+    common_name: Phataginus_tricuspis
+    conservation: UK
 ---
-
 # Phataginus
 
 Genus containing 2 species.

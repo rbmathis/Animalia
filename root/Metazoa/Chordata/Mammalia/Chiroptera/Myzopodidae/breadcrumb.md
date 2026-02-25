@@ -1,28 +1,19 @@
 ---
-title: "Myzopodidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["myzopodidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cistugidae/breadcrumb.md", "../Craseonycteridae/breadcrumb.md", "../Emballonuridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 155036
-parent: "../breadcrumb.md"
+title: Myzopodidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [myzopodidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Cistugidae/breadcrumb.md, ../Craseonycteridae/breadcrumb.md, ../Emballonuridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Myzopoda/breadcrumb.md"
-    name: "Myzopoda"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Myzopoda]
 ---
-
 # Myzopodidae
 
 Family containing 1 genera.

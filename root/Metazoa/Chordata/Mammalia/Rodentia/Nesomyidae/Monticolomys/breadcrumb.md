@@ -1,46 +1,31 @@
 ---
-title: "Monticolomys"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["monticolomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Beamys/breadcrumb.md", "../Brachytarsomys/breadcrumb.md", "../Brachyuromys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 108518
-parent: "../breadcrumb.md"
+title: Monticolomys
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [monticolomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Beamys/breadcrumb.md, ../Brachytarsomys/breadcrumb.md, ../Brachyuromys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Monticolomys_koopmani.cs"
-    name: "Monticolomys koopmani"
-    common_name: "Monticolomys_koopmani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monticolomys_sp_AMCC103578.cs"
-    name: "Monticolomys sp. AMCC103578"
-    common_name: "Monticolomys_sp_AMCC103578"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monticolomys_sp_MF_2019.cs"
-    name: "Monticolomys sp. MF-2019"
-    common_name: "Monticolomys_sp_MF_2019"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Monticolomys_sp_SJS_2017.cs"
-    name: "Monticolomys sp. SJS-2017"
-    common_name: "Monticolomys_sp_SJS_2017"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Monticolomys_koopmani:
+    common_name: Monticolomys_koopmani
+    conservation: UK
+  Monticolomys_sp_AMCC103578:
+    common_name: Monticolomys_sp_AMCC103578
+    conservation: UK
+  Monticolomys_sp_MF_2019:
+    common_name: Monticolomys_sp_MF_2019
+    conservation: UK
+  Monticolomys_sp_SJS_2017:
+    common_name: Monticolomys_sp_SJS_2017
+    conservation: UK
 ---
-
 # Monticolomys
 
 Genus containing 4 species.

@@ -1,126 +1,79 @@
 ---
-title: "Maxomys"
-description: "Genus containing 28 species."
-category: "taxonomy/genus"
-tags: ["maxomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 69080
-parent: "../breadcrumb.md"
+title: Maxomys
+description: Genus containing 28 species.
+category: taxonomy/genus
+tags: [maxomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 28
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Maxomys_alticola.cs"
-    name: "Maxomys alticola"
-    common_name: "Maxomys_alticola"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_baeodon.cs"
-    name: "Maxomys baeodon"
-    common_name: "Maxomys_baeodon"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_bartelsii.cs"
-    name: "Maxomys bartelsii"
-    common_name: "Maxomys_bartelsii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_cf_hellwaldi_KCR_2014.cs"
-    name: "Maxomys cf. hellwaldi KCR-2014"
-    common_name: "Maxomys_cf_hellwaldi_KCR_2014"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_cf_hellwaldii_JAE_2013.cs"
-    name: "Maxomys cf. hellwaldii JAE-2013"
-    common_name: "Maxomys_cf_hellwaldii_JAE_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_dollmani.cs"
-    name: "Maxomys dollmani"
-    common_name: "Maxomys_dollmani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_hellwaldii.cs"
-    name: "Maxomys hellwaldii"
-    common_name: "Maxomys_hellwaldii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_hylomyoides.cs"
-    name: "Maxomys hylomyoides"
-    common_name: "Maxomys_hylomyoides"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_inas.cs"
-    name: "Maxomys inas"
-    common_name: "Maxomys_inas"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_inflatus.cs"
-    name: "Maxomys inflatus"
-    common_name: "Maxomys_inflatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_moi.cs"
-    name: "Maxomys moi"
-    common_name: "Maxomys_moi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_musschenbroekii.cs"
-    name: "Maxomys musschenbroekii"
-    common_name: "Maxomys_musschenbroekii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_ochraceiventer.cs"
-    name: "Maxomys ochraceiventer"
-    common_name: "Maxomys_ochraceiventer"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_pagensis.cs"
-    name: "Maxomys pagensis"
-    common_name: "Maxomys_pagensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_panglima.cs"
-    name: "Maxomys panglima"
-    common_name: "Maxomys_panglima"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_rajah.cs"
-    name: "Maxomys rajah"
-    common_name: "Maxomys_rajah"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_sp_1_JAE_2013.cs"
-    name: "Maxomys sp. 1 JAE-2013"
-    common_name: "Maxomys_sp_1_JAE_2013"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_sp_1_MP_2010.cs"
-    name: "Maxomys sp. 1 MP-2010"
-    common_name: "Maxomys_sp_1_MP_2010"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_sp_AG_2024.cs"
-    name: "Maxomys sp. AG-2024"
-    common_name: "Maxomys_sp_AG_2024"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Maxomys_sp_ASA_2010.cs"
-    name: "Maxomys sp. ASA-2010"
-    common_name: "Maxomys_sp_ASA_2010"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Maxomys_alticola:
+    common_name: Maxomys_alticola
+    conservation: UK
+  Maxomys_baeodon:
+    common_name: Maxomys_baeodon
+    conservation: UK
+  Maxomys_bartelsii:
+    common_name: Maxomys_bartelsii
+    conservation: UK
+  Maxomys_cf_hellwaldi_KCR_2014:
+    common_name: Maxomys_cf_hellwaldi_KCR_2014
+    conservation: UK
+  Maxomys_cf_hellwaldii_JAE_2013:
+    common_name: Maxomys_cf_hellwaldii_JAE_2013
+    conservation: UK
+  Maxomys_dollmani:
+    common_name: Maxomys_dollmani
+    conservation: UK
+  Maxomys_hellwaldii:
+    common_name: Maxomys_hellwaldii
+    conservation: UK
+  Maxomys_hylomyoides:
+    common_name: Maxomys_hylomyoides
+    conservation: UK
+  Maxomys_inas:
+    common_name: Maxomys_inas
+    conservation: UK
+  Maxomys_inflatus:
+    common_name: Maxomys_inflatus
+    conservation: UK
+  Maxomys_moi:
+    common_name: Maxomys_moi
+    conservation: UK
+  Maxomys_musschenbroekii:
+    common_name: Maxomys_musschenbroekii
+    conservation: UK
+  Maxomys_ochraceiventer:
+    common_name: Maxomys_ochraceiventer
+    conservation: UK
+  Maxomys_pagensis:
+    common_name: Maxomys_pagensis
+    conservation: UK
+  Maxomys_panglima:
+    common_name: Maxomys_panglima
+    conservation: UK
+  Maxomys_rajah:
+    common_name: Maxomys_rajah
+    conservation: UK
+  Maxomys_sp_1_JAE_2013:
+    common_name: Maxomys_sp_1_JAE_2013
+    conservation: UK
+  Maxomys_sp_1_MP_2010:
+    common_name: Maxomys_sp_1_MP_2010
+    conservation: UK
+  Maxomys_sp_AG_2024:
+    common_name: Maxomys_sp_AG_2024
+    conservation: UK
+  Maxomys_sp_ASA_2010:
+    common_name: Maxomys_sp_ASA_2010
+    conservation: UK
 ---
-
 # Maxomys
 
 Genus containing 28 species.

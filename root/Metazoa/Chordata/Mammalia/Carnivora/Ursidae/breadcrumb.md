@@ -1,40 +1,19 @@
 ---
-title: "Ursidae (Bear Family)"
-description: "Family containing 7 genera."
-category: "taxonomy/family"
-tags: ["ursidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ailuridae/breadcrumb.md", "../Canidae/breadcrumb.md", "../Eupleridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9632
-parent: "../breadcrumb.md"
+title: Ursidae (Bear Family)
+description: Family containing 7 genera.
+category: taxonomy/family
+tags: [ursidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Ailuridae/breadcrumb.md, ../Canidae/breadcrumb.md, ../Eupleridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 7
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Ailuropoda/breadcrumb.md"
-    name: "Ailuropoda"
-  - path: "Arctodus/breadcrumb.md"
-    name: "Arctodus"
-  - path: "Arctotherium/breadcrumb.md"
-    name: "Arctotherium"
-  - path: "Helarctos/breadcrumb.md"
-    name: "Helarctos"
-  - path: "Melursus/breadcrumb.md"
-    name: "Melursus"
-  - path: "Tremarctos/breadcrumb.md"
-    name: "Tremarctos"
-  - path: "Ursus/breadcrumb.md"
-    name: "Ursus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Ailuropoda, Arctodus, Arctotherium, Helarctos, Melursus, Tremarctos, Ursus]
 ---
-
 # Ursidae (Bear Family)
 
 Family containing 7 genera.

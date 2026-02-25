@@ -1,30 +1,21 @@
 ---
-title: "Paynomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["paynomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2819014
-parent: "../breadcrumb.md"
+title: Paynomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [paynomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Paynomys_macronyx.cs"
-    name: "Paynomys macronyx"
-    common_name: "Paynomys_macronyx"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Paynomys_macronyx:
+    common_name: Paynomys_macronyx
+    conservation: UK
 ---
-
 # Paynomys
 
 Genus containing 1 species.

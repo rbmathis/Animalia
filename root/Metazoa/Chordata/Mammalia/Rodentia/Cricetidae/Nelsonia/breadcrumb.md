@@ -1,35 +1,24 @@
 ---
-title: "Nelsonia"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["nelsonia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 56224
-parent: "../breadcrumb.md"
+title: Nelsonia
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [nelsonia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Nelsonia_goldmani.cs"
-    name: "Nelsonia goldmani"
-    common_name: "Nelsonia_goldmani"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nelsonia_neotomodon.cs"
-    name: "Nelsonia neotomodon"
-    common_name: "Nelsonia_neotomodon"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Nelsonia_goldmani:
+    common_name: Nelsonia_goldmani
+    conservation: UK
+  Nelsonia_neotomodon:
+    common_name: Nelsonia_neotomodon
+    conservation: UK
 ---
-
 # Nelsonia
 
 Genus containing 2 species.

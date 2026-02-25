@@ -1,50 +1,33 @@
 ---
-title: "Funambulus"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["funambulus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 64675
-parent: "../breadcrumb.md"
+title: Funambulus
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [funambulus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Funambulus_layardi.cs"
-    name: "Funambulus layardi"
-    common_name: "Funambulus_layardi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funambulus_palmarum.cs"
-    name: "Funambulus palmarum"
-    common_name: "Funambulus_palmarum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funambulus_pennantii.cs"
-    name: "Funambulus pennantii"
-    common_name: "Funambulus_pennantii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funambulus_sublineatus.cs"
-    name: "Funambulus sublineatus"
-    common_name: "Funambulus_sublineatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Funambulus_tristriatus.cs"
-    name: "Funambulus tristriatus"
-    common_name: "Funambulus_tristriatus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Funambulus_layardi:
+    common_name: Funambulus_layardi
+    conservation: UK
+  Funambulus_palmarum:
+    common_name: Funambulus_palmarum
+    conservation: UK
+  Funambulus_pennantii:
+    common_name: Funambulus_pennantii
+    conservation: UK
+  Funambulus_sublineatus:
+    common_name: Funambulus_sublineatus
+    conservation: UK
+  Funambulus_tristriatus:
+    common_name: Funambulus_tristriatus
+    conservation: UK
 ---
-
 # Funambulus
 
 Genus containing 5 species.

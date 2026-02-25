@@ -1,30 +1,21 @@
 ---
-title: "Leptomys"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["leptomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 442571
-parent: "../breadcrumb.md"
+title: Leptomys
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [leptomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Leptomys_elegans.cs"
-    name: "Leptomys elegans"
-    common_name: "Leptomys_elegans"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Leptomys_elegans:
+    common_name: Leptomys_elegans
+    conservation: UK
 ---
-
 # Leptomys
 
 Genus containing 1 species.

@@ -1,30 +1,21 @@
 ---
-title: "Dugong"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["dugong", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Hydrodamalis/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 29136
-parent: "../breadcrumb.md"
+title: Dugong
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [dugong, genus]
+status: Living
+updated: 2026-02-23
+related: [../Hydrodamalis/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Dugong_dugon.cs"
-    name: "Dugong dugon"
-    common_name: "Dugong_dugon"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Dugong_dugon:
+    common_name: Dugong_dugon
+    conservation: UK
 ---
-
 # Dugong
 
 Genus containing 1 species.

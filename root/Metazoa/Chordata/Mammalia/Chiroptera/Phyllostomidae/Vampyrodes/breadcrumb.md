@@ -1,35 +1,24 @@
 ---
-title: "Vampyrodes"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["vampyrodes", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ametrida/breadcrumb.md", "../Anoura/breadcrumb.md", "../Ardops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 148032
-parent: "../breadcrumb.md"
+title: Vampyrodes
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [vampyrodes, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ametrida/breadcrumb.md, ../Anoura/breadcrumb.md, ../Ardops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Vampyrodes_caraccioli.cs"
-    name: "Vampyrodes caraccioli"
-    common_name: "Vampyrodes_caraccioli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Vampyrodes_major.cs"
-    name: "Vampyrodes major"
-    common_name: "Vampyrodes_major"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Vampyrodes_caraccioli:
+    common_name: Vampyrodes_caraccioli
+    conservation: UK
+  Vampyrodes_major:
+    common_name: Vampyrodes_major
+    conservation: UK
 ---
-
 # Vampyrodes
 
 Genus containing 2 species.

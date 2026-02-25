@@ -1,75 +1,48 @@
 ---
-title: "Laephotis"
-description: "Genus containing 10 species."
-category: "taxonomy/genus"
-tags: ["laephotis", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 258926
-parent: "../breadcrumb.md"
+title: Laephotis
+description: Genus containing 10 species.
+category: taxonomy/genus
+tags: [laephotis, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 10
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Laephotis_angolensis.cs"
-    name: "Laephotis angolensis"
-    common_name: "Laephotis_angolensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Laephotis_capensis.cs"
-    name: "Laephotis capensis"
-    common_name: "Laephotis_capensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Laephotis_cf_kirinyaga.cs"
-    name: "Laephotis cf. kirinyaga"
-    common_name: "Laephotis_cf_kirinyaga"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Laephotis_kirinyaga.cs"
-    name: "Laephotis kirinyaga"
-    common_name: "Laephotis_kirinyaga"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Laephotis_malagasyensis.cs"
-    name: "Laephotis malagasyensis"
-    common_name: "Laephotis_malagasyensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Laephotis_matroka.cs"
-    name: "Laephotis matroka"
-    common_name: "Laephotis_matroka"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Laephotis_namibensis.cs"
-    name: "Laephotis namibensis"
-    common_name: "Laephotis_namibensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Laephotis_robertsi.cs"
-    name: "Laephotis robertsi"
-    common_name: "Laephotis_robertsi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Laephotis_stanleyi.cs"
-    name: "Laephotis stanleyi"
-    common_name: "Laephotis_stanleyi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Laephotis_wintoni.cs"
-    name: "Laephotis wintoni"
-    common_name: "Laephotis_wintoni"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Laephotis_angolensis:
+    common_name: Laephotis_angolensis
+    conservation: UK
+  Laephotis_capensis:
+    common_name: Laephotis_capensis
+    conservation: UK
+  Laephotis_cf_kirinyaga:
+    common_name: Laephotis_cf_kirinyaga
+    conservation: UK
+  Laephotis_kirinyaga:
+    common_name: Laephotis_kirinyaga
+    conservation: UK
+  Laephotis_malagasyensis:
+    common_name: Laephotis_malagasyensis
+    conservation: UK
+  Laephotis_matroka:
+    common_name: Laephotis_matroka
+    conservation: UK
+  Laephotis_namibensis:
+    common_name: Laephotis_namibensis
+    conservation: UK
+  Laephotis_robertsi:
+    common_name: Laephotis_robertsi
+    conservation: UK
+  Laephotis_stanleyi:
+    common_name: Laephotis_stanleyi
+    conservation: UK
+  Laephotis_wintoni:
+    common_name: Laephotis_wintoni
+    conservation: UK
 ---
-
 # Laephotis
 
 Genus containing 10 species.

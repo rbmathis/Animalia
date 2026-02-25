@@ -1,76 +1,49 @@
 ---
-title: "Euryoryzomys"
-description: "Genus containing 10 species."
-category: "taxonomy/genus"
-tags: ["euryoryzomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 511942
-parent: "../breadcrumb.md"
+title: Euryoryzomys
+description: Genus containing 10 species.
+category: taxonomy/genus
+tags: [euryoryzomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 10
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Euryoryzomys_emmonsae.cs"
-    name: "Euryoryzomys emmonsae"
-    common_name: "Euryoryzomys_emmonsae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Euryoryzomys_lamia.cs"
-    name: "Euryoryzomys lamia"
-    common_name: "Euryoryzomys_lamia"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Euryoryzomys_legatus.cs"
-    name: "Euryoryzomys legatus"
-    common_name: "Euryoryzomys_legatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Euryoryzomys_macconnelli.cs"
-    name: "Euryoryzomys macconnelli"
-    common_name: "Euryoryzomys_macconnelli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Euryoryzomys_nitidus.cs"
-    name: "Euryoryzomys nitidus"
-    common_name: "Euryoryzomys_nitidus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Euryoryzomys_russatus.cs"
-    name: "Euryoryzomys russatus"
-    common_name: "Euryoryzomys_russatus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Euryoryzomys_sp.cs"
-    name: "Euryoryzomys sp."
-    common_name: "Euryoryzomys_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Euryoryzomys_sp_ALA_2015.cs"
-    name: "Euryoryzomys sp. ALA-2015"
-    common_name: "Euryoryzomys_sp_ALA_2015"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Euryoryzomys_sp_MTR046.cs"
-    name: "Euryoryzomys sp. MTR046"
-    common_name: "Euryoryzomys_sp_MTR046"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Euryoryzomys_sp_MTR048.cs"
-    name: "Euryoryzomys sp. MTR048"
-    common_name: "Euryoryzomys_sp_MTR048"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Euryoryzomys_emmonsae:
+    common_name: Euryoryzomys_emmonsae
+    conservation: UK
+  Euryoryzomys_lamia:
+    common_name: Euryoryzomys_lamia
+    conservation: UK
+  Euryoryzomys_legatus:
+    common_name: Euryoryzomys_legatus
+    conservation: UK
+  Euryoryzomys_macconnelli:
+    common_name: Euryoryzomys_macconnelli
+    conservation: UK
+  Euryoryzomys_nitidus:
+    common_name: Euryoryzomys_nitidus
+    conservation: UK
+  Euryoryzomys_russatus:
+    common_name: Euryoryzomys_russatus
+    conservation: UK
+  Euryoryzomys_sp:
+    common_name: Euryoryzomys_sp
+    conservation: UK
+  Euryoryzomys_sp_ALA_2015:
+    common_name: Euryoryzomys_sp_ALA_2015
+    conservation: UK
+  Euryoryzomys_sp_MTR046:
+    common_name: Euryoryzomys_sp_MTR046
+    conservation: UK
+  Euryoryzomys_sp_MTR048:
+    common_name: Euryoryzomys_sp_MTR048
+    conservation: UK
 ---
-
 # Euryoryzomys
 
 Genus containing 10 species.

@@ -1,28 +1,19 @@
 ---
-title: "Eschrichtiidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["eschrichtiidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antilocapridae/breadcrumb.md", "../Balaenidae/breadcrumb.md", "../Balaenopteridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9762
-parent: "../breadcrumb.md"
+title: Eschrichtiidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [eschrichtiidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Antilocapridae/breadcrumb.md, ../Balaenidae/breadcrumb.md, ../Balaenopteridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Eschrichtius/breadcrumb.md"
-    name: "Eschrichtius"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Eschrichtius]
 ---
-
 # Eschrichtiidae
 
 Family containing 1 genera.

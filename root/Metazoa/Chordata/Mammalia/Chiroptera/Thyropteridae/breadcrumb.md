@@ -1,28 +1,19 @@
 ---
-title: "Thyropteridae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["thyropteridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cistugidae/breadcrumb.md", "../Craseonycteridae/breadcrumb.md", "../Emballonuridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 124757
-parent: "../breadcrumb.md"
+title: Thyropteridae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [thyropteridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Cistugidae/breadcrumb.md, ../Craseonycteridae/breadcrumb.md, ../Emballonuridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Thyroptera/breadcrumb.md"
-    name: "Thyroptera"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Thyroptera]
 ---
-
 # Thyropteridae
 
 Family containing 1 genera.

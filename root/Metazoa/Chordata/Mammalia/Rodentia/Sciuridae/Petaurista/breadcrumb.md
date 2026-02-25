@@ -1,91 +1,58 @@
 ---
-title: "Petaurista"
-description: "Genus containing 13 species."
-category: "taxonomy/genus"
-tags: ["petaurista", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 55155
-parent: "../breadcrumb.md"
+title: Petaurista
+description: Genus containing 13 species.
+category: taxonomy/genus
+tags: [petaurista, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 13
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Petaurista_albiventer.cs"
-    name: "Petaurista albiventer"
-    common_name: "Petaurista_albiventer"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurista_alborufus.cs"
-    name: "Petaurista alborufus"
-    common_name: "Petaurista_alborufus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurista_caniceps.cs"
-    name: "Petaurista caniceps"
-    common_name: "Petaurista_caniceps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurista_elegans.cs"
-    name: "Petaurista elegans"
-    common_name: "Petaurista_elegans"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurista_grandis.cs"
-    name: "Petaurista grandis"
-    common_name: "Petaurista_grandis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurista_hainana.cs"
-    name: "Petaurista hainana"
-    common_name: "Petaurista_hainana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurista_lena.cs"
-    name: "Petaurista lena"
-    common_name: "Petaurista_lena"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurista_leucogenys.cs"
-    name: "Petaurista leucogenys"
-    common_name: "Petaurista_leucogenys"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurista_petaurista.cs"
-    name: "Petaurista petaurista"
-    common_name: "Petaurista_petaurista"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurista_philippensis.cs"
-    name: "Petaurista philippensis"
-    common_name: "Petaurista_philippensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurista_sp.cs"
-    name: "Petaurista sp."
-    common_name: "Petaurista_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurista_xanthotis.cs"
-    name: "Petaurista xanthotis"
-    common_name: "Petaurista_xanthotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Petaurista_yunanensis.cs"
-    name: "Petaurista yunanensis"
-    common_name: "Petaurista_yunanensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Petaurista_albiventer:
+    common_name: Petaurista_albiventer
+    conservation: UK
+  Petaurista_alborufus:
+    common_name: Petaurista_alborufus
+    conservation: UK
+  Petaurista_caniceps:
+    common_name: Petaurista_caniceps
+    conservation: UK
+  Petaurista_elegans:
+    common_name: Petaurista_elegans
+    conservation: UK
+  Petaurista_grandis:
+    common_name: Petaurista_grandis
+    conservation: UK
+  Petaurista_hainana:
+    common_name: Petaurista_hainana
+    conservation: UK
+  Petaurista_lena:
+    common_name: Petaurista_lena
+    conservation: UK
+  Petaurista_leucogenys:
+    common_name: Petaurista_leucogenys
+    conservation: UK
+  Petaurista_petaurista:
+    common_name: Petaurista_petaurista
+    conservation: UK
+  Petaurista_philippensis:
+    common_name: Petaurista_philippensis
+    conservation: UK
+  Petaurista_sp:
+    common_name: Petaurista_sp
+    conservation: UK
+  Petaurista_xanthotis:
+    common_name: Petaurista_xanthotis
+    conservation: UK
+  Petaurista_yunanensis:
+    common_name: Petaurista_yunanensis
+    conservation: UK
 ---
-
 # Petaurista
 
 Genus containing 13 species.

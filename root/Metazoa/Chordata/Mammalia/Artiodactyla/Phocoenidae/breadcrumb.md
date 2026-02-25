@@ -1,32 +1,19 @@
 ---
-title: "Phocoenidae"
-description: "Family containing 3 genera."
-category: "taxonomy/family"
-tags: ["phocoenidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antilocapridae/breadcrumb.md", "../Balaenidae/breadcrumb.md", "../Balaenopteridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9740
-parent: "../breadcrumb.md"
+title: Phocoenidae
+description: Family containing 3 genera.
+category: taxonomy/family
+tags: [phocoenidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Antilocapridae/breadcrumb.md, ../Balaenidae/breadcrumb.md, ../Balaenopteridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 3
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Neophocaena/breadcrumb.md"
-    name: "Neophocaena"
-  - path: "Phocoena/breadcrumb.md"
-    name: "Phocoena"
-  - path: "Phocoenoides/breadcrumb.md"
-    name: "Phocoenoides"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Neophocaena, Phocoena, Phocoenoides]
 ---
-
 # Phocoenidae
 
 Family containing 3 genera.

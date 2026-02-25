@@ -1,67 +1,44 @@
 ---
-title: "Cavia"
-description: "Genus containing 8 species."
-category: "taxonomy/genus"
-tags: ["cavia", "genus", "has-pets"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dolichotis/breadcrumb.md", "../Galea/breadcrumb.md", "../Kerodon/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 10140
-parent: "../breadcrumb.md"
+title: Cavia
+description: Genus containing 8 species.
+category: taxonomy/genus
+tags: [cavia, genus, has-pets]
+status: Living
+updated: 2026-02-23
+related: [../Dolichotis/breadcrumb.md, ../Galea/breadcrumb.md, ../Kerodon/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 8
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Cavia_aperea.cs"
-    name: "Cavia aperea"
-    common_name: "Cavia_aperea"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cavia_cutleri.cs"
-    name: "Cavia cutleri"
-    common_name: "Cavia_cutleri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cavia_fulgida.cs"
-    name: "Cavia fulgida"
-    common_name: "Cavia_fulgida"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cavia_magna.cs"
-    name: "Cavia magna"
-    common_name: "Cavia_magna"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cavia_patzelti.cs"
-    name: "Cavia patzelti"
-    common_name: "Cavia_patzelti"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cavia_porcellus.cs"
-    name: "Cavia porcellus"
-    common_name: "Cavia_porcellus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Cavia_aperea:
+    common_name: Cavia_aperea
+    conservation: UK
+  Cavia_cutleri:
+    common_name: Cavia_cutleri
+    conservation: UK
+  Cavia_fulgida:
+    common_name: Cavia_fulgida
+    conservation: UK
+  Cavia_magna:
+    common_name: Cavia_magna
+    conservation: UK
+  Cavia_patzelti:
+    common_name: Cavia_patzelti
+    conservation: UK
+  Cavia_porcellus:
+    common_name: Cavia_porcellus
+    conservation: UK
     pet: true
-  - file: "Cavia_sp.cs"
-    name: "Cavia sp."
-    common_name: "Cavia_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Cavia_tschudii.cs"
-    name: "Cavia tschudii"
-    common_name: "Cavia_tschudii"
-    conservation: "Unknown"
-    enriched: false
+  Cavia_sp:
+    common_name: Cavia_sp
+    conservation: UK
+  Cavia_tschudii:
+    common_name: Cavia_tschudii
+    conservation: UK
 ---
-
 # Cavia
 
 Genus containing 8 species.

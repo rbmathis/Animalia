@@ -1,31 +1,22 @@
 ---
-title: "Scelidotherium"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["scelidotherium", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Glossotherium/breadcrumb.md", "../Mylodon/breadcrumb.md", "../Paramylodon/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2546654
-parent: "../breadcrumb.md"
+title: Scelidotherium
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [scelidotherium, genus]
+status: Living
+updated: 2026-02-23
+related: [../Glossotherium/breadcrumb.md, ../Mylodon/breadcrumb.md, ../Paramylodon/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Scelidotherium_sp_SLP_2019.cs"
-    name: "Scelidotherium sp. SLP-2019"
-    common_name: "Scelidotherium_sp_SLP_2019"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Scelidotherium_sp_SLP_2019:
+    common_name: Scelidotherium_sp_SLP_2019
+    conservation: UK
 ---
-
 # Scelidotherium
 
 Genus containing 1 species.

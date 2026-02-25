@@ -1,41 +1,28 @@
 ---
-title: "Parotomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["parotomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 121577
-parent: "../breadcrumb.md"
+title: Parotomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [parotomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Parotomys_brantsii.cs"
-    name: "Parotomys brantsii"
-    common_name: "Parotomys_brantsii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Parotomys_littledalei.cs"
-    name: "Parotomys littledalei"
-    common_name: "Parotomys_littledalei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Parotomys_sp_RMA_2005.cs"
-    name: "Parotomys sp. RMA-2005"
-    common_name: "Parotomys_sp_RMA_2005"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Parotomys_brantsii:
+    common_name: Parotomys_brantsii
+    conservation: UK
+  Parotomys_littledalei:
+    common_name: Parotomys_littledalei
+    conservation: UK
+  Parotomys_sp_RMA_2005:
+    common_name: Parotomys_sp_RMA_2005
+    conservation: UK
 ---
-
 # Parotomys
 
 Genus containing 3 species.

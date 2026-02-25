@@ -1,126 +1,79 @@
 ---
-title: "Graphiurus"
-description: "Genus containing 77 species."
-category: "taxonomy/genus"
-tags: ["graphiurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Dryomys/breadcrumb.md", "../Eliomys/breadcrumb.md", "../Glirulus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 51345
-parent: "../breadcrumb.md"
+title: Graphiurus
+description: Genus containing 77 species.
+category: taxonomy/genus
+tags: [graphiurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Dryomys/breadcrumb.md, ../Eliomys/breadcrumb.md, ../Glirulus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 77
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Graphiurus_cf_raptor_TZJA034.cs"
-    name: "Graphiurus cf. raptor TZJA034"
-    common_name: "Graphiurus_cf_raptor_TZJA034"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_kelleni.cs"
-    name: "Graphiurus kelleni"
-    common_name: "Graphiurus_kelleni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_lorraineus.cs"
-    name: "Graphiurus lorraineus"
-    common_name: "Graphiurus_lorraineus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_microtis.cs"
-    name: "Graphiurus microtis"
-    common_name: "Graphiurus_microtis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_murinus.cs"
-    name: "Graphiurus murinus"
-    common_name: "Graphiurus_murinus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_ocularis.cs"
-    name: "Graphiurus ocularis"
-    common_name: "Graphiurus_ocularis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_platyops.cs"
-    name: "Graphiurus platyops"
-    common_name: "Graphiurus_platyops"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_sp.cs"
-    name: "Graphiurus sp."
-    common_name: "Graphiurus_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_sp_09ZRD30.cs"
-    name: "Graphiurus sp. 09ZRD#30"
-    common_name: "Graphiurus_sp_09ZRD30"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_sp_AHxRLMar151.cs"
-    name: "Graphiurus sp. AHxRLMar151"
-    common_name: "Graphiurus_sp_AHxRLMar151"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_sp_ANG0007.cs"
-    name: "Graphiurus sp. ANG0007"
-    common_name: "Graphiurus_sp_ANG0007"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_sp_ANG0121.cs"
-    name: "Graphiurus sp. ANG0121"
-    common_name: "Graphiurus_sp_ANG0121"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_sp_ANG0122.cs"
-    name: "Graphiurus sp. ANG0122"
-    common_name: "Graphiurus_sp_ANG0122"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_sp_C_GM_2026.cs"
-    name: "Graphiurus sp. C GM-2026"
-    common_name: "Graphiurus_sp_C_GM_2026"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_sp_CMR1.cs"
-    name: "Graphiurus sp. CMR1"
-    common_name: "Graphiurus_sp_CMR1"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_sp_CMR17.cs"
-    name: "Graphiurus sp. CMR17"
-    common_name: "Graphiurus_sp_CMR17"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_sp_CMR19.cs"
-    name: "Graphiurus sp. CMR19"
-    common_name: "Graphiurus_sp_CMR19"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_sp_CMR21.cs"
-    name: "Graphiurus sp. CMR21"
-    common_name: "Graphiurus_sp_CMR21"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_sp_CMR5.cs"
-    name: "Graphiurus sp. CMR5"
-    common_name: "Graphiurus_sp_CMR5"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Graphiurus_sp_CMR6.cs"
-    name: "Graphiurus sp. CMR6"
-    common_name: "Graphiurus_sp_CMR6"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Graphiurus_cf_raptor_TZJA034:
+    common_name: Graphiurus_cf_raptor_TZJA034
+    conservation: UK
+  Graphiurus_kelleni:
+    common_name: Graphiurus_kelleni
+    conservation: UK
+  Graphiurus_lorraineus:
+    common_name: Graphiurus_lorraineus
+    conservation: UK
+  Graphiurus_microtis:
+    common_name: Graphiurus_microtis
+    conservation: UK
+  Graphiurus_murinus:
+    common_name: Graphiurus_murinus
+    conservation: UK
+  Graphiurus_ocularis:
+    common_name: Graphiurus_ocularis
+    conservation: UK
+  Graphiurus_platyops:
+    common_name: Graphiurus_platyops
+    conservation: UK
+  Graphiurus_sp:
+    common_name: Graphiurus_sp
+    conservation: UK
+  Graphiurus_sp_09ZRD30:
+    common_name: Graphiurus_sp_09ZRD30
+    conservation: UK
+  Graphiurus_sp_AHxRLMar151:
+    common_name: Graphiurus_sp_AHxRLMar151
+    conservation: UK
+  Graphiurus_sp_ANG0007:
+    common_name: Graphiurus_sp_ANG0007
+    conservation: UK
+  Graphiurus_sp_ANG0121:
+    common_name: Graphiurus_sp_ANG0121
+    conservation: UK
+  Graphiurus_sp_ANG0122:
+    common_name: Graphiurus_sp_ANG0122
+    conservation: UK
+  Graphiurus_sp_C_GM_2026:
+    common_name: Graphiurus_sp_C_GM_2026
+    conservation: UK
+  Graphiurus_sp_CMR1:
+    common_name: Graphiurus_sp_CMR1
+    conservation: UK
+  Graphiurus_sp_CMR17:
+    common_name: Graphiurus_sp_CMR17
+    conservation: UK
+  Graphiurus_sp_CMR19:
+    common_name: Graphiurus_sp_CMR19
+    conservation: UK
+  Graphiurus_sp_CMR21:
+    common_name: Graphiurus_sp_CMR21
+    conservation: UK
+  Graphiurus_sp_CMR5:
+    common_name: Graphiurus_sp_CMR5
+    conservation: UK
+  Graphiurus_sp_CMR6:
+    common_name: Graphiurus_sp_CMR6
+    conservation: UK
 ---
-
 # Graphiurus
 
 Genus containing 77 species.

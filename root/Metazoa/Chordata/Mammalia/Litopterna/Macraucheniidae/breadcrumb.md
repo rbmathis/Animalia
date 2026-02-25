@@ -1,28 +1,19 @@
 ---
-title: "Macraucheniidae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["macraucheniidae", "family"]
-status: "Living"
-updated: "2026-02-23"
+title: Macraucheniidae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [macraucheniidae, family]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 1563125
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Macrauchenia/breadcrumb.md"
-    name: "Macrauchenia"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Macrauchenia]
 ---
-
 # Macraucheniidae
 
 Family containing 1 genera.

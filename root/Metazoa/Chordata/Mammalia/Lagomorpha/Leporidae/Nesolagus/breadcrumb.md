@@ -1,51 +1,34 @@
 ---
-title: "Nesolagus"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["nesolagus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Brachylagus/breadcrumb.md", "../Bunolagus/breadcrumb.md", "../Caprolagus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 104113
-parent: "../breadcrumb.md"
+title: Nesolagus
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [nesolagus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Brachylagus/breadcrumb.md, ../Bunolagus/breadcrumb.md, ../Caprolagus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Nesolagus_netscheri.cs"
-    name: "Nesolagus netscheri"
-    common_name: "Nesolagus_netscheri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nesolagus_sp_WCSLAO0035.cs"
-    name: "Nesolagus sp. WCSLAO0035"
-    common_name: "Nesolagus_sp_WCSLAO0035"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nesolagus_sp_WCSLAO0036.cs"
-    name: "Nesolagus sp. WCSLAO0036"
-    common_name: "Nesolagus_sp_WCSLAO0036"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nesolagus_sp_WCSLAO0050.cs"
-    name: "Nesolagus sp. WCSLAO0050"
-    common_name: "Nesolagus_sp_WCSLAO0050"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Nesolagus_timminsi.cs"
-    name: "Nesolagus timminsi"
-    common_name: "Nesolagus_timminsi"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Nesolagus_netscheri:
+    common_name: Nesolagus_netscheri
+    conservation: UK
+  Nesolagus_sp_WCSLAO0035:
+    common_name: Nesolagus_sp_WCSLAO0035
+    conservation: UK
+  Nesolagus_sp_WCSLAO0036:
+    common_name: Nesolagus_sp_WCSLAO0036
+    conservation: UK
+  Nesolagus_sp_WCSLAO0050:
+    common_name: Nesolagus_sp_WCSLAO0050
+    conservation: UK
+  Nesolagus_timminsi:
+    common_name: Nesolagus_timminsi
+    conservation: UK
 ---
-
 # Nesolagus
 
 Genus containing 5 species.

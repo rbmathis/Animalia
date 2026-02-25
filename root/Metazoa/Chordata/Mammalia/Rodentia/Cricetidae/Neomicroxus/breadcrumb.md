@@ -1,30 +1,21 @@
 ---
-title: "Neomicroxus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["neomicroxus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 2833617
-parent: "../breadcrumb.md"
+title: Neomicroxus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [neomicroxus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Neomicroxus_bogotensis.cs"
-    name: "Neomicroxus bogotensis"
-    common_name: "Neomicroxus_bogotensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Neomicroxus_bogotensis:
+    common_name: Neomicroxus_bogotensis
+    conservation: UK
 ---
-
 # Neomicroxus
 
 Genus containing 1 species.

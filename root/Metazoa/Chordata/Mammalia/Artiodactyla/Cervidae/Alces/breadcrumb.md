@@ -1,35 +1,24 @@
 ---
-title: "Alces"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["alces", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Axis/breadcrumb.md", "../Bisbalus/breadcrumb.md", "../Blastocerus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9851
-parent: "../breadcrumb.md"
+title: Alces
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [alces, genus]
+status: Living
+updated: 2026-02-23
+related: [../Axis/breadcrumb.md, ../Bisbalus/breadcrumb.md, ../Blastocerus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Alces_alces.cs"
-    name: "Alces alces"
-    common_name: "Alces_alces"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Alces_americanus.cs"
-    name: "Alces americanus"
-    common_name: "Alces_americanus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Alces_alces:
+    common_name: Alces_alces
+    conservation: UK
+  Alces_americanus:
+    common_name: Alces_americanus
+    conservation: UK
 ---
-
 # Alces
 
 Genus containing 2 species.

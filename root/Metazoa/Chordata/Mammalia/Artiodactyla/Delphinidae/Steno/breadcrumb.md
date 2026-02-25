@@ -1,30 +1,21 @@
 ---
-title: "Steno"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["steno", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cephalorhynchus/breadcrumb.md", "../Delphinus/breadcrumb.md", "../Feresa/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 46166
-parent: "../breadcrumb.md"
+title: Steno
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [steno, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cephalorhynchus/breadcrumb.md, ../Delphinus/breadcrumb.md, ../Feresa/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Steno_bredanensis.cs"
-    name: "Steno bredanensis"
-    common_name: "Steno_bredanensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Steno_bredanensis:
+    common_name: Steno_bredanensis
+    conservation: UK
 ---
-
 # Steno
 
 Genus containing 1 species.

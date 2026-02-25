@@ -1,35 +1,24 @@
 ---
-title: "Miopithecus"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["miopithecus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Allenopithecus/breadcrumb.md", "../Allochrocebus/breadcrumb.md", "../Cercocebus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 36230
-parent: "../breadcrumb.md"
+title: Miopithecus
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [miopithecus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Allenopithecus/breadcrumb.md, ../Allochrocebus/breadcrumb.md, ../Cercocebus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Miopithecus_ogouensis.cs"
-    name: "Miopithecus ogouensis"
-    common_name: "Miopithecus_ogouensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Miopithecus_talapoin.cs"
-    name: "Miopithecus talapoin"
-    common_name: "Miopithecus_talapoin"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Miopithecus_ogouensis:
+    common_name: Miopithecus_ogouensis
+    conservation: UK
+  Miopithecus_talapoin:
+    common_name: Miopithecus_talapoin
+    conservation: UK
 ---
-
 # Miopithecus
 
 Genus containing 2 species.

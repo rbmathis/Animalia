@@ -1,30 +1,21 @@
 ---
-title: "Boselaphus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["boselaphus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9916
-parent: "../breadcrumb.md"
+title: Boselaphus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [boselaphus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Boselaphus_tragocamelus.cs"
-    name: "Boselaphus tragocamelus"
-    common_name: "Boselaphus_tragocamelus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Boselaphus_tragocamelus:
+    common_name: Boselaphus_tragocamelus
+    conservation: UK
 ---
-
 # Boselaphus
 
 Genus containing 1 species.

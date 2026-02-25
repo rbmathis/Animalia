@@ -1,35 +1,24 @@
 ---
-title: "Eidolon"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["eidolon", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Acerodon/breadcrumb.md", "../Aethalops/breadcrumb.md", "../Alionycteris/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 58062
-parent: "../breadcrumb.md"
+title: Eidolon
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [eidolon, genus]
+status: Living
+updated: 2026-02-23
+related: [../Acerodon/breadcrumb.md, ../Aethalops/breadcrumb.md, ../Alionycteris/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Eidolon_dupreanum.cs"
-    name: "Eidolon dupreanum"
-    common_name: "Eidolon_dupreanum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Eidolon_helvum.cs"
-    name: "Eidolon helvum"
-    common_name: "Eidolon_helvum"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Eidolon_dupreanum:
+    common_name: Eidolon_dupreanum
+    conservation: UK
+  Eidolon_helvum:
+    common_name: Eidolon_helvum
+    conservation: UK
 ---
-
 # Eidolon
 
 Genus containing 2 species.

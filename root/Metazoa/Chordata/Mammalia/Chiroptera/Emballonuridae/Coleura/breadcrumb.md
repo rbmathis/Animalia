@@ -1,40 +1,27 @@
 ---
-title: "Coleura"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["coleura", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Balantiopteryx/breadcrumb.md", "../Centronycteris/breadcrumb.md", "../Cormura/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 461397
-parent: "../breadcrumb.md"
+title: Coleura
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [coleura, genus]
+status: Living
+updated: 2026-02-23
+related: [../Balantiopteryx/breadcrumb.md, ../Centronycteris/breadcrumb.md, ../Cormura/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Coleura_afra.cs"
-    name: "Coleura afra"
-    common_name: "Coleura_afra"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Coleura_kibomalandy.cs"
-    name: "Coleura kibomalandy"
-    common_name: "Coleura_kibomalandy"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Coleura_seychellensis.cs"
-    name: "Coleura seychellensis"
-    common_name: "Coleura_seychellensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Coleura_afra:
+    common_name: Coleura_afra
+    conservation: UK
+  Coleura_kibomalandy:
+    common_name: Coleura_kibomalandy
+    conservation: UK
+  Coleura_seychellensis:
+    common_name: Coleura_seychellensis
+    conservation: UK
 ---
-
 # Coleura
 
 Genus containing 3 species.

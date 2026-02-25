@@ -1,51 +1,34 @@
 ---
-title: "Sundamys"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["sundamys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 83760
-parent: "../breadcrumb.md"
+title: Sundamys
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [sundamys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Sundamys_annandalei.cs"
-    name: "Sundamys annandalei"
-    common_name: "Sundamys_annandalei"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundamys_infraluteus.cs"
-    name: "Sundamys infraluteus"
-    common_name: "Sundamys_infraluteus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundamys_maxi.cs"
-    name: "Sundamys maxi"
-    common_name: "Sundamys_maxi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundamys_muelleri.cs"
-    name: "Sundamys muelleri"
-    common_name: "Sundamys_muelleri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Sundamys_sp_AG_2024.cs"
-    name: "Sundamys sp. AG-2024"
-    common_name: "Sundamys_sp_AG_2024"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Sundamys_annandalei:
+    common_name: Sundamys_annandalei
+    conservation: UK
+  Sundamys_infraluteus:
+    common_name: Sundamys_infraluteus
+    conservation: UK
+  Sundamys_maxi:
+    common_name: Sundamys_maxi
+    conservation: UK
+  Sundamys_muelleri:
+    common_name: Sundamys_muelleri
+    conservation: UK
+  Sundamys_sp_AG_2024:
+    common_name: Sundamys_sp_AG_2024
+    conservation: UK
 ---
-
 # Sundamys
 
 Genus containing 5 species.

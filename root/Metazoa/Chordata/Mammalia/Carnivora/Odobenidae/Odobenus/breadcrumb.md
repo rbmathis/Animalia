@@ -1,30 +1,21 @@
 ---
-title: "Odobenus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["odobenus", "genus"]
-status: "Living"
-updated: "2026-02-23"
+title: Odobenus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [odobenus, genus]
+status: Living
+updated: 2026-02-23
 related: []
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9706
-parent: "../breadcrumb.md"
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Odobenus_rosmarus.cs"
-    name: "Odobenus rosmarus"
-    common_name: "Odobenus_rosmarus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Odobenus_rosmarus:
+    common_name: Odobenus_rosmarus
+    conservation: UK
 ---
-
 # Odobenus
 
 Genus containing 1 species.

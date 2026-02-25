@@ -1,30 +1,21 @@
 ---
-title: "Rheithrosciurus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["rheithrosciurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 226834
-parent: "../breadcrumb.md"
+title: Rheithrosciurus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [rheithrosciurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rheithrosciurus_macrotis.cs"
-    name: "Rheithrosciurus macrotis"
-    common_name: "Rheithrosciurus_macrotis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rheithrosciurus_macrotis:
+    common_name: Rheithrosciurus_macrotis
+    conservation: UK
 ---
-
 # Rheithrosciurus
 
 Genus containing 1 species.

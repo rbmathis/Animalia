@@ -1,30 +1,21 @@
 ---
-title: "Micronomus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["micronomus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cheiromeles/breadcrumb.md", "../Cynomops/breadcrumb.md", "../Eumops/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3371053
-parent: "../breadcrumb.md"
+title: Micronomus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [micronomus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cheiromeles/breadcrumb.md, ../Cynomops/breadcrumb.md, ../Eumops/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Micronomus_norfolkensis.cs"
-    name: "Micronomus norfolkensis"
-    common_name: "Micronomus_norfolkensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Micronomus_norfolkensis:
+    common_name: Micronomus_norfolkensis
+    conservation: UK
 ---
-
 # Micronomus
 
 Genus containing 1 species.

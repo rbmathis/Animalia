@@ -1,40 +1,19 @@
 ---
-title: "Pitheciidae"
-description: "Family containing 7 genera."
-category: "taxonomy/family"
-tags: ["pitheciidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aotidae/breadcrumb.md", "../Atelidae/breadcrumb.md", "../Cebidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 376919
-parent: "../breadcrumb.md"
+title: Pitheciidae
+description: Family containing 7 genera.
+category: taxonomy/family
+tags: [pitheciidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Aotidae/breadcrumb.md, ../Atelidae/breadcrumb.md, ../Cebidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 7
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Cacajao/breadcrumb.md"
-    name: "Cacajao"
-  - path: "Callicebus/breadcrumb.md"
-    name: "Callicebus"
-  - path: "Cheracebus/breadcrumb.md"
-    name: "Cheracebus"
-  - path: "Chiropotes/breadcrumb.md"
-    name: "Chiropotes"
-  - path: "Pithecia/breadcrumb.md"
-    name: "Pithecia"
-  - path: "Plecturocebus/breadcrumb.md"
-    name: "Plecturocebus"
-  - path: "Xenothrix/breadcrumb.md"
-    name: "Xenothrix"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Cacajao, Callicebus, Cheracebus, Chiropotes, Pithecia, Plecturocebus, Xenothrix]
 ---
-
 # Pitheciidae
 
 Family containing 7 genera.

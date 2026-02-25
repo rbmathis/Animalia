@@ -1,41 +1,28 @@
 ---
-title: "Ototylomys"
-description: "Genus containing 3 species."
-category: "taxonomy/genus"
-tags: ["ototylomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 143266
-parent: "../breadcrumb.md"
+title: Ototylomys
+description: Genus containing 3 species.
+category: taxonomy/genus
+tags: [ototylomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 3
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Ototylomys_chiapensis.cs"
-    name: "Ototylomys chiapensis"
-    common_name: "Ototylomys_chiapensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ototylomys_phyllotis.cs"
-    name: "Ototylomys phyllotis"
-    common_name: "Ototylomys_phyllotis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Ototylomys_sp_TAGG_2014.cs"
-    name: "Ototylomys sp. TAGG-2014"
-    common_name: "Ototylomys_sp_TAGG_2014"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Ototylomys_chiapensis:
+    common_name: Ototylomys_chiapensis
+    conservation: UK
+  Ototylomys_phyllotis:
+    common_name: Ototylomys_phyllotis
+    conservation: UK
+  Ototylomys_sp_TAGG_2014:
+    common_name: Ototylomys_sp_TAGG_2014
+    conservation: UK
 ---
-
 # Ototylomys
 
 Genus containing 3 species.

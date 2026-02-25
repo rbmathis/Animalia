@@ -1,61 +1,40 @@
 ---
-title: "Steatomys"
-description: "Genus containing 7 species."
-category: "taxonomy/genus"
-tags: ["steatomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Beamys/breadcrumb.md", "../Brachytarsomys/breadcrumb.md", "../Brachyuromys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 81633
-parent: "../breadcrumb.md"
+title: Steatomys
+description: Genus containing 7 species.
+category: taxonomy/genus
+tags: [steatomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Beamys/breadcrumb.md, ../Brachytarsomys/breadcrumb.md, ../Brachyuromys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 7
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Steatomys_krebsii.cs"
-    name: "Steatomys krebsii"
-    common_name: "Steatomys_krebsii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Steatomys_parvus.cs"
-    name: "Steatomys parvus"
-    common_name: "Steatomys_parvus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Steatomys_pratensis.cs"
-    name: "Steatomys pratensis"
-    common_name: "Steatomys_pratensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Steatomys_sp.cs"
-    name: "Steatomys sp."
-    common_name: "Steatomys_sp"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Steatomys_sp_10ZRD39.cs"
-    name: "Steatomys sp. 10ZRD#39"
-    common_name: "Steatomys_sp_10ZRD39"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Steatomys_sp_Gautuni.cs"
-    name: "Steatomys sp. Gautuni"
-    common_name: "Steatomys_sp_Gautuni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Steatomys_sp_IN_2012.cs"
-    name: "Steatomys sp. IN-2012"
-    common_name: "Steatomys_sp_IN_2012"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Steatomys_krebsii:
+    common_name: Steatomys_krebsii
+    conservation: UK
+  Steatomys_parvus:
+    common_name: Steatomys_parvus
+    conservation: UK
+  Steatomys_pratensis:
+    common_name: Steatomys_pratensis
+    conservation: UK
+  Steatomys_sp:
+    common_name: Steatomys_sp
+    conservation: UK
+  Steatomys_sp_10ZRD39:
+    common_name: Steatomys_sp_10ZRD39
+    conservation: UK
+  Steatomys_sp_Gautuni:
+    common_name: Steatomys_sp_Gautuni
+    conservation: UK
+  Steatomys_sp_IN_2012:
+    common_name: Steatomys_sp_IN_2012
+    conservation: UK
 ---
-
 # Steatomys
 
 Genus containing 7 species.

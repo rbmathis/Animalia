@@ -1,35 +1,24 @@
 ---
-title: "Thainycteris"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["thainycteris", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Afronycteris/breadcrumb.md", "../Afropipistrellus/breadcrumb.md", "../Antrozous/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 3371075
-parent: "../breadcrumb.md"
+title: Thainycteris
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [thainycteris, genus]
+status: Living
+updated: 2026-02-23
+related: [../Afronycteris/breadcrumb.md, ../Afropipistrellus/breadcrumb.md, ../Antrozous/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Thainycteris_aureocollaris.cs"
-    name: "Thainycteris aureocollaris"
-    common_name: "Thainycteris_aureocollaris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Thainycteris_torquata.cs"
-    name: "Thainycteris torquata"
-    common_name: "Thainycteris_torquata"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Thainycteris_aureocollaris:
+    common_name: Thainycteris_aureocollaris
+    conservation: UK
+  Thainycteris_torquata:
+    common_name: Thainycteris_torquata
+    conservation: UK
 ---
-
 # Thainycteris
 
 Genus containing 2 species.

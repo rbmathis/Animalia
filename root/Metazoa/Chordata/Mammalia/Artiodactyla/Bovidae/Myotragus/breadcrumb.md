@@ -1,30 +1,21 @@
 ---
-title: "Myotragus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["myotragus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Addax/breadcrumb.md", "../Aepyceros/breadcrumb.md", "../Alcelaphus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 201716
-parent: "../breadcrumb.md"
+title: Myotragus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [myotragus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Addax/breadcrumb.md, ../Aepyceros/breadcrumb.md, ../Alcelaphus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Myotragus_balearicus.cs"
-    name: "Myotragus balearicus"
-    common_name: "Myotragus_balearicus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Myotragus_balearicus:
+    common_name: Myotragus_balearicus
+    conservation: UK
 ---
-
 # Myotragus
 
 Genus containing 1 species.

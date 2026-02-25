@@ -1,30 +1,21 @@
 ---
-title: "Feroculus"
-description: "Genus containing 1 species."
-category: "taxonomy/genus"
-tags: ["feroculus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Anourosorex/breadcrumb.md", "../Blarina/breadcrumb.md", "../Blarinella/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 1174663
-parent: "../breadcrumb.md"
+title: Feroculus
+description: Genus containing 1 species.
+category: taxonomy/genus
+tags: [feroculus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Anourosorex/breadcrumb.md, ../Blarina/breadcrumb.md, ../Blarinella/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 1
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Feroculus_feroculus.cs"
-    name: "Feroculus feroculus"
-    common_name: "Feroculus_feroculus"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Feroculus_feroculus:
+    common_name: Feroculus_feroculus
+    conservation: UK
 ---
-
 # Feroculus
 
 Genus containing 1 species.

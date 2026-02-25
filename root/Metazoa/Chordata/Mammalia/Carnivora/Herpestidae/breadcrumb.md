@@ -1,46 +1,19 @@
 ---
-title: "Herpestidae"
-description: "Family containing 16 genera."
-category: "taxonomy/family"
-tags: ["herpestidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ailuridae/breadcrumb.md", "../Canidae/breadcrumb.md", "../Eupleridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9697
-parent: "../breadcrumb.md"
+title: Herpestidae
+description: Family containing 16 genera.
+category: taxonomy/family
+tags: [herpestidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Ailuridae/breadcrumb.md, ../Canidae/breadcrumb.md, ../Eupleridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 16
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Atilax/breadcrumb.md"
-    name: "Atilax"
-  - path: "Bdeogale/breadcrumb.md"
-    name: "Bdeogale"
-  - path: "Crossarchus/breadcrumb.md"
-    name: "Crossarchus"
-  - path: "Cynictis/breadcrumb.md"
-    name: "Cynictis"
-  - path: "Galerella/breadcrumb.md"
-    name: "Galerella"
-  - path: "Helogale/breadcrumb.md"
-    name: "Helogale"
-  - path: "Herpestes/breadcrumb.md"
-    name: "Herpestes"
-  - path: "Ichneumia/breadcrumb.md"
-    name: "Ichneumia"
-  - path: "Liberiictis/breadcrumb.md"
-    name: "Liberiictis"
-  - path: "Mungos/breadcrumb.md"
-    name: "Mungos"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Atilax, Bdeogale, Crossarchus, Cynictis, Galerella, Helogale, Herpestes, Ichneumia, Liberiictis, Mungos]
 ---
-
 # Herpestidae
 
 Family containing 16 genera.

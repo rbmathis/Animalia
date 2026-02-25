@@ -1,28 +1,19 @@
 ---
-title: "Hydrochaeridae"
-description: "Family containing 1 genera."
-category: "taxonomy/family"
-tags: ["hydrochaeridae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrocomidae/breadcrumb.md", "../Anomaluridae/breadcrumb.md", "../Aplodontiidae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 10147
-parent: "../breadcrumb.md"
+title: Hydrochaeridae
+description: Family containing 1 genera.
+category: taxonomy/family
+tags: [hydrochaeridae, family]
+status: Living
+updated: 2026-02-23
+related: [../Abrocomidae/breadcrumb.md, ../Anomaluridae/breadcrumb.md, ../Aplodontiidae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Hydrochoerus/breadcrumb.md"
-    name: "Hydrochoerus"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Hydrochoerus]
 ---
-
 # Hydrochaeridae
 
 Family containing 1 genera.

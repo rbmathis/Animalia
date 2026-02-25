@@ -1,50 +1,33 @@
 ---
-title: "Trichosurus"
-description: "Genus containing 5 species."
-category: "taxonomy/genus"
-tags: ["trichosurus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ailurops/breadcrumb.md", "../Phalanger/breadcrumb.md", "../Spilocuscus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9336
-parent: "../breadcrumb.md"
+title: Trichosurus
+description: Genus containing 5 species.
+category: taxonomy/genus
+tags: [trichosurus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Ailurops/breadcrumb.md, ../Phalanger/breadcrumb.md, ../Spilocuscus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 5
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Trichosurus_arnhemensis.cs"
-    name: "Trichosurus arnhemensis"
-    common_name: "Trichosurus_arnhemensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trichosurus_caninus.cs"
-    name: "Trichosurus caninus"
-    common_name: "Trichosurus_caninus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trichosurus_cunninghami.cs"
-    name: "Trichosurus cunninghami"
-    common_name: "Trichosurus_cunninghami"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trichosurus_johnstonii.cs"
-    name: "Trichosurus johnstonii"
-    common_name: "Trichosurus_johnstonii"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Trichosurus_vulpecula.cs"
-    name: "Trichosurus vulpecula"
-    common_name: "Trichosurus_vulpecula"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Trichosurus_arnhemensis:
+    common_name: Trichosurus_arnhemensis
+    conservation: UK
+  Trichosurus_caninus:
+    common_name: Trichosurus_caninus
+    conservation: UK
+  Trichosurus_cunninghami:
+    common_name: Trichosurus_cunninghami
+    conservation: UK
+  Trichosurus_johnstonii:
+    common_name: Trichosurus_johnstonii
+    conservation: UK
+  Trichosurus_vulpecula:
+    common_name: Trichosurus_vulpecula
+    conservation: UK
 ---
-
 # Trichosurus
 
 Genus containing 5 species.

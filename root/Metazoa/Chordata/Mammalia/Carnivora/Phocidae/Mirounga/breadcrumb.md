@@ -1,35 +1,24 @@
 ---
-title: "Mirounga"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["mirounga", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Cystophora/breadcrumb.md", "../Erignathus/breadcrumb.md", "../Halichoerus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9714
-parent: "../breadcrumb.md"
+title: Mirounga
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [mirounga, genus]
+status: Living
+updated: 2026-02-23
+related: [../Cystophora/breadcrumb.md, ../Erignathus/breadcrumb.md, ../Halichoerus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Mirounga_angustirostris.cs"
-    name: "Mirounga angustirostris"
-    common_name: "Mirounga_angustirostris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Mirounga_leonina.cs"
-    name: "Mirounga leonina"
-    common_name: "Mirounga_leonina"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Mirounga_angustirostris:
+    common_name: Mirounga_angustirostris
+    conservation: UK
+  Mirounga_leonina:
+    common_name: Mirounga_leonina
+    conservation: UK
 ---
-
 # Mirounga
 
 Genus containing 2 species.

@@ -1,35 +1,24 @@
 ---
-title: "Kogia"
-description: "Genus containing 2 species."
-category: "taxonomy/genus"
-tags: ["kogia", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Physeter/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9751
-parent: "../breadcrumb.md"
+title: Kogia
+description: Genus containing 2 species.
+category: taxonomy/genus
+tags: [kogia, genus]
+status: Living
+updated: 2026-02-23
+related: [../Physeter/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 species_count: 2
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Kogia_breviceps.cs"
-    name: "Kogia breviceps"
-    common_name: "Kogia_breviceps"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Kogia_sima.cs"
-    name: "Kogia sima"
-    common_name: "Kogia_sima"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Kogia_breviceps:
+    common_name: Kogia_breviceps
+    conservation: UK
+  Kogia_sima:
+    common_name: Kogia_sima
+    conservation: UK
 ---
-
 # Kogia
 
 Genus containing 2 species.

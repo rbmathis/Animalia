@@ -1,34 +1,19 @@
 ---
-title: "Mephitidae"
-description: "Family containing 4 genera."
-category: "taxonomy/family"
-tags: ["mephitidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Ailuridae/breadcrumb.md", "../Canidae/breadcrumb.md", "../Eupleridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 119825
-parent: "../breadcrumb.md"
+title: Mephitidae
+description: Family containing 4 genera.
+category: taxonomy/family
+tags: [mephitidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Ailuridae/breadcrumb.md, ../Canidae/breadcrumb.md, ../Eupleridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 4
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Conepatus/breadcrumb.md"
-    name: "Conepatus"
-  - path: "Mephitis/breadcrumb.md"
-    name: "Mephitis"
-  - path: "Mydaus/breadcrumb.md"
-    name: "Mydaus"
-  - path: "Spilogale/breadcrumb.md"
-    name: "Spilogale"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Conepatus, Mephitis, Mydaus, Spilogale]
 ---
-
 # Mephitidae
 
 Family containing 4 genera.

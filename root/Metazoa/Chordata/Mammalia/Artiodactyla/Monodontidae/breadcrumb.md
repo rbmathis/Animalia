@@ -1,30 +1,19 @@
 ---
-title: "Monodontidae"
-description: "Family containing 2 genera."
-category: "taxonomy/family"
-tags: ["monodontidae", "family"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Antilocapridae/breadcrumb.md", "../Balaenidae/breadcrumb.md", "../Balaenopteridae/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "family"
-taxId: 9747
-parent: "../breadcrumb.md"
+title: Monodontidae
+description: Family containing 2 genera.
+category: taxonomy/family
+tags: [monodontidae, family]
+status: Living
+updated: 2026-02-23
+related: [../Antilocapridae/breadcrumb.md, ../Balaenidae/breadcrumb.md, ../Balaenopteridae/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: family
+parent: ../breadcrumb.md
 children_count: 2
 species_count: 0
-characteristics:
-  - "Long muzzle"
-  - "Non-retractable claws"
-  - "Digitigrade stance"
-  - "Bushy tail"
-  - "Social behavior common"
-genera:
-  - path: "Delphinapterus/breadcrumb.md"
-    name: "Delphinapterus"
-  - path: "Monodon/breadcrumb.md"
-    name: "Monodon"
+characteristics: [Long muzzle, Non-retractable claws, Digitigrade stance, Bushy tail, Social behavior common]
+genera: [Delphinapterus, Monodon]
 ---
-
 # Monodontidae
 
 Family containing 2 genera.

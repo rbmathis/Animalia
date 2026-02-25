@@ -1,101 +1,64 @@
 ---
-title: "Marmota"
-description: "Genus containing 15 species."
-category: "taxonomy/genus"
-tags: ["marmota", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Aeretes/breadcrumb.md", "../Aeromys/breadcrumb.md", "../Ammospermophilus/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 9992
-parent: "../breadcrumb.md"
+title: Marmota
+description: Genus containing 15 species.
+category: taxonomy/genus
+tags: [marmota, genus]
+status: Living
+updated: 2026-02-23
+related: [../Aeretes/breadcrumb.md, ../Aeromys/breadcrumb.md, ../Ammospermophilus/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 15
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Marmota_baibacina.cs"
-    name: "Marmota baibacina"
-    common_name: "Marmota_baibacina"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmota_bobak.cs"
-    name: "Marmota bobak"
-    common_name: "Marmota_bobak"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmota_broweri.cs"
-    name: "Marmota broweri"
-    common_name: "Marmota_broweri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmota_caligata.cs"
-    name: "Marmota caligata"
-    common_name: "Marmota_caligata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmota_camtschatica.cs"
-    name: "Marmota camtschatica"
-    common_name: "Marmota_camtschatica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmota_caudata.cs"
-    name: "Marmota caudata"
-    common_name: "Marmota_caudata"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmota_flaviventris.cs"
-    name: "Marmota flaviventris"
-    common_name: "Marmota_flaviventris"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmota_himalayana.cs"
-    name: "Marmota himalayana"
-    common_name: "Marmota_himalayana"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmota_marmota.cs"
-    name: "Marmota marmota"
-    common_name: "Marmota_marmota"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmota_menzbieri.cs"
-    name: "Marmota menzbieri"
-    common_name: "Marmota_menzbieri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmota_monax.cs"
-    name: "Marmota monax"
-    common_name: "Marmota_monax"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmota_olympus.cs"
-    name: "Marmota olympus"
-    common_name: "Marmota_olympus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmota_sibirica.cs"
-    name: "Marmota sibirica"
-    common_name: "Marmota_sibirica"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmota_sp_BOLDACO5372.cs"
-    name: "Marmota sp. BOLD:ACO5372"
-    common_name: "Marmota_sp_BOLDACO5372"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Marmota_vancouverensis.cs"
-    name: "Marmota vancouverensis"
-    common_name: "Marmota_vancouverensis"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Marmota_baibacina:
+    common_name: Marmota_baibacina
+    conservation: UK
+  Marmota_bobak:
+    common_name: Marmota_bobak
+    conservation: UK
+  Marmota_broweri:
+    common_name: Marmota_broweri
+    conservation: UK
+  Marmota_caligata:
+    common_name: Marmota_caligata
+    conservation: UK
+  Marmota_camtschatica:
+    common_name: Marmota_camtschatica
+    conservation: UK
+  Marmota_caudata:
+    common_name: Marmota_caudata
+    conservation: UK
+  Marmota_flaviventris:
+    common_name: Marmota_flaviventris
+    conservation: UK
+  Marmota_himalayana:
+    common_name: Marmota_himalayana
+    conservation: UK
+  Marmota_marmota:
+    common_name: Marmota_marmota
+    conservation: UK
+  Marmota_menzbieri:
+    common_name: Marmota_menzbieri
+    conservation: UK
+  Marmota_monax:
+    common_name: Marmota_monax
+    conservation: UK
+  Marmota_olympus:
+    common_name: Marmota_olympus
+    conservation: UK
+  Marmota_sibirica:
+    common_name: Marmota_sibirica
+    conservation: UK
+  Marmota_sp_BOLDACO5372:
+    common_name: Marmota_sp_BOLDACO5372
+    conservation: UK
+  Marmota_vancouverensis:
+    common_name: Marmota_vancouverensis
+    conservation: UK
 ---
-
 # Marmota
 
 Genus containing 15 species.

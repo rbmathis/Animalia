@@ -1,46 +1,31 @@
 ---
-title: "Rhagomys"
-description: "Genus containing 4 species."
-category: "taxonomy/genus"
-tags: ["rhagomys", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abrawayaomys/breadcrumb.md", "../Abrothrix/breadcrumb.md", "../Aegialomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 221578
-parent: "../breadcrumb.md"
+title: Rhagomys
+description: Genus containing 4 species.
+category: taxonomy/genus
+tags: [rhagomys, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abrawayaomys/breadcrumb.md, ../Abrothrix/breadcrumb.md, ../Aegialomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 4
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Rhagomys_jequitiba.cs"
-    name: "Rhagomys jequitiba"
-    common_name: "Rhagomys_jequitiba"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhagomys_longilingua.cs"
-    name: "Rhagomys longilingua"
-    common_name: "Rhagomys_longilingua"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhagomys_rufescens.cs"
-    name: "Rhagomys rufescens"
-    common_name: "Rhagomys_rufescens"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Rhagomys_sp_n_NT_2020.cs"
-    name: "Rhagomys sp. n. NT-2020"
-    common_name: "Rhagomys_sp_n_NT_2020"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Rhagomys_jequitiba:
+    common_name: Rhagomys_jequitiba
+    conservation: UK
+  Rhagomys_longilingua:
+    common_name: Rhagomys_longilingua
+    conservation: UK
+  Rhagomys_rufescens:
+    common_name: Rhagomys_rufescens
+    conservation: UK
+  Rhagomys_sp_n_NT_2020:
+    common_name: Rhagomys_sp_n_NT_2020
+    conservation: UK
 ---
-
 # Rhagomys
 
 Genus containing 4 species.

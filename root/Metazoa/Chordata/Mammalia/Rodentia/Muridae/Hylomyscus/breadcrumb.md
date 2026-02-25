@@ -1,126 +1,79 @@
 ---
-title: "Hylomyscus"
-description: "Genus containing 46 species."
-category: "taxonomy/genus"
-tags: ["hylomyscus", "genus"]
-status: "Living"
-updated: "2026-02-23"
-related: ["../Abeomelomys/breadcrumb.md", "../Acomys/breadcrumb.md", "../Aethomys/breadcrumb.md"]
-links_from: ["../breadcrumb.md"]
-rank: "genus"
-taxId: 34857
-parent: "../breadcrumb.md"
+title: Hylomyscus
+description: Genus containing 46 species.
+category: taxonomy/genus
+tags: [hylomyscus, genus]
+status: Living
+updated: 2026-02-23
+related: [../Abeomelomys/breadcrumb.md, ../Acomys/breadcrumb.md, ../Aethomys/breadcrumb.md]
+links_from: [../breadcrumb.md]
+rank: genus
+parent: ../breadcrumb.md
 children_count: 1
 species_count: 46
-characteristics:
-  - "Large body size"
-  - "Social pack structure"
-  - "Complex hunting strategies"
-  - "Highly developed olfaction"
-  - "Territorial behavior"
-species:
-  - file: "Hylomyscus_aeta.cs"
-    name: "Hylomyscus aeta"
-    common_name: "Hylomyscus_aeta"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_alleni.cs"
-    name: "Hylomyscus alleni"
-    common_name: "Hylomyscus_alleni"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_anselli.cs"
-    name: "Hylomyscus anselli"
-    common_name: "Hylomyscus_anselli"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_arcimontensis.cs"
-    name: "Hylomyscus arcimontensis"
-    common_name: "Hylomyscus_arcimontensis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_baeri.cs"
-    name: "Hylomyscus baeri"
-    common_name: "Hylomyscus_baeri"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_cf_aeta.cs"
-    name: "Hylomyscus cf. aeta"
-    common_name: "Hylomyscus_cf_aeta"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_cf_alleni_VVN_2020.cs"
-    name: "Hylomyscus cf. alleni VVN-2020"
-    common_name: "Hylomyscus_cf_alleni_VVN_2020"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_cf_anselli_VVN_2020.cs"
-    name: "Hylomyscus cf. anselli VVN-2020"
-    common_name: "Hylomyscus_cf_anselli_VVN_2020"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_cf_kaimosae.cs"
-    name: "Hylomyscus cf. kaimosae"
-    common_name: "Hylomyscus_cf_kaimosae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_denniae.cs"
-    name: "Hylomyscus denniae"
-    common_name: "Hylomyscus_denniae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_endorobae.cs"
-    name: "Hylomyscus endorobae"
-    common_name: "Hylomyscus_endorobae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_grandis.cs"
-    name: "Hylomyscus grandis"
-    common_name: "Hylomyscus_grandis"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_heinrichorum.cs"
-    name: "Hylomyscus heinrichorum"
-    common_name: "Hylomyscus_heinrichorum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_kaimosae.cs"
-    name: "Hylomyscus kaimosae"
-    common_name: "Hylomyscus_kaimosae"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_kerbispeterhansi.cs"
-    name: "Hylomyscus kerbispeterhansi"
-    common_name: "Hylomyscus_kerbispeterhansi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_mpungamachagorum.cs"
-    name: "Hylomyscus mpungamachagorum"
-    common_name: "Hylomyscus_mpungamachagorum"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_pamfi.cs"
-    name: "Hylomyscus pamfi"
-    common_name: "Hylomyscus_pamfi"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_parvus.cs"
-    name: "Hylomyscus parvus"
-    common_name: "Hylomyscus_parvus"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_parvus_group_sp_1_VVN_2020.cs"
-    name: "Hylomyscus parvus group sp. 1 VVN-2020"
-    common_name: "Hylomyscus_parvus_group_sp_1_VVN_2020"
-    conservation: "Unknown"
-    enriched: false
-  - file: "Hylomyscus_parvus_group_sp_2_VVN_2020.cs"
-    name: "Hylomyscus parvus group sp. 2 VVN-2020"
-    common_name: "Hylomyscus_parvus_group_sp_2_VVN_2020"
-    conservation: "Unknown"
-    enriched: false
+characteristics: [Large body size, Social pack structure, Complex hunting strategies, Highly developed olfaction, Territorial behavior]
+species_data:
+  Hylomyscus_aeta:
+    common_name: Hylomyscus_aeta
+    conservation: UK
+  Hylomyscus_alleni:
+    common_name: Hylomyscus_alleni
+    conservation: UK
+  Hylomyscus_anselli:
+    common_name: Hylomyscus_anselli
+    conservation: UK
+  Hylomyscus_arcimontensis:
+    common_name: Hylomyscus_arcimontensis
+    conservation: UK
+  Hylomyscus_baeri:
+    common_name: Hylomyscus_baeri
+    conservation: UK
+  Hylomyscus_cf_aeta:
+    common_name: Hylomyscus_cf_aeta
+    conservation: UK
+  Hylomyscus_cf_alleni_VVN_2020:
+    common_name: Hylomyscus_cf_alleni_VVN_2020
+    conservation: UK
+  Hylomyscus_cf_anselli_VVN_2020:
+    common_name: Hylomyscus_cf_anselli_VVN_2020
+    conservation: UK
+  Hylomyscus_cf_kaimosae:
+    common_name: Hylomyscus_cf_kaimosae
+    conservation: UK
+  Hylomyscus_denniae:
+    common_name: Hylomyscus_denniae
+    conservation: UK
+  Hylomyscus_endorobae:
+    common_name: Hylomyscus_endorobae
+    conservation: UK
+  Hylomyscus_grandis:
+    common_name: Hylomyscus_grandis
+    conservation: UK
+  Hylomyscus_heinrichorum:
+    common_name: Hylomyscus_heinrichorum
+    conservation: UK
+  Hylomyscus_kaimosae:
+    common_name: Hylomyscus_kaimosae
+    conservation: UK
+  Hylomyscus_kerbispeterhansi:
+    common_name: Hylomyscus_kerbispeterhansi
+    conservation: UK
+  Hylomyscus_mpungamachagorum:
+    common_name: Hylomyscus_mpungamachagorum
+    conservation: UK
+  Hylomyscus_pamfi:
+    common_name: Hylomyscus_pamfi
+    conservation: UK
+  Hylomyscus_parvus:
+    common_name: Hylomyscus_parvus
+    conservation: UK
+  Hylomyscus_parvus_group_sp_1_VVN_2020:
+    common_name: Hylomyscus_parvus_group_sp_1_VVN_2020
+    conservation: UK
+  Hylomyscus_parvus_group_sp_2_VVN_2020:
+    common_name: Hylomyscus_parvus_group_sp_2_VVN_2020
+    conservation: UK
 ---
-
 # Hylomyscus
 
 Genus containing 46 species.
