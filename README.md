@@ -41,7 +41,7 @@ root/Metazoa/Chordata/Mammalia/Carnivora/Canidae/Canis/
 
 ### DRY Taxonomy: Folder Structure as Navigation
 
-The folder hierarchy **mirrors the actual biological taxonomic rank** exactly. This means knowledge of the rank is encoded in the filesystem itself — Copilot doesn't randomize or need to look up hierarchy. 
+The folder hierarchy **mirrors the actual biological taxonomic rank** exactly. This means knowledge of the rank is encoded in the filesystem itself — Copilot doesn't randomize or need to look up hierarchy.
 
 **Given any file path**, Copilot can deterministically derive:
 - The taxonomic **rank** (folder depth: Kingdom → Phylum → Class → Order → Family → Genus → Species)
@@ -102,7 +102,25 @@ Skills are task-focused utilities for solving specific problems within the repos
 **Usage**: When facing a repository task, check the relevant skill for the recommended approach and query strategies.
 
 ---
+## 🧪 Measure Copilot Activity: Reusable Harnesses
 
+This repository includes **two production-grade harnesses** for measuring and benchmarking Copilot behavior on large codebases:
+
+| Harness | Technology | Best For |
+|---------|-----------|----------|
+| [**CLI-Based**](copilot-harness.md#using-the-cli-harness-powershell) | PowerShell + Copilot CLI | Cross-platform, detailed resource metrics |
+| [**SDK-Based**](copilot-harness.md#using-the-sdk-harness-nodejs) | Node.js + Copilot SDK | Direct programmatic access, lower latency |
+
+Both harnesses:
+- Execute identical scenarios across your codebase
+- Collect identical metrics (tool calls, file access, tokens, execution time)
+- Track whether breadcrumbs were used
+- Measure Copilot's efficiency navigating your repository
+- Generate comparable JSON/CSV results
+
+**See [copilot-harness.md](copilot-harness.md)** for detailed setup, architecture comparison, and how to run benchmarks. If you've already run the harnesses, check the [comparison guide](comparison-guide.md) and [results analysis](comparison-results.md).
+
+---
 ## �🐾 Demo: Pet Species Lookup
 
 **See Copilot navigate 160K files in seconds!**

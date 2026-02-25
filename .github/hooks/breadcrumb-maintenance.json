@@ -1,0 +1,28 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "type": "command",
+        "command": "python .github/hooks/breadcrumb-post-tool.py",
+        "windows": "python .github\\hooks\\breadcrumb-post-tool.py",
+        "timeout": 60,
+        "env": {
+          "HOOK_EVENT": "PostToolUse"
+        },
+        "cwd": "."
+      }
+    ],
+    "Stop": [
+      {
+        "type": "command",
+        "command": "python .github/hooks/breadcrumb-stop.py",
+        "windows": "python .github\\hooks\\breadcrumb-stop.py",
+        "timeout": 120,
+        "env": {
+          "HOOK_EVENT": "Stop"
+        },
+        "cwd": "."
+      }
+    ]
+  }
+}

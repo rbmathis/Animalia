@@ -1,10 +1,67 @@
-# Pet Species Lookup Feature
+# The Power of Decorated Code: Metadata-Driven Navigation
 
-This document describes the pet species lookup feature for the Animal Kingdom repository, enabling efficient discovery of commonly kept pets without file scanning.
+> **Great code tells a story.** With breadcrumbs, your code can tell that story even across massive repositories—and Copilot will listen.
+
+This feature—playfully about finding "Pet Species"—showcases something genuinely powerful: **External Code Decoration**. A pattern that transforms how Copilot understands and navigates your codebase.
+
+**Want the full picture?**
+- **Planning & Strategy**: [breadcrumbs-plan.md](breadcrumbs-plan.md) — How breadcrumbs solve the 160K-file navigation problem
+- **Complete Lifecycle**: [breadcrumbs-lifecycle.md](breadcrumbs-lifecycle.md) — Creation, use, and automatic maintenance via Agent Hooks
 
 ---
 
-## Overview
+## It's Not Really About Pets
+
+"Finding pets" is just the fun part! The real magic is **helping Copilot understand meaning, not just text.**
+
+Imagine asking in a large enterprise codebase:
+> *"Where is customer PII stored and processed?"*
+
+Normally, Copilot has to guess and search:
+1.  Guess at filenames (`*Customer*`, `*User*`, `*Data*`)
+2.  Hunt through thousands of files for keywords (`SSN`, `email`, `password`)
+3.  Piece together relationships between disparate modules
+
+**With Metadata Decoration (Breadcrumbs),** it's effortless. Copilot finds the answer in seconds because you've *shown* it exactly where to look. Clear, confident, and right every time.
+
+### The Challenge: Bridging Names and Meaning
+
+Real-world code often has cryptic or historical names (`LegacyProcessor_v2.cs`, `Tbl_99_X.cs`). Semantic search alone struggles when:
+*   **Concepts are abstract:** "Business Critical Logic" isn't a variable name you can grep for.
+*   **Naming varies:** `Client`, `Customer`, `User`, and `Account` all mean the same thing in different places.
+*   **Scale grows:** Searching 160k files for "payment processing" floods you with noise.
+
+### The Opportunity: External Decoration
+
+By placing **metadata files (breadcrumbs)** alongside the code, you create a **semantic map** of the repository.
+
+*   Instead of searching for "domesticated animals" (ambiguous), search for `tag: has-pets` (crystal clear).
+*   Your code can be named *anything*—Copilot understands through breadcrumbs.
+
+It's like giving Copilot a guided tour of your architecture.
+
+---
+
+## Real-World Application: Unlocking Architectural Clarity
+
+Imagine applying the bread-crumb pattern to a banking app. You can now answer questions with confidence:
+
+| Query | Without Metadata | With Breadcrumbs |
+| :--- | :--- | :--- |
+| **"Where are pets?"** | 🤔 Grep for "dog", "cat", "domestic" (misses some, finds noise) | 🎯 `grep "tag: has-pets"` (precise) |
+| **"Where is PII?"** | 🔄 Grep for "SSN", "email" (10,000+ results to wade through) | 🎯 `grep "tag: contains-pii"` (instantly) |
+| **"Show me payment retry logic"** | ❓ Semantic search for "retry payment" (lots of guessing) | 🎯 Read `payment-gateway/breadcrumb.md` → `retry_policy` (definitive) |
+| **"List all legacy SOAP endpoints"** | ❌ Nearly impossible to differentiate | 🎯 `grep "api-style: soap"` (complete) |
+
+Your questions get smarter answers. Copilot becomes genuinely helpful, not just speedy.
+
+---
+
+## The Concrete Example: Pet Lookup in Action
+
+Below is a hands-on reference for how this pattern works in the Animal Kingdom demo. We use `has-pets` as a simple flag to highlight specific parts of the taxonomy—turning a sea of 160,000 files into a searchable, navigable landscape.
+
+### Overview
 
 The pet lookup feature uses **breadcrumb metadata** to quickly find species commonly kept as pets. Instead of scanning 160K+ files, Copilot can:
 
@@ -12,11 +69,9 @@ The pet lookup feature uses **breadcrumb metadata** to quickly find species comm
 2. Read matching breadcrumbs
 3. Extract `pet_species` arrays
 
-**Result**: Pet queries answered in seconds, not minutes.
+**Result**: Questions answered in seconds. Confidence, every time.
 
----
-
-## Pet Species in Repository
+### Pet Species in Repository
 
 | Common Name | Scientific Name | Family | Order |
 |-------------|-----------------|--------|-------|
@@ -166,11 +221,24 @@ Based on the pet data, here are recommendations for apartment living:
 
 ## Implementation Files
 
+### Core Pet Lookup
+
 | File | Purpose |
 |------|---------|
 | [.github/skills/pet-lookup/SKILL.md](.github/skills/pet-lookup/SKILL.md) | Copilot skill for pet lookups |
 | [.github/instructions/breadcrumb.instructions.md](.github/instructions/breadcrumb.instructions.md) | Pet schema documentation |
 | [add-pet-data.ps1](add-pet-data.ps1) | Script to seed pet data into breadcrumbs |
+
+### Automatic Breadcrumb Maintenance (Agent Hooks)
+
+| File | Purpose |
+|------|---------|
+| [.github/hooks/breadcrumb-maintenance.json](.github/hooks/breadcrumb-maintenance.json) | Hook configuration (PostToolUse, Stop events) |
+| [.github/hooks/breadcrumb-post-tool.py](.github/hooks/breadcrumb-post-tool.py) | Detects file changes, triggers breadcrumb refresh |
+| [.github/hooks/breadcrumb-stop.py](.github/hooks/breadcrumb-stop.py) | Final sync & cascade when agent session ends |
+| [.github/hooks/README.md](.github/hooks/README.md) | Hook setup, testing, and troubleshooting guide |
+
+**See [breadcrumbs-lifecycle.md](breadcrumbs-lifecycle.md#phase-3-maintenance)** for how hooks automatically keep breadcrumbs in sync as code evolves.
 
 ---
 
@@ -206,3 +274,32 @@ Example entry:
 ✅ **Do** use `has-pets` tag in breadcrumbs
 ✅ **Do** read `pet_species` arrays from genus breadcrumbs
 ✅ **Do** check `pet_genera` in family breadcrumbs
+
+---
+
+## Go Deeper: Breadcrumbs as a Living System
+
+This document focuses on **usage**—but breadcrumbs are more than static metadata. They're automatically created, actively used by skills, and intelligently maintained as code evolves.
+
+### Learn the Lifecycle
+
+**[breadcrumbs-lifecycle.md](breadcrumbs-lifecycle.md)** explains the three phases:
+
+- **Phase 1: Creation** — How Python scripts traverse 160K files and automatically generate breadcrumbs
+- **Phase 2: Use** — How skills leverage breadcrumbs for deterministic, noiseless navigation
+- **Phase 3: Maintenance** — How Agent Hooks automatically cascade updates when code changes
+
+Includes a complete end-to-end example: adding a new pet species and watching breadcrumbs cascade through the hierarchy.
+
+### Strategic Overview
+
+**[breadcrumbs-plan.md](breadcrumbs-plan.md)** provides context and decision-making:
+
+- Why breadcrumbs solve the "160K files" problem better than semantic search
+- How to apply this pattern to your own massive repositories
+- Implementation roadmap (which breadcrumbs to create first)
+- Tag strategies for cross-cutting queries
+
+### Key Insight
+
+Breadcrumbs aren't one-time documentation. They're a **living, automatically-maintained semantic index** of your codebase. When you ask Copilot *"Where is customer PII stored and processed?"*, it doesn't search randomly—it navigates using metadata you've declared with breadcrumbs.

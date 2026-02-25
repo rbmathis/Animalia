@@ -188,11 +188,17 @@ Expected differences:
 - **Token estimates identical** (both use chars ÷ 4)
 - **Tool call counts** may differ slightly due to detection methods
 
+### Comparison Guides
+
+- **[COMPARISON-GUIDE.md](comparison-guide.md)** — Strategic overview of comparing the two approaches, how to set up benchmarks, and what metrics matter
+- **[COMPARISON_RESULTS.md](comparison-results.md)** — Actual benchmark results, analysis of tool usage patterns, and insights on breadcrumb effectiveness
+
 ## Installation
 
 ### CLI Harness (PowerShell)
 - PowerShell 7+ installed
 - GitHub Copilot CLI installed (`copilot` available in PATH)
+- See [COMPARISON-GUIDE.md](comparison-guide.md) for full setup instructions
 
 ### SDK Harness (Node.js)
 ```bash
@@ -202,6 +208,7 @@ npm install
 Requires:
 - Node.js >= 18.0.0
 - GitHub Copilot CLI installed (SDK communicates via JSON-RPC)
+- See [COMPARISON-GUIDE.md](comparison-guide.md) for full setup instructions
 
 ## Implementation Notes
 
