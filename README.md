@@ -6,7 +6,7 @@ A C# taxonomy codebase with **160,000+ species files** — built to demonstrate 
 
 Large repos challenge AI coding assistants. This one tests how well Copilot handles:
 
-- Massive file counts (161K files, 118MB)
+- Massive file counts (161K files!)
 - Deep folder hierarchies (taxonomic ranks)
 - Consistent but varied code patterns
 
@@ -38,6 +38,28 @@ root/Metazoa/Chordata/Mammalia/Carnivora/Canidae/Canis/
 ├── Canis_lupus.cs    # Species (Wolf)
 └── Canis_latrans.cs  # Species (Coyote)
 ```
+
+### DRY Taxonomy: Folder Structure as Navigation
+
+The folder hierarchy **mirrors the actual biological taxonomic rank** exactly. This means knowledge of the rank is encoded in the filesystem itself — Copilot doesn't randomize or need to look up hierarchy. 
+
+**Given any file path**, Copilot can deterministically derive:
+- The taxonomic **rank** (folder depth: Kingdom → Phylum → Class → Order → Family → Genus → Species)
+- The **namespace** (path converted to dotted notation)
+- The **parent class** (folder one level up)
+- Sibling **genera** and **families** (folder neighbors)
+
+For example, from `root/Metazoa/Chordata/Mammalia/Carnivora/Canidae/Canis/Canis_lupus.cs`:
+
+| Knowledge | Derivation |
+|-----------|-----------|
+| Rank | 7 levels deep = **Species** |
+| Parent | Folder `../` = **Canis** class |
+| Family | Folder `../../` = **Canidae** |
+| Order | Folder `../../../` = **Carnivora** |
+| Namespace | Path with `/` → `.` = `AnimalKingdom.root.Metazoa.Chordata.Mammalia.Carnivora.Canidae.Canis` |
+
+This **DRY principle** eliminates ambiguity — there's no metadata lookup needed to understand hierarchical relationships, just filesystem traversal. It makes navigation predictable and enables Copilot to reliably construct paths, derive inheritance, and understand scope without randomized searches.
 
 ## Copilot Customizations Used
 
